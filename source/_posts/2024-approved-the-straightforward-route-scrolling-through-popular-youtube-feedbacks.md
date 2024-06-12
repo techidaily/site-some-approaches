@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Straightforward Route  Scrolling Through Popular YouTube Feedbacks\""
-date: 2024-05-29 20:40:47
-updated: 2024-06-01 11:25:11
+date: 2024-06-03T17:36:29.688Z
+updated: 2024-06-04T17:36:29.688Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: The Straightforward Route: Scrolling Through Popular YouTube Feedbacks\""
 excerpt: "\"This Article Describes 2024 Approved: The Straightforward Route: Scrolling Through Popular YouTube Feedbacks\""
 keywords: "YouTubEFeedbackSimply,PopularYouTubeScrolL,DirectFeaDtoYtUsers,YtFeedbackRoutePlain,StraightforwardYtReviews,EasyScrollPopularYt,SimplicityYtFeedbacks"
-thumbnail: https://www.lifewire.com/thmb/B0CAMp5n0odFeNrfTG4w7r2He08=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/Selfie-Stick-Tips-56a761cf5f9b58b7d0e9fa52.jpg
+thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e34fc38e54ba016f1aa0f02aa.jpg
 ---
 
 ## The Straightforward Route: Scrolling Through Popular YouTube Feedbacks
@@ -161,105 +161,6 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-## How to See Liked Comments on YouTube?
-
-YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
-
-If you create your own personal YouTube channel and upload your videos, people can like, share, and comment on your videos. You can also comment and like others' comments on your video. Unfortunately, you can't see who's liked or disliked your comments on YouTube, but you can see reactions to your posts.
-
-If you are still wondering why you can't see who liked or disliked a Youtube comment, you should know these things:
-
-* Neither you nor anyone else on YouTube can see who liked or disliked your comment.
-* YouTube hides users' likes and dislikes of comments for their protection and security. Still, it's probably safe to assume that everyone who made a favorable comment on your comment loved it.
-* You cannot see who viewed a particular video favorably or unfavorably, but you can see how many individuals did so.
-
-But, if you want to retrace the videos you commented on and the videos/comments you liked or disliked, you should follow these steps:
-
-Step1 Click on your Google Account icon and find **Your data in YouTube**.
-
-![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
-
-Step2 Scroll down a little bit and click the **More** button.
-
-![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
-
-Step3 Click the **Comments** section.
-
-![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
-
-Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
-
-![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
-
-To see videos/comments you liked or disliked, please follow these steps as continuation:
-
-Step4 In the **Google My Activity** tab, click **Other activity**.
-
-![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
-
-Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
-
-![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
-
-Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
-
-![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
-
-This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
-
-![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
-
-In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
-
-## How to Respond to Comments
-
-Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
-
-Go to your YouTube Studio page and select Comments from the left-hand menu on YouTube. You can check comments you've set up to publish automatically without moderation by going to the Published tab.
-
-They will be lingering on the Held for Review tab if comments need to be approved. (If you don't agree or delete them within 60 days, comments will be deleted without your intervention.)
-
-If you're dealing with a chatty audience, the filter bar at the top of any tab's tab enables you to filter by specific text, comments with questions, unanswered comments, and more.
-
-Currently, there is no way to check the liked comments.
-
-The "like" and "dislike" buttons are both anonymous. This implies that, even if it does, YouTube does not publicly divulge the user's identity who likes or dislikes a comment, not even the channel owner.
-
-The concept of neutrality serves as the foundation for anonymous voting. To prevent voting from being analyzed or abused, everyone who loves or dislikes a comment remains anonymous.
-
-Therefore, you can do the instructions above to see your liked remarks.
-
-The 1.7 billion monthly unique users of YouTube can express what they love, detest, or must troll in the comments section. It's like the internet's very own Thunderdome, yet despite the potential for hate, YouTube comments may also present a significant chance for participation and community development.
-
-So! Effectively managing your comments (including moderation, answers, and analysis) is essential if you want to maximize your presence on YouTube as part of your social media strategy.
-
-Engaging with comments has the additional benefit of elevating you in the YouTube algorithm and demonstrating to your fans and followers that you care about what they have to say. Videos that receive a lot of likes, comments, and moderation typically rank higher in search results.
-
-After all, this composition wants you to know how to see the YouTube liked comments. If you're going to work in this field, I hope this information helps and motivates you. This article will end by giving you tips and additional information that can help you, especially when pursuing the YouTube industry.
-
-Remember that you can only leave comments on videos that are public (or unlisted ones). Additionally, once you leave a comment, it becomes public and is linked to your YouTube account. Make sure your message is in the appropriate tone if you're representing your company, such as this example from a meditation center playing chillhop music.
-
-Because understanding how to comment is only one aspect of the issue; very important is knowing how to comment well. A brand's YouTube remark should provide value beyond simply attempting to sell something.
-
-Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
-
-## Did you know what a Highlighted comment is?
-
-A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
-
-When you click over to the comments area after receiving a notification about a new comment or a reply to one of your comments, that particular comment will be highlighted for quick access.
-
-To put it another way, YouTube flags notable comments for you to ensure that new messages or significant replies aren't lost in the noise. Once you have read or replied to the comment, the highlight will go.
-
-Additionally, video creators can manually highlight commenters to mark them for later responses. To do this, click on the comment's timestamp (found next to the commenter's username). Ta-da!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -282,3 +183,38 @@ Additionally, video creators can manually highlight commenters to mark them for 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-essentials-of-simple-straightforward-hdr-techniques/"><u>[New] The Essentials of Simple, Straightforward HDR Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[New] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synergizing-brands-on-video-platforms/"><u>[Updated] Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-directory-of-classical-tone-archives/"><u>[Updated] Ultimate Directory of Classical Tone Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-handbook-to-securing-product-sponsorships-on-youtube/"><u>In 2024, The Complete Handbook to Securing Product Sponsorships on Youtube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>[New] Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-for-attracting-brands-as-youtube-affiliates/"><u>In 2024, The Blueprint for Attracting Brands as Youtube Affiliates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-using-b-roll-to-complement-visuals-effectively-for-2024/"><u>The Art of Using B-Roll to Complement Visuals Effectively for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmatched-melodies-selector-android-companion/"><u>[Updated] Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-flow-mastering-inshots-segmentation-techniques/"><u>[Updated] The Art of Flow  Mastering Inshot's Segmentation Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-streams-for-gamers-unveiled/"><u>[Updated] Ultimate Streams for Gamers Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-crafting-luts-in-3d/"><u>2024 Approved  The Complete Guide to Crafting LUTs in 3D</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>2024 Approved  Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unique-outro-music-files-at-your-fingertips-free/"><u>[New] Unique Outro Music Files at Your Fingertips - Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultrawide-vs-uhd-4k-monitors-the-experts-advice-for-2024/"><u>UltraWide VS UHD 4K Monitors  The Expert's Advice for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-closing-down-a-forgotten-linkedin-profile/"><u>[New] Strategies for Closing Down a Forgotten LinkedIn Profile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-alert-tones-superior-download-sites-list/"><u>[Updated] Top Alert Tones  Superior Download Sites List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tints-and-tonality-applying-theoretical-insight/"><u>2024 Approved  Tints & Tonality  Applying Theoretical Insight</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions/"><u>[New] Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>In 2024, Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-3-elemental-strategies-for-writing-effective-social-media-promotions/"><u>[New] In 2024, The 3 Elemental Strategies for Writing Effective Social Media Promotions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-8-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 8 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-accelerating-your-watch-experience-on-instagram-videos/"><u>[New] In 2024, Accelerating Your Watch Experience on Instagram Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-craft-compelling-loops-best-practices-for-instagram-posts/"><u>[Updated] In 2024, Craft Compelling Loops  Best Practices for Instagram Posts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-fashionable-pfps-on-discord-platform/"><u>[Updated] In 2024, Step-By-Step Guide to Fashionable Pfps on Discord Platform</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-invest-in-insta-success-the-top-earners-playbook/"><u>[New] In 2024, Invest in Insta Success  The Top Earners' Playbook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-vivo-y100t-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y100t</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>[New] 2024 Approved  Ultimate Screencast Handbook  Adept Techniques & Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-conquer-xbox-gameplay-with-efficient-recording-tools/"><u>In 2024, Conquer Xbox Gameplay with Efficient Recording Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-motorola-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Motorola</u></a></li>
+</ul></div>

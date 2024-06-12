@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Symphony of Silence  Starting with a Soft Fade In\""
-date: 2024-05-31 17:36:37
-updated: 2024-06-01 12:59:57
+date: 2024-06-03T19:22:39.104Z
+updated: 2024-06-04T19:22:39.104Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, The Symphony of Silence: Starting with a Soft Fade In\""
 excerpt: "\"This Article Describes In 2024, The Symphony of Silence: Starting with a Soft Fade In\""
 keywords: "Fade in Symphony,Soft Silence Intro,Silent Music Fade,Gentle Sound Start,Quietude Symphony,Subtle Musical Onset,Gradual Silence Play"
-thumbnail: https://www.lifewire.com/thmb/XuYrRPCOK72waHStn6mcmYJjfFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/000-how-to-make-high-resolution-images-on-your-computer-or-smartphone-4588802-5c83b08746e0fb0001136657.jpg
+thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c6f73b5cf48b17efe5272ad6.jpg
 ---
 
 ## The Symphony of Silence: Starting with a Soft Fade In
@@ -98,40 +98,6 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
-
-* First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
-* Drag the sliders and set fade-in along with fade-out effects.
-
-![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-* There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
-* At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
-* Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
-
-## Part 3\. Related FAQs
-
-### 1\. How do you fade in multitrack in Audition?
-
-If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
-
-### 2\. How do you do a master fade in Audition?
-
-Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
-
-### 3\. Adobe Audition fade-out greyed out?
-
-Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
-
-## Conclusion
-
-Adobe Audition has always been a powerful platform for audio editing. But as every coin has its two faces so is the case with this also. Due to the expensive price of a monthly subscription, not everyone will be able to use this and get the benefits from using this. Though if you want to excel in audio editing, you should go for a subscription. If you are doing podcasting or video editing and looking for a complementary product for your projects, Audition is a perfect match. This is particularly if you have already worked with other best-leading Adobe software like Photoshop or Premiere.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,3 +120,37 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-directory-of-classical-tone-archives/"><u>[Updated] Ultimate Directory of Classical Tone Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-blueprint-for-srt-file-excellence/"><u>[New] The Ultimate Blueprint for SRT File Excellence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-magix-vpx-a-comprehensive-analysis/"><u>[Updated] Unveiling Magix VPX  A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-for-sharper-images-during-zoom-calls/"><u>[Updated] Tips for Sharper Images During Zoom Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-discover-free-tools-for-dynamic-voice-alteration/"><u>[New] Unleash Creativity  Discover Free Tools for Dynamic Voice Alteration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultrafine-a-deep-dive-into-lgs-elite-4k-display-features-for-2024/"><u>UltraFine  A Deep Dive Into LG's Elite 4K Display Features for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-timing-of-a-20mb-sized-video/"><u>[Updated] Timing of a 20MB-Sized Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtlety-savvy-sound-settings-for-garageband/"><u>2024 Approved  Subtlety Savvy Sound Settings for Garageband</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-audio-alerts-high-quality-pages/"><u>[Updated] Ultimate Audio Alerts  High-Quality Pages</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-key-aspects-of-gif-animation/"><u>[New] Understanding Key Aspects of GIF Animation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-30-preferred-steadicam-models-for-high-quality-dslr-projects/"><u>In 2024, Unveiling 30 Preferred Steadicam Models for High-Quality DSLR Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pixelated-performance-making-music-videos-on-the-go/"><u>In 2024, Pixelated Performance  Making Music Videos on the Go</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vacation-adventures-reimagined-this-years-top-classics-for-2024/"><u>Vacation Adventures Reimagined  This Year's Top Classics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-real-time-revelations-does-software-trump-hardware/"><u>[New] Real-Time Revelations  Does Software Trump Hardware?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>[Updated] Unleashing Clarity  The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>[Updated] The Auditory Explorer's Manual  Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-protect-your-privacy-top-webcam-shields-ranked/"><u>[New] Protect Your Privacy - Top Webcam Shields Ranked</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-explore-the-latest-trends-with-these-snapchat-ideas-for-2024/"><u>[Updated] Explore the Latest Trends with These Snapchat Ideas for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-planning-a-dynamic-tiktok-outro-experience/"><u>[Updated] In 2024, Planning a Dynamic TikTok Outro Experience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discord-profile-picture-ultimate-guide-downloadcreatechange/"><u>[New] 2024 Approved  Discord Profile Picture Ultimate Guide [Download/Create/Change]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-sound-recognition-and-instant-utilization/"><u>2024 Approved  Free Sound Recognition and Instant Utilization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-favorite-frames-socials-1-8-vids/"><u>2024 Approved  Favorite Frames  Social's #1-#8 Vids</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-directing-the-stream-a-close-look-at-obs-vs-twitch-studio-for-2024/"><u>[New] Directing the Stream  A Close Look at OBS vs Twitch Studio for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30 FRP Bypass</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated 2024 Approved Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundscapes-of-restfulness-high-rated-asmr-experts/"><u>[New] Soundscapes of Restfulness  High-Rated ASMR Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] Trending 14 Moving Text Design Illustrations"
-date: 2024-05-30 23:16:59
-updated: 2024-06-02 11:43:27
+date: 2024-06-03T20:09:52.094Z
+updated: 2024-06-04T20:09:52.094Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Trending 14 Moving Text Design Illustrations"
 excerpt: "This Article Describes [New] Trending 14 Moving Text Design Illustrations"
 keywords: "Trending Illus Texts,Movein' Text Art,New Illustration Trend,Fresh Text Designs,Popular Text Art,Current Text Illus,Modern Text Trends"
-thumbnail: https://www.lifewire.com/thmb/GELB-p7k6yWIAZVaDeXmU_bKb6g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-send-digital-business-card-1-90ab69a95cc64716be4b1ddb301d5f19.jpg
+thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756c762090fd4b289d5054368b.jpg
 ---
 
 ## Trending 14 Moving Text Design Illustrations
@@ -158,115 +158,6 @@ We have discussed all the common type of text animations that are used to create
 * [Animated Text Fill Effect](#part2-6)
 * [Neon Light Animation](#part2-7)
 * [In and Out of Focus Text Effect](#part2-8)
-* [How to Make a Text Animation Video](#part3)
-
-## Part 1\. Common Types of Text Animation
-
-Here is the list of the common types of text animations that you usually see on social media videos as well as video streaming platforms. Using these common text animation types, various interesting and innovative text animations are created.
-
-### 1\. Parallax scrolling
-
-Parallax scrolling is a popular visual effect whereby the background stays the same while the foreground shifts horizontally. In a text animation, the parallax scrolling effect is where the background box moves from bottom to top and vice versa but the text stays the same all the time.
-
-### 2\. Fade in and fade out
-
-Fade in and fade out text animation is extremely common in videos where the text slowly appears on the screen and its color brightness increase slowly. After reaching its full brightness, the text slowly loses its brightness and finally vanishes completely. Generally, the words appear and disappear simultaneously but in the modern effect, the characters appear and disappear individually at different times for more visual impact.
-
-### 3\. Sliding text animation
-
-You must have noticed the sliding text animation in videos where facts and figures are shown on the video. The sliding text animation generally slides into the video frame from a border or a stripe. Thereafter, it vanishes into the border or the stripe from where it originated. Sometimes, the text slides in from the right and sits in a fixed highlighted box, and slides out eventually.
-
-### 4\. Text breaks away animation
-
-There are different variations of text breaks away animation but it is one of the most visually appealing text animations. That text appears on the video and it shatters and disappears. Sometimes, the text turns into dust after shattering like a glass. This text effect cum animation is highly impactful in getting the attention of the viewers immediately.
-
-### 5\. Typing text animation
-
-Referred to as typewriter text animation as well, the characters in a word or sentence appear on the screen one by one as if someone is typing it in real-time. There is always a cursor blinking at the end of the character and it shifts with the appearance of the words and sentences. Instead of showing words or sentences all at once, showing text as if someone is typing it on the screen is more visually pleasing.
-
-### 6\. Horizontal and vertical scrolling text
-
-Last but not least, the vertical scrolling text effect is extremely common for opening and closing credits in movies. This is even used in modern short videos to show credits as well as information as per requirements. Along with vertical scrolling, horizontal scrolling text is quite common these days to show a few lines of text instead of showing them together in a paragraph.
-
-## Part 2\. 8 Interesting Text Animation Examples
-
-You should always keep the basic and the common types of text animations in mind and come up with interesting and creative text animations. We are listing down some popular text animation examples that you can use on your video.
-
-### 1\. Morphing Text Animation
-
-When there are multiple words to display one by one, instead of fade in and fade out effect, you can opt for morphing text animation. In this animation, the words seem to get morphed into one another. So, the first word will morph into the second word for the second word to appear on the screen and the sequence continues. The animation can be done fast to showcase multiple words in a short time period.
-
-![morphing text animation](https://images.wondershare.com/filmora/article-images/2022/09/morphing-text-animation.jpg)
-
-### 2\. Combined Slide Out Animation
-
-Generally, in a slide out text animation, the text comes out of a border and the animation type remains the same throughout. However, in the modified slide out animation, the text comes out of the border but it can come out of the top, the side, as well as both sides of the border. The border can also animate to move from the side to the top as well as be placed obliquely.
-
-![combined slide out animation](https://images.wondershare.com/filmora/article-images/2022/09/combined-slide-out-animation.jpg)
-
-### 3\. The Stomp Animation
-
-The stomp effect is quite eye-catching due to its dynamic nature. In this animation, the words come out from another word till the entire sentence is displayed. For example, you have a sentence of four words to display. So, you should show the first word and the second word will come out of the first word and the sequence will continue. If you have two words, you can show them coming out of one another from the middle.
-
-![the stomp animation](https://images.wondershare.com/filmora/article-images/2022/09/the-stomp-animation.jpg)
-
-### 4\. The Curtain Animation
-
-In this animation, the moving boxes will slide in and slide out and in the process, they will reveal the text hidden behind them. It looks similar to parting the curtain and getting a view. Thereafter, the boxes will slide back in and cover up the text. The sequence will continue to reveal new texts as required.
-
-![the curtain animation](https://images.wondershare.com/filmora/article-images/2022/09/the-curtain-animation.jpg)
-
-### 5\. Animated Text Outline Effect
-
-This is one of the stunning After Effects text animation examples whereby the outline of the text is made to animate with different colors so that the text becomes eye-catching. The text fill color should stay the same as the background so that only the outline is visible and the outline will be moving around one another.
-
-![animated outline effect](https://images.wondershare.com/filmora/article-images/2022/09/animated-outline-effect.jpg)
-
-### 6\. Animated Text Fill Effect
-
-This is one of the most popular GSAP text animation examples whereby you display a sentence with bold style and a color should be moving across the characters in the text. The animated text fill will stay within the characters and should not spill out in the background. The background should be dark for better focus and attention grabbing. Sometimes, people make the color roll from left to right or the text can have a gradient color with the color waving up and down.
-
-![animated text fill effect](https://images.wondershare.com/filmora/article-images/2022/09/animated-text-fill-effect.jpg)
-
-### 7\. Neon Light Animation
-
-There are different variations of neon light animation that cool super cool. You can go for the simple neon light animation where the text says still and the neon lights fade in and out. You can change the color of the lights if you plan to keep the text for some time. If you are using a large text, you can go for the modified neon light animation where you can shine in and out for individual characters and the lights could be flickering.
-
-![neon light animation](https://images.wondershare.com/filmora/article-images/2022/09/neon-light-animation.jpg)
-
-### 8\. In and Out of Focus Text Effect
-
-Instead of bringing the entire sentence into focus, you can use a square box to run over the sentence and bring the focus on the words depending on the position of the square box. The animation is highly effective in getting the viewers to read the sentence and get the message.
-
-![in and out focus text effect](https://images.wondershare.com/filmora/article-images/2022/09/in-and-out-focus-text-effect.jpg)
-
-## Part 3\. How to Make a Text Animation Video
-
-If you want to make all these interesting and amazing text animations in simple steps, you will need a super intuitive professional video editor. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there are literally unlimited text effects and animations available that you can use on your video instantly. You will get all the popular and latest text animations from its wide collection of text assets. Here are the steps to create a text animation video using Filmora.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-Step1 Download and install Wondershare Filmora on your computer. Click on New Project and import any video clip that you want to have in the background.
-
-![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
-
-Step2 if you do not have any background video, you can select from stock background by going to Stock Media> Pixabay> Video and drag and drop by animated background onto the timeline.
-
-![drop animation background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drop-animation-background-timeline-filmora.jpg)
-
-Step3 Go to Titles and you will get to see all the different categories of text animation templates from the left panel. Search for “animation” and you will get all the stunning text animation templates. Drag and drop any of them onto the timeline above the background layer.
-
-![search animation title filmora](https://images.wondershare.com/filmora/article-images/2022/09/search-animation-title-filmora.jpg)
-
-Step4 Reposition the text layer as per your preference and you can also reposition the text objects from Viewer. Double-click on the text layer to type in your desired text.
-
-![edit preset animation filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-preset-animation-filmora.jpg)
-
-## The Bottom Line
-
-We have discussed all the common type of text animations that are used to create amazing text animations. We have also stated some interesting text animations that you can include in your video project. Lastly, we have recommended [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where you can create and edit stunning text animations instantly without prior experience.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -289,3 +180,46 @@ We have discussed all the common type of text animations that are used to create
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-streaming-landscape-twitch-vs-youtube-compared-for-2024/"><u>Understanding the Streaming Landscape  Twitch Vs YouTube Compared for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[New] Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-edit-suite-for-mobile-app-devices/"><u>In 2024, Ultimate Edit Suite for Mobile App Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>[New] Unleashing Creativity  Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-360-vs-vr-film-explained/"><u>In 2024, Unveiling  360° Vs. VR Film Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-methods-for-converting-twitter-videos-into-mp3-format/"><u>2024 Approved  Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-newest-qanda-arsenal-for-captivating-listeners/"><u>In 2024, Newest Q&A Arsenal for Captivating Listeners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-color-correctors-handbook/"><u>In 2024, The Ultimate Color Corrector's Handbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-access-royalty-free-clip-art-tips/"><u>[New] Unlocking Access  Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-melodic-mobile-alerts-download-classical-ringtones-here/"><u>[Updated] Melodic Mobile Alerts  Download Classical Ringtones Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-streaming-events-seamlessly-with-zoom-and-youtube/"><u>2024 Approved  The Insider's Guide to Streaming Events Seamlessly with Zoom and YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-top-6-head-mount-options-for-dynamic-camera-use/"><u>[Updated] Unveiling the Top 6 Head Mount Options for Dynamic Camera Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-power-of-nikon-d7500/"><u>2024 Approved  Unveiling the Power of Nikon D7500</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-images-with-dynamic-mosaic-designs/"><u>[New] Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>2024 Approved  Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-polarr-photo-editor-proficiency-for-2024/"><u>The Ultimate Guide to Polarr Photo Editor Proficiency for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-iphones-visual-upgrades-in-ios-11-explored/"><u>[New] IPhone's Visual Upgrades in iOS 11 Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-use-9gag-to-create-meme/"><u>[Updated] How to Use 9GAG to Create Meme</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-soundscapes-for-visual-storytelling/"><u>[Updated] Ultimate Soundscapes for Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tapping-into-the-funny-side-with-photos/"><u>[Updated] Tapping Into the Funny Side with Photos</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-10-popular-cartoon-characters-that-should-top-your-list/"><u>New 2024 Approved 10 Popular Cartoon Characters That Should Top Your List</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-sony-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Sony</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps-for-2024/"><u>Instagram's Rising Stars  Discover the Magic Behind Their Growth in 9 Steps for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-ranking-the-top-video-editors-for-adding-music-and-soundtracks/"><u>New Ranking the Top Video Editors for Adding Music and Soundtracks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/securing-your-google-voice-chats-phone-and-desktop-recording-techniques-explained/"><u>Securing Your Google Voice Chats Phone & Desktop Recording Techniques Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-leading-livestream-service-sites/"><u>Discover the Leading Livestream Service Sites</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-eerie-echoes-await-discover-the-top-6-free-websites-for-spooky-audio-tunes/"><u>In 2024, Eerie Echoes Await Discover the Top 6 Free Websites for Spooky Audio Tunes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-reno-11-pro-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo Reno 11 Pro 5G Is Unlocked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/file-forwarding-made-easy-top-5-methods-to-upload-directly-on-pc-for-2024/"><u>File Forwarding Made Easy  Top 5 Methods to Upload Directly on PC for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-top-10-affordable-mobile-video-services/"><u>In 2024, Navigating Top 10 Affordable Mobile Video Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-breakdown-of-streamlabs-obs-features-and-functions/"><u>[New] In 2024, Breakdown of Streamlabs OBS Features and Functions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>2024 Approved  Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/finding-opportunities-where-youtube-collaborations-thrive-for-2024/"><u>Finding Opportunities  Where YouTube Collaborations Thrive for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlining-video-conferences-background-shifts-in-google-meet-for-2024/"><u>[New] Streamlining Video Conferences  Background Shifts in Google Meet for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-gt-neo-5-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme GT Neo 5 Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-of-video-recording-best-camcorders/"><u>In 2024, Future of Video Recording - Best Camcorders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterclass-youtube-music-arrangement/"><u>In 2024, Masterclass  YouTube Music Arrangement</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Record-Setting Stories  A List of the Most Popular Reddit Threads for 2024\""
-date: 2024-05-27 13:25:39
-updated: 2024-05-30 10:43:46
+date: 2024-06-03T14:29:33.475Z
+updated: 2024-06-04T14:29:33.475Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Record-Setting Stories: A List of the Most Popular Reddit Threads for 2024\""
 excerpt: "\"This Article Describes Record-Setting Stories: A List of the Most Popular Reddit Threads for 2024\""
 keywords: "Pop Reddit Threads,Top Reddit Trends,Reddit Viral Content,High Traffic Reddit,Noteworthy Reddit Pics,Favorite Reddit Stories,Hot Reddit Discussions"
-thumbnail: https://www.lifewire.com/thmb/wbIj8Nnh7GHWuHhw-jihfDWuFcY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f972b8ef6e36ebd7fc54a18cb3.jpg
 ---
 
 ## Record-Setting Stories: A List of the Most Popular Reddit Threads
@@ -161,124 +161,6 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 10 Most Upvoted Reddit Posts of All Time
 
-### 1\. [The Senate (/r/movies)](https://www.reddit.com/r/movies/comments/62sjuh/the%5Fsenate%5Fupvote%5Fthis%5Fso%5Fthat%5Fpeople%5Fsee%5Fit%5Fwhen/)
-
-![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
-
-When writing the article (Nov., 2022), this Reddit post features over 400k votes. 97% of those users Upvoted. This percentage made it the most upvoted Reddit post until another overtook it.
-
-(r/wallstreetbets)
-
-![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
-
-Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
-
-Sadly, the attempt failed but still received a lot of attention.
-
-### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
-
-This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
-
-It represents a fun and public meme of someone buying a billboard in New York. The content of the billboard: $GME GO BRR.
-
-$GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
-
-### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
-
-![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
-
-Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
-
-If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
-
-### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
-
-![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
-
-Another funny post in the official /r/funny subreddit itself. At this time, this one has 308k votes, 97% of which are Upvotes.
-
-The image depicts the New York spirit as an excited cab driver shows off his cab in the 2018 New York Taxi Driver calendar.
-
-What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
-
-### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
-
-![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
-
-Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
-
-This one, for example, features 269k votes. 98% of them Upvoted, all probably enthusiastic gamers themselves.
-
-The image shows an experienced gamer who spent countless hours beating a game, trying to teach a friend how to play it.
-
-You understand the pain if you've gone through something like this.
-
-### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
-
-![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
-
-293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
-
-The phrase "this is extremely dangerous to our democracy" is repeated repeatedly in every news broadcast from these news stations.
-
-97% of these 293k users upvoted and agreed that all news anchors say the same thing.
-
-### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
-
-![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
-
-Some things on Reddit don't have to make sense to get a lot of attention.
-
-Like this frog, for example. 99% out of the 313k voters on this post upvoted and loved watching this tiny frog take a bath on a hot summer day.
-
-That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
-
-### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
-
-![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
-
-This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
-
-It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
-
-### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
-
-![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
-
-Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
-
-Well, a Reddit user made an edit of this clip and now it looks as if Will juggled four balls... then five.
-
-The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
-
-### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
-
-![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
-
-Finally, this is an inspiring and heartwarming post about a brave troop.
-
-At this time, the post has 155k votes of which 93% are upvotes. Readers love the post because it shows a true story during a war. None of us can resist such tales.
-
-The troop is known as Col. Shaw. The confederates buried this man in a mass grave, trying to insult him for leading black soldiers.
-
-After an attempt by Union Troops to recover his body, they received a letter from Col' Shaw's father, saying, "_We would not have his body removed from where it lies surrounded by his brave and devoted soldiers._"
-
-The Reddit post has over 4k comments, many of which feature thousands of upvotes.
-
-## Video – Top 10 Most Upvoted Posts on Reddit
-
-Apart from what been introduced to you above, we also prepared a video about the most upvoted posts on Reddit. If you have any interests, you can watch it and get a deeper understanding of why these posts are so popular.
-
-## Conclusion
-
-Some of these highly upvoted Reddit posts are funny, some serious, and some slightly political. But it just goes to show what type of content has the potential to blow up and become viral at any given point in time. You can use these insights to find trending posts or create a Reddit marketing strategy for your business.
-
-Whatever you decide to do, feel free to reflect on these posts and enjoy reading the exciting new comments that keep popping up. They are the most popular for a reason.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -300,3 +182,60 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolved-sony-bdp-s6700-unveiled/"><u>2024 Approved  The Evolved Sony BDP-S6700 Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-smart-b-roll-incorporation/"><u>In 2024, Unlock Creative Potential  Smart B Roll Incorporation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>In 2024, Unseen Streamer  How to Live-Stream Privately on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-film-capturing-essential-camera-movements-for-novices/"><u>In 2024, The Art of Film Capturing  Essential Camera Movements for Novices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-ios-auditory-options-for-2024/"><u>Top 10 iOS Auditory Options for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unexplained-tilted-images-on-instagrams-video-section/"><u>[Updated] Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-efficient-use-of-slug-lines-in-content-writing/"><u>2024 Approved  The Efficient Use of Slug Lines in Content Writing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-syncopated-syntax-showcase/"><u>[Updated] Syncopated Syntax Showcase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-media-with-apple-music-and-video-mixes-for-2024/"><u>Streamlining Media with Apple Music & Video Mixes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-typography-in-after-effects/"><u>In 2024, Transformative Typography in After Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creative-potential-using-luts-for-color-grading-in-ae/"><u>2024 Approved  Unlocking Creative Potential  Using LUTs for Color Grading in AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-tools-for-road-tripping-films-for-2024/"><u>The Best Tools for Road Tripping Films for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-time-lapse-techniques-for-samsung-enthusiasts-for-2024/"><u>Unveiling Time Lapse Techniques for Samsung Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vault-selection-for-top-corporate-use/"><u>[Updated] Vault Selection for Top Corporate Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>[New] The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-digital-storefronts-for-exquisite-presentation-boxes/"><u>[New] Top 10 Digital Storefronts for Exquisite Presentation Boxes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-manual-the-art-of-digital-sound-note-taking/"><u>2024 Approved  Ultimate Manual  The Art of Digital Sound Note-Taking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-eye-opening-journey-with-q500/"><u>In 2024, The Eye-Opening Journey with Q500</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>[Updated] The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-pcs-hd-color-videography/"><u>[New] Ultimate Guide  PC's HD Color Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-creative-entrepreneurs-handbook-in-design/"><u>2024 Approved  The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ae-scripting-tools-and-plug-ins/"><u>2024 Approved  Top AE Scripting Tools & Plug-Ins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>In 2024, Transform Your Gaming Experience  KineMaster Pros & 10 Online Counterparts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-video-playback-with-safaris-pip/"><u>In 2024, Streamlining Video Playback with Safari's PIP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence-for-2024/"><u>Tapping Into the Telegraphic Trend  Maximizing Your Telegram Presence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-online-tips-creating-title-magic/"><u>2024 Approved  Top Online Tips  Creating Title Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-velocity-vision-speed-up-videos-on-android/"><u>In 2024, Velocity Vision  Speed Up Videos on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-skyrocketing-youtube-followers-for-2024/"><u>Strategies for Skyrocketing YouTube Followers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unified-brand-presence-across-digital-platforms-for-2024/"><u>Unified Brand Presence Across Digital Platforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>[New] Underwater Cinematography  Avoiding Blur and Grain with a GoPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>In 2024, The Metaverse & MultipleMetaverse Explained  Key Contrasts Highlighted</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-25-backdrop-ideas-for-livestreaming/"><u>In 2024, Top 25 Backdrop Ideas for Livestreaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>2024 Approved  Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>[New] 2024 Approved  Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>[New] Quick Vimeo Transformation Tips  Easy-to-Create GIFs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-os-x-mavericks-video-editing-tutorial-from-basics-to-advanced-for-2024/"><u>New OS X Mavericks Video Editing Tutorial From Basics to Advanced for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-potential-discovering-hidden-streaming-tricks-for-2024/"><u>Unlocking Potential  Discovering Hidden Streaming Tricks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-smooth-out-your-footage-best-free-video-stabilization-apps/"><u>Updated Smooth Out Your Footage Best Free Video Stabilization Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-ultimate-screenshot-and-record-solutions-for-discord/"><u>[Updated] 2024 Approved  Ultimate Screenshot & Record Solutions for Discord</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-m34-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy M34 Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-video-transitions-and-effects-using-gopro-studio-protips/"><u>[New] Master Video Transitions and Effects Using GoPro Studio ProTips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-applications-streamlining-video-conferencing/"><u>[New] Optimal Applications Streamlining Video Conferencing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-8-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 8</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-seamless-video-transfer-from-youtube-to-instagram/"><u>In 2024, Seamless Video Transfer From YouTube to Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/keep-the-vision-clear-without-rests-for-2024/"><u>Keep the Vision Clear Without Rests for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-effective-measures-to-block-pesky-video-ads-online/"><u>[New] Effective Measures to Block Pesky Video Ads Online</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-13t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi 13T to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-c12-plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Plus without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-maximizing-creativity-on-tiktok-essential-elements-overview/"><u>[New] 2024 Approved  Maximizing Creativity on TikTok  Essential Elements Overview</u></a></li>
+</ul></div>
