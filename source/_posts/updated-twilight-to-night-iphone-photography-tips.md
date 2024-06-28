@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Twilight to Night  IPhone Photography Tips\""
-date: 2024-06-03T15:50:04.463Z
-updated: 2024-06-04T15:50:04.463Z
+date: 2024-06-20T00:07:12.954Z
+updated: 2024-06-21T00:07:12.954Z
 tags: 
   - screen-recording
   - ai video
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 | Slow Shutter Fast Cam | [Free](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) |  |
 | LongExpo              | [Free](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8)      |  |
 
-#### 1\. [Slow Shutter Cam](https://itunes.apple.com/us/app/slow-shutter-cam/id357404131?mt=8)
+#### 1\. Slow Shutter Cam
 
 **Price:** $1,99
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
  iPhone photographers in need of an app which extends the list of features that make night photography easier should consider purchasing this app. Alongside complete manual control over ISO and shutter speed settings, Slow Shutter Cam also enables you to take pictures in Motion Blur, Light Trail, and Low Light modes. Each mode lets you create a different type of a long exposure photo that will look like you used professional DSLR camera equipment to capture it.
 
-#### 2\. [Slow Shutter Fast Cam](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8)
+#### 2\. Slow Shutter Fast Cam
 
 **Price:** Free
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
  The app offers Automatic, Manual and Light Trail modes, but unlike the Slow Shutter Cam, it allows you to share your photos to Email, Facebook or Twitter with a single tap. iPhone owners who opt to install this app on their device will be able to set shutter speeds that last between 0.5 and 15 seconds, and they also can control shutter speed values directly from their screen. The app lets its users adjust contrast, a feature that is particularly useful if you want to take a black and white night photo.
 
-#### 3\. [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8)
+#### 3\. LongExpo
 
 **Price:** Free
 
@@ -186,7 +186,7 @@ Follow @Ollie Mattison
 | Slow Shutter Fast Cam | [Free](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) |  |
 | LongExpo              | [Free](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8)      |  |
 
-#### 1\. [Slow Shutter Cam](https://itunes.apple.com/us/app/slow-shutter-cam/id357404131?mt=8)
+#### 1\. Slow Shutter Cam
 
 **Price:** $1,99
 
@@ -194,7 +194,7 @@ Follow @Ollie Mattison
 
  iPhone photographers in need of an app which extends the list of features that make night photography easier should consider purchasing this app. Alongside complete manual control over ISO and shutter speed settings, Slow Shutter Cam also enables you to take pictures in Motion Blur, Light Trail, and Low Light modes. Each mode lets you create a different type of a long exposure photo that will look like you used professional DSLR camera equipment to capture it.
 
-#### 2\. [Slow Shutter Fast Cam](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8)
+#### 2\. Slow Shutter Fast Cam
 
 **Price:** Free
 
@@ -202,7 +202,7 @@ Follow @Ollie Mattison
 
  The app offers Automatic, Manual and Light Trail modes, but unlike the Slow Shutter Cam, it allows you to share your photos to Email, Facebook or Twitter with a single tap. iPhone owners who opt to install this app on their device will be able to set shutter speeds that last between 0.5 and 15 seconds, and they also can control shutter speed values directly from their screen. The app lets its users adjust contrast, a feature that is particularly useful if you want to take a black and white night photo.
 
-#### 3\. [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8)
+#### 3\. LongExpo
 
 **Price:** Free
 

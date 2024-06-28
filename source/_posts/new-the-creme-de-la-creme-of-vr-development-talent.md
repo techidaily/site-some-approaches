@@ -1,7 +1,7 @@
 ---
 title: "[New] The Crème De La Crème of VR Development Talent"
-date: 2024-06-03T17:31:45.915Z
-updated: 2024-06-04T17:31:45.915Z
+date: 2024-06-20T00:07:16.753Z
+updated: 2024-06-21T00:07:16.753Z
 tags: 
   - screen-recording
   - ai video
@@ -33,8 +33,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- Comcast Ventures, Softbank Capital, Iron fire Ventures, Vectr Ventures, Net Ease Capital CMC Holdings etc.
 * **Money Raised:**  \- $80M in series B funding
 
-![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
-  )
+![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg)
 
 ## 2.Linden lab company:-
 
@@ -43,8 +42,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- Kapor Capital, Jeff Bezos, Benchmark Capital, Omidyar Network, Catamount Ventures etc.
 * **Money Raised:**  \-$19M
 
-![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
- )
+![linden-lab](https://images.wondershare.com/filmora/resource/linden-lab.jpg)
 
 ## 3.JauntVR company:-
 
@@ -53,8 +51,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- China Media Capital (CMC), InnoSpring Seed Fund, ProSiebenSat.1 Media SE, Sky company, Walt Disney company etc
 * **Money Raised:**  \- Additional $27.8M in series B funding
 
-![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
-  )
+![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg)
 
 ## 4.Wevr Company:-
 
@@ -63,8 +60,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- AME Cloud Ventures, Dragoneer Investment Group, Palantir Capital, Plus Capital, Spiegel Capital Management, Scott McNealy, Orange Digital Ventures, HTC etc
 * **Money Raised:**  \-$25M
 
-![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
-  )
+![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg)
 
 ## 5.High Fidelity company:-
 
@@ -73,8 +69,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \-GV, True Ventures, Kapor Capital, Linden Lab, Vulcan capital etc
 * **Money Raised:**  \- $11M
 
-![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
-  )
+![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg)
 
 ## 6.Legend3D Company:-
 
@@ -83,8 +78,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- North water Capital, PAR Capital Management and Augustus Ventures Limited.
 * **Money raised:**  \- $8M in series B funding
 
-![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
- )
+![legend3d](https://images.wondershare.com/filmora/resource/legend3d.jpg)
 
 ## 7.CCP Company:-
 
@@ -93,8 +87,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- Novator Partners, General Catalyst Partners and New Enterprise Associates
 * **Money raised:**  \- $30M
 
-![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
-  )
+![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg)
 
 ## 8.Improbable company:-
 
@@ -103,8 +96,7 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 * **Investors:**  \- Conversion Capital, Local Globe, Andreessen Horowitz and Chris Dixon
 * **Money raised:**  \- $22M in series A funding
 
-![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
-  )
+![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg)
 
 ## 9.8i:-
 
@@ -134,8 +126,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- Comcast Ventures, Softbank Capital, Iron fire Ventures, Vectr Ventures, Net Ease Capital CMC Holdings etc.
 * **Money Raised:**  \- $80M in series B funding
 
-![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
-  )
+![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg)
 
 ## 2.Linden lab company:-
 
@@ -144,8 +135,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- Kapor Capital, Jeff Bezos, Benchmark Capital, Omidyar Network, Catamount Ventures etc.
 * **Money Raised:**  \-$19M
 
-![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
- )
+![linden-lab](https://images.wondershare.com/filmora/resource/linden-lab.jpg)
 
 ## 3.JauntVR company:-
 
@@ -154,8 +144,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- China Media Capital (CMC), InnoSpring Seed Fund, ProSiebenSat.1 Media SE, Sky company, Walt Disney company etc
 * **Money Raised:**  \- Additional $27.8M in series B funding
 
-![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
-  )
+![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg)
 
 ## 4.Wevr Company:-
 
@@ -164,8 +153,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- AME Cloud Ventures, Dragoneer Investment Group, Palantir Capital, Plus Capital, Spiegel Capital Management, Scott McNealy, Orange Digital Ventures, HTC etc
 * **Money Raised:**  \-$25M
 
-![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
-  )
+![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg)
 
 ## 5.High Fidelity company:-
 
@@ -174,8 +162,7 @@ Follow @Benjamin Arango
 * **Investors:**  \-GV, True Ventures, Kapor Capital, Linden Lab, Vulcan capital etc
 * **Money Raised:**  \- $11M
 
-![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
-  )
+![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg)
 
 ## 6.Legend3D Company:-
 
@@ -184,8 +171,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- North water Capital, PAR Capital Management and Augustus Ventures Limited.
 * **Money raised:**  \- $8M in series B funding
 
-![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
- )
+![legend3d](https://images.wondershare.com/filmora/resource/legend3d.jpg)
 
 ## 7.CCP Company:-
 
@@ -194,8 +180,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- Novator Partners, General Catalyst Partners and New Enterprise Associates
 * **Money raised:**  \- $30M
 
-![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
-  )
+![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg)
 
 ## 8.Improbable company:-
 
@@ -204,8 +189,7 @@ Follow @Benjamin Arango
 * **Investors:**  \- Conversion Capital, Local Globe, Andreessen Horowitz and Chris Dixon
 * **Money raised:**  \- $22M in series A funding
 
-![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
-  )
+![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg)
 
 ## 9.8i:-
 
