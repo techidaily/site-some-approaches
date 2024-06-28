@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Images Into Your Insta World"
-date: 2024-06-03T19:06:31.590Z
-updated: 2024-06-04T19:06:31.590Z
+date: 2024-06-27T13:29:21.031Z
+updated: 2024-06-28T13:29:21.031Z
 tags: 
   - screen-recording
   - ai video
@@ -139,7 +139,7 @@ Download: **Photo Sticker** for [Android](https://play.google.com/store/apps/det
 
 ![picstich stich](https://images.wondershare.com/filmora/article-images/2022/07/add-photos-on-instagram-10.jpg)
 
-The interesting part is that it is completely free and easy to use. You can download the app on [iPhone](https://apps.apple.com/ca/app/pic-stitch/id454768104)and [Android](https://play.google.com/store/apps/details?id=com.bigblueclip.picstitch&hl=en%5FCA).
+The interesting part is that it is completely free and easy to use. You can download the app on [iPhone](https://apps.apple.com/ca/app/pic-stitch/id454768104) and [Android](https://play.google.com/store/apps/details?id=com.bigblueclip.picstitch&hl=en%5FCA).
 
 ## FAQ
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Path to Larger Video Presentation in YouTube"
-date: 2024-06-03T23:10:31.279Z
-updated: 2024-06-04T23:10:31.279Z
+date: 2024-06-27T13:29:20.654Z
+updated: 2024-06-28T13:29:20.654Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
