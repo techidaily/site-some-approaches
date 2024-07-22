@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock the Secrets to Lengthy Exposure with iPhone"
-date: 2024-06-03T16:56:31.143Z
-updated: 2024-06-04T16:56:31.143Z
+date: 2024-07-20T19:34:15.164Z
+updated: 2024-07-21T19:34:15.164Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
 
  Image resource: iPhoneMod
@@ -96,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
 * **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
 
  Image resource: Nikonites
@@ -108,6 +114,11 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -124,6 +135,9 @@ Follow @Ollie Mattison
 
  Previously the preserve of those who could afford to invest in a top of the range SLR, this type of photography is now within reach of many more of us, thanks to improvement in iPhone camera's technology. Want to know how? Read on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## How to Take Long Exposure Shots on iPhone
 
 * [Section 1: Users on iOS 11](#part1)
@@ -135,18 +149,28 @@ Follow @Ollie Mattison
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
 
  Image resource: imore
 
  Next, take a live photo. This is a moving image, a bit like recording with your video camera, but much shorter. Try to keep the iPhone steady as you take your shot, and choose to shoot something that is continually moving, but with a relatively stable background. Something like cars going down a street is a great place to start.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
 
  Image resource: iPhoneMod
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Not a user of iOS 11?
 
  If you don't have iOS 11 yet (or can't get it for your model), there is a way around this. Some developers have produced apps which mimic the extended shutter speed of Live Photos. This is achieved by combining multiple exposures of the same photograph, and then stitching them together with an overlain effect to create a simulated long exposure image.
@@ -166,6 +190,9 @@ Follow @Ollie Mattison
 
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What should you capture with your long exposure iPhone shots?
 
  Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
@@ -178,12 +205,18 @@ Follow @Ollie Mattison
 
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
 
  Image resource: WallDevil
 
 * **Motion blur:** To give the sense of something really moving fast, a motion blur can be a captivating effect. From vehicles on the city street to a galloping horse, allowing the moving object to blur whilst everything else around it stays in focus can add a dose of drama to your shots.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
  Image resource: Digital Photo Secrets
@@ -202,6 +235,9 @@ Follow @Ollie Mattison
 
  With the iPhone camera long exposure shots could really up your game on social media. Whether you're a budding travel photographer, a wannabe stock photo entrepreneur or simply an Instagram lover who wants to impress their friends, have a play with the technology available to you and see what you can create. Long exposure shots are massively popular right now, so grab your iPhone and get snapping!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -234,3 +270,50 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-bridge-the-gap-youtube-tweet-functionality-for-2024/"><u>[New] Bridge the Gap  YouTube Tweet Functionality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fuel-the-fire-top-videos-that-inspire-audiences-for-2024/"><u>[New] Fuel the Fire  Top Videos That Inspire Audiences for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-time-lapse-a-step-by-step-ipad-routine/"><u>[New] In 2024, Mastering Time-Lapse  A Step-by-Step iPad Routine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revamped-design-tools-after-acid-pro-era/"><u>[New] Revamped Design Tools  After ACID Pro Era</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-leaderboard-of-gps-drones-with-steady-followers/"><u>[Updated] 2024 Approved  The Leaderboard of GPS Drones with Steady Followers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-backgrounds-for-live-streaming/"><u>[Updated] Best Backgrounds for Live Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-scanning-mastery-using-fraps-tools/"><u>[Updated] Screen Scanning Mastery Using Fraps Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-strategies-for-sustaining-viewer-interest-in-online-events/"><u>[Updated] Strategies for Sustaining Viewer Interest in Online Events</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-new-lens-on-sonys-s6500-bdp-features/"><u>[Updated] The New Lens on Sony’s S6500 BDP Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-untold-story-10-pro-vlc-tricks-for-better-playback/"><u>[Updated] The Untold Story  10 Pro-VLC Tricks for Better Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-virtual-journey-past-to-present/"><u>[Updated] The Virtual Journey  Past to Present</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-standard-alerts-into-personalized-unique-sounds-on-android-devices/"><u>[Updated] Turn Standard Alerts Into Personalized, Unique Sounds on Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>[Updated] Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/10-viral-culinary-tiktoks-to-watch-for-2024/"><u>10 Viral Culinary TikToks to Watch for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fresh-perspectives-on-digital-health-promotion/"><u>2024 Approved  Fresh Perspectives on Digital Health Promotion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-master-the-art-of-conducting-virtual-meetings-with-zoom-win10/"><u>2024 Approved  Master the Art of Conducting Virtual Meetings with Zoom (Win10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-instagram-stardom-in-just-nine-easy-tips/"><u>2024 Approved  Mastering Instagram Stardom in Just Nine Easy Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-photo-editing-the-eraser-guide-in-psx/"><u>2024 Approved  Mastering Photo Editing  The Eraser Guide in PSX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-meme-masters-at-your-fingertips-app/"><u>2024 Approved  Meme Masters at Your Fingertips (App)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-the-multi-stream-experience-on-netflix/"><u>2024 Approved  Navigating the Multi-Stream Experience on Netflix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>2024 Approved  Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-peek-into-hidden-social-interaction-on-platforms-like-youtube/"><u>2024 Approved  Peek Into Hidden Social Interaction on Platforms Like YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-pure-summer-pleasures-our-top-10-holiday-flicks/"><u>2024 Approved  Pure Summer Pleasures  Our Top 10 Holiday Flicks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-rhythmic-reconnaissance-video-music-matchmaking/"><u>2024 Approved  Rhythmic Reconnaissance  Video Music Matchmaking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>2024 Approved  Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-simplifying-textual-enhancement-for-ae-professionals/"><u>2024 Approved  Simplifying Textual Enhancement for AE Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-spectrum-screens-a-new-film-language/"><u>2024 Approved  Spectrum Screens  A New Film Language</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-spotify-how-to-exclude-recommended-podcasts/"><u>2024 Approved  Spotify  How to Exclude Recommended Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategic-vr-marketing-manifesto/"><u>2024 Approved  Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-color-correction-with-easy-techniques/"><u>2024 Approved  Streamline Color Correction with Easy Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-projects-with-free-video-intros/"><u>2024 Approved  Streamline Projects with Free Video Intros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-text-workflow-in-after-effects/"><u>2024 Approved  Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-video-calls-leveraging-zoom-on-windows-10-pcs/"><u>2024 Approved  Streamlining Video Calls  Leveraging Zoom on Windows 10 PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>2024 Approved  Strengthening Bonds  Networking Tips for YouTube Content Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>2024 Approved  The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-byte-requirement-for-24-hours-of-movie-viewing/"><u>2024 Approved  Total Byte Requirement for 24 Hours of Movie Viewing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-picks-7-premium-mac-videos-for-2024/"><u>Expert Picks  7 Premium Mac Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v27e-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V27e to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stay-in-the-limelight-how-to-keep-youtube-cc-and-boost-views/"><u>In 2024, Stay in the Limelight  How to Keep YouTube CC and Boost Views</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple/"><u>In 2024, Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple</u></a></li>
+<li><a href="https://video-capture.techidaily.com/loom-screen-recorder-downloader/"><u>Loom Screen Recorder Downloader</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-viral-hits-yearly-top-10-viewer-counts-for-2024/"><u>Twitter's Viral Hits  Yearly Top 10 Viewer Counts for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-se-2020-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone SE (2020) & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+</ul></div>

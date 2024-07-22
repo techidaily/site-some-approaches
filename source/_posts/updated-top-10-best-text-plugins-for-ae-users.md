@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 Best Text Plugins for AE Users"
-date: 2024-06-03T19:56:56.579Z
-updated: 2024-06-04T19:56:56.579Z
+date: 2024-07-20T21:25:07.450Z
+updated: 2024-07-21T21:25:07.450Z
 tags: 
   - screen-recording
   - ai video
@@ -20,12 +20,18 @@ thumbnail: https://www.lifewire.com/thmb/lWZM0bYeaxTVCPOx626dZ9nbfmE=/400x300/fi
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 ## TextExploder
@@ -42,6 +48,9 @@ Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 ## TextBox
@@ -50,6 +59,15 @@ Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 ## Font Manager
@@ -58,6 +76,9 @@ Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 ## Cartoon Moblur
@@ -72,6 +93,9 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 ## Texts Animation Bundle
@@ -82,14 +106,23 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -131,3 +164,61 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tailored-walkthrough-watching-facebook-videos-seamlessly-on-apple-tv/"><u>[New] 2024 Approved  Tailored Walkthrough  Watching Facebook Videos Seamlessly on Apple TV</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crescendo-control-secure-sound-sharing-online/"><u>[New] Crescendo Control  Secure Sound Sharing Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-get-pure-video-streams-from-tiktok-directly-online/"><u>[New] Get Pure Video Streams From TikTok Directly Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>[New] In 2024, Capturing Every Victory  Pro Gaming Tips for W11 Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-preferred-chrome-modifiers-for-smooth-vimeo-viewing/"><u>[New] In 2024, Preferred Chrome Modifiers for Smooth Vimeo Viewing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-game-capture-kings-for-2024/"><u>[New] In-Game Capture Kings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>[New] Streamlined Guide  5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stylish-selfies-with-iosandroid-the-leading-10-sticker-apps/"><u>[New] Stylish Selfies with iOS/Android  The Leading 10 Sticker Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-boost-pc-audio-recording-efficiency/"><u>[New] Techniques to Boost PC Audio Recording Efficiency</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-science-of-sensor-based-hands-monitoring/"><u>[New] The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-lapse-titans-choosing-the-creme-de-la-camera/"><u>[New] Time-Lapse Titans  Choosing the Crème De La Camera</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-most-shared-stock-photos-and-their-tales/"><u>[New] Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-easy-to-use-subtitle-converters-from-sub-to-compliant-srt-format-in-seconds/"><u>[New] Top 8 Easy-to-Use Subtitle Converters  From SUB to Compliant SRT Format in Seconds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-masterclass-enhancing-live-streams-with-360-cameras/"><u>[Updated] Masterclass  Enhancing Live Streams with 360° Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-subtracting-text-srt-to-sub-transformation-tips/"><u>[Updated] Subtracting Text  SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>[Updated] Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-blueprint-for-a-streamlined-social-media-connection-with-linktree/"><u>[Updated] The Blueprint for a Streamlined Social Media Connection with Linktree</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-becoming-a-lut-connoisseur/"><u>[Updated] The Path to Becoming a LUT Connoisseur</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-ppt-capture-excellence-for-2024/"><u>[Updated] The Ultimate Guide to PPT Capture Excellence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach/"><u>[Updated] The Ultimate Guide to Removing Backdrops  A Comprehensive Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore/"><u>[Updated] The Unseen Aspects of Drone Shopping You Mustn’t Ignore</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>[Updated] Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-ultimate-blueprint-to-dissolve-your-tiktok-presence/"><u>[Updated] Ultimate Blueprint to Dissolve Your TikTok Presence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-high-performance-desktop-pcs/"><u>[Updated] Ultimate High-Performance Desktop PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unpacking-the-advanced-capabilities-of-movavi-video-editor-2024plus/"><u>[Updated] Unpacking the Advanced Capabilities of Movavi Video Editor 2024+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x7b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X7b Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/7-leading-mac-video-player-options/"><u>7 Leading Mac Video Player Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/amalgamate-ppts-for-video-creation-for-2024/"><u>Amalgamate PPTs for Video Creation for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-7-best-mp4-video-editors-on-mac-edit-mp4-videos-easily/"><u>In 2024, 7 Best MP4 Video Editors on Mac Edit MP4 Videos Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-professionals-choice-for-mac-adobe-premiere-pro-video-editor/"><u>In 2024, The Professionals Choice for Mac Adobe Premiere Pro Video Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-power-of-canon-time-lapse-imaging/"><u>In 2024, Unlocking the Power of Canon Time-Lapse Imaging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-asmr-for-mental-and-physical-health/"><u>In 2024, Unraveling ASMR for Mental and Physical Health</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unseen-algorithms-powering-youtubes-viewer-statistics/"><u>In 2024, Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>In 2024, Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-art-of-pro-grade-gopro-videography-for-2024/"><u>Mastering the Art of Pro-Grade Gopro Videography for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-aspect-ratio-converter-solutions/"><u>New 10 Essential Aspect Ratio Converter Solutions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-elevate-your-video-production-top-4k-video-editing-software-for-2024/"><u>New Elevate Your Video Production Top 4K Video Editing Software for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-unveiling-the-rhythm-discovering-song-titles-via-iphones-sound-analysis/"><u>New In 2024, Unveiling the Rhythm Discovering Song Titles via iPhones Sound Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sketch-it-right-top-8-proficient-drawing-apps-for-iphone-users-for-2024/"><u>Sketch It Right  Top 8 Proficient Drawing Apps for iPhone Users for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-computers-upgrade-chip-drivers/"><u>Streamline Computers: Upgrade Chip-Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-economics-of-video-promotion-platforms/"><u>The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-using-obs-and-streamlabs-together-mac-for-2024/"><u>The Ultimate Guide to Using OBS and Streamlabs Together (Mac) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-iphone-photography-playbook-prime-angles-uncovered-for-2024/"><u>The Ultimate iPhone Photography Playbook  Prime Angles Uncovered for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-vr-skeletons-into-your-ideal-digital-persona-for-2024/"><u>Transforming VR Skeletons Into Your Ideal Digital Persona for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/turning-back-the-clock-mastering-instagram-video-reverse-for-2024/"><u>Turning Back the Clock  Mastering Instagram Video Reverse for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-user-generated-music-rights-on-instagram-for-2024/"><u>Understanding User-Generated Music Rights on Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-photo-magic-intro-to-snapseed-features-for-2024/"><u>Unlocking Photo Magic  Intro to Snapseed Features for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-the-top-8-premium-free-srt-translation-websites-for-2024/"><u>Unraveling the Top 8 Premium Free SRT Translation Websites for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-in-depth-look-into-how-twistedwave-revolutionizes-sound-editing-processes/"><u>Updated In 2024, In Depth Look Into How TwistedWave Revolutionizes Sound Editing Processes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-wonders-your-macbook-video-journey-for-2024/"><u>Webcam Wonders  Your MacBook Video Journey for 2024</u></a></li>
+</ul></div>

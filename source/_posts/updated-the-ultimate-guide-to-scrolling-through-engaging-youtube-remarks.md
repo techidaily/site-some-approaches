@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Scrolling Through Engaging YouTube Remarks"
-date: 2024-06-03T22:48:59.069Z
-updated: 2024-06-04T22:48:59.069Z
+date: 2024-07-20T23:10:26.325Z
+updated: 2024-07-21T23:10:26.325Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,11 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -63,6 +68,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -85,14 +93,24 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -115,6 +133,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +206,63 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-minimagic-mugger-assessment-and-opinions/"><u>[New] 2024 Approved  Minimagic Mugger Assessment & Opinions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-deep-dive-into-insta-verified-posts/"><u>[New] In 2024, A Deep Dive Into Insta Verified Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[New] Mastering YouTube Pace Control  Top Tips for Slower Views (48 Chars)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>[New] Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-sensory-cinema-the-vr-experience/"><u>[New] Sensory Cinema  The VR Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-android-visionaries-for-speedy-videos/"><u>[New] Top 8 Android Visionaries for Speedy Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-top-20-youtube-music-spaces-for-your-favorite-tunes/"><u>[New] Unveiling the Top 20 YouTube Music Spaces for Your Favorite Tunes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-guide-to-amplifying-your-video-presence-with-seo-tips-for-2024/"><u>[Updated] Guide to Amplifying Your Video Presence with SEO Tips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-expertly-use-vscos-adjustment-brushes/"><u>[Updated] How to Expertly Use VSCO's Adjustment Brushes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-optimal-vr-experience-a-review-of-top-oculus-models/"><u>[Updated] Optimal VR Experience  A Review of Top Oculus Models</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailoring-your-playstation-experience-with-sounds/"><u>[Updated] Tailoring Your PlayStation Experience with Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-of-composing-persuasive-content-in-vlogging/"><u>[Updated] Techniques of Composing Persuasive Content in Vlogging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-decades-guide-to-superior-social-media-management-smm/"><u>[Updated] The Decade's Guide to Superior Social Media Management (SMM)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-top-strategies-for-box-enthusiasts/"><u>[Updated] The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-starting-a-live-feed/"><u>[Updated] The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-strategies-for-impactful-spotify-ads/"><u>[Updated] Top 10 Strategies for Impactful Spotify Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-places-to-access-westeros-themed-phone-sounds/"><u>[Updated] Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-ringtones-guide-top-downloads/"><u>[Updated] Ultimate Ringtones Guide  Top Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-10-must-know-tips-for-cover-art/"><u>[Updated] Unleash Creativity  10 Must-Know Tips for Cover Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-potential-with-periscope-broadcasts/"><u>[Updated] Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>[Updated] Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-leveraging-xbox-ones-zoom-features-effectively/"><u>2024 Approved  Leveraging Xbox One's Zoom Features Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-yt-beats-with-visual-timelines/"><u>2024 Approved  Syncing YT Beats with Visual Timelines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>2024 Approved  The Secret Ingredient to Success  15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices/"><u>2024 Approved  The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks/"><u>2024 Approved  The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-nft-generating-marvels-for-modern-digital-artists-needs/"><u>2024 Approved  Top 7 NFT-Generating Marvels for Modern Digital Artists' Needs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>2024 Approved  Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-spoken-words-into-written-format-powerpoints-voice-recognition-insight/"><u>2024 Approved  Transform Spoken Words Into Written Format  PowerPoint’s Voice Recognition Insight</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>2024 Approved  Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-the-premier-apps-for-picture-framing/"><u>2024 Approved  Unleash Creativity  The Premier Apps for Picture Framing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-secrets-to-intense-hdr-portraits/"><u>2024 Approved  Unlock the Secrets to Intense HDR Portraits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-docs-transcription-feature-a-beginners-guide/"><u>2024 Approved  Unlocking Docs' Transcription Feature  A Beginner’s Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>2024 Approved  Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/divx-video-editing-made-easy-top-free-cutting-tools/"><u>Divx Video Editing Made Easy Top Free Cutting Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-convenient-alias-adjustment-in-google-meet-devices/"><u>In 2024, Convenient Alias Adjustment in Google Meet Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-sound-extracting-audio-magic-with-pazera/"><u>In 2024, Freedom in Sound  Extracting Audio Magic with Pazera</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>In 2024, Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-newest-qanda-arsenal-for-captivating-listeners/"><u>In 2024, Newest Q&A Arsenal for Captivating Listeners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-for-attracting-brands-as-youtube-affiliates/"><u>In 2024, The Blueprint for Attracting Brands as Youtube Affiliates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-full-picture-of-ustream-and-analogous-services/"><u>In 2024, The Full Picture of Ustream & Analogous Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-mac-interaction-innovative-text-to-speech-apps-uncovered/"><u>In 2024, Transform Your Mac Interaction  Innovative Text-to-Speech Apps Uncovered</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>In 2024, Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-brainiac-challenge-gk-quizzes/"><u>In 2024, Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-slug-line-formats-in-screenplays/"><u>In 2024, Unlocking the Potential of Slug Line Formats in Screenplays</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>In 2024, Vegas Pro 2021 Unpacked  Game Changer or Just Another Tool?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-visual-victory-amd-radeon-evolution/"><u>In 2024, Visual Victory  AMD Radeon Evolution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-x-marked-moments-in-the-22-snowboard-games/"><u>In 2024, X-Marked Moments in the '22 Snowboard Games</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-slow-motion-video-complete-guide-for-2024/"><u>New How to Make a Slow Motion Video Complete Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-11-brain-games-engaging-trivia-channels-for-2024/"><u>Top 11 Brain Games  Engaging Trivia Channels for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix Hot 40i</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-magic-in-marketing-top-20-keyphrases-for-2024/"><u>Unlocking Magic in Marketing - Top 20 Keyphrases for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching-for-2024/"><u>Unveiling the Truth  Apple's Face ID Against Samsung’ Writers' Face-Matching for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-essential-collection-of-voice-modification-tools-amplifying-male-speech-into-high-pitched-female-sounds/"><u>Updated In 2024, Essential Collection of Voice Modification Tools Amplifying Male Speech Into High-Pitched Female Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/usb-c-vision-the-new-standard-in-monitors-hp-envy-27-for-2024/"><u>USB-C Vision  The New Standard in Monitors - HP Envy 27 for 2024</u></a></li>
+</ul></div>

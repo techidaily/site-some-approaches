@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Switch On/Off YouTube's PIP Mode on Your iPhone\""
-date: 2024-06-03T22:15:40.032Z
-updated: 2024-06-04T22:15:40.032Z
+date: 2024-07-20T22:50:14.577Z
+updated: 2024-07-21T22:50:14.577Z
 tags: 
   - screen-recording
   - ai video
@@ -32,11 +32,17 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 2. Tap the **Shortcut** extension in Settings
 3. Turn on **Allow Untrusted Shortcuts**. If this option is not available for your device, go to **Screen Time extension** and disable any screen time restrictions. So, you will proceed successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enable pip on iphone](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-1.jpg)
 
 1. If you require a **YouTube PIP** shortcut app on your device to proceed, you can download it from App Store or [the Shortcuts Gallery browser](https://shortcutsgallery.com/shortcuts/youtube-pip/) and then add it to your Shortcut Library.
 2. Open the **YouTube PIP** Shortcut and tap **Get Shortcut** on the App. You will be redirected to the shortcut application on your phone. If you don't have the shortcut application, you can download it from the App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![shortcut application](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg)
 
 1. Tap **Allow Untrusted Shortcuts** in the Shortcut Application on your device
@@ -46,6 +52,10 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 5. Tap on **YouTube PIP** and a burner will pop out at the top of your phone.
 6. Tap on the burner that pops out. It will direct you to the actual shortcut for YouTube. And you will need to install an additional Application (Scriptable App).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-3.jpg)
 
 1. Tap on **View in App Store** on the screen that appears. This will direct you to the App Store.
@@ -55,6 +65,9 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 
 1. Go to YouTube again and start any video. Tap the **Share icon**, scroll to the right and tap the **More icon**, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![floating screen](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-5.jpg)
 
 And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.
@@ -91,8 +104,16 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 4. Tap the **More icon**.
 5. Tap **YouTube PIP** and select **OK** on the burner that appears on the screen. This will produce a new floating window automatically on the screen. You can select a window resolution that fits you and go back to Home Screen. Your video will play in a floating window on your home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### PIP on Mac
 
 On your Mac, there are two ways to get into Picture in Picture mode. You can use Control Command and Mouse together, or simply the mouse itself/touchpad. And here is how to do it with a Mouse only.
@@ -143,3 +164,44 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfecting-your-reel-integrating-music-on-instagram/"><u>[New] 2024 Approved  Perfecting Your Reel  Integrating Music on Instagram</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>[New] Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-training-on-googles-automatic-transcription-tool/"><u>[Updated] In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>[Updated] Streamline Your Slide Show  Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-sync-your-world-with-these-free-beat-detectors/"><u>[Updated] Sync Your World with These Free Beat Detectors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ten-practices-to-avoid-vr-motion-sickness/"><u>[Updated] Ten Practices to Avoid VR Motion Sickness</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-end-of-acid-pro-top-software-alternatives-reviewed/"><u>[Updated] The End of ACID Pro  Top Software Alternatives Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>[Updated] The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-for-reducing-unsteady-shots/"><u>[Updated] Tips for Reducing Unsteady Shots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-the-best-sound-alterers-7-high-quality-vocal-editing-apps/"><u>2024 Approved  Discover the Best Sound Alterers  7 High-Quality Vocal Editing Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-pathway-from-srt-to-subc-3-actionable-methods/"><u>2024 Approved  Pathway From SRT to SUBC  3 Actionable Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-of-ice-artistry-2022-edition/"><u>2024 Approved  The Best of Ice Artistry  2022 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-in-your-hands-lgs-vr-gaming-masterpiece/"><u>2024 Approved  The Future in Your Hands  LG's VR Gaming Masterpiece</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-viral-instagram-unboxing-vids/"><u>2024 Approved  The Ultimate Guide to Viral Instagram Unboxing Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-clicker-article-titles-maker/"><u>2024 Approved  Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-budget-for-making-a-music-video/"><u>2024 Approved  Total Budget for Making a Music Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>2024 Approved  Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>2024 Approved  Unmasking the Giants of Live Broadcast  Twitch Vs YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-narratives-from-cinemas-broad-spectrum/"><u>Elite Narratives From Cinema's Broad Spectrum</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v30-lite-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V30 Lite 5G.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>In 2024, From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g13-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G13 for Free? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-minitool-movie-maker-a-comprehensive-review-and-comparison-of-alternatives/"><u>In 2024, Minitool Movie Maker A Comprehensive Review and Comparison of Alternatives</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-what-to-look-for-in-a-youtube-mp3-converter-a-comprehensive-guide/"><u>In 2024, What to Look for in a YouTube MP3 Converter A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks-for-2024/"><u>New Video Editor for Mavericks How to Edit Videos in OS X Mavericks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinitializing-your-steam-gaming-milestones/"><u>Reinitializing Your Steam Gaming Milestones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-g34-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto G34 5G</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/step-by-step-obs-studio-setup-for-android-users/"><u>Step-by-Step OBS Studio Setup for Android Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-interpreting-video-reactions-on-youtube-for-2024/"><u>Techniques for Interpreting Video Reactions on YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-role-of-b-roll-in-cinematic-storytelling-for-2024/"><u>The Role of B-Roll in Cinematic Storytelling for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-science-of-luts-elevating-photo-aesthetics-for-2024/"><u>The Science of LUTs  Elevating Photo Aesthetics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-straightforward-route-scrolling-through-popular-youtube-feedbacks-for-2024/"><u>The Straightforward Route  Scrolling Through Popular YouTube Feedbacks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-easy-android-image-fixes-for-2024/"><u>Top 5 Easy Android Image Fixes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-the-full-potential-of-free-countdown-tools-for-2024/"><u>Unleashing the Full Potential of Free Countdown Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/use-kapwing-meme-maker-for-2024/"><u>Use Kapwing Meme Maker for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unmatched Upticks  Celebrating Top 10 Reddit Discussions\""
-date: 2024-06-03T14:35:10.013Z
-updated: 2024-06-04T14:35:10.013Z
+date: 2024-07-20T18:08:53.475Z
+updated: 2024-07-21T18:08:53.475Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ Its purpose is quite ironic. The point was to make this image of Chancellor Palp
 
 Sadly, the attempt failed but still received a lot of attention.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
 This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
@@ -63,6 +70,9 @@ It represents a fun and public meme of someone buying a billboard in New York. T
 
 $GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
@@ -71,6 +81,9 @@ Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was poste
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
 
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
@@ -81,8 +94,14 @@ The image depicts the New York spirit as an excited cab driver shows off his cab
 
 What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
 
 Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
@@ -95,6 +114,9 @@ You understand the pain if you've gone through something like this.
 
 ### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
@@ -121,8 +143,14 @@ This is another most upvoted Reddit post that encouraged over 180k users to join
 
 It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
 
 Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
@@ -133,6 +161,9 @@ The post has a 98% upvote rate with 170k voters in total. The reason it's so pop
 
 ### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
 
 Finally, this is an inspiring and heartwarming post about a brave troop.
@@ -149,6 +180,9 @@ The Reddit post has over 4k comments, many of which feature thousands of upvotes
 
 Apart from what been introduced to you above, we also prepared a video about the most upvoted posts on Reddit. If you have any interests, you can watch it and get a deeper understanding of why these posts are so popular.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Some of these highly upvoted Reddit posts are funny, some serious, and some slightly political. But it just goes to show what type of content has the potential to blow up and become viral at any given point in time. You can use these insights to find trending posts or create a Reddit marketing strategy for your business.
@@ -184,3 +218,48 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-your-footprint-in-the-world-of-youtube-comments-for-2024/"><u>[New] Finding Your Footprint in the World of YouTube Comments for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[New] Fostering Fandoms  Top Three Storytelling Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-beyond-flat-canvas-elevating-text-to-new-heights/"><u>[New] In 2024, Beyond Flat Canvas  Elevating Text to New Heights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-configuring-a-powerful-zoom-room/"><u>[New] The Insider's Look at Configuring a Powerful Zoom Room</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-filmmakers-guide-to-mastering-green-screen-technology-for-2024/"><u>[Updated] A Filmmaker's Guide to Mastering Green Screen Technology for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps-for-2024/"><u>[Updated] Enhance Content Categorization  Top Picks for the 7 Cheapest Youtube Taggification Apps for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charisma-in-characters-two-ways-to-enliven-text/"><u>[Updated] In 2024, Charisma in Characters  Two Ways to Enliven Text</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-choices-beyond-obs-for-video-capture/"><u>[Updated] Prime Choices  Beyond OBS for Video Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>[Updated] The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-podcasters-roadmap-to-seo-excellence/"><u>[Updated] The Podcaster’s Roadmap to SEO Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>[Updated] The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-watching-basketball-with-precision/"><u>[Updated] The Ultimate Guide  Watching Basketball with Precision</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-online-music-venues/"><u>[Updated] Top 30 Online Music Venues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-picks-premium-iphone-tune-selectors/"><u>[Updated] Top Picks  Premium iPhone Tune Selectors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>[Updated] Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-growth-medical-ad-tricks-on-social-media/"><u>[Updated] Unlocking Growth  Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unpacking-the-essentials-mastering-adobes-storage-solutions-and-their-rival-alternatives/"><u>[Updated] Unpacking The Essentials  Mastering Adobe's Storage Solutions & Their Rival Alternatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-share-enjoy/"><u>2024 Approved  Capture, Share, Enjoy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>2024 Approved  Must-Have  Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-textual-enhancements-in-visual-media/"><u>2024 Approved  Textual Enhancements in Visual Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-film-crafting-with-kinemaster-tools/"><u>2024 Approved  The Art of Film Crafting with Kinemaster Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-photographs-into-stunning-collaborative-art/"><u>2024 Approved  Transforming Photographs Into Stunning Collaborative Art</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-a60s-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel A60s System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/game-on-mastering-the-art-of-play-with-kinemaster-on-android/"><u>Game On! Mastering the Art of Play with KineMaster on Android</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-xcover-6-pro-tactical-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy XCover 6 Pro Tactical Edition phone? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mirrored-moments-with-iphone-photography-expertise/"><u>In 2024, Mirrored Moments with iPhone Photography Expertise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-secure-your-free-lut-resources-top-ten-list/"><u>In 2024, Secure Your Free LUT Resources - Top Ten List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategy-unveiled-masterful-box-opening-tactics/"><u>In 2024, Strategy Unveiled  Masterful Box-Opening Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-symphonic-syncopation-perfecting-audio-transitions/"><u>In 2024, Symphonic Syncopation  Perfecting Audio Transitions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-transferring-media-between-two-iphones/"><u>In 2024, Techniques for Transferring Media Between Two iPhones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-checklist-for-crafting-distinctive-youtube-short-videos/"><u>In 2024, The Ultimate Checklist for Crafting Distinctive YouTube Short Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toonbox-complete-insight-for-24-year/"><u>In 2024, ToonBox Complete Insight for '24 Year</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-choice-top-mp4-players-unveiled/"><u>In 2024, Ultimate Choice  Top MP4 Players Unveiled</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-popular-sites-to-free-download-guitar-background-photos-and-music/"><u>New Popular Sites to Free Download Guitar Background Photos and Music</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-power-of-consistency-rising-up-the-charts-on-youtube/"><u>The Power of Consistency  Rising Up the Charts on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-steadicams-to-elevate-your-dslr-filming-capabilities-for-2024/"><u>Top Steadicams to Elevate Your DSLR Filming Capabilities for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-session-identifier-generator-for-2024/"><u>Top-Tier Session Identifier Generator for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-workflow-top-10-stealthy-canva-techniques-for-2024/"><u>Transform Your Workflow  Top 10 Stealthy Canva Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-ffxp-mode-for-2024/"><u>Unlocking the Secrets of FFXP Mode for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-guide-to-removing-speech-from-recordings-using-adobe-audition/"><u>Updated In 2024, The Ultimate Guide to Removing Speech From Recordings Using Adobe Audition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y100? | Dr.fone</u></a></li>
+</ul></div>

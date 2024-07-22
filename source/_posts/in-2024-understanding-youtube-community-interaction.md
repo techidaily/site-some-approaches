@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding YouTube Community Interaction"
-date: 2024-06-03T20:25:45.030Z
-updated: 2024-06-04T20:25:45.030Z
+date: 2024-07-20T21:42:19.887Z
+updated: 2024-07-21T21:42:19.887Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -54,6 +57,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -72,10 +78,16 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
@@ -112,8 +124,14 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -149,3 +167,52 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-speed-boosting-tools-for-android-users/"><u>[New] Top 8 Speed Boosting Tools for Android Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-meme-making-tools-discover-your-favorites/"><u>[New] Top Meme-Making Tools  Discover Your Favorites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-your-images-true-self-a-canva-step-by-step/"><u>[New] Unveiling Your Image’s True Self  A Canva Step-by-Step</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-15-types-of-camera-shots-in-film-beginners-need-to-know/"><u>[Updated] 15 Types of Camera Shots in Film Beginners Need to Know</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pinnacle-mac-recording-options-top-5-for-clarity/"><u>[Updated] 2024 Approved  Pinnacle Mac Recording Options  Top 5 for Clarity</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-curating-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10/"><u>[Updated] Curating Historical Wisdom  The Ultimate Student-Friendly Channel List (#1-10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>[Updated] Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-temporary-hold-recording-assistance/"><u>[Updated] Temporary Hold Recording Assistance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-premier-manual-for-subtitle-precision-via-web-resources/"><u>[Updated] The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>[Updated] The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-picks-for-excellent-free-srt-translation-tools/"><u>[Updated] Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-notch-ae-extensions-selection/"><u>[Updated] Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-top-voice-change-programs/"><u>[Updated] Ultimate List of Top Voice-Change Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>[Updated] Unveiling the Specs  HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-live-stream-to-instagram-from-obs/"><u>2024 Approved  How To Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-incorporating-instagrams-cutting-edge-filters/"><u>2024 Approved  Incorporating Instagram's Cutting Edge Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>2024 Approved  Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtle-harmonies-on-desktop-systems/"><u>2024 Approved  Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories/"><u>2024 Approved  The Art of Preservation  Digitizing & Safeguarding Faded Family Memories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows/"><u>2024 Approved  The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tutorial-for-downloading-movie-maker-6-on-windows/"><u>2024 Approved  Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-success-in-the-world-of-digital-marketing/"><u>2024 Approved  Unlocking Success in the World of Digital Marketing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-google-podcast-uploads/"><u>2024 Approved  Unlocking the Secrets of Google Podcast Uploads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-vrs-impact-on-digital-cinema/"><u>2024 Approved  Unraveling VR's Impact on Digital Cinema</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nubia-red-magic-8s-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nubia Red Magic 8S Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection/"><u>Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/audio-alchemy-instagram-video-to-mp3-a-compreayers-guide-for-2024/"><u>Audio Alchemy  Instagram Video to Mp3 - A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-prime-video-plus-comprehensive-live-channel-access/"><u>In 2024, Prime Video Plus  Comprehensive Live Channel Access</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-synthesizing-mood-an-ode-to-trailer-tunes/"><u>In 2024, Synthesizing Mood  An Ode to Trailer Tunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-rectify-iphone-photo-out-of-focus/"><u>In 2024, Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-edge-of-innovation-secure-these-7-must-have-devices/"><u>In 2024, The Edge of Innovation  Secure These 7 Must-Have Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tickler-toolkit-image-mashup/"><u>In 2024, Tickler Toolkit  Image Mashup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-1-global-stage-viewings/"><u>In 2024, Top 1 Global Stage Viewings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultra-creations-synopsis-studio-25-detailed-analysis-2023/"><u>In 2024, Ultra Creations Synopsis  Studio 25 Detailed Analysis, 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vanguard-enterprises-of-spatial-display-tech/"><u>In 2024, Vanguard Enterprises of Spatial Display Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premiere-video-tools-for-iphone-for-2024/"><u>Premiere Video Tools for iPhone for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/steps-to-develop-a-charismatic-vlog-script-for-2024/"><u>Steps to Develop a Charismatic Vlog Script for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-skipping-virtual-learning-videos-for-2024/"><u>Strategies for Skipping Virtual Learning Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-to-reduce-nausea-while-in-vr-for-2024/"><u>Techniques to Reduce Nausea While In VR for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-your-lens-skills-with-snapseed-essentials-for-2024/"><u>Unlock Your Lens Skills with Snapseed Essentials for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-sns-hdrs-strengths-and-comparative-software-for-2024/"><u>Unveiling SNS HDR's Strengths & Comparative Software for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-10-animated-text-makers-you-need-to-try-this-year/"><u>Updated Top 10 Animated Text Makers You Need to Try This Year</u></a></li>
+</ul></div>

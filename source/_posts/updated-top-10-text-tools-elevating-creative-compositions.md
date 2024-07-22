@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 Text Tools Elevating Creative Compositions"
-date: 2024-06-03T20:35:29.065Z
-updated: 2024-06-04T20:35:29.065Z
+date: 2024-07-20T21:48:16.983Z
+updated: 2024-07-21T21:48:16.983Z
 tags: 
   - screen-recording
   - ai video
@@ -26,14 +26,23 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -44,14 +53,24 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -80,8 +99,15 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -90,6 +116,9 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -131,3 +160,45 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-everything-about-facebook-live-split-screen-you-should-know-for-2024/"><u>[New] Everything About Facebook Live Split Screen You Should Know for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>[New] Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship/"><u>[New] Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmasking-the-secrets-of-samsungs-image-manipulation-tech/"><u>[New] Unmasking the Secrets of Samsung's Image Manipulation Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-magixs-acid-pro-and-its-competitors/"><u>[Updated] Inside Magix's ACID Pro and Its Competitors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-score-high-in-video-conferencing-top-screen-recorders-reviewed/"><u>[Updated] Score High in Video Conferencing  Top Screen Recorders Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-qanda-list-to-attract-podcast-audience/"><u>[Updated] Streamlined Q&A List to Attract Podcast Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>[Updated] The Digital Revolution  Today's VR Landscape & Tomorrow's Trials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-esl-english-as-second-language-for-vr/"><u>[Updated] The ESL (English as Second Language) for VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-visual-journey-samsungs-ue590-reviewed/"><u>[Updated] The Ultimate Visual Journey - Samsung's UE590 Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-zoo-matic-guide-to-improved-snapchat-media/"><u>[Updated] The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-tools-revolutionizing-the-art-of-virtual-performer-sound-design/"><u>[Updated] Top 10 Tools Revolutionizing the Art of Virtual Performer Sound Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-6-choices-in-helmet-integrated-gopro-systems-explained/"><u>[Updated] Top 6 Choices in Helmet-Integrated GoPro Systems Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>[Updated] Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-workshop-designers-app/"><u>[Updated] Ultimate Workshop Designer's App</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unseen-chronicles-5-expertly-crafted-viewer-tools-for-2024/"><u>[Updated] Unseen Chronicles  5 Expertly Crafted Viewer Tools for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/15-animated-characters-we-all-had-a-crush-on/"><u>15 Animated Characters We All Had A Crush On</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-key-approaches-turning-visual-content-into-music-files/"><u>2024 Approved  Key Approaches  Turning Visual Content Into Music Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-making-avatar-creation-a-breeze-in-the-digital-realm/"><u>2024 Approved  Making Avatar Creation a Breeze in the Digital Realm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>2024 Approved  Syncing Scores and Screenplays  Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-in-meet-zooming-excellence-google-meet/"><u>2024 Approved  Techniques for In-Meet Zooming Excellence (Google Meet)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-compendium-hands-free-device-interaction/"><u>2024 Approved  The Ultimate Compendium  Hands-Free Device Interaction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>2024 Approved  The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>2024 Approved  The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>2024 Approved  Unclutter Your Layout  Expertly Remove Backgrounds in Figma</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncovering-the-invisible-how-to-inspect-facebooks-data-trails/"><u>2024 Approved  Uncovering the Invisible  How to Inspect Facebook's Data Trails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-visual-transformation-toolkit/"><u>2024 Approved  Unmatched Visual Transformation Toolkit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>2024 Approved  Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-aggregated-compendium-of-podcast-publishing-services/"><u>2024 Approved Aggregated Compendium of Podcast Publishing Services</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-harmonizing-hues-the-10-best-free-mobile-apps-that-transform-songs-into-vibrant-graphics-for-iphoneandroid/"><u>2024 Approved Harmonizing Hues The 10 Best Free Mobile Apps That Transform Songs Into Vibrant Graphics for iPhone/Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-6-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 6 online without jailbreak</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-frameinspector-appraisal-suite/"><u>In 2024, FrameInspector Appraisal Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>In 2024, LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/reformat-and-rename-macs-image-file-transformation/"><u>Reformat and Rename  Mac's Image File Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging-for-2024/"><u>The Ultimate Guide  A Detailed Walkthrough of Internet Radio Logging for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors-for-2024/"><u>Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-transformations-in-vegaspro-19-for-2024/"><u>Understanding the Transformations in VegasPro '19 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mastering-app-and-browser-oversight/"><u>Windows: Mastering App & Browser Oversight</u></a></li>
+</ul></div>

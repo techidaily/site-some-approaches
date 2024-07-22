@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Photos with Expert Color Techniques"
-date: 2024-06-03T23:19:19.495Z
-updated: 2024-06-04T23:19:19.495Z
+date: 2024-07-20T23:28:37.215Z
+updated: 2024-07-21T23:28:37.215Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ Do you want to change the color of any particular shirt in the photo? Then use A
 
 On the tab of hue and saturation, you can use hue, saturation, and brightness to change the color of your selected shirt. Just use their draggers to change the color, brightness, and saturation according to your preferences. After making all the changes, you would need to find and tune the selection to get rid of minor flaws.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
@@ -48,18 +51,32 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
 
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
 ### 5\. Tip 5: Choose Object Color Range
@@ -70,10 +87,16 @@ Do you want to change the color of a specific part of the image? You can do this
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 ### 6\. Tip 6: Use Blend IF
@@ -90,6 +113,9 @@ This method only hides color based on their luminance values; however, this load
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
@@ -98,6 +124,9 @@ If you don’t have an offline tool like Adobe Photoshop, you can use an online 
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
@@ -131,3 +160,62 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-authenticity-and-connection-via-fb-profile-covers-for-2024/"><u>[New] Enhancing Authenticity and Connection via FB Profile Covers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-haul-videos-tips-and-tricks-for-editors/"><u>[New] Mastering Haul Videos  Tips & Tricks for Editors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quieting-audio-fades-in-ableton-live/"><u>[New] Quieting Audio Fades in Ableton Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synchronized-screenshots-pc-or-cloud-perfection/"><u>[New] Synchronized Screenshots  PC or Cloud Perfection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-catalog-of-livestreaming-cameras-review/"><u>[New] The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-most-caring-android-solutions-for-3ds-games-for-2024/"><u>[New] The Most Caring Android Solutions for 3DS Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-reddits-most-adored-and-upvoted-stories/"><u>[New] The Ultimate List  Reddit's Most Adored and Upvoted Stories</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-earnings-gurus-choice-top-6-tools/"><u>[New] TikTok Earnings Gurus' Choice  Top 6 Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tools-for-producing-road-trip-videos/"><u>[New] Tools for Producing Road Trip Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-web-portals-finding-perfect-alarm-sounds/"><u>[New] Top Web Portals  Finding Perfect Alarm Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-the-mysteries-of-quantum-hdr/"><u>[New] Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-more-than-memories-adding-fun-filters-to-snaps-for-2024/"><u>[Updated] Capture More Than Memories  Adding Fun Filters to Snaps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-premier-mac-4k-monitor-selections-top-10-edition/"><u>[Updated] In 2024, Premier Mac 4K Monitor Selections  Top 10 Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-non-rooting-methods-to-record-android-sounds-for-2024/"><u>[Updated] Non-Rooting Methods to Record Android Sounds for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-slow-fade-to-action/"><u>[Updated] Slow Fade to Action</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-filming-in-water-proven-7-tips-for-vids/"><u>[Updated] Streamline Filming in Water  Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>[Updated] The New Wave of Coding Excellence  AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-collection-5-outstanding-book-tts/"><u>[Updated] The Ultimate Collection  5 Outstanding Book TTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>[Updated] Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>[Updated] Top 2023 No-Cost Live Stream Tools  Cross-Platform Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-grading-3-simplified-photoshop-routines/"><u>[Updated] Transformative Grading  3 Simplified Photoshop Routines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tricks-to-turn-off-youtube-videos-without-compromise/"><u>[Updated] Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-hitching-high-quality-fb-media-downloads/"><u>2024 Approved  Hitching High-Quality FB Media Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-multitasking-mastery-activities-while-embracing-soundtracks/"><u>2024 Approved  Multitasking Mastery  Activities While Embracing Soundtracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-brain-teasers-selecting-prime-trivia-channels/"><u>2024 Approved  The Best Brain Teasers - Selecting Prime Trivia Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-creme-de-la-cream-of-online-tv-services/"><u>2024 Approved  The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-global-communicators-guide-to-the-best-19-translation-apps/"><u>2024 Approved  The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-windows-10s-video-creation-capabilities/"><u>2024 Approved  The Ultimate Guide to Windows 10'S Video Creation Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-step-by-step-guide-for-using-movie-maker-on-w11/"><u>2024 Approved  The Ultimate Step-By-Step Guide for Using Movie Maker on W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-8-immersive-titles-with-oculus-support/"><u>2024 Approved  Top 8 Immersive Titles with Oculus Support</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tech-marvels-top-picks-for-everyone/"><u>2024 Approved  Ultimate Tech Marvels  Top Picks for Everyone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>2024 Approved  Uncompromised Creativity  Best macOS Big Sur Editing Tools Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-under-a-hundred-bucks-heres-your-top-5-drones/"><u>2024 Approved  Under a Hundred Bucks? Here's Your Top 5 Drones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ushering-bliss-into-your-unboxing-experience/"><u>2024 Approved  Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-5-popular-tools-to-help-you-distort-audio/"><u>2024 Approved 5 Popular Tools to Help You Distort Audio</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y36-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y36</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bass-bridges-and-high-beats-understanding-sound-mixing/"><u>Bass Bridges & High Beats  Understanding Sound Mixing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/borrow-premium-image-footage-via-top-rated-4-youtube-channels/"><u>Borrow Premium Image Footage via Top-Rated 4 YouTube Channels</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/elevating-cinematic-experience-effective-application-of-tension-inducing-themes/"><u>Elevating Cinematic Experience Effective Application of Tension-Inducing Themes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-intriguing-world-of-whole-sphere-videos/"><u>In 2024, The Intriguing World of Whole Sphere Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-digital-storefronts-for-exquisite-presentation-boxes/"><u>In 2024, Top 10 Digital Storefronts for Exquisite Presentation Boxes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>In 2024, Undoing Streams  A Complete List of 25 Procedures for Twitch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-note-50-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme Note 50 Phone Now with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-to-extend-gopro-battery-hours-for-2024/"><u>Strategies to Extend GoPro Battery Hours for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-song-synchronizer-app-android-for-2024/"><u>Supreme Song Synchronizer App (Android) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods-for-2024/"><u>Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-podcast-titling-a-step-by-step-guide-for-2024/"><u>The Art of Podcast Titling  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-top-artisans-in-sound-and-video-craftsminas-online-for-2024/"><u>The Top Artisans in Sound and Video Craftsminas Online for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-unsung-heros-guide-to-tiktok-live-participation-for-2024/"><u>The Unsung Hero's Guide to TikTok Live Participation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-steadicams-for-exceptional-aerial-shots-with-drones-for-2024/"><u>Top Steadicams for Exceptional Aerial Shots with Drones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turning-xmlssattml-files-into-srt-formats-strategies-and-techniques-for-2024/"><u>Turning XML/SSA/TTML Files Into SRT Formats  Strategies and Techniques for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-6-wmv-to-gif-converters/"><u>Updated Best 6 WMV to GIF Converters</u></a></li>
+</ul></div>

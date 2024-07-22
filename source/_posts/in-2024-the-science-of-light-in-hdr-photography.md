@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Science of Light in HDR Photography"
-date: 2024-06-03T18:32:37.323Z
-updated: 2024-06-04T18:32:37.323Z
+date: 2024-07-20T20:33:20.626Z
+updated: 2024-07-21T20:33:20.626Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,9 @@ People often find it challenging to shoot a perfect HDR photograph from a phone 
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -54,6 +57,18 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -68,10 +83,25 @@ So almost all DSLRs come with this beneficial feature of bracketing. You can che
 
 Usually, three shots are ideal for HDR portraits as the chances of moving decrease. Nowadays, many latest DSLRs have the option of automatic exposure bracketing as it provides the photographer with different levels of exposure in a single click without spending valuable time adjusting camera settings.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![moving decrease](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-2.jpg)
 
 Once you are done with your bracketing settings, all you have to do is press and hold the shutter, and your specified number of photos will be taken, each with a different exposure value.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Some Useful Tips to Remember
 
 1. **Try to Keep the Subject Still**
@@ -88,6 +118,9 @@ Same is the case for your camera. You have to use a tripod stand to avoid camera
 
 You should adjust the focus manually instead of autofocus, as it may shift the focus accidentally while pressing the shutter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
 
 ### HDR Effects on Phone Camera
@@ -123,6 +156,9 @@ Hundreds of editing software are available but here we are going to talk about p
 * Click on **Browse** and select the images you want to merge.
 * Before clicking the OK button, you can tick on the **Attempt to Automatically Align Source Images** option so that minor artifacts introduced while shooting the images can be removed by photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removed by photoshop](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-5.jpg)
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
@@ -176,3 +212,44 @@ How to Shoot HDR Portraits?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-economic-elders-youtubes-most-knowledgeable-financial-stations/"><u>[New] 2024 Approved  Economic Elders  YouTube's Most Knowledgeable Financial Stations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-finalizing-account-deletion-on-instagram-method-and-tips/"><u>[New] 2024 Approved  Finalizing Account Deletion on Instagram  Method and Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturecanvas-hd-screen-toolkit/"><u>[New] In 2024, CaptureCanvas HD Screen Toolkit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-virtual-music-showcase/"><u>[New] Superior Virtual Music Showcase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>[New] The Audio File Alchemy  Converting SRT to Multiple Formats Professionally</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-business-data-haven-selection/"><u>[New] Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-djis-sky-artistry-20-free-color-filters-offer/"><u>[New] Transform DJI's Sky Artistry  20 Free Color Filters Offer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-pair-audio-with-video-webspace-hub/"><u>[Updated] Pair Audio with Video Webspace Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[Updated] Streamline Your Sound  Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>[Updated] Swap Periscope  Leading Video Apps for iPhone/Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-qanda-on-quantum-hdr-technology/"><u>[Updated] The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-free-graphics-websites-a-compreran-analysis/"><u>[Updated] Top 10 FREE Graphics Websites  A Compreran Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>[Updated] Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-sluggish-to-speedy-on-android-vids/"><u>[Updated] Transform Sluggish to Speedy on Android Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-innovation-in-desktop-computers/"><u>[Updated] Ultimate Innovation in Desktop Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-art-of-flipping-photo-shades/"><u>[Updated] Unveiling the Art of Flipping Photo Shades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vanguard-sky-stashers-for-android-users-2024/"><u>[Updated] Vanguard Sky Stashers for Android Users 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>2024 Approved  Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-content-for-snapchats-luminaries/"><u>2024 Approved  Tailoring Content for Snapchat's Luminaries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-fast-forwarding-safely-expedite-your-spotify-experience/"><u>2024 Approved  The Art of Fast-Forwarding  Safely Expedite Your Spotify Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-video-sharing-from-youtube-to-insta-for-2024/"><u>Elevating Video Sharing  From YouTube to Insta for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discovering-fun-ways-to-spruce-up-your-discord-status/"><u>In 2024, Discovering Fun Ways to Spruce Up Your Discord Status</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE when Phone is Broken?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-xs-max-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone XS Max and Android Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unique-soundscapes-for-your-one-person-show/"><u>In 2024, Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiled-top-6-tools-to-purify-signature-images-online/"><u>In 2024, Unveiled  Top 6 Tools to Purify Signature Images Online</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-fold-5-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Fold 5 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-image-processes-with-polarrs-compreeved-tools-for-2024/"><u>Streamlining Image Processes with Polarr's Compreeved Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stylizing-strings-for-cinematic-results-for-2024/"><u>Stylizing Strings for Cinematic Results for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-difference-between-srgb-and-rgb-for-2024/"><u>The Difference Between Srgb & Rgb for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-insiders-pathway-to-effective-auditory-notes-for-2024/"><u>The Insider’s Pathway to Effective Auditory Notes for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-rich-tapestry-of-ajeys-channel-wealth-for-2024/"><u>The Rich Tapestry of Ajey's Channel Wealth for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secret-language-of-success-top-20-market-phrases-for-2024/"><u>The Secret Language of Success - Top 20 Market Phrases for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-noisy-to-pro-how-to-remove-background-noise-in-final-cut-pro-x-like-a-pro/"><u>Updated In 2024, From Noisy to Pro How to Remove Background Noise in Final Cut Pro X Like a Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-10-best-cartoon-video-editing-apps/"><u>Updated The Ultimate List 10 Best Cartoon Video Editing Apps</u></a></li>
+</ul></div>

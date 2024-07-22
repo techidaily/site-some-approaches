@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Photo Magic  The Role of LUTs in Editing\""
-date: 2024-06-03T23:13:47.993Z
-updated: 2024-06-04T23:13:47.993Z
+date: 2024-07-20T23:25:18.988Z
+updated: 2024-07-21T23:25:18.988Z
 tags: 
   - screen-recording
   - ai video
@@ -50,12 +50,19 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -64,6 +71,10 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -74,6 +85,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +95,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -95,6 +112,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -127,3 +147,47 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dive-into-creating-alluring-youtube-video-intros/"><u>[New] 2024 Approved  Dive Into Creating Alluring YouTube Video Intros</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>[New] Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-essential-steps-for-starting-a-channel-on-discord/"><u>[New] In 2024, Essential Steps for Starting a Channel on Discord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-unlock-youtubes-enigmentic-video-cache/"><u>[New] In 2024, How to Unlock YouTube’s Enigmentic Video Cache</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-techniques-to-amplify-your-fb-giveaway-reach/"><u>[New] Strategic Techniques to Amplify Your FB Giveaway Reach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-audio-files-new-world-how-to-convert-srt-effortlessly/"><u>[New] The Audio Files' New World  How to Convert SRT Effortlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-economics-of-successful-podcasting/"><u>[New] The Economics of Successful Podcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-visual-strategy-for-podcast-branding/"><u>[New] The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-timeframe-equation-for-20mb-content/"><u>[New] Timeframe Equation for 20MB Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-ranked-animation-set-for-typography/"><u>[New] Top-Ranked Animation Set for Typography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-shots-with-ease-in-photoshop/"><u>[New] Transforming Your Shots with Ease in Photoshop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-newest-lg-bp550-specs/"><u>[New] Ultimate Guide  Newest LG BP550 Specs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>[New] Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leverage-likes-and-brands-to-boost-ig-income/"><u>[Updated] 2024 Approved  Leverage Likes and Brands to Boost IG Income</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-revenue-revolution-unlocking-online-income-through-youtube-monetization/"><u>[Updated] In 2024, Revenue Revolution  Unlocking Online Income Through YouTube Monetization</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tracing-your-instagram-fanbase-shifts-for-2024/"><u>[Updated] Tracing Your Instagram Fanbase Shifts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-racer-cutting-edge-gaming-selection/"><u>2024 Approved  Elite Racer  Cutting-Edge Gaming Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-on-air-in-minutes-easy-steps-to-start-a-live-stream/"><u>2024 Approved  On Air in Minutes  Easy Steps to Start a Live Stream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-race-for-excellence-av1-vs-vp9-codec/"><u>2024 Approved  The Race for Excellence  AV1 Vs. VP9 Codec</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation/"><u>2024 Approved  The Ultimate Guide to Voice Changes  Expert's Handbook for MorphVOX Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tune-up-clips-import-audio-into-inshot-easily/"><u>2024 Approved  Tune Up Clips  Import Audio Into InShot Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-no-cost-high-quality-text-psds/"><u>2024 Approved  Unleash Creativity  No-Cost, High-Quality Text PSDs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>2024 Approved  Unlocking Full Degree Potential  Editing Strategies with Adobe Premiere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-channels-to-zero-cost-image-frames/"><u>2024 Approved  Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>4 solution to get rid of pokemon fail to detect location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/amplify-focus-on-the-little-things-with-videoleap-zoom-for-2024/"><u>Amplify Focus on the Little Things with VideoLeap Zoom for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>In 2024, Instant Insight  Method for Punctuation of Timelines in Images</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-f04-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy F04 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>In 2024, The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>In 2024, Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>In 2024, Top 4 Remedies  Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-luts-in-the-realm-of-photographic-mastery/"><u>In 2024, Understanding LUTs in the Realm of Photographic Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unique-outro-music-files-at-your-fingertips-free/"><u>In 2024, Unique Outro Music Files at Your Fingertips - Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>In 2024, Unlocking Drone Knowledge  Must-Know Before Making a Deal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-strategies-for-reaching-a-million-view-goal-for-2024/"><u>Master Strategies for Reaching a Million-View Goal for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-seamless-sound-sync-a-step-by-step-guide-to-premiere-pro-audio-management-for-2024/"><u>New Seamless Sound Sync A Step-by-Step Guide to Premiere Pro Audio Management for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-permissions-violation-by-hidden-system/"><u>Printer Permissions Violation by Hidden System</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-a2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi A2 FRP</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-creating-a-sense-of-speed-motion-blur-in-final-cut-pro/"><u>Updated In 2024, Creating a Sense of Speed Motion Blur in Final Cut Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-rhythm-and-resolution-leading-applications-for-seamless-beat-integration-into-videos-2023-edition/"><u>Updated Rhythm & Resolution Leading Applications for Seamless Beat Integration Into Videos, 2023 Edition</u></a></li>
+</ul></div>

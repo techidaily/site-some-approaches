@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Expert Approach to Negative Picture Tones"
-date: 2024-06-03T21:31:48.733Z
-updated: 2024-06-04T21:31:48.733Z
+date: 2024-07-20T22:23:16.164Z
+updated: 2024-07-21T22:23:16.164Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 # How to Invert Colors in Digital Photos?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -86,6 +89,9 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 
 **Compatibility:** macOS, Windows
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
@@ -120,6 +126,10 @@ Inverting the colors in a photo with Negative Photo Effect HD is easy since you 
 
 Inverting colors in a photo is not a complicated process, but finding creative ways to use the negative image effect is since images with inverted colors are best used within a pre-defined context. Do you often create images with inverted colors? Leave a comment below and let us know your favorite method of creating image negatives.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -144,6 +154,9 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 **Compatibility:** Windows
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
@@ -162,6 +175,9 @@ Besides creating image negatives, the Preview app lets you convert image files a
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
@@ -172,6 +188,9 @@ You can experiment with the values you assign to each of these sliders in order 
 
 **Compatibility:** Online platform
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
 
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
@@ -182,6 +201,9 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 **Compatibility** **:** Online platform
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
@@ -192,6 +214,14 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 
 **Compatibility:** macOS, Windows
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
@@ -258,3 +288,46 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transforming-the-sound-landscape-the-finest-discobot-applications-you-must-use/"><u>[New] In 2024, Transforming the Sound Landscape  The Finest DiscoBot Applications You Must Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-navigating-macos-to-optimize-mixer-streams/"><u>[New] Navigating MacOS to Optimize Mixer Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-guide-to-connecting-zoom-and-gmail-services/"><u>[New] Simplified Guide to Connecting Zoom and Gmail Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[New] Taking the First Steps Towards VR Technology  Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>[New] Thwarting VR Discomfort  Tips for a Smooth Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transfer-tactics-efficiently-getting-data-on-your-computer/"><u>[New] Transfer Tactics  Efficiently Getting Data On Your Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-images-into-nfts-the-best-generators-listed/"><u>[New] Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-visuals-the-power-of-customized-luts/"><u>[New] Transforming Visuals  The Power of Customized LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-magixs-acid-pro-and-its-market-rivals/"><u>[New] Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creative-potential-with-luts-in-cs6cc/"><u>[New] Unlocking Creative Potential with LUTs in CS6/CC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>[New] Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[Updated] 2024 Approved  The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tiktoks-biggest-winners-on-the-twittersphere/"><u>[Updated] 2024 Approved  TikTok's Biggest Winners on the Twittersphere</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-asmr-microphones/"><u>[Updated] Best ASMR Microphones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mp3ify-your-fb-videos-directly/"><u>[Updated] MP3ify Your FB Videos Directly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ps4-screen-recording-techniques-for-professional-gamers-for-2024/"><u>[Updated] Ps4 Screen Recording  Techniques for Professional Gamers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sonic-storytelling-in-instagram-visuals/"><u>[Updated] Sonic Storytelling in Instagram Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-creative-entrepreneurs-handbook-in-design/"><u>[Updated] The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>[Updated] Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-leading-online-stores-for-customized-gift-boxes/"><u>[Updated] Unveiling the Leading Online Stores for Customized Gift Boxes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-mystery-of-free-pictorial-video-downloads/"><u>[Updated] Unveiling the Mystery of Free Pictorial Video Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-verbal-visions-a-compilation-of-the-most-advanced-transcription-apps/"><u>[Updated] Verbal Visions  A Compilation of the Most Advanced Transcription Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superb-culmination-for-vr-journeys/"><u>2024 Approved  Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-hiding-while-livestreaming-on-instagram/"><u>2024 Approved  The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-digital-divide-demystifying-virtualitys-kin-mr-ar-and-vr/"><u>2024 Approved  The Digital Divide  Demystifying Virtuality's Kin (MR, AR, & VR)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>2024 Approved  The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>2024 Approved  Unleash Creativity  Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-v27-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo V27 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-discover-the-most-popular-screen-recorders-free-version/"><u>In 2024, Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailored-macos-tutorials-for-editing-srt-files/"><u>In 2024, Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-drone-enthusiasts-compendium-of-must-haves/"><u>In 2024, The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience/"><u>In 2024, The Game Plan for Getting Your Product in Front of a Youtuber's Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>In 2024, The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>In 2024, The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>In 2024, Unleashing Potential  Top 10 AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-success-in-live-streaming-of-cricket-matches/"><u>In 2024, Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-elite-after-effects-plugins-compendium/"><u>In 2024, Unveiling the Elite After Effects Plugins Compendium</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-motorola-moto-g73-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Motorola Moto G73 5G.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-iphone-jpegpng-to-pdf-file-processing-for-2024/"><u>Streamline Your iPhone  JPEG/PNG to PDF File Processing for 2024</u></a></li>
+</ul></div>

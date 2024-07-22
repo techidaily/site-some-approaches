@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Straightforward Route  Scrolling Through Popular YouTube Feedbacks\""
-date: 2024-06-03T17:36:29.688Z
-updated: 2024-06-04T17:36:29.688Z
+date: 2024-07-20T19:59:05.941Z
+updated: 2024-07-21T19:59:05.941Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,10 +88,16 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -99,6 +108,9 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -107,6 +119,10 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -115,6 +131,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +204,46 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pro-rated-webcam-recording-on-windows-10/"><u>[New] 2024 Approved  Pro-Rated Webcam Recording on Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>[New] Streamlined Social Integration  Linktree and TikTok Profiles United</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>[New] Tailored Treasure Troves  The Ultimate List of Online Box Sellers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-superior-srt-documents/"><u>[New] The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essence-of-dji-inspire-2-distilled/"><u>[New] The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-professionals-guide-to-innovative-360-cams-2023/"><u>[New] The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-science-of-attractiveness-building-engaging-audio-introductions/"><u>[New] The Science of Attractiveness  Building Engaging Audio Introductions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-ranked-reddit-discussions-top-10-edition/"><u>[New] The Ultimate Ranked Reddit Discussions – Top 10 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>[New] Thrill Seekers Challenge  Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-youtube-titles-crafted-by-ai/"><u>[New] Top YouTube Titles Crafted by AI</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-ranked-android-song-curator/"><u>[New] Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transcending-visual-limits-with-hdr-technology/"><u>[New] Transcending Visual Limits with HDR Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>[New] Transform Your Photos  Mastering Time Lapse with Samsung Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unrestricted-mental-harmony/"><u>[New] Unrestricted Mental Harmony</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-innovative-online-services-for-crafting-perfect-facebook-covers-for-2024/"><u>[Updated] Innovative Online Services for Crafting Perfect Facebook Covers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mac-graphics-revolution-top-10-freeware-drawings/"><u>[Updated] Mac Graphics Revolution  Top 10 Freeware Drawings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unraveling-the-expertise-within-polarrs-photography-suite/"><u>[Updated] Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterclass-in-effortless-video-acquisition/"><u>2024 Approved  Masterclass in Effortless Video Acquisition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-troubleshooting-stuttering-video-on-photo-booth-app/"><u>2024 Approved  Troubleshooting Stuttering Video on Photo Booth App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-psd-transparency-tricks/"><u>2024 Approved  Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-filmora-editing-inquiries/"><u>2024 Approved  Unraveling Filmora Editing Inquiries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-best-of-android-does-pickup-lead-photo-editing-tools-in-2024/"><u>Exploring the Best of Android  Does PickUp Lead Photo Editing Tools, In 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-add-effects-in-3-steps-do-with-fcp-x-for-2024/"><u>How To Add Effects in 3 Steps? Do with FCP X for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-make-your-discord-profile-picture-a-standout-choice/"><u>How to Make Your Discord Profile Picture a Standout Choice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-motorola-moto-g04-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Moto G04 Lock Screen Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-stability-in-mouse-scrolling-mechanism/"><u>Improving Stability in Mouse Scrolling Mechanism</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-camon-20-premier-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Camon 20 Premier 5G FRP Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-a70-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel A70 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-vlogging-your-ultimate-journey-begins-here/"><u>In 2024, Mastering The Art of Vlogging  Your Ultimate Journey Begins Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-compilation-ringtone-renaissance-sites/"><u>In 2024, Ultimate Compilation  Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-latest-win11-applications-and-games/"><u>In 2024, Unleash the Potential  Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/infinite-twitterscape-embracing-the-hd-experience/"><u>Infinite Twitterscape - Embracing the HD Experience</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-lumafusion-or-final-cut-pro-the-battle-for-video-editing-supremacy/"><u>New 2024 Approved LumaFusion or Final Cut Pro The Battle for Video Editing Supremacy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-p55-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel P55 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/strategic-tips-to-enhance-your-gmeet-ppt-presentations-on-mobilelaptop-for-2024/"><u>Strategic Tips to Enhance Your GMeet PPT Presentations on Mobile/Laptop for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-free-online-gif-to-video-tools-no-downloads-needed-for-2024/"><u>Top 5 Free Online GIF-to-Video Tools (No Downloads Needed) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-strategies-for-adjusting-song-speed-on-spotify-for-2024/"><u>Top Strategies for Adjusting Song Speed on Spotify for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-ideas-into-reality-best-6-nft-services-explored-for-2024/"><u>Transforming Ideas Into Reality  Best 6 NFT Services Explored for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mute-audio-and-add-new-sound-in-windows-movie-maker-for-2024/"><u>Updated Mute Audio and Add New Sound in Windows Movie Maker for 2024</u></a></li>
+</ul></div>

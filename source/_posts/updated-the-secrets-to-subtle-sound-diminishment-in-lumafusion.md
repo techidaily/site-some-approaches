@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Secrets to Subtle Sound Diminishment in Lumafusion"
-date: 2024-06-03T14:35:53.186Z
-updated: 2024-06-04T14:35:53.186Z
+date: 2024-07-20T18:09:22.932Z
+updated: 2024-07-21T18:09:22.932Z
 tags: 
   - screen-recording
   - ai video
@@ -28,18 +28,30 @@ There are several capabilities in Luma Fusion that make precise editing possible
 
 Step1 LumaFusion's default structure is comparable to that of many desktops editing programs: a multitrack timeline along the bottom, a media browser in the upper left, and a preview monitor that, depending on what you last chose, either displays a source clip or your timeline edit.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
 A multi-track video editor made specifically for mobile devices is called LumaFusion. Journalists, filmmakers, and expert video producers often utilize it to create engrossing video narratives. But if you have a toolkit with everything you need already built in so you can use it as needed, fading is unexpectedly made simple. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) does this task faster than ever because to its user-friendly interface, which makes audio editing in Filmora a breeze.
@@ -80,10 +92,17 @@ In that window, you can select the MP3 format in the format customization box to
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -112,3 +131,56 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-best-youtube-makeup-artists-you-should-follow/"><u>[New] 2024 Approved  10 Best YouTube Makeup Artists You Should Follow</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-ahead-of-the-game-in-sub4sub-essential-beginners-guide-recommended/"><u>[New] Ahead of the Game in Sub4sub  Essential Beginner's Guide Recommended</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-media-files-from-xmltxt-to-srt-mastery/"><u>[New] Streamlining Media Files  From XML/TXT to SRT Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>[New] The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-bottom-line-how-much-do-podcasters-take-home/"><u>[New] The Bottom Line  How Much Do Podcasters Take Home?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>[New] The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-digital-marketing-triumphs/"><u>[New] The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>[New] The Ultimate List  8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-affordable-camcorders-with-full-rotational-coverage/"><u>[New] Top Affordable Camcorders with Full Rotational Coverage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-tips-for-iphones-hdr-images/"><u>[New] Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-kinemasters-secrets-to-smooth-transitions/"><u>[New] Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-presentation-potential-with-these-high-quality-templates/"><u>[New] Unlock Your Presentation Potential with These High-Quality Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-invisible-recorder-how-to-save-online-music-streams/"><u>[Updated] The Invisible Recorder  How to Save Online Music Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices/"><u>[Updated] The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>[Updated] Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-updated-discussion-treasures-for-listener-retention/"><u>[Updated] Updated Discussion Treasures for Listener Retention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-venture-into-the-best-sites-for-innovative-text-manipulation-tools/"><u>[Updated] Venture Into the Best Sites for Innovative Text Manipulation Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-for-transcribing-audio-to-text-using-microsoft-word/"><u>2024 Approved  Quick Tips for Transcribing Audio to Text Using Microsoft Word</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-iphone-videos-size-and-length-optimization/"><u>2024 Approved  Streamline iPhone Videos  Size & Length Optimization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-encore-list-top-pick-for-digital-music-tones/"><u>2024 Approved  The Encore List  Top Pick for Digital Music Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>2024 Approved  The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>2024 Approved  The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>2024 Approved  Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-devices-to-power-your-metaverse-experience/"><u>2024 Approved  Top 7 Devices to Power Your Metaverse Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-ideas-into-impactful-scenes-through-dialogue/"><u>2024 Approved  Transforming Ideas Into Impactful Scenes Through Dialogue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-in-game-audio-identity-for-a-unique-competitive-advantage-no-charge/"><u>2024 Approved  Transforming In-Game Audio Identity for a Unique Competitive Advantage (No Charge!)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>2024 Approved  Ultimate Tutorial  Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphones-hdr-functions/"><u>2024 Approved  Unlocking the Full Potential of iPhone's HDR Functions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-best-free-and-cheap-mp3-editor-for-mac/"><u>2024 Approved Best Free and Cheap MP3 Editor for Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 6s</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-13-mini-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 13 mini</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>In 2024, Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stunning-celestinas-and-skies-online-directory/"><u>In 2024, Stunning Celestinas and Skies Online Directory</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stunning-feats-in-figure-skating-22-moments/"><u>In 2024, Stunning Feats in Figure Skating '22 Moments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-rankings-top-budget-friendly-photo-editors-online/"><u>In 2024, The Ultimate Rankings  Top Budget-Friendly Photo Editors Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-voice-changer-a-detailed-manual-on-morphvox-transformation/"><u>In 2024, The Ultimate Voice Changer  A Detailed Manual on MorphVOX Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-visionary-studio-guide-detailed-xreviewers-digest/"><u>In 2024, The Visionary Studio Guide  Detailed XReviewer's Digest</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trending-topics-and-themes-to-hook-your-streams-attention/"><u>In 2024, Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>In 2024, Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-spotifys-potential-for-brands-a-comprehensive-guide/"><u>In 2024, Unlocking Spotify's Potential for Brands  A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-of-zoom-and-tiktok-video-sync/"><u>In 2024, Unveiling the Best of ZOOM & TikTok Video Sync</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>In 2024, Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-do-it-yourself-video/"><u>New How To Make A Do-It-Yourself Video</u></a></li>
+<li><a href="https://facebook.techidaily.com/purging-digital-traces-on-your-social-network/"><u>Purging Digital Traces on Your Social Network</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-offline-speech-to-text-transcription-apps-for-2024/"><u>Top Offline Speech-to-Text Transcription Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg-for-2024/"><u>Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-essentials-an-in-depth-review-of-lightroom-for-android-for-2024/"><u>Unveiling the Essentials  An In-Depth Review of Lightroom for Android for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-zero-to-hero-top-10-cartoon-video-makers-for-beginners/"><u>Updated 2024 Approved From Zero to Hero Top 10 Cartoon Video Makers for Beginners</u></a></li>
+</ul></div>

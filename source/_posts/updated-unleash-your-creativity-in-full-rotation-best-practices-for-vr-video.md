@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleash Your Creativity in Full Rotation  Best Practices for VR Video\""
-date: 2024-06-03T20:19:26.581Z
-updated: 2024-06-04T20:19:26.581Z
+date: 2024-07-20T21:38:45.196Z
+updated: 2024-07-21T21:38:45.196Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 # 9 Tips You Must Know when Shooting a 360 Degree Video
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -28,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 [360 degree videos](https://tools.techidaily.com/wondershare/filmora/download/) are beginning to become mainstream, thanks to more affordable 360 video cameras out on the market today. Now enthusiasts and professionals alike are learning how to shoot a 360 degree video. And as technology continue to develop at a fast rate; the costs of making the videos will be reduced. And if you are new to shooting 360 degree videos, below are some tips to help you get started.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Select a good camera
 
  It is important that you use a good camera so that you can capture high quality videos. And because it is a developing technology, there are lots of options available, as well as those which are still in development. If you are looking for a good one, then go for a GoPro. A 360 video mount usually allows up to six video cameras to be mounted on it.
@@ -44,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  You need an unipod to keep the camera setup stable at all times, and at the same time allow you to move with ease. Moving with a tripod can be hard. Another benefit of using a unipod is that it is easier to clean after the video shoot because it only has a single leg, compared to the tripod’s three legs.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Keep device at the same height as your line of sight
 
  The placement of the camera can affect the experience of the viewers. If the camera is too low, the viewers will feel like they are two feet shorter. It will be like see the world as a mouse. And if the camera is too high, the viewers will feel like they are giants. And if the viewers will be watching the 360 video with a VR headset, the effect will be exaggerated a lot more. That’s why it is important to keep the camera level with your line of sight.
@@ -56,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  When shooting a 360 degree video, you should consider using natural light or utilize a panoramic shooting studio. That way there will be no light device shown in the resulting video.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Hide the microphone
 
  For recording the audio, it is best to hide the camera. It is recommended to use a mini microphone when shooting the video. It will provide a more natural sound to other types of microphones. Hopefully in the future cameras are able to capture 360 degree sound that will make the sound shift as the viewer turns one’s head.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### 9\. Keep an object in one camera
 
  It is important to keep the subject in one of the cameras or else it will be hard to stitch or edit the videos. Objects that are near the edge of the video should be static to make editing a lot easier.
@@ -80,14 +96,24 @@ Follow @Liza Brown
 
 [360 degree videos](https://tools.techidaily.com/wondershare/filmora/download/) are beginning to become mainstream, thanks to more affordable 360 video cameras out on the market today. Now enthusiasts and professionals alike are learning how to shoot a 360 degree video. And as technology continue to develop at a fast rate; the costs of making the videos will be reduced. And if you are new to shooting 360 degree videos, below are some tips to help you get started.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Select a good camera
 
  It is important that you use a good camera so that you can capture high quality videos. And because it is a developing technology, there are lots of options available, as well as those which are still in development. If you are looking for a good one, then go for a GoPro. A 360 video mount usually allows up to six video cameras to be mounted on it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Prepare enough battery and SD card
 
  When shooting a 360 degree video, you need to have enough battery and SD card. When using a GoPro camera, it requires a lot of power and storage space, especially if you are going to make a long video. It is recommended that you buy battery packs to keep your cameras charged while shooting. You should also bring extra SD cards to ensure that you have adequate storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 3\. Make sure all the settings are the same
 
  When using multiple cameras, it is important to make sure that all the setting of each GoPro camera is the same. It is recommended to use manual mode, and turn off white balance, ISO, and color temperature. You should also use 4:3 ratio to ensure you have the largest coverage. That way editing the 360 degree will be easier. There will be fewer corrections to be made with the individual videos.
@@ -118,6 +144,9 @@ Follow @Liza Brown
 
  These are the tips that you need to keep in mind when shooting a 360 degree video. It will take a lot of practice before you get the hang of shooting and editing the video. With a little stitching and editing, you can make good quality 360 degree videos that are worth sharing on YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -150,3 +179,40 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>[New] 2024 Approved  Bypassing YouTube's Copyright Strike  Legal Strategies and Precautions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-motivational-speaker-appraisal-edition-8/"><u>[New] 2024 Approved  Motivational Speaker Appraisal, Edition 8</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-perfect-your-focus-a-guide-to-roblox-tight-scopes/"><u>[New] 2024 Approved  Perfect Your Focus  A Guide to Roblox Tight Scopes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-librecam-x-live-streaming-experience-analyzed/"><u>[New] LibreCam X Live Streaming Experience Analyzed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-chatcam-downloader-high-quality/"><u>[Updated] ChatCam Downloader, High Quality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-optimizing-content-editing-youtube-descriptions-and-titles-for-growth/"><u>[Updated] In 2024, Optimizing Content  Editing YouTube Descriptions & Titles for Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-studio-masterclass-in-depth-xvideostudio-report/"><u>[Updated] Studio Masterclass  In-Depth XVideoStudio Report</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-symbolizing-success-affordable-and-flexible-logo-crafting-from-templates/"><u>[Updated] Symbolizing Success  Affordable & Flexible Logo Crafting From Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>[Updated] The Auditory Explorer's Manual  Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-battery-selection-guide-for-uavs/"><u>[Updated] The Ultimate Battery Selection Guide for UAVs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>[Updated] The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-value-dome-cams-affordable-360-filmmaking-tools/"><u>[Updated] Top Value Dome Cams  Affordable 360° Filmmaking Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-twirl-forge-instruments/"><u>[Updated] Twirl Forge Instruments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-flashy-game-collection-quick-and-lightweight/"><u>[Updated] Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-elite-comprehensive-oculus-review-guide/"><u>[Updated] Unveiling the Elite  Comprehensive Oculus Review Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-snapchats-prominent-personalities-highlight/"><u>[Updated] Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>2024 Approved  Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>2024 Approved  Ultimate Guide  Top 8 Convertors for Sub to Srt Harmony</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>2024 Approved  Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiled-top-6-tools-to-purify-signature-images-online/"><u>2024 Approved  Unveiled  Top 6 Tools to Purify Signature Images Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-mystery-of-free-graphic-imagery/"><u>2024 Approved  Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-11-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 11? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/instant-recovery-of-vanished-visuals-for-2024/"><u>Instant Recovery of Vanished Visuals for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-determine-and-optimize-image-proportions/"><u>New 2024 Approved Determine and Optimize Image Proportions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-androids-finest-top-free-video-stabilizer-apps-for-better-footage/"><u>New In 2024, Androids Finest Top Free Video Stabilizer Apps for Better Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-power-solutions-for-gopro-hero5-black-certified-and-imposters-for-2024/"><u>Premium Power Solutions for GoPro Hero5 Black - Certified & Imposters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secrets-to-polished-photo-edits-in-canva-for-2024/"><u>The Secrets to Polished Photo Edits in Canva for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-screenplay-crafting-site-for-2024/"><u>Ultimate Screenplay Crafting Site for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-livestream-technology-explained-for-2024/"><u>Understanding Livestream Technology Explained for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-best-vr-applications-for-phones-for-2024/"><u>Unveiling the Best VR Applications for Phones for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-avi-video-rotation-made-easy-16-best-free-solutions-for-all-devices/"><u>Updated AVI Video Rotation Made Easy 16 Best Free Solutions for All Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vanguard-ventures-newcomers-to-the-panzoid-world-for-2024/"><u>Vanguard Ventures  Newcomers to the Panzoid World for 2024</u></a></li>
+</ul></div>

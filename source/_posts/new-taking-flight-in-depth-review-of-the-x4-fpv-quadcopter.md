@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Taking Flight  In-Depth Review of the X4 FPV Quadcopter\""
-date: 2024-06-03T19:09:11.969Z
-updated: 2024-06-04T19:09:11.969Z
+date: 2024-07-20T20:55:35.682Z
+updated: 2024-07-21T20:55:35.682Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Pros and Cons
 
  **Pros:**
@@ -126,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -143,12 +149,18 @@ Follow @Max Wales
 **You may also like:**
 [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and Cons
 
  **Pros:**
@@ -170,6 +182,9 @@ Follow @Max Wales
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Complete Review for Hubsan H501S X4
 
 #### 1. Basic Specs info
@@ -230,6 +245,9 @@ Follow @Max Wales
 
 #### 7. Camera
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -238,6 +256,9 @@ Follow @Max Wales
 
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -270,3 +291,73 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-launching-a-sports-vlog-on-apple-computers/"><u>[New] In 2024, Launching a Sports Vlog on Apple Computers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-5-digital-recording-devices-for-2024/"><u>[New] Leading 5 Digital Recording Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-sculpt-social-shares/"><u>[New] Sculpt Social Shares</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-step-by-step-implementing-siri-speech-on-tiktok/"><u>[New] Step-by-Step  Implementing Siri Speech on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tactical-titles-trailer-producer/"><u>[New] Tactical Titles Trailer Producer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pixiz-guide-to-blending-photography-and-motion/"><u>[New] The Pixiz Guide to Blending Photography and Motion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>[New] The Pursuit of Ultra Clarity  The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-role-of-look-up-tables-in-cinematic-coloring/"><u>[New] The Role of Look-Up Tables in Cinematic Coloring</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>[New] The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-iphone-multimedia-magic/"><u>[New] The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-ultimate-15-stop-motion-film-collection/"><u>[New] Unveiling the Ultimate 15 Stop-Motion Film Collection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-video-workshop-titlewright/"><u>[New] Vanguard Video Workshop Titlewright</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-free-tools-top-5-screen-recorder-apps-for-chrome-devices/"><u>[Updated] 2024 Approved  Free Tools  Top 5 Screen Recorder Apps for Chrome Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-incorporating-songs-into-social-media-video-content/"><u>[Updated] 2024 Approved  Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-story-highlight-a-user-friendly-guide/"><u>[Updated] Instagram Story Highlight  A User-Friendly Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-midnight-marauder-vs-daylight-defender-black-vs-silver-for-2024/"><u>[Updated] Midnight Marauder Vs Daylight Defender  Black vs Silver for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-overview-fb-video-dimension-categories/"><u>[Updated] Overview  FB Video Dimension Categories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-using-youtube-to-boost-classroom-engagement/"><u>[Updated] Strategies for Using YouTube to Boost Classroom Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-metaverse-race-begins-dont-miss-these-7-essential-tools/"><u>[Updated] The Metaverse Race Begins  Don't Miss These 7 Essential Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-larger-video-presentation-in-youtube/"><u>[Updated] The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-smart-way-to-scale-and-slash-iphone-videos/"><u>[Updated] The Smart Way to Scale & Slash iPhone Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-finding-film-specialists/"><u>[Updated] The Ultimate Checklist for Finding Film Specialists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-android-compatible-gba-games-simulators-for-2024/"><u>[Updated] Top 10 Android Compatible GBA Games Simulators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-kids-friendly-drones-for-new-flyers/"><u>[Updated] Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-20-iconic-anime-theme-melodies-ever/"><u>[Updated] Top 20 Iconic Anime Theme Melodies Ever</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-images-with-easy-color-changes/"><u>[Updated] Transform Your Images with Easy Color Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-chorus-conductor-android-edition/"><u>[Updated] Ultimate Chorus Conductor, Android Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[Updated] Ultimate Reddit Triumphs  Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selections-top-rated-webcam-platforms/"><u>[Updated] Ultimate Selections  Top-Rated Webcam Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>2024 Approved  Archive of Awe  High-Quality GIF Preservation for Tweeters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-the-webs-essence-top-browsers-for-screen-recorders/"><u>2024 Approved  Capturing the Web’s Essence  Top Browsers for Screen Recorders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-focusing-the-lens-advanced-cinematic-techniques/"><u>2024 Approved  Focusing the Lens  Advanced Cinematic Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frostbite-fame-highlights-of-cold-climates-games/"><u>2024 Approved  Frostbite Fame  Highlights of Cold Climates Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taming-audio-volume-peaks-using-fl-studios-mastery/"><u>2024 Approved  Taming Audio Volume Peaks Using FL Studio's Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-keywords-for-stellar-marketing-strategies/"><u>2024 Approved  Top 20 Keywords for Stellar Marketing Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-for-novice-gopro-enthusiasts/"><u>2024 Approved  Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/alternatives-to-virtualdub-a-comprehensive-list-for-2024/"><u>Alternatives to VirtualDub A Comprehensive List for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-unboxing-content-in-youtube-the-2024-edition/"><u>Best Unboxing Content in YouTube - The 2024 Edition</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decoding-instagrams-verification-system/"><u>Decoding Instagram's Verification System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-ios-video-recorders-reviewed-for-2024/"><u>Essential iOS Video Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-m6-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco M6 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/freeloading-futures-with-ae-creative-tools/"><u>Freeloading Futures with AE Creative Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-narzo-60-pro-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Hot 40</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bring-life-to-your-posts-animating-text-on-insta-stories/"><u>In 2024, Bring Life to Your Posts  Animating Text on Insta Stories</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-14-how-to-unlock-a-disabled-apple-iphone-14-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 14 How to Unlock a Disabled Apple iPhone 14?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-networking-with-influencers-partnerships-for-viral-video-potential/"><u>In 2024, Networking with Influencers  Partnerships for Viral Video Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>In 2024, Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>In 2024, The Secret Ingredient to Success  15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-blueprint-for-mastering-picsart/"><u>In 2024, The Ultimate Blueprint for Mastering PicsArt</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-mobile-vr-headsets/"><u>In 2024, Top 10 Mobile VR Headsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-commercial-sky-storage-provider/"><u>In 2024, Ultimate Commercial Sky-Storage Provider</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>In 2024, Uncover the Past  Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmatched-melodies-selector-android-companion/"><u>In 2024, Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/interactive-techniques-for-periscope-hosts/"><u>Interactive Techniques for Periscope Hosts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-elite-list-10-websites-with-superior-vectors-for-2024/"><u>The Elite List  10 Websites with Superior Vectors for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcoding-excellence-from-xml-ssa-to-srt-mastery-for-2024/"><u>Transcoding Excellence  From XML, SSA to SRT Mastery for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/twitter-to-mp3-how-to-convert-videos-on-social-media-for-2024/"><u>Twitter to MP3  How to Convert Videos on Social Media for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-two-tech-titans-android-and-microsoft-pc/"><u>Uniting Two Tech Titans: Android and Microsoft PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-full-degree-potential-editing-strategies-with-adobe-premiere-for-2024/"><u>Unlocking Full Degree Potential  Editing Strategies with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-seamless-video-and-picture-upload-w11-for-2024/"><u>Unlocking the Secrets of Seamless Video & Picture Upload W11 for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-complete-guide-to-audio-logging-for-your-conversations-in-google-voice/"><u>Updated 2024 Approved A Complete Guide to Audio Logging for Your Conversations in Google Voice</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-merge-videos-without-a-trace-7-best-options/"><u>Updated 2024 Approved Merge Videos Without a Trace 7 Best Options</u></a></li>
+</ul></div>

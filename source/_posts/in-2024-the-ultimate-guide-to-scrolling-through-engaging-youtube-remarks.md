@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Scrolling Through Engaging YouTube Remarks"
-date: 2024-06-03T19:02:27.970Z
-updated: 2024-06-04T19:02:27.970Z
+date: 2024-07-20T20:51:29.385Z
+updated: 2024-07-21T20:51:29.385Z
 tags: 
   - screen-recording
   - ai video
@@ -63,8 +63,15 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,6 +88,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -93,6 +103,9 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -107,6 +120,9 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -115,6 +131,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +204,51 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-immediate-stop-of-automatic-video-capture-in-qt-player/"><u>[New] Immediate Stop of Automatic Video Capture in QT Player</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-beyond-basics-pro-tips-for-sticker-queries-on-instagram/"><u>[New] In 2024, Beyond Basics  Pro Tips for Sticker Queries on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-iosandroid-leading-photo-writing-app-list/"><u>[New] IOS/Android  Leading Photo-Writing App List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-masterpiece-dialogues-across-8-film-genres/"><u>[New] Masterpiece Dialogues Across 8 Film Genres</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncovering-expert-video-making-talents/"><u>[New] Uncovering Expert Video Making Talents</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>[New] Unleash Creativity  IPhone Camera Mastery Through 10 Rules</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-untethered-art-top-public-domain-gems/"><u>[New] Unraveling Untethered Art  Top Public Domain Gems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-seamless-video-transmission-success-in-facebook-messengers-iphoneandroid/"><u>[Updated] 2024 Approved  Seamless Video Transmission Success in Facebook Messengers, iPhone/Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-unfollow-a-compilation-of-essential-tools-for-2024/"><u>[Updated] Mastering the Art of Unfollow  A Compilation of Essential Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>[Updated] The Best of the Best  Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-choreographers-guide-crafting-captivating-tiktok-dances-for-mac-users-for-2024/"><u>[Updated] The Choreographer's Guide  Crafting Captivating TikTok Dances for Mac Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>[Updated] The GIF Odyssey  Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-social-media-sensation-kit-building-memes-on-9gag/"><u>[Updated] The Social Media Sensation Kit  Building Memes on 9GAG</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-cloud-saviors-mastering-2024s-space-savers/"><u>[Updated] Top 5 Cloud Saviors  Mastering 2024'S Space Savers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-visioncapture-1080p-hd-recorders/"><u>[Updated] VisionCapture 1080P HD Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>2024 Approved  Mastering the Craft of Youtubers  Music Reaction Videos Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-video-action-with-gopro-burst-technology/"><u>2024 Approved  Taking Video Action with GoPro Burst Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>2024 Approved  The Best Value in Cloud Pricing  A Comprehensive List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-edit-suite-for-mobile-app-devices/"><u>2024 Approved  Ultimate Edit Suite for Mobile App Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unblemished-visuals-a-buyers-ultimate-guide/"><u>2024 Approved  Unblemished Visuals  A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creative-potential-with-kinemaster-skills-plus-10-superior-alternatives/"><u>2024 Approved  Unlock Creative Potential with KineMaster Skills + 10 Superior Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-storytelling-youtube-channels-to-follow-this-year-for-2024/"><u>Best Storytelling YouTube Channels to Follow This Year for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-google-pixel-8-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-best-text-effects-of-psd/"><u>In 2024, Best Text Effects of PSD</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-v29e-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo V29e FRP?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-superior-budget-friendly-cam-viewer/"><u>In 2024, Superior Budget-Friendly Cam Viewer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-swift-shadowing-in-1-minute/"><u>In 2024, Swift Shadowing in 1 Minute</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams/"><u>In 2024, The Battle of Broadcasting  Is XSplit Better Than OBS for Livestreams?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8/"><u>In 2024, The Complete Guide to Harnessing Power of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-the-top-10-after-effects-templates/"><u>In 2024, Unleashing Creativity  The Top 10 After Effects Templates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-add-ons-to-elevate-your-yi-4k-cameras/"><u>Innovative Add-Ons to Elevate Your YI 4K Cameras</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-selection-5-premium-audiovideo-integration-tools/"><u>New 2024 Approved The Ultimate Selection 5 Premium Audio/Video Integration Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-reno-11f-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-trending-vr-adventures-on-oculus-for-2024/"><u>Top 8 Trending VR Adventures on Oculus for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-80s-cinematic-elements-for-modern-editing-for-2024/"><u>Top 80S Cinematic Elements for Modern Editing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-online-sources-for-3d-glitter-text-designs-for-2024/"><u>Top Online Sources for 3D Glitter Text Designs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/transform-your-ppts-into-stunning-video-content-for-2024/"><u>Transform Your PPTs Into Stunning Video Content for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-youtube-viewing-how-to-efficiently-insert-timestamps-for-2024/"><u>Transforming YouTube Viewing  How to Efficiently Insert Timestamps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transition-from-standard-to-intelligent-hdr-imaging-for-2024/"><u>Transition From Standard to Intelligent HDR Imaging for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-storage-enhancement-for-sony-alpha-7s-ii-for-2024/"><u>Ultimate Storage Enhancement for Sony Alpha 7S II for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-av1-foundations-and-fundamentals-for-2024/"><u>Unveiling AV1  Foundations and Fundamentals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-hands-in-vrar-for-2024/"><u>Unveiling the Secrets of Hands in VR/AR for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-editing-10-notable-movies-shaped-by-final-cut-pro/"><u>Updated 2024 Approved The Art of Editing 10 Notable Movies Shaped by Final Cut Pro</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15 Pro Max? | Stellar</u></a></li>
+</ul></div>

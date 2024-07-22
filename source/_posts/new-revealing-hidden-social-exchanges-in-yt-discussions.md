@@ -1,7 +1,7 @@
 ---
 title: "[New] Revealing Hidden Social Exchanges in YT Discussions"
-date: 2024-06-20T00:07:14.560Z
-updated: 2024-06-21T00:07:14.560Z
+date: 2024-07-20T22:46:29.421Z
+updated: 2024-07-21T22:46:29.421Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -31,6 +34,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -63,6 +69,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -85,6 +94,9 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -99,6 +111,9 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -111,10 +126,17 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -183,3 +205,69 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-android-tools-for-video-recording-for-2024/"><u>[New] Essential Android Tools for Video Recording for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-utilizing-video-resources-in-learning/"><u>[New] Strategies for Utilizing Video Resources in Learning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tackling-challenges-head-on-essentials-for-onestream-livestreamers/"><u>[New] Tackling Challenges Head-On  Essentials for OneStream Livestreamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-text-memes-made-simple-utilize-meme-creator-tools/"><u>[New] Text Memes Made Simple  Utilize Meme Creator Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-decluttered-image-designs-on-canva/"><u>[New] The Complete Guide to Decluttered Image Designs on Canva</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-transferring-tunes-across-platforms/"><u>[New] The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-editors-guide-best-for-youtube-content/"><u>[New] The Ultimate Editor's Guide  Best for YouTube Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-combining-zoom-and-fb-live/"><u>[New] The Ultimate Guide to Combining ZOOM & FB Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-iphone-gif-management/"><u>[New] The Ultimate Guide to iPhone GIF Management</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-picsart-potential-with-a-2024-review-and-tutorial/"><u>[New] Unlocking PicsArt Potential with a 2024 Review & Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-guide-to-profit-sharing-for-creators-of-video-clips/"><u>[Updated] 2024 Approved  A Guide to Profit Sharing for Creators of Video Clips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[Updated] Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earnings-insights-for-video-content-surpassing-1-million-views-for-2024/"><u>[Updated] Earnings Insights for Video Content Surpassing 1 Million Views for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-upload-recycling-101/"><u>[Updated] In 2024, Instagram Upload Recycling 101</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-low-fee-android-communication-options-10-best/"><u>[Updated] In 2024, Low-Fee Android Communication Options, 10 Best</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-premium-live-screenbackscapes-2023/"><u>[Updated] Premium Live Screenbackscapes 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-progopro-enhancing-footage-and-stability-for-2024/"><u>[Updated] ProGoPro  Enhancing Footage & Stability for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-striking-setups-to-impress-online-audiences/"><u>[Updated] Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>[Updated] The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-video-broadcaster-alternatives/"><u>[Updated] The Complete Guide to Video Broadcaster Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>[Updated] The Full Picture  A Comprehensive Review of Android Lightroom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ideal-outlet-where-to-post-your-videos/"><u>[Updated] The Ideal Outlet  Where to Post Your Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-next-gen-universe-expedition-metaverse-vs-omniverse-taken-into-account/"><u>[Updated] The Next-Gen Universe Expedition  Metaverse Vs. Omniverse Taken Into Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>[Updated] The Ultrawide-UHD Dilemranc  Which Monitor Wins?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-undercover-upscalers-guide-to-clear-visuals/"><u>[Updated] The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>[Updated] Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-increasing-onscreen-detail-in-virtual-spaces/"><u>2024 Approved  Increasing Onscreen Detail in Virtual Spaces</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-subtitle-tactics-for-instagrams-video-feed/"><u>2024 Approved  Subtitle Tactics for Instagram's Video Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-scenes-merging-pc-and-cloud-images/"><u>2024 Approved  Syncing Scenes  Merging PC & Cloud Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-smartphone-photographers-handbook/"><u>2024 Approved  The Smartphone Photographer's Handbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-straightforward-path-to-windows-voice-transformation-for-fishy-sounds/"><u>2024 Approved  The Straightforward Path to Windows Voice Transformation for Fishy Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hues-handbook-theory-meets-technique/"><u>2024 Approved  Ultimate Hues Handbook  Theory Meets Technique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-for-wm6-setup/"><u>2024 Approved  Ultimate Tutorial for WM6 Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncovering-average-earnings-in-podcasting/"><u>2024 Approved  Uncovering Average Earnings in Podcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-spending-in-online-advertising/"><u>2024 Approved  Understanding Spending in Online Advertising</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>2024 Approved  Unleashing Potential  Essential Upgrades & Supplemental Gear for Drones</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-choice-streamline-your-youtube-audio/"><u>Best Choice  Streamline Your YouTube Audio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g04-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G04 has native MOV support?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>In 2024, Gameplay Capture Simplified  The Ultimate Win10 Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-v29e-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo V29e FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 VIP Racing Edition to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-productivity-boosters-while-binge-listening-to-podcasts/"><u>In 2024, Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-reversal-hacks-an-overview-of-eight-simple-steps/"><u>In 2024, Stream Reversal Hacks  An Overview of Eight Simple Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-pcs-for-serious-workers/"><u>In 2024, Superior PCs for Serious Workers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-echo-of-past-interactions-unraveling-your-facebook-history/"><u>In 2024, The Echo of Past Interactions  Unraveling Your Facebook History</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-the-fcpx-training-hub-top-channels-sites-and-resources/"><u>In 2024, The FCPX Training Hub Top Channels, Sites, and Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>In 2024, The Ultimate Link  From Insta's Photos to Tik's Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>In 2024, Unveiling Secrets  The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/melodic-instagram-reels-blending-music-voiceovers/"><u>Melodic Instagram Reels  Blending Music, Voiceovers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-how-to-get-twitter-video-dimensions-and-aspect-ratios/"><u>New 2024 Approved How to Get Twitter Video Dimensions and Aspect Ratios</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-a-strategic-approach-to-enhancing-your-in-game-vocal-identity/"><u>New A Strategic Approach to Enhancing Your In-Game Vocal Identity</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-final-cut-pro-tutorial-adding-realistic-motion-blur-to-your-footage/"><u>New Final Cut Pro Tutorial Adding Realistic Motion Blur to Your Footage</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-video-editing-showdown-virtualdub-vs-its-top-competitors/"><u>New In 2024, Video Editing Showdown Virtualdub Vs. Its Top Competitors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-ultimate-guide-to-highlight-video-editing-software/"><u>New Ultimate Guide to Highlight Video Editing Software</u></a></li>
+<li><a href="https://techidaily.com/sony-data-recovery-recover-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Sony Data Recovery – recover lost data from Sony Xperia 5 V</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/subtle-harmonies-on-desktop-systems-for-2024/"><u>Subtle Harmonies on Desktop Systems for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sync-soundtracks-smoothly-into-inshots-ecosystem-for-2024/"><u>Sync Soundtracks Smoothly Into InShot's Ecosystem for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-boundless-gallery-of-forgotten-artists-for-2024/"><u>The Boundless Gallery of Forgotten Artists for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thorough-investigation-dji-inspire-1-reviewed-for-2024/"><u>Thorough Investigation  DJI Inspire 1 Reviewed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-windows-10-sound-capabilities-for-2024/"><u>Unlocking Windows 10 Sound Capabilities for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-ultimate-guide-to-sourcing-natures-ambiance-online-2-title-missing-assuming-a-similar-title-might-be-exploring-top-websites-for-legitima/"><u>Updated In 2024, The Ultimate Guide to Sourcing Natures Ambiance Online 2 Title Missing, Assuming a Similar Title Might Be Exploring Top Websites for Legitimate Forest and Ocean Sound Collections</u></a></li>
+</ul></div>

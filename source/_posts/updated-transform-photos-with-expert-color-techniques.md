@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Photos with Expert Color Techniques"
-date: 2024-06-03T20:57:38.438Z
-updated: 2024-06-04T20:57:38.438Z
+date: 2024-07-20T22:01:41.144Z
+updated: 2024-07-21T22:01:41.144Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Many professional photographers and editors change the photo colors to use the s
 
 So instead of hiring various models, you can still display your collection by changing the color of outfits tactfully. In this article, we will discuss the tips to change photo color effortlessly through a photo color editor and online tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Tips To Change Photo Color Like A Pro
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
@@ -36,6 +39,9 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
 ### 2\. Tips 2: Use Black and White Colors
@@ -48,18 +54,27 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
 
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
 ### 5\. Tip 5: Choose Object Color Range
@@ -74,6 +89,9 @@ After clicking on the color range option, a pop-up window will appear from which
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 ### 6\. Tip 6: Use Blend IF
@@ -82,10 +100,16 @@ If you want to change the color of leaves on a tree, you can use the “Blend IF
 
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
@@ -98,6 +122,9 @@ If you don’t have an offline tool like Adobe Photoshop, you can use an online 
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
@@ -131,3 +158,41 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-eliminate-background-noise-from-online-video-content/"><u>[New] Eliminate Background Noise From Online Video Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-saving-your-digital-dialogue-a-quick-guide-to-fb-chat-recordings/"><u>[New] Saving Your Digital Dialogue  A Quick Guide to FB Chat Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>[New] Targeted Ads  Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-assault-in-real-time-rivalry/"><u>[Updated] The Art of Assault in Real-Time Rivalry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>[Updated] Top Pick  Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>[Updated] Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-photo-editor-photonshift-tech/"><u>2024 Approved  Groundbreaking Photo Editor  PhotonShift Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-untapped-potential-of-dji-phantom-4/"><u>2024 Approved  The Complete Untapped Potential of DJI Phantom 4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-live-broadcast-gaming-applications/"><u>2024 Approved  Top 10 Live Broadcast Gaming Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>2024 Approved  Top Tip  How to Create a Quick and Easy Google Collage Photo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-control-over-youtube-playback-silence-previews/"><u>2024 Approved  Total Control Over YouTube Playback  Silence Previews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transition-techniques-for-flawless-inshot-videos/"><u>2024 Approved  Transition Techniques for Flawless Inshot Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-android-3d-player-showcase/"><u>2024 Approved  Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-editbox-suite-reviewed/"><u>2024 Approved  Ultimate Guide to EditBox Suite, Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>2024 Approved  Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/8-best-free-tiktok-video-editing-appswebsite-on-mac/"><u>8 Best Free TikTok Video Editing Apps/Website on Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dominance-in-video-landscape-mirrorless-vs-dslr-cameras/"><u>Dominance in Video Landscape  Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-pop-7-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Pop 7 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-smart-8-hd-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Smart 8 HD Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>In 2024, Streamline Your Slide Show  Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-ignoring-home-based-educational-media/"><u>In 2024, Techniques for Ignoring Home-Based Educational Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-transform-text-into-a-3d-entity/"><u>In 2024, Techniques to Transform Text Into a 3D Entity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artisans-secret-to-viral-youtube-success/"><u>In 2024, The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>In 2024, The Metaverse & MultipleMetaverse Explained  Key Contrasts Highlighted</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pillars-of-profitable-digital-marketing/"><u>In 2024, The Pillars of Profitable Digital Marketing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-volume-of-videos-on-a-64128gb-memory-bank/"><u>In 2024, The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-11-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Reno 11 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmasking-the-scope-of-non-google-augmented-reality-accessories/"><u>In 2024, Unmasking the Scope of Non-Google Augmented Reality Accessories</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-cheering-impact-simulator/"><u>New Cheering Impact Simulator</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-address-stuttering-in-videos/"><u>Swiftly Address Stuttering in Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-hot-30-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix Hot 30 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-insiders-guide-to-quieting-ambient-sounds-on-stage-or-studio-setup/"><u>Updated 2024 Approved The Insiders Guide to Quieting Ambient Sounds on Stage or Studio Setup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visual-vibrancy-motion-blur-magic-in-adobe-illustrators-for-2024/"><u>Visual Vibrancy  Motion Blur Magic in Adobe Illustrators for 2024</u></a></li>
+</ul></div>

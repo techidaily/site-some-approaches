@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Standard to Spectacomed  Adding Fonts to After Effects Workflow\""
-date: 2024-06-03T21:08:07.520Z
-updated: 2024-06-04T21:08:07.520Z
+date: 2024-07-20T22:08:45.414Z
+updated: 2024-07-21T22:08:45.414Z
 tags: 
   - screen-recording
   - ai video
@@ -34,15 +34,24 @@ Thus, selecting a proper font for the video becomes necessary in the post-produc
 
 * This will direct you to the official website of Adobe Fonts where you can enable the fonts for your After Effects application. Once you are done with that click on the "Browse Fonts" and then in the opened tab, you will see a variety of fonts with their specified categories.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![browse fonts adobe](https://images.wondershare.com/filmora/article-images/2022/07/browse-fonts-adobe.jpg)
 
 * These fonts are classified according to several attributes such as weight, height, and contrast and are created by certified typographers. Once you have found any font that you like, click on the "Activate" button and the theme will be installed on your Adobe After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![activitate all fonts after effects](https://images.wondershare.com/filmora/article-images/2022/07/activitate-all-fonts-after-effects.jpg)
 
 * Now keep the Creative Cloud application up and running in your system and then open your After Effects application. There navigate to "Graphics" and then select "Add Fonts from Adobe Fonts".
 * You can also use the font dropdown menu as a shortcut to use the fonts instantly. In Adobe After Effects interface, you can then select the "Character" panel to add or change the fonts to your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Part 2\. Types of Fonts in After Effects
 
 Adobe After Effects provides a ton of families of fonts that can be added and used in video projects. These fonts are available on the Create Cloud application and also on the official website of adobe. Also, these fonts are categorized according to their height, weight, contrast as well as other attributes. And each of these fonts is shown with a preview saying "Typography" which can be selected instantly.
@@ -55,12 +64,18 @@ Adding text effects in Adobe After Effects is very easy and you can use these ef
 
 * First, select the project video that you want to edit. Then navigate to "effects and presets" and search for the presets of the texts that you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![effects and presets adobe](https://images.wondershare.com/filmora/article-images/2022/07/effects-and-presets-adobe.jpg)
 
 * Now, add that text effect to your video by clicking on it and dragging and dropping it on your video. Then select any animation preset for your text from "Adobe Bridge".
 * Then slide the keyframes to set the text effect on the section of the video where you want to add your text. You can also compose the text by clicking on it and editing it for adjusting its content, height, width, opacity, and color.
 * After you are done, save the project and your text effects will be added to the final video successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Alternative ways to edit text fonts
 
 If for some reason you don't want to use After Effects on your device to edit your videos, or your PC is incompatible with your device, then [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a great alternative for you. Filmora is a paid application that is supported on both Windows as well as Mac and comes with a free version where you can try the different video editing features.
@@ -75,6 +90,9 @@ These features also include adding texts and changing the fonts of those texts o
 
 * First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 * Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
@@ -112,3 +130,45 @@ The article discussed the detailed process of **how to add font to Adobe After E
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-stopwatch-like-pauses-tackling-frozen-photobooths/"><u>[New] In 2024, Stopwatch-Like Pauses  Tackling Frozen Photobooths</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-sync-systems-swiftly-fastest-file-methods/"><u>[New] Sync Systems Swiftly  Fastest File Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-real-score-of-youtube-video-success-beyond-basic-view-counts/"><u>[New] The Real Score of YouTube Video Success  Beyond Basic View Counts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>[New] The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-photos-create-masterpieces-with-leading-apps/"><u>[New] Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>[New] Transform Your Images on Android  Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>[New] Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-mundane-to-marvelous-proven-methods-to-record-everyday-life-and-adventures-in-sims-4/"><u>[Updated] 2024 Approved  From Mundane to Marvelous  Proven Methods to Record Everyday Life and Adventures in Sims 4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensive-guide-to-ios-video-capture/"><u>[Updated] Comprehensive Guide to iOS Video Capture</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-step-into-stardom-building-starry-eyed-tiktok-dances-on-macos/"><u>[Updated] In 2024, Step Into Stardom  Building Starry-Eyed TikTok Dances on MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-introducing-dimensional-text-with-photoshop-expertise/"><u>[Updated] Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-simplicity-in-code-constructing-a-streamlined-youtube-sign-up/"><u>[Updated] Simplicity in Code  Constructing a Streamlined YouTube Sign-Up</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-stream-the-best-games-list-9/"><u>[Updated] Stream the Best Games  List #9</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-image-processes-with-polarrs-compreeved-tools/"><u>[Updated] Streamlining Image Processes with Polarr's Compreeved Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-websites-visual-content-via-cropping/"><u>[Updated] Streamlining Your Website's Visual Content via Cropping</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taxonomy-of-video-and-film-capture-systems/"><u>[Updated] Taxonomy of Video and Film Capture Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-definitive-iphone-hdr-technique/"><u>[Updated] The Definitive iPhone HDR Technique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-first-step-in-vlogging-tools-you-need/"><u>[Updated] The First Step in Vlogging  Tools You Need</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>[Updated] The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-starter-gopro-gear-essentials/"><u>[Updated] Top Starter GoPro Gear Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uncover-top-8-spots-to-find-free-3d-text-psdfiles/"><u>[Updated] Uncover Top 8 Spots to Find Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-next-gen-notetaking-with-mematic/"><u>2024 Approved  Experience Next-Gen Notetaking with Mematic</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-chromebooks-best-kept-secret-free-video-editing-software/"><u>2024 Approved Chromebooks Best Kept Secret Free Video Editing Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-for-telli/"><u>2024 Approved Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-supercharge-your-smartphones-video-quality/"><u>In 2024, Supercharge Your Smartphone's Video Quality</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/key-elements-to-consider-in-asmr-video-watching-for-2024/"><u>Key Elements to Consider in ASMR Video Watching for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-essential-techniques-for-filtering-out-background-disturbances-in-digital-sound-recordings/"><u>New Essential Techniques for Filtering Out Background Disturbances in Digital Sound Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-anticipation-elevating-the-unboxing-experience-for-2024/"><u>The Art of Anticipation  Elevating the Unboxing Experience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-free-melodies-for-deep-meditation-and-inner-peace-for-2024/"><u>Top 10 Free Melodies for Deep Meditation and Inner Peace for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/trend-driven-savings-check-out-these-must-know-amazon-and-tiktok-picks/"><u>Trend-Driven Savings? Check Out These Must-Know Amazon & TikTok Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-glossary-for-googles-voice-to-text-feature-for-2024/"><u>Ultimate Glossary for Google's Voice-to-Text Feature for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-windows-playback-system-for-2024/"><u>Ultimate Windows Playback System for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unboxing-flight-comprehensive-guide-to-dji-phantom-4-for-2024/"><u>Unboxing Flight  Comprehensive Guide to DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-ultimate-performance-with-best-video-controller-add-ons-for-2024/"><u>Unlock Ultimate Performance with Best Video Controller Add-Ons for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites-for-2024/"><u>Unlocking the Power of Pause Time  Mastering Art of Slow Motion Videos Using Photos Apps and Websites for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-video-rotators-for-3gp-files-a-comprehensive-list/"><u>Updated The Best Free Video Rotators for 3GP Files A Comprehensive List</u></a></li>
+</ul></div>

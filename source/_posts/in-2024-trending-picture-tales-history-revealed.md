@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Trending Picture Tales  History Revealed\""
-date: 2024-06-03T15:24:17.596Z
-updated: 2024-06-04T15:24:17.596Z
+date: 2024-07-20T18:37:38.034Z
+updated: 2024-07-21T18:37:38.034Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -43,6 +46,9 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -51,6 +57,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -68,6 +77,9 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -90,10 +102,16 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -104,6 +122,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -113,8 +134,14 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -160,3 +187,37 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-instant-transition-vanishing-in-a-minute/"><u>[New] Instant Transition  Vanishing in a Minute</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-clearskiesedit-premium-software-to-remove-backgrounds/"><u>[Updated] ClearSkiesEdit  Premium Software to Remove Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-slug-lines-essentials-and-application-guide/"><u>[Updated] Understanding Slug Lines  Essentials & Application Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-the-imovie-video-edge-policy/"><u>[Updated] Unraveling the iMovie Video Edge Policy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-single-frame-solo-shot-extracting-visual-elements-from-windows-10-videos/"><u>2024 Approved  Single Frame, Solo Shot  Extracting Visual Elements From Windows 10 Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-downloading-twitter-videos-and-creating-mp3s/"><u>2024 Approved  Techniques for Downloading Twitter Videos and Creating MP3s</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>2024 Approved  The Art of Intense Focus  5 Techniques for Zooming in Minecraft</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-metaverse-headset-selection/"><u>2024 Approved  The Ultimate Guide to Metaverse Headset Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>2024 Approved  The Voice of Action  Crafting Moving Screenplay Conversations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-mastery-the-art-of-editing-your-number/"><u>2024 Approved  TikTok Mastery  The Art of Editing Your Number</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-a-smooth-transition-into-vr-worlds/"><u>2024 Approved  Tips for a Smooth Transition Into VR Worlds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-try-the-top-free-voice-modifier-for-an-edge-in-valorant/"><u>2024 Approved  Try the Top Free Voice Modifier for an Edge in Valorant</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unbeatable-prices-for-top-6-action-cams-under-100/"><u>2024 Approved  Unbeatable Prices for Top 6 Action Cams Under $100</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-pubg-sound-personalization/"><u>2024 Approved  Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/giggle-your-way-comedy-tones-downloads-hubs-for-2024/"><u>Giggle Your Way  Comedy Tones Downloads Hubs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-sunset-symphony-cinematic-darkening-in-pro/"><u>In 2024, Sunset Symphony  Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-techniques-to-prevent-dropouts-in-obs-studio/"><u>In 2024, Techniques to Prevent Dropouts in OBS Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-eye-opening-journey-with-q500/"><u>In 2024, The Eye-Opening Journey with Q500</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-closer-insight-in-roblox-games/"><u>In 2024, The Ultimate Guide to Closer Insight in Roblox Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-emulation-suites-to-experience-sonys-ps1-library/"><u>In 2024, Top 5 Emulation Suites to Experience Sony's PS1 Library</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-online-image-top-9-insights-for-insta-stardom/"><u>In 2024, Transform Your Online Image  Top 9 Insights for Insta Stardom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-beats-try-these-free-web-scanners/"><u>In 2024, Unleash the Beats  Try These Free Web Scanners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-the-ultimate-list-of-affects-extensions/"><u>In 2024, Unlock Creative Potential  The Ultimate List of Affects Extensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-professional-subtitle-transformation-at-zero-price/"><u>In 2024, Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveilingnextgencameratech/"><u>In 2024, UnveilingNextGenCameraTech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastery-guide-to-youtube-seo-title-tagging-and-description-tactics-for-2024/"><u>Mastery Guide to YouTube SEO  Title, Tagging & Description Tactics for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-resize-your-video-in-minutes-a-step-by-step-guide-for-2024/"><u>New Resize Your Video in Minutes A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-5-minute-longshot-recorder-for-2024/"><u>Premier 5-Minute Longshot Recorder for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/silencing-ambient-wrongdoers-a-comprehensible-guide-on-audacitys-noise-reduction/"><u>Silencing Ambient Wrongdoers  A Comprehensible Guide on Audacity's Noise Reduction</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/strategic-social-media-mastery-instagrams-5-crucial-steps-with-examples-for-2024/"><u>Strategic Social Media Mastery  Instagram's 5 Crucial Steps with Examples for 2024</u></a></li>
+</ul></div>

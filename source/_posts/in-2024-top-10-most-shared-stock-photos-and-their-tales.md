@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Most Shared Stock Photos and Their Tales"
-date: 2024-06-27T13:29:23.661Z
-updated: 2024-06-28T13:29:23.661Z
+date: 2024-07-20T23:41:30.630Z
+updated: 2024-07-21T23:41:30.630Z
 tags: 
   - screen-recording
   - ai video
@@ -22,8 +22,18 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -47,10 +57,16 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -82,6 +98,9 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -90,10 +109,17 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -113,8 +139,14 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -160,3 +192,60 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-decoding-the-new-apeaksoft-screenscape-expert-analysis-for-2024/"><u>[New] Decoding the New Apeaksoft Screenscape  Expert Analysis for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-melodic-marvels-device-spotlight/"><u>[New] Melodic Marvels  Device Spotlight</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revealing-hidden-group-media-on-messenger-app-for-2024/"><u>[New] Revealing Hidden Group Media on Messenger App for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-importance-of-non-primary-shots-in-media/"><u>[New] The Importance of Non-Primary Shots in Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-asus-proart-a-high-end-display/"><u>[New] The Ultimate Guide to ASUS ProArt  A High-End Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-virtual-venture-voice/"><u>[New] Vanguard Virtual Venture Voice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-rated-apps-for-instagrams-vertical-igtv-content-enhancement/"><u>[Updated] 2024 Approved  Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-bass-brilliance-recording-review/"><u>[Updated] In 2024, Bass Brilliance  Recording Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-recording-with-precision-perfecting-ios-device-features-on-youtube/"><u>[Updated] In 2024, Recording with Precision  Perfecting iOS Device Features on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-zoom-audio-capture-techniques/"><u>[Updated] In 2024, Ultimate ZOOM Audio Capture Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-navigating-the-world-of-advanced-lut-design/"><u>[Updated] Navigating the World of Advanced LUT Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-skype-tone-searching-made-easy-pick-from-the-4-ace-lists/"><u>[Updated] Skype Tone Searching Made Easy  Pick From the 4 Ace Lists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swiftly-seek-and-find-discarded-reddit-posts/"><u>[Updated] Swiftly Seek and Find Discarded Reddit Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-peak-of-data-preservation-cloud-service-guide/"><u>[Updated] The Peak of Data Preservation  Cloud Service Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-perfect-perspective-optimal-cropping-with-iphone-apps/"><u>[Updated] The Perfect Perspective  Optimal Cropping with iPhone Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-premier-photography-frame-selection-24/"><u>[Updated] The Premier Photography Frame Selection '24</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-20-unrestricted-zero-cost-pubg-snapshits/"><u>[Updated] Top 20 Unrestricted, Zero-Cost PUBG Snapshits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-videos-using-video-enhancer-v22/"><u>[Updated] Transform Your Videos  Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-series-top-tier-webcam-grips/"><u>[Updated] Ultimate Series  Top-Tier Webcam Grips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-bright-potential-in-your-android-videos/"><u>[Updated] Unleash Bright Potential in Your Android Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-the-power-of-words-crafting-impactful-documentary-narratives/"><u>[Updated] Unleash the Power of Words  Crafting Impactful Documentary Narratives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-8-premium-free-srt-translation-services-online/"><u>[Updated] Unveiling 8 Premium Free SRT Translation Services Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-singular-adventure-in-3dr-an-insightful-look/"><u>2024 Approved  The Singular Adventure in '3DR'  An Insightful Look</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-skyward-voyage-of-gopro-karma-analysis/"><u>2024 Approved  The Skyward Voyage of GoPro Karma Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ranked-pixel-perfection-appweb-software/"><u>2024 Approved  Top-Ranked Pixel Perfection App/Web Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>2024 Approved  Ultimate Tutorial  Editing Photos by Cutting Out the Surround</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>2024 Approved  Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/bushido-code-continuation-top-similar-game-experiences/"><u>Bushido Code Continuation - Top Similar Game Experiences</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a24-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A24 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-analysis-of-best-win-driven-art-tools/"><u>In 2024, Comparative Analysis of Best Win-Driven Art Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-integrate-spotify-and-youtube-top-5-playlist-to-channel-converters-available/"><u>In 2024, Integrate Spotify and YouTube  Top 5 Playlist-to-Channel Converters Available</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-htc-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your HTC Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-enhancements-in-vegaspro-with-its-2019-release/"><u>In 2024, The Enhancements in VegasPro with Its 2019 Release</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-launching-a-zoom-session-on-android/"><u>In 2024, The Essential Guide to Launching a Zoom Session on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-hidden-paths-techniques-to-skip-without-watching-edgenuity-videos/"><u>In 2024, The Hidden Paths  Techniques to Skip Without Watching Edgenuity Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-ultimate-audio-equipment/"><u>In 2024, The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>In 2024, The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-of-safe-toy-drones/"><u>In 2024, The Ultimate List of Safe Toy Drones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>In 2024, Tidy Up Your Pictures  Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>In 2024, Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-top-video-recorders/"><u>In 2024, Ultimate Guide to Top Video Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-macs-top-free-drawing-tools/"><u>In 2024, Unlock Creative Potential  Mac's Top Free Drawing Tools</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/innovative-daily-vlog-themes-for-2024/"><u>Innovative Daily Vlog Themes for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-ultimate-dj-streaming-repository/"><u>New In 2024, Ultimate DJ Streaming Repository</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-13-mini-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-illustrator-guide-to-dynamic-text-art-for-2024/"><u>The Illustrator Guide to Dynamic Text Art for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-15-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 15 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-power-supplies-for-black-gopro-hero5-cameras-authentic-and-imposters-for-2024/"><u>Top Power Supplies for Black GoPro Hero5 Cameras - Authentic & Imposters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-visuals-10-must-try-text-upgrades-in-videos-for-2024/"><u>Transforming Visuals  10 Must-Try Text Upgrades in Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-android-3d-player-showcase-for-2024/"><u>Ultimate Android 3D Player Showcase for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-team-potential-harnessing-the-power-of-snap-camera-for-2024/"><u>Unlocking Team Potential  Harnessing the Power of Snap Camera for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-safeguard-your-work-saving-fcp-projects-like-a-pro/"><u>Updated In 2024, How to Safeguard Your Work Saving FCP Projects Like a Pro</u></a></li>
+</ul></div>

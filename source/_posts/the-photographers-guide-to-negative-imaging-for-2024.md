@@ -1,7 +1,7 @@
 ---
 title: "The Photographer’s Guide to Negative Imaging for 2024"
-date: 2024-06-03T18:58:40.644Z
-updated: 2024-06-04T18:58:40.644Z
+date: 2024-07-20T20:49:21.973Z
+updated: 2024-07-21T20:49:21.973Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 **Compatibility:** Windows
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
@@ -52,10 +55,16 @@ If you are using Windows XP or an earlier version of the Windows OS, you can inv
 
 Besides creating image negatives, the Preview app lets you convert image files as well. Once you open a photo you’d like to invert with the Preview app, you should click on the **Tools** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
@@ -66,6 +75,9 @@ You can experiment with the values you assign to each of these sliders in order 
 
 **Compatibility:** Online platform
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
 
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
@@ -120,6 +132,9 @@ Inverting the colors in a photo with Negative Photo Effect HD is easy since you 
 
 Inverting colors in a photo is not a complicated process, but finding creative ways to use the negative image effect is since images with inverted colors are best used within a pre-defined context. Do you often create images with inverted colors? Leave a comment below and let us know your favorite method of creating image negatives.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -144,6 +159,9 @@ The Invert option is commonly used to invert a scanned film negative to color, b
 
 **Compatibility:** Windows
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/ms-paint-invert-color.jpg)
 
 Open the photo you’d like to invert with MS Paint, and then choose the **Select All option** from the **Select Menu**. **Right-click** on the picture and click on the **Invert Color** option. The colors in the image will be automatically inverted, so you can then head over to the **Save As submenu** in the **File menu** to select the file format of the new photo.
@@ -158,10 +176,16 @@ If you are using Windows XP or an earlier version of the Windows OS, you can inv
 
 Besides creating image negatives, the Preview app lets you convert image files as well. Once you open a photo you’d like to invert with the Preview app, you should click on the **Tools** menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
@@ -258,3 +282,55 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-make-your-instagram-pop-with-sharing-gifs-in-4-easy-steps-for-2024/"><u>[New] How to Make Your Instagram Pop with Sharing GIFs in 4 Easy Steps for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-seamlessly-integrate-captions-into-youtube-videos-for-2024/"><u>[New] How to Seamlessly Integrate Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-perfect-presentation-powerpoint-recordings-on-webcam/"><u>[New] In 2024, Perfect Presentation  PowerPoint Recordings on Webcam</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-selective-online-shopping-destinations-fancy-wrapped-gifts/"><u>[New] Selective Online Shopping Destinations  Fancy Wrapped Gifts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-5-ways-to-rewind-a-twitch-live-stream/"><u>[Updated] 5 Ways to Rewind A Twitch Live Stream</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-boosting-roi-in-fb-ads-through-animation-techniques-for-2024/"><u>[Updated] Boosting ROI in FB Ads Through Animation Techniques for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mp4-conversion-made-simple-fb-video-to-720p-1080p-at-zero-charge-for-2024/"><u>[Updated] MP4 Conversion Made Simple  FB Video to 720P, 1080P at Zero Charge for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-techniques-for-verbal-note-taking-expertise/"><u>[Updated] Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-time-lapse-photography-with-gopro-software/"><u>[Updated] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-maximizing-your-medical-ads-on-fb/"><u>[Updated] The Ultimate Guide to Maximizing Your Medical Ads on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[Updated] Top 5 Cloud Giants  Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-asmrists-aiding-the-nighttime-ritual/"><u>[Updated] Top ASMRists Aiding the Nighttime Ritual</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-astronomical-sites-for-breathtaking-sky-photos/"><u>[Updated] Top Astronomical Sites for Breathtaking Sky Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>[Updated] Top Pick  Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-10-royale-showdowns-for-2024/"><u>[Updated] Ultimate 10 Royale Showdowns for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-selecting-6-premium-live-audio-devices/"><u>[Updated] Ultimate Guide to Selecting 6 Premium Live Audio Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-audio-pleasure-your-iphones-podcast-potential/"><u>[Updated] Unleashing Audio Pleasure - Your iPhone’s Podcast Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-professional-video-quality-with-obs-studios-lut-functionalities/"><u>[Updated] Unlock Professional Video Quality with OBS Studio's LUT Functionalities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-foundations-of-virtual-storytelling/"><u>[Updated] Unveiling the Foundations of Virtual Storytelling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-players-transforming-vr-landscape/"><u>2024 Approved  Key Players Transforming VR Landscape</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-complete-picture-youtubes-quick-clips/"><u>2024 Approved  The Complete Picture  YouTube's Quick Clips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques/"><u>2024 Approved  The Filmmaker's Blueprint to Panoramic Perfection  9 Key Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>2024 Approved  Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-smoothing-out-quake-in-captured-movement/"><u>2024 Approved  Tips for Smoothing Out Quake in Captured Movement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-full-potential-of-googles-podcast-tools/"><u>2024 Approved  Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>2024 Approved  Unveiling Facetune's Potential  Photo Editing Like Never Before</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-isolating-vocal-elements-disengaging-audio-from-video-using-premiere-pro/"><u>2024 Approved Isolating Vocal Elements Disengaging Audio From Video Using Premiere Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-pc-failures-due-to-unmet-intel-graphic-standards/"><u>Addressing PC Failures Due to Unmet Intel Graphic Standards</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/audiophiles-blueprint-top-tools-and-practices-to-minimize-external-sound-interference-on-and-off/"><u>Audiophiles Blueprint Top Tools and Practices to Minimize External Sound Interference (On & Off)</u></a></li>
+<li><a href="https://games-able.techidaily.com/channel-management-excellence-perfecting-blockunblock-techniques-on-twitch/"><u>Channel Management Excellence: Perfecting Block/Unblock Techniques on Twitch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>In 2024, In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peeling-back-layers-of-the-metaverse-with-6-studies/"><u>In 2024, Peeling Back Layers of the Metaverse with 6 Studies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-perfect-instruction-manual-for-wm6/"><u>In 2024, Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-rapid-diy-filming-tips-for-the-budding-director/"><u>In 2024, Rapid DIY Filming Tips for the Budding Director</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-tutorial-for-effective-morphvox-audio-changes/"><u>In 2024, Step-by-Step Tutorial for Effective MorphVOX Audio Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-tune-makers-for-iphone-users/"><u>In 2024, Superior Tune Makers for iPhone Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-swift-navigation-for-iphone-zooming-features/"><u>In 2024, Swift Navigation for iPhone Zooming Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-horizons-in-contrast-vr-vs-augmented-reality-and-mr/"><u>In 2024, Tech Horizons in Contrast  VR Vs. Augmented Reality and MR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>In 2024, The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-strategies-to-create-stellar-podcast-names-plus-a-curated-list-of-50plus-examples/"><u>In 2024, Top Strategies to Create Stellar Podcast Names + A Curated List of 50+ Examples</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-get-c-span-footage-at-no-charge-for-2024/"><u>Learn to Get C-Span Footage at No Charge for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v20-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v2.0 files on my Mac using tool | Stellar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-direct-conversation-on-snapchat-follow-these-steps-for-2024/"><u>Unlocking Direct Conversation on Snapchat - Follow These Steps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-prospects-and-limitations-within-samsungs-2023-image-editor-for-2024/"><u>Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android-for-2024/"><u>Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-what-apps-can-you-use-to-blur-the-face-or-the-background-on-the-video-in-this-article-i-will-share-some-of-the-best-video-blur-apps-th/"><u>Updated 2024 Approved What Apps Can You Use to Blur the Face or the Background on the Video? In This Article, I Will Share some of the Best Video Blur Apps that You Can Use to Blur Any Part of the Video on iPhone or Android Phones</u></a></li>
+</ul></div>

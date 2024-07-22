@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Understanding Video Duration  20MB Example\""
-date: 2024-06-03T17:33:16.194Z
-updated: 2024-06-04T17:33:16.194Z
+date: 2024-07-20T19:57:10.508Z
+updated: 2024-07-21T19:57:10.508Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,9 @@ Filmora can be used to change the bitrate of video files. It has a user-friendly
 
 * **Import Video -Bring the video files in.**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -80,12 +83,18 @@ Run Video Editor after installing it. Then, on your computer, click the "Import"
 
 * **Choose a video to watch.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-2.jpg)
 
 Then, on the Video or Audio timeline, drag and drop your video or audio file. Select your preferred video or audio format by clicking EXPORT. Click the Device tab and select the right device from the list of presets if you want to play the completed file on a mobile device like an iPhone, iPad, iPad, or Zune.
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -144,6 +153,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -158,6 +170,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -182,6 +197,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -240,3 +258,47 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-your-income-potential-on-instagram/"><u>[New] Maximizing Your Income Potential on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>[New] Paving the Path for Creativity  Turning GIFS to Stickers on All Social Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[New] The Art of Capturing Attention  Top 6 Videos to Watch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>[New] The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-rated-asmr-gear-high-quality-priced-right/"><u>[New] Top-Rated ASMR Gear  High Quality, Priced Right</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-control-panel-access-denied/"><u>[Solved] NVIDIA Control Panel Access Denied</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expert-strategies-for-fbx-filming-in-video-games/"><u>[Updated] Expert Strategies for FBX Filming in Video Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailored-interventions/"><u>[Updated] Tailored Interventions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>2024 Approved  Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-premier-html5-video-players-list/"><u>2024 Approved  Unveiling The Premier HTML5 Video Players List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide-for-2024/"><u>Harnessing the Power of Audio on Your Device  Apple's Podcast Download Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-15-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 15 Plus Smoothly</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-xiaomi-redmi-note-12t-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi Note 12T Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-poco-c50-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Poco C50 Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-and-master-nft-generation-with-ease/"><u>In 2024, Learn and Master NFT Generation with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-background-extraction-in-figma-designs-easily/"><u>In 2024, Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-revival-device-pack/"><u>In 2024, Revival Device Pack</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-straightforward-screen-capture-program/"><u>In 2024, Straightforward Screen Capture Program</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-image-purity-via-photopea-methods/"><u>In 2024, Streamlining Image Purity via Photopea Methods</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-ultimate-guide-to-4k-proxy-video-editing-top-apps/"><u>In 2024, The Ultimate Guide to 4K Proxy Video Editing Top Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>In 2024, Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-visual-narratives-with-creative-use-of-luts-in-pro/"><u>In 2024, Transforming Visual Narratives with Creative Use of LUTs in Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-devices-for-home-and-office/"><u>In 2024, Ultimate Devices for Home and Office</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6s-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6s Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-full-screen-flexibility-with-pip-feature-on-iphones/"><u>In 2024, Unlock Full Screen Flexibility with PIP Feature on iPhones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unlocking-profile-picture-magic-on-discord-download/"><u>In 2024, Unlocking Profile Picture Magic on Discord [Download]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigate-improved-output-with-mobile-lut-adjustments-for-2024/"><u>Navigate Improved Output with Mobile LUT Adjustments for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tag-and-showcase-a-podcast-episode-for-2024/"><u>Tag and Showcase a Podcast Episode for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-chrono-synergy-effects-for-2024/"><u>Techniques for Chrono-Synergy Effects for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thank-you-access-comprehensive-paidfree-templates-for-2024/"><u>Thank You! Access  Comprehensive Paid/Free Templates for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone-for-2024/"><u>The Art of Saving and Enjoying Animated GIFs on Your iPhone for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-motion-without-touch-sensors-for-2024/"><u>The Complete Guide to Motion Without Touch Sensors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-documentarians-guide-to-captivating-audience-for-2024/"><u>The Documentarian's Guide to Captivating Audience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-commercial-data-custodians-for-2024/"><u>Top 10 Commercial Data Custodians for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-funimate-on-android-step-by-step-apk-tutorial-for-2024/"><u>Unleashing Funimate on Android - Step-by-Step APK Tutorial for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps-for-2024/"><u>Unlocking Creative Potential  Turning Graphics Into Stickers on Chat Apps for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-preserve-your-memories-a-step-by-step-guide-to-creating-home-dvds/"><u>Updated 2024 Approved Preserve Your Memories A Step-by-Step Guide to Creating Home DVDs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unlock-premiere-pros-full-potential-system-requirements-and-setup/"><u>Updated In 2024, Unlock Premiere Pros Full Potential System Requirements and Setup</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-rotate-your-3gp-videos-without-spending-a-dime-top-5-free-tools/"><u>Updated Rotate Your 3GP Videos Without Spending a Dime Top 5 Free Tools</u></a></li>
+</ul></div>

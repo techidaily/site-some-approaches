@@ -1,7 +1,7 @@
 ---
 title: "Top 9 Innovative Websites Offering Unique 3D Graffiti Typefaces for 2024"
-date: 2024-06-03T20:01:14.184Z
-updated: 2024-06-04T20:01:14.184Z
+date: 2024-07-20T21:27:37.446Z
+updated: 2024-07-21T21:27:37.446Z
 tags: 
   - screen-recording
   - ai video
@@ -35,12 +35,19 @@ So, let's get started with our review without any further delay!
 
 * [How To Edit Graffiti Text Effects in Video](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Recommendation - 8 Websites To Find 3D Graffiti Text
 
 Many resources are available online for font styles, so it can be challenging to know which is the best. To help you find the correct repository, we've extensively researched and compiled a list of the 8 best online websites for 3D graffiti fonts.
 
 No matter what style you're going for, you're sure to find the perfect 3D graffiti text resource in one of these online libraries.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 1\. [Freepik](https://www.freepik.com/free-photos-vectors/graffiti-font)
 
 With a large selection of high-quality assets, Freepik is an excellent website to start your search for the perfect 3d graffiti font for your project. On this online resource, you can find over 8,000 editable vector text effects for free.
@@ -61,12 +68,18 @@ To get the font, visit the Freepik website using a browser and use the search fi
 
 * You can only download 10 pictures for free
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [Shutterstock](https://www.shutterstock.com/zh/search/3d-graffiti-font?image%5Ftype=vector)
 
 Shutterstock is a global online marketplace for high-definition stunning visuals, including royalty-free photos, 3D graffiti fonts, videos, and vectors. Here, you can get over 405 million assets at a price starting from $0.22–$14.50/image and $67.96–$99.50/image for an extended license.
 
 Furthermore, this online resource allows you to download 10 images for free during the trial period. To begin with, visit the website using a browser, sign up for a free trial or premium plan, and simply search for 3D graffiti fonts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![shutterstock for 3d graffiti text](https://images.wondershare.com/filmora/article-images/shutterstock-for-3d-graffiti-text.png)
 
 **Features**
@@ -104,6 +117,9 @@ To download the 3D graffiti fonts from Vecteezy:
 
 * You cannot download the assets in the format you want
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [Befonts](https://befonts.com/display-font/graffiti)
 
 Whether looking for 3D graffiti text for personal or commercial use, you'll find a suitable template on the Befonts website. From script fonts to handwritten to Sans Serif and calligraphy, this online resource is full of every text style you want.
@@ -114,6 +130,9 @@ On Befonts, you can also find text templates from different font designers. To g
 2. Type **3D graffiti text** and hit ;**Enter**.
 3. Select a template and click **Download** ;to save it. ;
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![befonts for 3d graffiti text](https://images.wondershare.com/filmora/article-images/befonts-for-3d-graffiti-text.png)
 
 **Features**
@@ -127,6 +146,9 @@ On Befonts, you can also find text templates from different font designers. To g
 
 * You can download text styles in only zip format.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Adobe Stock](https://stock.adobe.com/search?k=graffiti%20fonts)
 
 With over a million fonts, Adobe Stock has a wide selection of templates perfect for any project. In addition, the website's interface is easy-to-use and comes with advanced search functionality.
@@ -147,6 +169,9 @@ You can access all the fonts you need to create stunning visuals for $49.99 mont
 
 * You cannot get extended licenses in bulk
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### 6\. [Dafont](https://www.dafont.com/theme.php?cat=606)
 
 Dafonts is an excellent online platform for downloading free 3D graffiti fonts to add depth and dimension to the text and make your project stand out. You can even search for fonts by theme.
@@ -178,6 +203,14 @@ To download:
 3. Type **3D graffiti tex**t in the search field and hit **Enter**.
 4. Select the font and download it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![myfonts for 3d graffiti text](https://images.wondershare.com/filmora/article-images/myfonts-for-3d-graffiti-text.png)
 
 **Features**
@@ -276,3 +309,76 @@ Recommendation - 8 Websites To Find 3D Graffiti Text
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-cinematic-closeness-a-kinemaster-expertise-for-close-up-craft/"><u>[New] Cinematic Closeness  A Kinemaster Expertise for Close-Up Craft</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[New] In 2024, A Comprehensive Tutorial  Changing Gender in Social Media Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-exploration-of-apeaksofts-screen-recorder/"><u>[New] In 2024, The Ultimate Exploration of Apeaksoft's Screen Recorder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nside-the-worlds-most-successful-business-youtube-sites/"><u>[New] Inside the World's Most Successful Business YouTube Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-leading-edge-approaches-in-spotifys-advertising-realm/"><u>[New] Leading Edge Approaches in Spotify's Advertising Realm</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharpening-your-minecraft-landscapes/"><u>[New] Sharpening Your Minecraft Landscapes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-video-evaluation-report/"><u>[New] Streaming Video Evaluation Report</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-sunset-to-silhouette-adobe-guide/"><u>[New] Sunset to Silhouette  Adobe Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] Tackling Massed-Up TikToks  Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-is-now-equip-yourself-with-these-7-devices/"><u>[New] The Future Is Now - Equip Yourself with These 7 Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-reddit-trophy-case-top-ten-threads/"><u>[New] The Ultimate Reddit Trophy Case - Top Ten Threads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-kid-friendly-drone-models-for-first-flights/"><u>[New] Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[New] Unveiling Luxury  Transforming Standard Shipments Into Memories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-in-depth-look-at-sonys-x1000v-hd-recorder/"><u>[Updated] 2024 Approved  In-Depth Look at Sony's X1000V HD Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-adding-music-mini-banners-on-instagram-profiles-for-2024/"><u>[Updated] Adding Music Mini-Banners on Instagram Profiles for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-beatbox-and-boogie-easy-to-learn-tiktok-dance-hits/"><u>[Updated] Beatbox & Boogie  Easy-to-Learn TikTok Dance Hits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-best-6-social-media-platforms-for-business/"><u>[Updated] Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-crafting-a-journalistic-closing-statement/"><u>[Updated] In 2024, Crafting a Journalistic Closing Statement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-speakers-guide-to-captivating-visual-storytelling/"><u>[Updated] In 2024, The Speaker's Guide to Captivating Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-text-workflow-in-after-effects/"><u>[Updated] Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-to-low-cost-cloud-storage-plans/"><u>[Updated] The Essential Guide to Low-Cost Cloud Storage Plans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>[Updated] The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>[Updated] Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vault-selection-for-top-corporate-use/"><u>[Updated] Vault Selection for Top Corporate Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts/"><u>2024 Approved  Advanced Live Broadcast Setup  From OBS to FB Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-gamer-perks-lowest-priced-monitors-and-keyboards/"><u>2024 Approved  Essential Gamer Perks  Lowest Priced Monitors & Keyboards</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-youtube-image-saver-compilation/"><u>2024 Approved  Free YouTube Image Saver Compilation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-jumpstart-your-channel-with-these-top-10-video-editing-tips/"><u>2024 Approved  Jumpstart Your Channel with These Top 10 Video Editing Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-weaving-b-roll-into-main-footage-seamlessly/"><u>2024 Approved  The Art of Weaving B Roll Into Main Footage Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-perfect-pathway-insta-to-tiktok-junction/"><u>2024 Approved  The Perfect Pathway  Insta to TikTok Junction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>2024 Approved  The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery/"><u>2024 Approved  The Ultimate List for Seeking No-Cost High-Quality Vector Imagery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-overview-dji-inspire-1-reviewed/"><u>2024 Approved  The Ultimate Overview  DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-online-hubs-for-public-domain-music-in-games/"><u>2024 Approved  Top 10 Online Hubs for Public Domain Music in Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-ordinary-interviews-into-impactful-experiences/"><u>2024 Approved  Transforming Ordinary Interviews Into Impactful Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-video-playback-mkv-edition/"><u>2024 Approved  Ultimate Video Playback  MKV Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-power-of-luts-in-adobe-premiere-video-editing/"><u>2024 Approved  Unleashing the Power of LUTs in Adobe Premiere Video Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>2024 Approved  Unlocking Full Potential  In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-lut-production/"><u>2024 Approved  Unlocking the Secrets of LUT Production</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-video-potential-top-9-tips-for-vr-storytelling/"><u>2024 Approved  Unlocking Video Potential  Top 9 Tips for VR Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-up-close-and-personal-tips-for-sharper-videos-on-videoleap/"><u>2024 Approved  Up Close & Personal  Tips for Sharper Videos on Videoleap</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-here-the-main-discussion-is-regarding-the-split-of-the-audio-from-the-video-in-the-sony-vegas-pro-there-are-also-some-details-about-the-substi/"><u>2024 Approved Here, the Main Discussion Is Regarding the Split of the Audio From the Video in the Sony Vegas Pro. There Are Also some Details About the Substitute, Which Is Wondershare Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auditory-capture-techniques-for-professional-note-takers-for-2024/"><u>Auditory Capture Techniques for Professional Note-Takers for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-14-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 14 If Youve Tried Everything</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-symbolizing-sound-designing-a-captivating-podcast-image/"><u>In 2024, Symbolizing Sound  Designing a Captivating Podcast Image</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-your-presents-10-leading-e-commerce-platforms-unveiled/"><u>In 2024, Tailoring Your Presents  10 Leading E-Commerce Platforms Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-podcast-hooks-compelling-beginnings/"><u>In 2024, The Art of Podcast Hooks  Compelling Beginnings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-guide-to-age-old-vhs-effects-in-digital-video-production/"><u>In 2024, The Editor's Guide to Age-Old VHS Effects in Digital Video Production</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-filmmakers-guide-to-accompanying-unboxings-with-tunes/"><u>In 2024, The Filmmaker's Guide to Accompanying Unboxings with Tunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>In 2024, The Next Gen of Visual Perfection  A Review of EIZO's CG318-4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-mastering-snapchats-zoom-feature/"><u>In 2024, The Ultimate Guide to Mastering Snapchat's Zoom Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-viewers-into-active-participants/"><u>In 2024, Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-the-power-of-edit-in-tiktok-video-creation/"><u>In 2024, Unleashing the Power of Edit in TikTok Video Creation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-reno-10-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Reno 10 5G Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovations-in-balancing-exposures-for-perfect-pictures-for-2024/"><u>Innovations in Balancing Exposures for Perfect Pictures for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/punchline-perfection-creating-memes-that-make-people-tickle/"><u>Punchline Perfection  Creating Memes that Make People Tickle</u></a></li>
+<li><a href="https://games-able.techidaily.com/stabilizing-xbox-s-controller-signal-loss/"><u>Stabilizing Xbox S Controller Signal Loss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/switch-to-picture-in-picture-while-watching-youtube-for-2024/"><u>Switch to Picture in Picture While Watching YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-photopea-blueprint-for-flawless-image-backdrop-for-2024/"><u>The Photopea Blueprint for Flawless Image Backdrop for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-win11-sessions-with-advanced-zoom-skills-for-2024/"><u>Transform Your Win11 Sessions with Advanced Zoom Skills for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-searching-for-scenes-filled-with-resounding-applause-symphony/"><u>Updated 2024 Approved Searching for Scenes Filled with Resounding Applause Symphony</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-10-premium-audio-editors-for-pcs-and-macs-beyond-audacity/"><u>Updated 2024 Approved Top 10 Premium Audio Editors for PCs and Macs Beyond Audacity</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-top-6-animated-emoji-video-effects/"><u>Updated Top 6 Animated Emoji Video Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vectors-decoded-for-newbies-diverse-forms-and-tool-options-for-2024/"><u>Vectors Decoded for Newbies  Diverse Forms and Tool Options for 2024</u></a></li>
+</ul></div>

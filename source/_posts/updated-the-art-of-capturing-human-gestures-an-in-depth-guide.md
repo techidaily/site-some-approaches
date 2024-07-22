@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Capturing Human Gestures  An In-Depth Guide\""
-date: 2024-06-03T18:38:33.051Z
-updated: 2024-06-04T18:38:33.051Z
+date: 2024-07-20T20:37:00.361Z
+updated: 2024-07-21T20:37:00.361Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ In this article, we’ll discuss **Hand Tracking** technology, its various appli
 
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -51,6 +54,9 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 There are two main types of Hand Tracking: with interface and without interface:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tracking With Interface
 
 With interface Hand Tracking, you need to use a device such as a glove or a controller to interact with the virtual world. This can be used in VR or AR applications. It is further divided into two systems:
@@ -81,10 +87,16 @@ Above we have learned what is Hand Tracking and the two types of it. Now let’s
 
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -122,6 +134,9 @@ A _main.py_ file for writing code will be automatically created in _Pycharm_ app
 
 First, import the OpenCV and MediaPipe to use their dependencies. Once done, create an object _cap_ for video capturing and three other objects; _mpHands, hands,_ and _mpDraw_ to manipulate your input using MediaPipe.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing the libraries](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-3.jpg)
 
 ##### Step2 Capturing And Processing An Image Input
@@ -148,6 +163,9 @@ Afterward, use the above code to create a method for using specifically to ident
 
 To create a method for finding the x and y coordinates of the z21 hand points and a list that you will use to keep the values of these, write the code below:
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![locate x and y coordinate of hand point](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-7.jpg)
 
 In this method, use the code that you used to find the ID and hand landmark of each hand point. Moreover, put the code you will use to circle the hand point.
@@ -162,12 +180,18 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 To execute the main method, copy and paste the following code lines:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
 After what has been explained above and what you have learned by now, we hope you have been equipped with hand tracking module knowledge and be ready to take action. Here, we will also sincerely recommend you a user-friendly and professional video edtior to show your hand motion scene – [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)!
@@ -180,6 +204,9 @@ Learn more about Filmora:
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve explored Hand Tracking and its two types, i.e., tracking with interface and tracking without interface. Moreover, we provided step-by-step guidance on using Python, OpenCV, and MediaPipe to create a Hand Tracking module.
@@ -213,3 +240,39 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-brilliance-essential-lighting-hacks-for-iphone/"><u>[New] Capture Brilliance  Essential Lighting Hacks for IPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-6-tools-for-video-language-shift/"><u>[New] Superior 6 Tools for Video Language Shift</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ten-practices-to-avoid-vr-motion-sickness/"><u>[New] Ten Practices to Avoid VR Motion Sickness</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-captivating-6-powerful-video-genres/"><u>[New] The Art of Captivating  6 Powerful Video Genres</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-finest-picks-top-8-web-sites-with-rich-3d-and-gold-lined-texts/"><u>[New] The Finest Picks  Top 8 Web Sites with Rich 3D & Gold-Lined Texts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-slow-motion-video-gear/"><u>[New] Top 5 Slow-Motion Video Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-troubleshooting-streaming-issues-on-mac-with-mixer/"><u>[New] Troubleshooting Streaming Issues on Mac with Mixer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-video-duration-20mb-example/"><u>[New] Understanding Video Duration  20MB Example</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unleash-potential-strategies-for-skyrocketing-your-fb-profile-status/"><u>[New] Unleash Potential  Strategies for Skyrocketing Your FB Profile Status</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-srts-potential-in-subtitle-format-sub/"><u>[New] Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-insights-crafting-perfect-vimeo-closures/"><u>[Updated] In 2024, Expert Insights  Crafting Perfect Vimeo Closures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-troubleshoot-vanished-facebook-videos-discover-our-top-12-fixes/"><u>[Updated] In 2024, Troubleshoot Vanished Facebook Videos - Discover Our Top 12 Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-accelerate-access-funimates-download-demystified/"><u>2024 Approved  Accelerate Access  Funimate's Download Demystified</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfecting-highlight-covers-an-in-depth-insta-photography-guide/"><u>2024 Approved  Perfecting Highlight Covers  An In-Depth Insta Photography Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats/"><u>2024 Approved  Unlocking VLC's Full Potential for Transforming MP4 & Various Formats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>2024 Approved  Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-video-snapshots-made-easy-10-best-converters-for-turning-videos-into-photos/"><u>2024 Approved Video Snapshots Made Easy 10 Best Converters for Turning Videos Into Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost-in-2024/"><u>A Deep Dive Into SNS HDR  Does It Justify Its Cost, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-mastering-the-av1-codec/"><u>In 2024, First Steps in Mastering the AV1 Codec</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-strategies-for-high-fidelity-video-conversion-to-dvd/"><u>In 2024, Top Strategies for High-Fidelity Video Conversion to DVD</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-7-top-mac-vids/"><u>In 2024, Ultimate Guide to 7 Top Mac Vids</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-enable-the-text-to-speech-function-on-iphone-for-2024/"><u>New How to Enable the Text to Speech Function on iPhone for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-aiff-converter-handbook-features-reviews-and-comparisons/"><u>New In 2024, The AIFF Converter Handbook Features, Reviews, and Comparisons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syma-x8c-tech-specifications-study-for-2024/"><u>Syma X8C Tech Specifications Study for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/systematic-upgrade-procedures-for-macos-sierra-users-for-2024/"><u>Systematic Upgrade Procedures for macOS Sierra Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-final-cut-editors-toolkit-10-plugin-winners-for-2024/"><u>The Final Cut Editor's Toolkit  10 Plugin Winners for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-path-to-proliferation-expanding-your-youtube-tribe-for-2024/"><u>The Path to Proliferation  Expanding Your Youtube Tribe for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures-for-2024/"><u>Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-viewing-experience-adding-subtitles-on-windows-media-player-for-2024/"><u>Transform Viewing Experience  Adding Subtitles on Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-the-best-vr-game-advancements-for-2024/"><u>Ultimate List  The Best VR Game Advancements for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-advanced-functionalities-of-zoom-on-windows-10-for-2024/"><u>Unlocking Advanced Functionalities of Zoom on Windows 10 for 2024</u></a></li>
+</ul></div>

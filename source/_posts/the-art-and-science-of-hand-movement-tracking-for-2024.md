@@ -1,7 +1,7 @@
 ---
 title: "The Art and Science of Hand Movement Tracking for 2024"
-date: 2024-06-03T21:44:06.800Z
-updated: 2024-06-04T21:44:06.800Z
+date: 2024-07-20T22:30:56.709Z
+updated: 2024-07-21T22:30:56.709Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ In this article, we’ll discuss **Hand Tracking** technology, its various appli
 
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -47,6 +50,9 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -81,10 +87,16 @@ Above we have learned what is Hand Tracking and the two types of it. Now let’s
 
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -94,8 +106,14 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 1. **Palm Detection**: In the first stage, MediaPipe has to work with the entire input image, providing a cropped image of the hand.
 2. **Hand Landmarks Identification**: In the second stage, the framework works with the cropped image of the hand to find 21 hand landmarks.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Guidance With Steps
 
 Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
@@ -108,6 +126,9 @@ Click the **“New Project”** option and select **“Create”** on the next W
 
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
 Now, to install **MediaPipe**, copy and paste the following command:
@@ -128,6 +149,10 @@ First, import the OpenCV and MediaPipe to use their dependencies. Once done, cre
 
 Copy and paste the following line of code to take the image input from your PC webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
 
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
@@ -140,6 +165,9 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
 
 Afterward, use the above code to create a method for using specifically to identify hands in the input image. The code will also draw hand landmarks and hand connections.
@@ -213,3 +241,53 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-best-websites-to-download-game-of-thrones-ringtones/"><u>[New] Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-voice-memo-grab-and-examine/"><u>[New] In 2024, Voice Memo Grab & Examine</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-revolutionizing-videography-with-the-impressive-nikon-j5/"><u>[New] Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-fundamentals-of-lut-implementation-in-after-effects/"><u>[New] The Fundamentals of LUT Implementation in After Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>[New] The Ultimate Guide  Top 5 Ways to Record Audio in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>[New] Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-twilight-assessment-diverse-ideas/"><u>[New] Twilight Assessment  Diverse Ideas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-panoramic-cinema-captures/"><u>[New] Understanding Panoramic Cinema Captures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-shake-and-smile-with-iphone-memes/"><u>[Updated] Shake & Smile with iPhone Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-and-costs-promoting-videos-effectively/"><u>[Updated] Strategies and Costs  Promoting Videos Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-to-enhance-testimonial-credibility-and-impact/"><u>[Updated] Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essentials-of-structuring-your-podcasts-rss-feed/"><u>[Updated] The Essentials of Structuring Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-latest-evolution-2023s-samsung-bd-j5900-review/"><u>[Updated] The Latest Evolution  2023'S Samsung BD-J5900 Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-leading-selection-no-cost-outstanding-lut-links/"><u>[Updated] The Leading Selection  No-Cost, Outstanding LUT Links</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-skys-bounty-to-brighten-indoors/"><u>[Updated] Utilizing Sky's Bounty to Brighten Indoors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[Updated] Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-gameplay-moments-flawlessly/"><u>2024 Approved  Capturing Gameplay Moments Flawlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-strategies-preserving-whatsapp-call-recordings/"><u>2024 Approved  Essential Strategies  Preserving WhatsApp Call Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>2024 Approved  Navigating the Clouds of Video Editing  Best Drones Tools Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-blueprint-of-successful-video-endorsements/"><u>2024 Approved  The Blueprint of Successful Video Endorsements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>2024 Approved  The Next Step in Virtual Reality  Jaunt VR Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-of-making-music-video-on-iphone/"><u>2024 Approved  Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-30-mobile-video-edits-using-dji-technology/"><u>2024 Approved  Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms/"><u>2024 Approved  Ultimate Upscaling  Preferred Platforms for Tapping SnapAlert Rhythms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-for-win-os-clown-sound-changes/"><u>2024 Approved  Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>2024 Approved  Unleash the Potential  A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://facebook.techidaily.com/archiving-acrobatics-expertise-in-concealing-social-media-posts/"><u>Archiving Acrobatics: Expertise in Concealing Social Media Posts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30 FRP Bypass Instantly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860738371-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>In 2024, Essential Mac Screen Recorders – Top 10 FREE List!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-creation-to-public-domain-google-podcast-upload/"><u>In 2024, From Creation to Public Domain  Google Podcast Upload</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-video-chatting-techniques-a-complete-resource/"><u>In 2024, Instagram’s Video Chatting Techniques  A Complete Resource</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artists-guide-to-the-leading-6-nft-creation-suites/"><u>In 2024, The Artist's Guide to the Leading 6 NFT Creation Suites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>In 2024, The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-playlist-15-ways-to-revamp-a-live-stream/"><u>In 2024, The Ultimate Playlist  15 Ways to Revamp a Live Stream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-unboxing-magic-7-ways/"><u>In 2024, Transforming Unboxing Magic  7 Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tune-sharing-compliance-instagram-ip-codex/"><u>In 2024, Tune-Sharing Compliance  Instagram IP Codex</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/metaverse-memetic-wisdom-for-a-laughter-filled-time-for-2024/"><u>Metaverse Memetic Wisdom for a Laughter-Filled Time for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-watermark-free-video-editing-on-android-the-top-10-apps-you-need/"><u>New Watermark-Free Video Editing on Android The Top 10 Apps You Need</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-f54-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy F54 5G, is it possible?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-price-tag-on-popularity-pewdiepies-annual-earnings-for-2024/"><u>The Price Tag on Popularity – PewDiePie's Annual Earnings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-blueprint-to-rip-and-burn-cds-with-windows-media-player-for-2024/"><u>The Ultimate Blueprint to Rip & Burn Cds with Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-no-cost-image-servers-always-preserve-your-pics-for-2024/"><u>Top 10 No-Cost Image Servers, Always Preserve Your Pics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas-for-2024/"><u>Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr-for-2024/"><u>Unveiling the Trio  A Deep Dive Into VR, AR, & MR for 2024</u></a></li>
+</ul></div>

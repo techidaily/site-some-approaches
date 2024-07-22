@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tips for Staying Positive in the Face of Critical YouTube Comments"
-date: 2024-06-03T18:11:09.382Z
-updated: 2024-06-04T18:11:09.382Z
+date: 2024-07-20T20:20:28.642Z
+updated: 2024-07-21T20:20:28.642Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -36,6 +39,9 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -44,6 +50,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -76,12 +85,18 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
@@ -114,6 +129,10 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -149,3 +168,50 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-dive-deep-into-google-meet-a-free-host-and-participants-guide-for-2024/"><u>[New] Dive Deep Into Google Meet  A Free Host & Participant's Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-revolutionizing-videography-with-the-impressive-nikon-j5/"><u>[New] Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-fundamentals-of-lut-implementation-in-after-effects/"><u>[New] The Fundamentals of LUT Implementation in After Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>[New] The Ultimate Guide  Top 5 Ways to Record Audio in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>[New] Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-strategies-to-create-stellar-podcast-names-plus-a-curated-list-of-50plus-examples/"><u>[New] Top Strategies to Create Stellar Podcast Names + A Curated List of 50+ Examples</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-power-scriptwriting-for-popular-vlogs/"><u>[New] Unlock the Power  Scriptwriting for Popular Vlogs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unusual-video-orientation-what-causes-sideway-images-on-instagram/"><u>[New] Unusual Video Orientation  What Causes Sideway Images on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[New] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-enterprises-of-spatial-display-tech/"><u>[New] Vanguard Enterprises of Spatial Display Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-evolution-of-editing-software-reviewed-magix-vpx/"><u>[Updated] The Evolution of Editing Software Reviewed  Magix VPX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-leading-selection-no-cost-outstanding-lut-links/"><u>[Updated] The Leading Selection  No-Cost, Outstanding LUT Links</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-skys-bounty-to-brighten-indoors/"><u>[Updated] Utilizing Sky's Bounty to Brighten Indoors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[Updated] Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-cutting-edge-ps2-games-simulation-for-ios-users/"><u>2024 Approved  Cutting-Edge PS2 Games Simulation for iOS Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-blueprint-of-successful-video-endorsements/"><u>2024 Approved  The Blueprint of Successful Video Endorsements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>2024 Approved  The Next Step in Virtual Reality  Jaunt VR Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-of-making-music-video-on-iphone/"><u>2024 Approved  Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-30-mobile-video-edits-using-dji-technology/"><u>2024 Approved  Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms/"><u>2024 Approved  Ultimate Upscaling  Preferred Platforms for Tapping SnapAlert Rhythms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-for-win-os-clown-sound-changes/"><u>2024 Approved  Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>2024 Approved  Unleash the Potential  A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-change-your-facebook-name/"><u>How to Change Your Facebook Name</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-diy-guide-screen-capture-and-sound-from-youtube/"><u>In 2024, DIY Guide  Screen Capture & Sound From YouTube</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-download-virtualdub-mpeg2-modded-version-and-follow-this-article-to-learn-how-to-use-virtualdub-mpeg2-to-compress-large-mpeg2-videos-easily-and-fast/"><u>In 2024, Download VirtualDub MPEG2 Modded Version and Follow This Article to Learn How to Use VirtualDub MPEG2 to Compress Large MPEG2 Videos Easily and Fast</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a05-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A05 to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g24-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G24 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-screensavvy-comprehensive-free-recording-software-for-everyone/"><u>In 2024, ScreenSavvy  Comprehensive, Free Recording Software for Everyone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artists-guide-to-the-leading-6-nft-creation-suites/"><u>In 2024, The Artist's Guide to the Leading 6 NFT Creation Suites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>In 2024, The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-playlist-15-ways-to-revamp-a-live-stream/"><u>In 2024, The Ultimate Playlist  15 Ways to Revamp a Live Stream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-unboxing-magic-7-ways/"><u>In 2024, Transforming Unboxing Magic  7 Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tune-sharing-compliance-instagram-ip-codex/"><u>In 2024, Tune-Sharing Compliance  Instagram IP Codex</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/metaverse-memetic-wisdom-for-a-laughter-filled-time-for-2024/"><u>Metaverse Memetic Wisdom for a Laughter-Filled Time for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-social-sessions-with-zoom-and-facebook-live-techniques-for-2024/"><u>Streamlining Social Sessions with ZOOM & Facebook Live Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/telegram-marketing-101-a-step-by-step-guide-for-starters-for-2024/"><u>Telegram Marketing 101  A Step-by-Step Guide for Starters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-float-engaging-with-netflixs-picture-in-picture-for-2024/"><u>The Art of Float  Engaging with Netflix's Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-creating-gifs-for-2024/"><u>The Ultimate Guide to Creating GIFs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-digital-mastery-of-vhs-visuals-for-2024/"><u>The Ultimate Guide to Digital Mastery of VHS Visuals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal-for-2024/"><u>Ultimate Love Ballads  Ideal Tunes for a Heartfelt Proposal for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-memes-edit-master-for-2024/"><u>Ultimate Memes Edit Master for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit-for-2024/"><u>Unleashing Wealth  The Ultimate 13-Step Guide for Newbies on Reddit for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-make-your-own-lyric-video-top-online-makers-to-try/"><u>Updated Make Your Own Lyric Video Top Online Makers to Try</u></a></li>
+</ul></div>

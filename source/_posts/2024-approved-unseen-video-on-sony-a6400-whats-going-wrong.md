@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unseen Video on Sony A6400  What's Going Wrong?\""
-date: 2024-06-03T20:56:33.728Z
-updated: 2024-06-04T20:56:33.728Z
+date: 2024-07-20T22:01:04.832Z
+updated: 2024-07-21T22:01:04.832Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ When this happens, do not panic. Most of the time, once you know the solution to
 
 **Reasons About Can’t I See Videos on Sony A6400**.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-2.jpg)
 
 There are varying reasons why your videos might not appear on Sony A6400; below are some of the top reasons you might be facing this issue.
@@ -106,10 +109,17 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 * **Step 3:** This will promptly redirect you to the editor page; click on the ‘file’ tab and choose ‘import media file.’ You need to have copied the video to your PC before beginning the process. You can also select ‘import from a camcorder’ to import the video directly.
 * **Step 4:** Navigate to the folder where the video is and click on ‘open.’
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-6.jpg)
 
 * **Step 5:** Start to customize your Sony A6400 video as you prefer; you can split the video into smaller clips, edit the audio track or add a new one to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-7.jpg)
 
 You can also include editing features like transitions, special video effects, etc. The various features available on Filmora allow you to enhance the value of your video file.
@@ -118,6 +128,9 @@ You can also include editing features like transitions, special video effects, e
 
 * **Step 6:** Once you’re done editing the video, select the ‘export’ tab, allowing you to save your video to a new location. You can also change your video’s bit rate, resolution, and frame rate.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-9.jpg)
 
 **Final Thoughts**
@@ -145,6 +158,9 @@ Now that you know the top reasons you can’t see videos on Sony A6400, you migh
 
 **Ensure the Video Format is Supported**
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-3.jpg)
 
 Although this reason isn’t as popular as the rest, there are times when the Sony A6400 records videos in a format that’s not supported by your system. When this happens, it could be why you can’t see videos on Sony A6400\. Most of the video formats supported by Mac and Windows include AVI, MOV, FLV, MP4, etc.
@@ -160,6 +176,9 @@ This is a common reason why you can’t see the videos on Sony A6400\. Sometimes
 * Right-click on the video, and choose ‘properties.’
 * Click the ‘tools’ category on the new Windows and select the ‘error checking’ feature.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-4.jpg)
 
 * The next step is automatically clicking the ‘check’ button to repair the camera’s SD card.
@@ -216,6 +235,9 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 
 You can also include editing features like transitions, special video effects, etc. The various features available on Filmora allow you to enhance the value of your video file.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-8.jpg)
 
 * **Step 6:** Once you’re done editing the video, select the ‘export’ tab, allowing you to save your video to a new location. You can also change your video’s bit rate, resolution, and frame rate.
@@ -250,3 +272,52 @@ Knowing why you can’t see videos on Sony A6400 is essential because it allows 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-on-youtube-annotations/"><u>[New] In 2024, A Step-by-Step on YouTube Annotations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-video-marketing-how-to-plan-your-strategy-with-ideas/"><u>[New] In 2024, Instagram Video Marketing  How to Plan Your Strategy with Ideas</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>[New] In 2024, Your 2023 Guide  Best Applications for Downloading Lite Facebook Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategy-in-the-shopping-experience/"><u>[New] Strategy in the Shopping Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-task-management-with-safaris-picture-in-picture/"><u>[New] Streamline Task Management with Safari's Picture In Picture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-cutting-edge-in-camera-technology-2024-edition/"><u>[New] The Cutting Edge in Camera Technology - 2024 Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-growth-trajectories-with-top-7-tiktok-tools/"><u>[Updated] 2024 Approved  Mastering Growth Trajectories with Top 7 TikTok Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-detailed-tutorial-on-screen-capturing-in-online-meetings-google-for-2024/"><u>[Updated] Detailed Tutorial on Screen Capturing in Online Meetings (Google) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-insights-on-youtube-tvs-unique-features-for-2024/"><u>[Updated] Essential Insights on YouTube TV's Unique Features for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-selecting-audioscapes-for-unveiling-videos/"><u>[Updated] Techniques  Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>[Updated] The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-beginners-guide-to-iphone-slow-movement-videography/"><u>[Updated] The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>[Updated] The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-next-level-windows-experience/"><u>[Updated] The Next-Level Windows Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-converting-any-tiktok-sound-into-phone-alerts/"><u>[Updated] The Ultimate Guide  Converting Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>[Updated] Transform Your Vision Into Reality  Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-updated-interview-playbook-for-audience-allure/"><u>[Updated] Updated Interview Playbook for Audience Allure</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vegas-pro-2021-a-detailed-gaming-world-survey/"><u>[Updated] Vegas Pro 2021  A Detailed Gaming World Survey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-task-management-with-safaris-picture-in-picture/"><u>2024 Approved  Streamline Task Management with Safari's Picture In Picture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-your-editing-workflow-with-final-cut-pro-tips/"><u>2024 Approved  Streamlining Your Editing Workflow with Final Cut Pro Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-aurora-hdr-experience-is-it-transformative/"><u>2024 Approved  The Aurora HDR Experience  Is It Transformative?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>2024 Approved  The Battle of Accessible Viewerships  Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>2024 Approved  The Beginner’s Blueprint  Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-checklist-for-successful-onestream-live-streaming/"><u>2024 Approved  The Ultimate Checklist for Successful OneStream Live Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-hd-cameras-for-game-watching/"><u>2024 Approved  Top 5 HD Cameras for Game Watching</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unparalleled-top-5-lightweight-cinematography-devices/"><u>2024 Approved  Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uploading-beats-youtube-music-setup/"><u>2024 Approved  Uploading Beats  YouTube Music Setup</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-new-dimension-of-connection-the-metaverse-explained/"><u>A New Dimension of Connection: The Metaverse Explained</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 14?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-start-a-channel-a-beginners-guide-to-reviewing-books-and-ebooks-for-2024/"><u>How To Start a Channel  A Beginner's Guide to Reviewing Books & Ebooks for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix GT 10 Pro Phone?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-revamping-your-soundtrack-check-out-the-best-audio-normalizers-for-windows-users/"><u>In 2024, Revamping Your Soundtrack? Check Out the Best Audio Normalizers for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scaling-up-likes-in-tiktok-unboxing-videos/"><u>In 2024, Scaling up 'Likes' In TikTok Unboxing Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-newcomers-guide-to-youtube-channel-setup-and-money-making-tips/"><u>In 2024, The Newcomer’s Guide to YouTube  Channel Setup & Money-Making Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>In 2024, The Path to Virtual Visualization Excellence  A Zoom Video Filters Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-flashback-2022s-snowboard-x-winners/"><u>In 2024, Ultimate Flashback  2022'S Snowboard X Winners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-to-outstanding-documentary-storytelling/"><u>In 2024, Unlocking the Secrets to Outstanding Documentary Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-mysteries-of-metaverse-persona-designs/"><u>In 2024, Unveiling the Mysteries of Metaverse Persona Designs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide-for-2024/"><u>Metaverse Vs. MultiMetaverse  Elucidating the Variances (Ultimate Guide) for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>New 2024 Approved FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-picture-in-picture-made-easy-a-final-cut-pro-tutorial/"><u>New 2024 Approved Picture-in-Picture Made Easy A Final Cut Pro Tutorial</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo-feature/"><u>New Talking Photo Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ts-for-top-audio-quality-no-need-for-a-microphone-for-2024/"><u>Secrets for Top Audio Quality, No Need for a Microphone for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/verbal-visions-a-compilation-of-the-most-advanced-transcription-apps-for-2024/"><u>Verbal Visions  A Compilation of the Most Advanced Transcription Apps for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-zte-blade-a73-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of ZTE Blade A73 5G on Mac?</u></a></li>
+</ul></div>

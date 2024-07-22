@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Reducing Unsteady Shots"
-date: 2024-06-03T19:20:12.683Z
-updated: 2024-06-04T19:20:12.683Z
+date: 2024-07-20T21:02:34.076Z
+updated: 2024-07-21T21:02:34.076Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,9 @@ When taking photographs or filming videos, there are a lot of elements to worry 
 
 Camera shake is the camera's movement during the exposure of a photograph. This can be caused by either a badly mounted camera or because the shutter speed was too slow for the lens's focal length. Camera shake is most noticeable when you shoot at telephoto focal lengths and at high magnifications (zoomed in) with a long exposure time.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### In Pictures
 
 Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
@@ -72,6 +75,9 @@ There are various ways in which the camera can shake, but the important thing is
 
 It is usually preferable for the rest of us to have photos that aren't blurry due to camera shake. When we say "blurry," we're not referring to the depth of field or out-of-focus shots. Those are two entirely different things.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Videos
 
 Many people already know about camera shake when it comes to photography. If you're taking a picture and your shutter speed is too slow, or you don't have a tripod handy, or your hands aren't steady enough, that can cause blur in your pictures. The same thing can happen when shooting a video. There are many times when camera shake is used as an artistic effect in videos.
@@ -84,6 +90,9 @@ A great way to add energy and intensity to your shots is camera movement. Whethe
 
 However, when shooting video, camera shake is often used as an artistic effect. A lot of Hollywood blockbusters will add blurriness and shake for dramatic effect. Some action sequences have been shot entirely on handheld cameras for this reason. But to pull off this technique successfully, you need to have extremely steady hands. If you don't have the steadiest hands, you can always use a good tripod instead.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Eliminating **camera shake** and gaining better control over it are lessons that almost every photographer learns early on. Yet there is still a large amount of misunderstanding about how it works. The vast majority of people don't truly understand what causes the camera to shake or how they can control it within their shooting style to get the sharpest possible images. Whether you are a beginning or advanced amateur photographer or videographer, knowing how to exert pressure when handling your camera gear properly is key to obtaining images that show fewer signs of blur from camera shake.
@@ -96,6 +105,9 @@ That's why awareness can go a long way towards helping you catch potential probl
 
 When taking photographs or filming videos, there are a lot of elements to worry about. Is the lighting correct? Is the focus autofocus or manual? Is the background distracting from the subject? But there's another thing you should be thinking about: camera shake. If you've ever looked at pictures online and thought they're blurred - that's probably because of camera shake. This isn't always easy to get rid of post-production if you've filmed on a DSLR camera, so it's better to get it right in camera. A few different things cause a camera shake, so here we'll take a look at what causes this and how you can stop it from happening when taking your next photograph.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![camera shake effect](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-1.jpg)
 
 #### In this article
@@ -104,6 +116,9 @@ When taking photographs or filming videos, there are a lot of elements to worry 
 
 02 [Is Camera Shake A Bad Thing?](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## The Definition of Camera Shake
 
 Camera shake is the camera's movement during the exposure of a photograph. This can be caused by either a badly mounted camera or because the shutter speed was too slow for the lens's focal length. Camera shake is most noticeable when you shoot at telephoto focal lengths and at high magnifications (zoomed in) with a long exposure time.
@@ -112,6 +127,9 @@ Camera shake is the camera's movement during the exposure of a photograph. This 
 
 Anyone who takes pictures seriously will eventually face the problem of camera shake. This happens when the camera shakes during exposure due to the photographer pushing the shutter button or a shaky hand. This can result in blurry photos, but there are several ways to avoid it in most situations. Camera shake is one of the most common problems photographers and videographers face and is one of the easiest to fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### In Videos
 
 Videos are made up of individual frames, each capturing one moment in time. When your video contains a scene that moves from left to right, the frames that make up that scene move from left to right as well. If there's any movement in the frame except for horizontal movements, such as vertical movement caused by camera shake, you'll see it in every frame of your video.
@@ -120,12 +138,22 @@ Videos are made up of individual frames, each capturing one moment in time. When
 
 So, is camera shake a bad thing? Yes, most of the time, but there are times when you can actually use it to your advantage. For example, in a long exposure shot, you may want to introduce some camera shake on purpose to blur moving objects and create a creative effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![is camera shake a bad thing](https://images.wondershare.com/filmora/article-images/2022/04/camera-shake-2.jpg)
 
 Another example where a camera shake can work in your favour is handheld macro photography. When shooting handheld macro shots, the motion of your hands can help keep the lens aligned with an object in front of you—if you move too slowly, the lens might lose alignment with what you're shooting.
 
 So if you find yourself facing a situation where you don't have a tripod or monopod handy, and you need steady shots, try using different techniques like bracing your body against solid objects or using burst mode to capture multiple images and choosing the sharpest one from the bunch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### In Pictures
 
 A camera shake is a big problem for most photographers. It's the enemy of sharp images, and when you're shooting with a telephoto lens, even the smallest amount of camera shake can cause blurry images.
@@ -138,6 +166,9 @@ There are various ways in which the camera can shake, but the important thing is
 
 It is usually preferable for the rest of us to have photos that aren't blurry due to camera shake. When we say "blurry," we're not referring to the depth of field or out-of-focus shots. Those are two entirely different things.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### In Videos
 
 Many people already know about camera shake when it comes to photography. If you're taking a picture and your shutter speed is too slow, or you don't have a tripod handy, or your hands aren't steady enough, that can cause blur in your pictures. The same thing can happen when shooting a video. There are many times when camera shake is used as an artistic effect in videos.
@@ -182,3 +213,55 @@ That's why awareness can go a long way towards helping you catch potential probl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/0-best-history-youtube-channels-for-students-and-history-lovers-for-2024/"><u>[New] 10 Best History YouTube Channels for Students & History Lovers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-spotlight-on-app-interfaces-triller-vs-tiktok-deep-dive-max-156-chars/"><u>[New] 2024 Approved  Spotlight on App Interfaces  Triller Vs. TikTok Deep Dive (Max 156 Chars)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>[New] Subaquatic Spectacites  Tips to Enrich Underwater Videos Using GoPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-economics-of-video-promotion-platforms/"><u>[New] The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-mobile-horizon-photos/"><u>[New] The Essential Guide to Mobile Horizon Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-10-superior-image-replacement-for-videos/"><u>[New] The Ultimate Guide  10 Superior Image Replacement for Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>[New] Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-every-moment-top-tasks-to-master-while-immersing-in-your-favorite-podcasts/"><u>[New] Transform Every Moment  Top Tasks to Master While Immersing in Your Favorite Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>[New] Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-potential-the-best-10-motivational-movies/"><u>[New] Unleash Potential  The Best 10 Motivational Movies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>[New] Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr/"><u>[New] Unveiling the Dynamics  An In-Depth Look at Luminance's HDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-ace-your-films-with-these-top-15-gopro-video-luts/"><u>[Updated] Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-shooting-canons-time-lapse-techniques/"><u>[Updated] Streamline Your Shooting  Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>[Updated] The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-tones-where-to-find-classical-callouts/"><u>[Updated] Top 30 Tones  Where to Find Classical Callouts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-mac-os-sierra-video-editing-apps/"><u>[Updated] Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-hidden-world-of-hand-tracking/"><u>[Updated] Unveiling the Hidden World of Hand Tracking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>2024 Approved  Shooting Spectacle  Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-step-by-step-guide-to-pinning-in-discord-dialogues/"><u>2024 Approved  Step-by-Step Guide to Pinning in Discord Dialogues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-viral-instagram-unboxing-vids/"><u>2024 Approved  The Ultimate Guide to Viral Instagram Unboxing Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-clicker-article-titles-maker/"><u>2024 Approved  Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-budget-for-making-a-music-video/"><u>2024 Approved  Total Budget for Making a Music Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>2024 Approved  Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-power-of-imagery-in-podcast-art/"><u>2024 Approved  Unlocking the Power of Imagery in Podcast Art</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-resize-flv-videos-efficientlywindows-mac-android-iphone-and-online/"><u>2024 Approved How to Resize FLV Videos EfficientlyWindows, Mac, Android, iPhone & Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expanding-your-audience-on-youtube-step-by-step-for-2024/"><u>Expanding Your Audience on Youtube Step by Step for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/final-cut-pro-essentials-rotating-clips-with-ease-for-2024/"><u>Final Cut Pro Essentials Rotating Clips with Ease for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6s-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6s Plus With or Without Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailor-your-own-memetic-masterpiece-now/"><u>In 2024, Tailor Your Own Memetic Masterpiece Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-decades-most-ingenious-frames-and-organizers-24/"><u>In 2024, The Decade's Most Ingenious Frames & Organizers '24</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>In 2024, The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>In 2024, The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>In 2024, Top Audio Interfaces Unveiled  The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-of-7-exceptional-vids-on-mac/"><u>In 2024, Ultimate List of 7 Exceptional Vids on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-kinemasters-secrets-to-smooth-transitions/"><u>In 2024, Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-power-of-time-lapse-with-samsung-smartphones/"><u>In 2024, Unlocking the Power of Time Lapse with Samsung Smartphones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arch-of-success-pivotal-youtube-gatherings-after-vidcon-for-2024/"><u>In Search of Success  Pivotal YouTube Gatherings (After VidCon) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/intro-videos-have-the-potential-to-make-a-first-impression-on-viewers-and-you-know-how-they-say-that-the-first-impression-is-the-last-impression-for-2024/"><u>Intro Videos Have the Potential to Make a First Impression on Viewers, and You Know How They Say that the First Impression Is the Last Impression for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-face-swap-frenzy-the-top-rated-apps-for-iphone-and-android/"><u>New Face Swap Frenzy The Top-Rated Apps for iPhone and Android</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-5-mp3-cutters-online/"><u>New Top 5 MP3 Cutters Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/silent-your-news-feed-from-political-strife/"><u>Silent Your News Feed From Political Strife</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/subtle-sound-level-lowering-in-fl-studio-for-2024/"><u>Subtle Sound Level Lowering in FL Studio for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-pushing-photographic-limits-for-2024/"><u>The Art of Pushing Photographic Limits for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-skills-editing-blurring-and-background-removal-for-2024/"><u>The Essential Skills  Editing, Blurring, and Background Removal for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-control-over-sound-dampening-in-audacity-for-2024/"><u>Understanding Control over Sound Dampening in Audacity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts-for-2024/"><u>Unlock Artistic Expression  Download Movie Maker for Win11 Enthusiasts for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-ratio-matters-the-influence-of-aspect-ratio-on-video-aesthetics/"><u>Updated In 2024, Ratio Matters The Influence of Aspect Ratio on Video Aesthetics</u></a></li>
+</ul></div>

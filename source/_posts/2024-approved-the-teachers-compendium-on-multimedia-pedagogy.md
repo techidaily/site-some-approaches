@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Teacher's Compendium on Multimedia Pedagogy\""
-date: 2024-06-03T17:44:03.519Z
-updated: 2024-06-04T17:44:03.519Z
+date: 2024-07-20T20:04:11.411Z
+updated: 2024-07-21T20:04:11.411Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/qNkFgtP2CzmQ0IlAZm65I2IKxgw=/540x405/fi
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
@@ -37,16 +40,25 @@ The two options for sharing videos with your students are synchronous or asynchr
 
 Some schools find that synchronous videos are a great way to keep the students connected. But there's a problem with privacy issues nowadays, especially with the students if they are shown in synchronous videos and recorded. Make sure you need the student's permission to record the video. We don't also forget the internet connection issues of some students. Don't forget and take note of that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**
@@ -100,3 +112,56 @@ More and more research supporting the advantages of blended learning will suppor
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-click-and-groove-an-insiders-guide-to-making-tiktok-dance-videos-for-mac/"><u>[New] 2024 Approved  Click and Groove  An Insider's Guide to Making TikTok Dance Videos for Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-free-online-tools-for-precise-srt-translation/"><u>[New] Best FREE Online Tools for Precise SRT Translation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-visual-narratives-with-premium-text-tools-in-ae/"><u>[New] Crafting Visual Narratives with Premium Text Tools in AE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-igtvs-top-10-talents-to-follow-today-for-2024/"><u>[New] IGTV's Top 10 Talents to Follow Today for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-8-trending-ae-templates-on-instagram/"><u>[New] In 2024, Top 8 Trending AE Templates on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-video-boost-tips-for-enhancement-22/"><u>[New] Mastering Video Boost  Tips for Enhancement (2.2)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mold-personal-memes-that-resonate/"><u>[New] Mold Personal Memes That Resonate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-process-step-by-step-telegram-web-guide/"><u>[New] Streamlined Process  Step-by-Step Telegram Web Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>[New] The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-removing-photo-borders/"><u>[New] The Ultimate Guide to Removing Photo Borders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-victory-apple-and-android-highlight-covers-for-2024/"><u>[New] Visual Victory  Apple & Android Highlight Covers for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-constructing-an-intriguing-trailer-blueprint-for-2024/"><u>[Updated] Constructing an Intriguing Trailer Blueprint for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-real-time-chromebook-display-logger/"><u>[Updated] In 2024, Real-Time Chromebook Display Logger</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-surprise-uncovered-secrets-to-take-your-window-11-experience-up-a-notch/"><u>[Updated] Surprise! Uncovered Secrets to Take Your WINDOW 11 Experience Up a Notch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synthesize-and-add-videos-to-your-listing/"><u>[Updated] Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macos-11-big-sur-a-complete-hardware-overview/"><u>2024 Approved  MacOS 11 Big Sur  A Complete Hardware Overview</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-stardom-unraveling-jake-pauls-youtube-rise/"><u>2024 Approved  Streaming Stardom  Unraveling Jake Paul's YouTube Rise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-superior-live-streaming-services/"><u>2024 Approved  The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-unseen-secrets-of-optimizing-win11-performance/"><u>2024 Approved  The Unseen Secrets of Optimizing Win11 Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-expert-recommended-8-convertors-from-sub-to-srt/"><u>2024 Approved  Top Picks  Expert-Recommended 8 Convertors From Sub to Srt</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-visual-brilliance-top-11-videos-on-color-techniques/"><u>2024 Approved  Unlock Visual Brilliance  Top 11 Videos on Color Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-aerial-precision-mavic-pro-analysis/"><u>2024 Approved  Unveiling Aerial Precision - Mavic Pro Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-technical-marvels-of-dji-inspire-2/"><u>2024 Approved  Unveiling the Technical Marvels of DJI Inspire 2</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/average-gain-for-youtubers-per-ad-exposure-for-2024/"><u>Average Gain for YouTubers per Ad Exposure for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-the-economic-riches-of-mr-beast/"><u>Decoding the Economic Riches of Mr. Beast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-perfect-phones-ranking-top-10-4k-camera-mobile-devices-for-2024/"><u>Frame-Perfect Phones  Ranking Top 10 4K Camera Mobile Devices for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kodi-streaming-service-windows-media-replacement/"><u>In 2024, Kodi Streaming Service  Windows Media Replacement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-next-level-gaming-premium-vr-players-reviewed/"><u>In 2024, Next-Level Gaming  Premium VR Players Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-video-edits-the-reason-for-imovie-cropping/"><u>In 2024, Tailoring Video Edits  The Reason for iMovie Cropping</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-gear-review-vr-treadmills-showdown/"><u>In 2024, Tech Gear Review  VR Treadmills Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-coolest-filmora-elements-for-enthusiastic-creators/"><u>In 2024, The Coolest Filmora Elements for Enthusiastic Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-storytelling-full-rotational-videography/"><u>In 2024, The Future of Storytelling  Full Rotational Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>In 2024, The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>In 2024, The Ultimate Guide to Import  Photos & Videos Into Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-metaverse-meme-compendium-ideas-galore/"><u>In 2024, The Ultimate Metaverse Meme Compendium  Ideas Galore</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-silent-song-methods-to-extract-and-remove-vocal-tracks-from-audio-sequences-in-audacity/"><u>New 2024 Approved The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-tools-for-live-stream-archiving/"><u>Premium Tools for Live Stream Archiving</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/retro-video-on-demand-top-vhs-streaming-apps-for-mobile-for-2024/"><u>Retro Video on Demand Top VHS Streaming Apps for Mobile for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sounds-unveiled-first-steps-using-auditions-fade-in-feature-for-2024/"><u>Sounds Unveiled  First Steps Using Audition's Fade In Feature for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/striking-the-balance-visual-strategies-for-podcast-identity-for-2024/"><u>Striking the Balance  Visual Strategies for Podcast Identity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-social-media-roadmap-for-business-growth-for-2024/"><u>The Social Media Roadmap for Business Growth for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-symphony-of-silence-starting-with-a-soft-fade-in-for-2024/"><u>The Symphony of Silence  Starting with a Soft Fade In for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-compendium-hands-free-device-interaction-for-2024/"><u>The Ultimate Compendium  Hands-Free Device Interaction for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-economical-timer-services-for-2024/"><u>Top-Rated Economical Timer Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-podcast-rankings-seo-techniques-uncovered-for-2024/"><u>Ultimate Podcast Rankings  SEO Techniques Uncovered for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-top-8-converter-list-for-sub-to-srt-for-2024/"><u>Ultimate Top 8 Converter List for Sub to SRT for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-15-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 15 Plus Passcode without a Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unpacking-the-features-and-shortcomings-of-samsung-image-editor-for-2024/"><u>Unpacking the Features and Shortcomings of Samsung Image Editor for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Essence of Pixiz  Crafting Compelling Stills-to-Video Transformations\""
-date: 2024-06-03T17:28:18.706Z
-updated: 2024-06-04T17:28:18.706Z
+date: 2024-07-20T19:54:10.858Z
+updated: 2024-07-21T19:54:10.858Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,16 @@ Step1Open the [Pixiz Website](https://en.pixiz.com/). Then, click the search bar
 
 Step2Now select any slideshow template by clicking on it.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on slideshow template](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-2.jpg)
 
 Step3Click on the select photo option and choose a photo.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose a photo](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-3.jpg)
 
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
@@ -66,8 +72,14 @@ Step4You can add more photos, in the same way, one by one (till the maximum numb
 
 Step5Now click on download and then save. Your photo video will be saved in GIF format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part 2\. The best software for creating slideshows - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### About Filmora
@@ -78,20 +90,32 @@ The powerful video editing program Filmora is offered by Wondershare. It offers 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do you make photo videos using Filmora?
 
 Step1Download [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from official website and click the setup wait till it install.
 
 Step2Now **open** **Filmora** and **click** **new project**.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
 
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
 
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
@@ -100,6 +124,9 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
@@ -150,3 +177,46 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-leverage-phantoms-retrograde-footage-tech/"><u>[New] How to Leverage Phantom’s Retrograde Footage Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-teachers-guide-to-use-video-in-teaching/"><u>[New] Teacher's Guide To Use Video In Teaching</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-purge-background-from-photos-using-photopea/"><u>[New] Techniques to Purge Background From Photos Using Photopea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>[New] The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-online-sources-for-high-quality-vector-illustrations/"><u>[New] Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-luts-role-in-image-color-alteration/"><u>[New] Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-6-microphones-perfect-for-online-streaming-success/"><u>[New] Unveiling Top 6 Microphones Perfect for Online Streaming Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-6-choices-prime-microphones-for-dynamic-online-broadcasts-for-2024/"><u>[Updated] Top 6 Choices  Prime Microphones for Dynamic Online Broadcasts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-groundbreaking-14-animated-text-techniques/"><u>2024 Approved  Groundbreaking 14 Animated Text Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-permanent-record-keeper-facebook-live-extraction-techniques/"><u>2024 Approved  Permanent Record Keeper  Facebook Live Extraction Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-rated-free-apps-to-download-reels-from-instagram-effortlessly/"><u>2024 Approved  Top-Rated, Free Apps to Download Reels From Instagram Effortlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-transitioning-gaming-sessions-xbox-live-to-fb-live/"><u>2024 Approved  Transitioning Gaming Sessions  Xbox Live to FB Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-trending-topics-and-themes-to-hook-your-streams-attention/"><u>2024 Approved  Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>2024 Approved  Unlock Creativity  The Best Collection of Free Slide Show Patterns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-full-potential-using-polarrs-image-tools/"><u>2024 Approved  Unlock Full Potential Using Polarr's Image Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-11-pros-window-secrets/"><u>2024 Approved  Unlocking 11  Pro's Window Secrets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>2024 Approved  Unveiling Image Quality  A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-utilizing-in-presentation-speech-to-text-functionality-in-powerpoint/"><u>2024 Approved  Utilizing In-Presentation Speech-to-Text Functionality in PowerPoint</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-instagram-for-20/"><u>Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>In 2024, Streamline Your Media Files  8 Pro Convertors, Sub to Srt Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-newbies-roadmap-to-understanding-av1/"><u>In 2024, The Newbie’s Roadmap to Understanding AV1</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-smartphone-lens-creating-sweeping-panos/"><u>In 2024, The Smartphone Lens  Creating Sweeping Panos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-platform-showdown-twitch-meets-youtube/"><u>In 2024, The Ultimate Platform Showdown  Twitch Meets YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-toolkit-for-srt-format-mastery/"><u>In 2024, The Ultimate Toolkit for SRT Format Mastery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-transferring-media-between-two-iphones-for-2024/"><u>Techniques for Transferring Media Between Two iPhones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thankful-tailings-templates-for-every-dollar-plan-for-2024/"><u>Thankful Tailings  Templates for Every Dollar Plan for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 6 Plus You Should Try Out</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms-for-2024/"><u>The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-how-to-on-using-voice-input-in-google-docs-for-2024/"><u>The Ultimate How-To on Using Voice Input in Google Docs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-playlist-15-ways-to-revamp-a-live-stream-for-2024/"><u>The Ultimate Playlist  15 Ways to Revamp a Live Stream for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world-for-2024/"><u>Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-strategies-for-impartiating-patient-narratives-for-2024/"><u>Transformative Strategies for Impartiating Patient Narratives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater-for-2024/"><u>Underwater Worlds Unseen  Pro Tips for Capturing Vivid GoPro Footage Underwater for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-learning-snapseeds-power-tools-for-2024/"><u>Unleash Creativity  Learning Snapseed's Power Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-avs-video-editor-for-mac-video-editing-tool-for-mac/"><u>Updated In 2024, AVS Video Editor for Mac Video Editing Tool for Mac</u></a></li>
+</ul></div>

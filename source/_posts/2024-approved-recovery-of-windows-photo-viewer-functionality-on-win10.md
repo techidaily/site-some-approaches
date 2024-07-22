@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Recovery of Windows Photo Viewer Functionality on Win10\""
-date: 2024-06-03T18:03:37.497Z
-updated: 2024-06-04T18:03:37.497Z
+date: 2024-07-20T20:15:37.460Z
+updated: 2024-07-21T20:15:37.460Z
 tags: 
   - screen-recording
   - ai video
@@ -63,12 +63,18 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -81,10 +87,16 @@ Here is the detailed guide –
 
 **Step 3** – Keep scrolling towards the bottom of the screen to find out ‘Windows Photo Viewer’. If ‘Windows Photo Viewer’ is visible, then it has been installed there and you can use it without any problem.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 ### Conclusion
@@ -132,6 +144,9 @@ Here is why they want to restore Windows Photo Viewer –
 * There is a solid UI across the image which doesn’t cover it, but works as a nice border.
 * You can delete an image without any confirmation here.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
@@ -142,6 +157,9 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -160,10 +178,17 @@ Here is the detailed guide –
 
 **Step 3** – Keep scrolling towards the bottom of the screen to find out ‘Windows Photo Viewer’. If ‘Windows Photo Viewer’ is visible, then it has been installed there and you can use it without any problem.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 ### Conclusion
@@ -172,6 +197,9 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -204,3 +232,40 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-convert-twitter-vids-into-aacmp4-files/"><u>[New] In 2024, Convert Twitter Vids Into AAC/MP4 Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synopsis-of-vllo-consumer-voices/"><u>[New] Synopsis of VLLO Consumer Voices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-and-science-behind-vr-experience-makers/"><u>[New] The Art and Science Behind VR Experience Makers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-guide-to-mastering-facetune-app-features/"><u>[New] The Comprehensive Guide to Mastering Facetune App Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-proficiently-navigating-win-10/"><u>[New] The Ultimate Guide to Proficiently Navigating Win 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-windows-phone-video-players-essential-app-selections/"><u>[New] Top Windows Phone Video Players  Essential App Selections</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-simplified-mac-imaging-mastering-5-easy-screenshot-methods/"><u>[Updated] In 2024, Simplified Mac Imaging  Mastering 5 Easy Screenshot Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-secure-and-store-your-saved-snaps-on-androidmac-hardware/"><u>2024 Approved  Secure and Store Your Saved Snaps on Android/Mac Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-viewing-experience-essentials-of-4k-downloading/"><u>2024 Approved  Superior Viewing Experience  Essentials of 4K Downloading</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-session-naming-service/"><u>2024 Approved  Supreme Session Naming Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-basics-what-makes-a-vr-device-special/"><u>2024 Approved  The Basics  What Makes a VR Device Special?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-editing-shines-with-magix-video-pro-x/"><u>2024 Approved  The Future of Editing Shines with Magix Video Pro X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-truth-behind-aurora-hdr-image-clarity/"><u>2024 Approved  The Truth Behind Aurora HDR Image Clarity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-examination-of-samsung-photo-editor-features/"><u>2024 Approved  The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-alert-tones-superior-download-sites-list/"><u>2024 Approved  Top Alert Tones  Superior Download Sites List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y78t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y78t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superstar-sites-for-crafting-unique-handmade-boxes/"><u>In 2024, Superstar Sites for Crafting Unique, Handmade Boxes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-swift-and-precise-image-editing-ioss-leading-tools-for-erasure-techniques/"><u>In 2024, Swift and Precise Image Editing  IOS's Leading Tools for Erasure Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-non-contact-sensing/"><u>In 2024, The Ultimate Guide to Non-Contact Sensing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-voice-changes-without-financial-investment/"><u>In 2024, The Ultimate Guide to Voice Changes Without Financial Investment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-verdict-on-inshot-master-editor/"><u>In 2024, The Verdict on InShot  Master Editor?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-thrifty-shopping-for-cameras-the-most-economical-lists-under-100/"><u>In 2024, Thrifty Shopping for Cameras  The Most Economical Lists Under $100</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-80s-cinematic-elements-for-modern-editing/"><u>In 2024, Top 80S Cinematic Elements for Modern Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-open-source-video-tools-for-every-desktop-environment/"><u>In 2024, Top Open Source Video Tools for Every Desktop Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>In 2024, Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vectors-demystified-starting-point-and-software-selection-tips/"><u>In 2024, Vectors Demystified  Starting Point & Software Selection Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-stream-heroes-face-off-xsplit-vs-obs-showcase-for-2024/"><u>Live Stream Heroes Face Off – XSplit Vs. OBS Showcase for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/movie-maker-for-mac-how-to-make-a-movie-on-mac-for-2024/"><u>Movie Maker for Mac How to Make a Movie on Mac for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essential-guide-to-youtube-edits-with-premiere-pro/"><u>The Essential Guide to YouTube Edits with Premiere Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo K11x? | Dr.fone</u></a></li>
+</ul></div>

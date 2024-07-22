@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Scripted Text Into Storytelling Magic\""
-date: 2024-06-03T15:55:27.090Z
-updated: 2024-06-04T15:55:27.090Z
+date: 2024-07-20T18:56:35.508Z
+updated: 2024-07-21T18:56:35.508Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -42,8 +45,15 @@ Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -52,12 +62,18 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 ## Cartoon Moblur
@@ -66,14 +82,23 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -88,6 +113,9 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 ## Text Library
@@ -131,3 +159,42 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] 2024 Approved  3-Step Financial Forecasting  Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-evaluating-rapid-subscriptions-impact-on-video-engagement/"><u>[New] 2024 Approved  Evaluating Rapid Subscription's Impact on Video Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile-for-2024/"><u>[New] Hashtag Hacks  The Top 25 Tactics to Elevate Your Instagram Profile for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-video-production-with-clear-sound-effects/"><u>[New] Streamlining Video Production with Clear Sound Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-techniques-to-enhance-your-video-gaming-archive/"><u>[New] Techniques to Enhance Your Video Gaming Archive</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-dusk-dance-pre-pro-fades/"><u>[New] The Dusk Dance - Pre-Pro Fades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-immersive-chronicles-a-brief-history/"><u>[New] The Immersive Chronicles  A Brief History</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-key-to-staying-put-mastering-6-viewer-friendly-genres/"><u>[New] The Key to Staying Put  Mastering 6 Viewer-Friendly Genres</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-photographers-blueprint-for-stunning-hdr-portraits/"><u>[New] The Photographer's Blueprint for Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-timelapse-with-iphone-a-step-by-step-guide/"><u>[New] Timelapse with iPhone  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-video-shape-study-overview/"><u>[Updated] FB Video Shape Study Overview</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exploring-remote-desktop-capabilities-within-zoom-on-win11/"><u>2024 Approved  Exploring Remote Desktop Capabilities Within Zoom on Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>2024 Approved  The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-tricks-for-striking-visual-results/"><u>2024 Approved  TikTok Tricks for Striking Visual Results</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tints-shades-and-tones-practical-application-in-art/"><u>2024 Approved  Tints, Shades & Tones  Practical Application in Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-pages-for-stylish-shiny-3d-type-creations/"><u>2024 Approved  Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-sd-compatibility-with-sony-a7s-ii/"><u>2024 Approved  Ultimate SD Compatibility with Sony A7S II</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>2024 Approved  Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-zooms-full-potential-with-essential-3-methods/"><u>2024 Approved  Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unraveling-revenue-how-much-do-creators-make-on-youtube-adverts/"><u>2024 Approved  Unraveling Revenue  How Much Do Creators Make on Youtube Adverts?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-14-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 14 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dissecting-startup-costs-in-the-podcast-industry/"><u>Dissecting Startup Costs in the Podcast Industry</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco C51 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-zoom-a-chromebook-guide/"><u>In 2024, Streamlining Zoom  A Chromebook Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-producing-attention-grabbing-podcast-openers/"><u>In 2024, The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultraview-app-functionality-survey/"><u>In 2024, UltraView App Functionality Survey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unearthing-the-potential-in-magixs-image-sorter/"><u>In 2024, Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>In 2024, Unleash the Potential  A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-gopros-burst-functionality/"><u>In 2024, Unlocking the Potential of GoPro's Burst Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-iphonepcs-best-video-conversion-software-8/"><u>In 2024, Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcp-file-management-101-saving-your-project-with-ease/"><u>New 2024 Approved FCP File Management 101 Saving Your Project with Ease</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-10-reliable-aspect-ratio-conversion-tools-for-pros/"><u>New In 2024, 10 Reliable Aspect Ratio Conversion Tools for Pros</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/purity-of-music-step-by-step-processes-for-eliminating-vocal-elements-from-songs/"><u>Purity of Music Step-by-Step Processes for Eliminating Vocal Elements From Songs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-expert-picks-top-mkv-trimmers-for-mac-this-year/"><u>Updated In 2024, Expert Picks Top MKV Trimmers for Mac This Year</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/uploading-youtube-vids-seamlessly-on-instagram/"><u>Uploading YouTube Vids Seamlessly on Instagram</u></a></li>
+</ul></div>

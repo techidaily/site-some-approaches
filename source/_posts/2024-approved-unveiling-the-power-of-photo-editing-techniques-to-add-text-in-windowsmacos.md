@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Power of Photo Editing  Techniques to Add Text in Windows/MacOS\""
-date: 2024-06-03T20:59:14.382Z
-updated: 2024-06-04T20:59:14.382Z
+date: 2024-07-20T22:02:47.390Z
+updated: 2024-07-21T22:02:47.390Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ Step1Open the Apple Photos app on your Mac and select the picture you want to ed
 
 Step2Click the edit button there at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click edit button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-1.jpg)
 
 Step3Now click the More icon, which is at the top right portion of it (it usually looks like an ellipsis), and then in the dropdown menu, click on the Markup option.
@@ -54,6 +57,9 @@ Step1Firstly, open the MS Photos app and choose the image you want to edit.
 
 Step2Now click the Edit & Create button at the top right corner and click on the Edit with Paint 3D option.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click edit-create button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-5.jpg)
 
 Step3Now click on the text button at the top.
@@ -68,16 +74,26 @@ Step5Now you can write whatever you want to on your photo.
 
 Step6You can change the font color, size, and style with the help of a panel at your right.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![panel](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-8.jpg)
 
 Step7To save your edited image, click on the Menu button at the top left corner of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![save edited image](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-9.jpg)
 
 Step8Click any Save or Save as button to save the edited image.
 
 ![click save button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5 Methods to add text on photos online
 
 ### 1\. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
@@ -118,8 +134,14 @@ Step6Also, to change the text size inside the **Text Box**, drag its corners.
 
 Step7Moreover, if you want to change the size of the **Text Box**, drag its borders from both sides.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change the size of text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Important Note:** Remember that what changes you have done using the right sidebar menu will be applied to the whole text inside the selected text box.
@@ -143,6 +165,9 @@ Cons
 
 Kapwing is another photo editing website where you can professionally edit your photos for free. You can also add text to images using it. It is easy to use also and has approximately 10 million users currently.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![kapwing](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-19.jpg)
 
 Pros
@@ -158,12 +183,18 @@ Cons
 * You need to pay for the advanced features.
 * There are not many updated filters and effects in it currently.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 3\. [Befunky](https://www.befunky.com/features/text-editor/)
 
 **Introduction:**
 
 If you are still looking for other options to add text to your photos online, then Befunky is one of them. It is also an online website that lets you edit your images nicely. You can also add text to your photos using this. There are 25 million users who are using it now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![befunky](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-20.jpg)
 
 Pros
@@ -178,6 +209,9 @@ Cons
 * You must purchase their premium plans to access more professional features.
 * There are some errors in previewing when you are using certain functions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [Pixlr](https://pixlr.com/x/)
 
 **Introduction:**
@@ -198,6 +232,9 @@ Cons
 * The result of the edited photo is not good enough as in Photoshop and other editors.
 * There are some bugs causing errors.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. [Fotor](https://www.fotor.com/features/text.html)
 
 **Introduction:**
@@ -219,6 +256,9 @@ Cons
 * You must subscribe to one of their premium plans to access more features.
 * Have some bugs that cause errors in it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Best 5 Programs for adding text on photos
 
 ### 1\. [Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -227,6 +267,9 @@ Cons
 
 Adobe Photoshop, or simply Photoshop, is currently the most popular graphic editing software with millions of users. It has the most advanced and updated features than any other photo editor. You can very easily add text to photos using this software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![photoshop](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-23.jpg)
 
 Pros
@@ -249,6 +292,9 @@ Cons
 
 PhotoDirector is also photo editing software used to enhance the quality and creativity of the photos. It provides several great features with a simple organizing interface which is best for newbies. You can also add text to images using it. Since it was released, it has had a good number of users.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![photodirector](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-24.jpg)
 
 Pros
@@ -265,6 +311,10 @@ Cons
 * The lens profiles are not too enough, like in other photo editors.
 * Also, it is not too good in chromatic aberration and noise corrections.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### 3\. [GIMP](https://www.gimp.org/downloads/)
 
 **Introduction:**
@@ -286,6 +336,9 @@ Cons
 * The interface of GIMP is not too user-friendly. As a beginner, you must use it for at least two to three weeks to understand its interface.
 * It does not support the Digital Negative Files (DNG) natively.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 4\. [Inkscape](https://inkscape.org/release/inkscape-1.2.1/)
 
 **Introduction:**
@@ -312,6 +365,9 @@ Cons
 
 Phoxo is another alternative to all the above software. It is also photo editing software with powerful editing features. You can call it mini Photoshop also, but people primarily call it the advanced version of MS Paint. You can add text to your photos easily using it also.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![phoxo](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-27.jpg)
 
 Pros
@@ -356,3 +412,55 @@ The last words for today's topic here is that there are numerous solutions avail
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-frameworks-for-compelling-youtube-content-layouts/"><u>[New] 2024 Approved  Frameworks for Compelling YouTube Content Layouts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-captivating-ig-stories-with-youtube-content/"><u>[New] Crafting Captivating IG Stories With YouTube Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>[New] In 2024, Complete Examination  A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-step-by-step-including-in-apples-premium-catalog/"><u>[New] Step-by-Step  Including in Apple's Premium Catalog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-audio-content-with-googles-tools/"><u>[New] Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>[New] The Art of 360-Degree Video  9 Must-Have Tips for Filmmakers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>[New] The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>[New] The Ultimate Shutter Showdown  Best for Slow Motion Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>[New] Transcoding Excellence  From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>[New] Transform Your Speech  Access to No-Cost Voice Manipulation Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-5-speedy-shot-strategies-right-from-your-living-room/"><u>[New] Ultimate 5 Speedy Shot Strategies Right From Your Living Room</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uniting-brands-and-youtube-for-maximum-impact/"><u>[New] Uniting Brands & YouTube for Maximum Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-creative-potential-with-audio-edits-in-canva-videos/"><u>[New] Unlock Your Creative Potential with Audio Edits in Canva Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unprecedented-capacity-choices-elite-cloud-services/"><u>[New] Unprecedented Capacity Choices  Elite Cloud Services</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-asmr-channel-discoveries/"><u>[Updated] In 2024, Essential ASMR Channel Discoveries</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>[Updated] In 2024, Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>[Updated] Maximizing Socialization with Ease  Xbox One's Zoom Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-selective-guide-to-prime-no-cost-screenshots-macwindows-for-2024/"><u>[Updated] Selective Guide to Prime No-Cost Screenshots, Mac/Windows for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tinkering-with-technology-a-new-sound-for-your-phone/"><u>[Updated] Tinkering with Technology  A New Sound for Your Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-free-mac-speech-to-text-software-youve-missed/"><u>[Updated] Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-charting-the-course-establishing-a-powerful-gaming-channel/"><u>2024 Approved  Charting the Course  Establishing a Powerful Gaming Channel</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-perfecting-your-tiktok-persona-with-our-compreeved-guide/"><u>2024 Approved  Perfecting Your TikTok Persona with Our Compreeved Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-smooth-image-shift-exclusive-selection-of-the-top-1-mantle/"><u>2024 Approved  Smooth Image Shift  Exclusive Selection of the Top 1 Mantle</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>2024 Approved  The Art of Social Media Stardom  Nine Tracks to Insta Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-memes-with-a-smile-builder/"><u>2024 Approved  Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-power-of-pixels-master-color-correction-techniques-11-steps/"><u>2024 Approved  Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-the-cream-of-the-crop-best-iphone-apps-with-in-depth-reviews/"><u>2024 Approved The Cream of the Crop Best iPhone Apps with In-Depth Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-honor-90-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 90 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-compelling-iphone-shadow-images/"><u>Crafting Compelling iPhone Shadow Images</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-subtitle-integration-on-wmp/"><u>In 2024, Master the Art of Subtitle Integration on WMP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taking-photos-and-posting-youtubes-complete-guidebook/"><u>In 2024, Taking Photos and Posting  YouTube's Complete Guidebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-drones-into-cinematic-experiences-with-editing/"><u>In 2024, Transforming Drones Into Cinematic Experiences with Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-pixels-to-audible-artistry/"><u>In 2024, Transforming Pixels to Audible Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-av1-a-first-step-for-beginners/"><u>In 2024, Understanding AV1  A First Step for Beginners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unfolding-the-tapestry-of-mixed-reality-experiences/"><u>In 2024, Unfolding the Tapestry of Mixed Reality Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-essential-angles-in-mobile-shooting/"><u>In 2024, Unleashing Creativity  Essential Angles in Mobile Shooting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-power-of-magix-clip-studio/"><u>In 2024, Unveiling the Power of MAGIX Clip Studio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/quick-guide-integrating-titles-into-videos-within-windows-photos/"><u>Quick Guide  Integrating Titles Into Videos Within Windows Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-10-final-cut-pro-plugins-ever-for-2024/"><u>The Best 10 Final Cut Pro Plugins Ever for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players-for-2024/"><u>The Best Budget-Friendly, High-Fidelity WebM Players for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-mp4-devices-roundup-for-2024/"><u>The Best MP4 Devices Roundup for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-insiders-guide-to-perfected-picture-hues-for-2024/"><u>The Insider's Guide to Perfected Picture Hues for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-lannister-line-up-top-list-of-websites-for-game-ringtones-for-2024/"><u>The Lannister Line-Up  Top List of Websites for Game Ringtones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-tier-cameras-for-2024/"><u>The Ultimate List of Top-Tier Cameras for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-skypes-full-capacity-with-effective-zoom-methods-for-2024/"><u>Unlocking Skype's Full Capacity with Effective Zoom Methods for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-free-top-10-best-websites-to-download-sound-clips-for-videos/"><u>Updated 2024 Approved FREE Top 10 Best Websites to Download Sound Clips for Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/usb-c-revolution-in-monitors-hp-envy-27s-journey-for-2024/"><u>USB-C Revolution in Monitors  HP Envy 27'S Journey for 2024</u></a></li>
+</ul></div>

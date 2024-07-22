@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlined Q&A List to Attract Podcast Audience"
-date: 2024-06-03T17:35:00.571Z
-updated: 2024-06-04T17:35:00.571Z
+date: 2024-07-20T19:58:03.944Z
+updated: 2024-07-21T19:58:03.944Z
 tags: 
   - screen-recording
   - ai video
@@ -26,14 +26,24 @@ This guide is going to reveal how to come up with the best questions so you can 
 
 The best podcast questions to ask guests differ according to your niche and the kind of guests you interview. Questions depend on whether you're interviewing a celebrity, a businessperson, an expert in his field, an author, a producer, or your friends and family members.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![podcast questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-1.jpg)
 
 The best way is to divide your questions into different categories.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
 
 Here are some icebreaker questions that you can ask to start an interview.
@@ -73,6 +83,9 @@ Some leading questions that you can ask are discussed below.
 14. Can you give an example?
 15. What do you suggest to our audience who are facing the same problems?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Comparison Questions
 
 In an interview, a comparison question is one where you ask a person what he prefers between these two things. This type of question can also advance the discussion of the topic. Besides, you can get a deeper understanding of what guests think and feel about this podcast episode.
@@ -97,6 +110,9 @@ You can ask questions from the comparison questions given below.
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Great Closing Questions
 
 When we move on to this type of question, typically, it's time to end the show. Closing interview questions are questions the hosts might ask at the end of the podcast to wrap things up. The following question can be asked to conclude the podcast on a happy note.
@@ -127,6 +143,9 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
@@ -137,10 +156,16 @@ As an interviewer, "why" is your most powerful tool. Guests usually provide surf
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What were your feelings when this happened?
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mirror your guest
 
 Repeat the same few last words that a guest just said when he finishes his thought, and by doing that, you're creating an intonation that's sort of like a question. It's another way to permit the person you're interviewing to keep going. For example, your question might go like this. Perhaps you're asking somebody about his favorite software of the year that they've used in video editing.
@@ -207,3 +232,63 @@ Consider the following when picking which of the above questions to use on your 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-filming-flicks-guide-for-pc-mac-smartphone-recording/"><u>[New] 2024 Approved  Filming Flicks  Guide for PC, Mac, Smartphone Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-quick-start-engaging-with-friends-on-insta-chat/"><u>[New] 2024 Approved  Quick Start  Engaging with Friends on Insta Chat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-rapid-restoration-snapped-shenanigans/"><u>[New] 2024 Approved  Rapid Restoration  Snapped Shenanigans</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-apples-mobile-posting-playbook-for-youtube-success/"><u>[New] Apple's Mobile Posting Playbook for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-techniques-to-elevate-your-channels-visibility-for-2024/"><u>[New] Essential Techniques to Elevate Your Channel's Visibility for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-pazeras-path-to-sound-freedom-extraction-techniques/"><u>[New] Pazera's Path to Sound Freedom  Extraction Techniques</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-revolutionize-your-tiktok-presence-with-analytics-leaders/"><u>[New] Revolutionize Your TikTok Presence with Analytics Leaders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>[New] The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>[New] The Fine Art of Focusing  Enhanced Zoom on Roblox Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-of-human-computer-conversation-systems/"><u>[New] The Future of Human-Computer Conversation Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-7-best-mac-video-viewing-tools/"><u>[New] Top 7 Best Mac Video Viewing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-scripts-across-eight-film-categories/"><u>[New] Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-locomotion-survey-2023/"><u>[New] Total Locomotion Survey 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>[New] Unique iPhone Photo Style  Adding Dynamic Motion Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-firefoxs-pip-mode/"><u>[New] Unlocking the Secrets of Firefox's PIP Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-student-friendly-history-vid-hubs-1-10-for-2024/"><u>[Updated] Best Student-Friendly History Vid Hubs (#1-10) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-make-a-good-movie-trailer/"><u>[Updated] How To Make A Good Movie Trailer</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-quickly-skip-through-tiktok-clips/"><u>[Updated] In 2024, Quickly Skip Through TikTok Clips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-monetize-youtube-video-the-ultimate-guide-to-ad-revenue-for-2024/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>[Updated] Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taming-the-audio-in-your-canva-videos-step-by-step/"><u>[Updated] Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>[Updated] The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-thrifty-shoppers-guide-to-cameras/"><u>[Updated] Thrifty Shopper's Guide to Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tips-for-secure-clear-stock-purchases/"><u>[Updated] Top Tips for Secure, Clear Stock Purchases</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-imagery-with-quantum-hdr/"><u>[Updated] Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultrafine-a-deep-dive-into-lgs-elite-4k-display-features/"><u>[Updated] UltraFine  A Deep Dive Into LG's Elite 4K Display Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies/"><u>[Updated] Uniting Realms  A Comparative Study of MR, AR, and VR Technologies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-mobile-horizon-photos/"><u>2024 Approved  The Essential Guide to Mobile Horizon Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>2024 Approved  The Ultimate Guide  Top 8 Online Places for Free 3D Text Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-11-windows-11-secrets-unveiled/"><u>2024 Approved  Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-tiktok-techniques-unveiled/"><u>2024 Approved  Transformative TikTok Techniques Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turning-xmlssattml-into-srt-practical-steps/"><u>2024 Approved  Turning XML/SSA/TTML Into SRT  Practical Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-windows-10-savvy-techniques/"><u>2024 Approved  Ultimate Guide to Windows 10 Savvy Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-iphone-hdr-insights-for-stunning-images/"><u>2024 Approved  Ultimate iPhone HDR Insights for Stunning Images</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-find-a-suitable-youtube-to-mp3-converter/"><u>2024 Approved How to Find a Suitable YouTube to MP3 Converter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/implementing-cross-browser-compatibility-in-web-development/"><u>Implementing Cross-Browser Compatibility in Web Development</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-chorus-of-creativity-the-mac-studio-experience/"><u>In 2024, Chorus of Creativity  The Mac Studio Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-synching-youtube-songs-to-video-frameworks/"><u>In 2024, Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailored-brand-symbols-turn-basic-templates-into-logos/"><u>In 2024, Tailored Brand Symbols  Turn Basic Templates Into Logos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>In 2024, The Cutting Edge of Photography  IPhone Cropping Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>In 2024, Trendsetting Tactic  Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-funny-photo-tinkering-tool/"><u>In 2024, Ultimate Funny Photo Tinkering Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-9gag-for-memetic-success/"><u>In 2024, Unlock the Secrets of 9GAG for Memetic Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-visual-clarity-for-the-new-digital-age/"><u>In 2024, Unraveling Visual Clarity for the New Digital Age</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone XR to Android | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unleash-your-inner-producer-explore-the-best-8-daw-apps-available-on-android-for-2024/"><u>New Unleash Your Inner Producer Explore the Best 8 DAW Apps Available on Android for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-red-magic-8s-proplus-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Red Magic 8S Pro+</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-windows-11-photo-videos-for-2024/"><u>Streamline Your Windows 11 Photo Videos for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-complete-stop-motion-toolkit-studio-and-beyond/"><u>The Complete Stop Motion Toolkit Studio and Beyond</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-telegram-edge-advanced-tactics-for-effective-promotion-for-2024/"><u>The Telegram Edge  Advanced Tactics for Effective Promotion for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-30-metaverse-meme-creation-tips-and-trends-for-2024/"><u>Top 30 Metaverse Meme Creation Tips & Trends for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-premiere-pro-template-guide-no-cost-for-2024/"><u>Ultimate Premiere Pro Template Guide - No Cost for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-vr-limitations-for-2024/"><u>Understanding VR Limitations for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-m14-4g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy M14 4G Phones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-without-drive-letters-reasons-and-redeeming-solutions-explored/"><u>Windows Without Drive Letters: Reasons and Redeeming Solutions Explored</u></a></li>
+</ul></div>

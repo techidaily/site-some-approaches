@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior Extra Memory Solution for Sony A7C"
-date: 2024-06-03T17:15:53.111Z
-updated: 2024-06-04T17:15:53.111Z
+date: 2024-07-20T19:45:55.574Z
+updated: 2024-07-21T19:45:55.574Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +114,18 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,6 +142,10 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -196,6 +221,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -228,3 +256,58 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-masterclass-uploading-without-complications-on-social-media/"><u>[New] Masterclass  Uploading Without Complications on Social Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-online-money-tally-for-youtube-creators/"><u>[Updated] In 2024, Online Money Tally for YouTube Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-memes-downloaded-easily-for-windows-users-for-2024/"><u>[Updated] Twitter Memes Downloaded Easily for Windows Users for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/10-most-popular-software-to-detach-audio-from-video-for-2024/"><u>10 Most Popular Software to Detach Audio From Video for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-control-over-video-velocity-on-snapchat-app/"><u>2024 Approved  Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-optimal-filter-pack-for-oceanic-video-shooting/"><u>2024 Approved  Optimal Filter Pack for Oceanic Video Shooting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pinnacle-of-macro-photography-and-cinematography/"><u>2024 Approved  The Pinnacle of Macro Photography and Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor/"><u>2024 Approved  The Power of Pixels  A Review of the 4K CG318-4K Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-preservation-pathway-digitizing-and-safeguarding-old-family-photos/"><u>2024 Approved  The Preservation Pathway  Digitizing & Safeguarding Old Family Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>2024 Approved  The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-solo-show-survival-guide-to-staying-trendy/"><u>2024 Approved  The Solo Show Survival Guide to Staying Trendy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-soloists-guide-making-your-podcast-stand-out/"><u>2024 Approved  The Soloist's Guide  Making Your Podcast Stand Out</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-soloists-guide-to-captivating-audiences/"><u>2024 Approved  The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>2024 Approved  The Spectrum of Immersive Tech  VR Vs. AR and More</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-starting-point-for-film-designers/"><u>2024 Approved  The Starting Point for Film Designers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>2024 Approved  The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-checklist-for-choosing-premium-free-srt-translation-apps/"><u>2024 Approved  The Ultimate Checklist for Choosing Premium Free SRT Translation Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>2024 Approved  The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-combo-of-virtual-reality-tech/"><u>2024 Approved  The Ultimate Combo of Virtual Reality Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>2024 Approved  The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023/"><u>2024 Approved  The Ultimate Entry Editor for Diverse Tech Landscape of 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom/"><u>2024 Approved  The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>2024 Approved  The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-building-podcast-rss/"><u>2024 Approved  The Ultimate Guide to Building Podcast RSS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-dynamic-canon-time-lapses/"><u>2024 Approved  The Ultimate Guide to Crafting Dynamic Canon Time-Lapses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>2024 Approved  The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>2024 Approved  The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-text-in-after-effects-top-10/"><u>2024 Approved  The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-top-cloud-stores-on-android/"><u>2024 Approved  The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-using-zoom-features-in-gmail-emails/"><u>2024 Approved  The Ultimate Guide to Using Zoom Features in Gmail Emails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>2024 Approved  The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>2024 Approved  The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>2024 Approved  The Ultimate List  Best 7 Camcorders for Waterproof Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-best-for-android-pics/"><u>2024 Approved  The Ultimate List  Best for Android Pics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-metaverse-advertising-playbook/"><u>2024 Approved  The Ultimate Metaverse Advertising Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>2024 Approved  The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-photoshop-guide-to-text-becoming-3d/"><u>2024 Approved  The Ultimate Photoshop Guide to Text Becoming 3D</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-roundup-post-vlc-media-players/"><u>2024 Approved  The Ultimate Roundup  Post-VLC Media Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-selection-of-androids-most-innovative-music-videography-tools/"><u>2024 Approved  The Ultimate Selection of Android's Most Innovative Music Videography Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-seventh-selection-of-aquatic-cameras/"><u>2024 Approved  The Ultimate Seventh Selection of Aquatic Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>2024 Approved  The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>2024 Approved  The Ultrawide-UHD Dilemranc  Which Monitor Wins?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mastering-video-import-and-export-in-adobe-premiere-pro-2023/"><u>2024 Approved Mastering Video Import and Export in Adobe Premiere Pro 2023</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/achieving-high-res-on-twitter-vids-for-2024/"><u>Achieving High-Res on Twitter Vids for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-decoding-the-art-of-identifying-off-the-beaten-path-discord-servers/"><u>In 2024, Decoding the Art of Identifying Off-the-Beaten-Path Discord Servers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>In 2024, Filmmakers' Delight  Filmora's Best Aspects Exposed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-infinix-hot-40-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Infinix Hot 40</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tech-equality-checked-expert-analysis/"><u>Tech Equality Checked  Expert Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unforeseen-print-malfunction-noted/"><u>Unforeseen Print Malfunction Noted</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-after-effects-guide-to-elevating-song-visualization-for-2024/"><u>Updated After Effects Guide to Elevating Song Visualization for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-15-pro-max-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 15 Pro Max & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+</ul></div>

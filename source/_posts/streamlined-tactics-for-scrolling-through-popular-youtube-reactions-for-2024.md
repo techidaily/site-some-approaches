@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Tactics for Scrolling Through Popular YouTube Reactions for 2024"
-date: 2024-06-03T17:56:09.408Z
-updated: 2024-06-04T17:56:09.408Z
+date: 2024-07-20T20:11:18.490Z
+updated: 2024-07-21T20:11:18.490Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -89,10 +92,17 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -107,14 +117,23 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +204,56 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-boost-your-tiktok-visibility-a-list-of-popular-username-choices/"><u>[New] 2024 Approved  Boost Your TikTok Visibility  A List of Popular Username Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photo-perfection-best-practices-for-integrating-frames-online/"><u>[New] Photo Perfection  Best Practices for Integrating Frames Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs/"><u>[New] Streamlining Color Grading  Incorenasive Guide to LUT Integration in OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tech-picks-leading-drone-gimbals/"><u>[New] Tech Picks  Leading Drone Gimbals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-eternal-methodology-for-instantaneous-tiktok-linking/"><u>[New] The Eternal Methodology for Instantaneous TikTok Linking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-expert-approach-to-negative-picture-tones/"><u>[New] The Expert Approach to Negative Picture Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-timeless-videos-selecting-excellent-slow-motion-cameras/"><u>[New] Timeless Videos  Selecting Excellent Slow-Motion Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-potential-adding-text-to-windowsmac-images/"><u>[New] Unlock Creative Potential  Adding Text to Windows/Mac Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-cross-platform-content-sharing/"><u>[Updated] In 2024, The Art of Cross-Platform Content Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-steps-simplifying-fishy-voice-swaps-on-windows-pcs/"><u>[Updated] Streamlined Steps  Simplifying Fishy Voice Swaps on Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-producing-professional-gopro-video-content/"><u>[Updated] The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turning-tails-into-heads-android-video-editing/"><u>[Updated] Turning Tails Into Heads  Android Video Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-picture-pools-the-best-10-resources/"><u>[Updated] Unlimited Picture Pools  The Best 10 Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>[Updated] Unveiling Immersion  The LG 360 Virtual Reality Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-historical-gems-art-unshackled-by-laws/"><u>2024 Approved  Historical Gems  Art Unshackled by Laws</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-precision-in-premiere-4-proven-strategies-to-elevate-iphone-hdri/"><u>2024 Approved  Precision in Premiere  4 Proven Strategies to Elevate iPhone HDRI</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>2024 Approved  Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>2024 Approved  Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-hdr-cameras-explained-and-compared/"><u>2024 Approved  Top-Tier HDR Cameras Explained & Compared</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>2024 Approved  Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-web-exploration-with-microsofts-split-screen-functionality/"><u>2024 Approved  Transform Your Web Exploration with Microsoft's Split Screen Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-full-potential-of-your-iphone-photos/"><u>2024 Approved  Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-your-pcs-potential-with-these-5-windows-11-recording-methods/"><u>2024 Approved  Unlock Your PC's Potential with These 5 Windows 11 Recording Methods</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-discovering-tools-to-emulate-natural-human-digestive-resonances-in-media-projects/"><u>2024 Approved Discovering Tools to Emulate Natural Human Digestive Resonances in Media Projects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-video-retrieval-the-top-5-software-compared/"><u>FB Video Retrieval  The Top 5 Software Compared</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-14-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 14 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-embark-on-an-emoji-quest-at-these-8-cost-free-websites/"><u>In 2024, Embark on an Emoji Quest at These 8 Cost-Free Websites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-podcasts-versus-youtube-finding-your-preferred-outlet/"><u>In 2024, Podcasts Versus YouTube  Finding Your Preferred Outlet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-revolutionize-visual-narratives-using-prime-text-extensions/"><u>In 2024, Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a38-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A38 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island/"><u>In 2024, Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-exclusive-windows-11s-media-importers/"><u>In 2024, The Ultimate Exclusive  Windows 11'S Media Importers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>In 2024, The Ultimate List  8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-6-offline-tools-for-tiktok-audio-conversion-to-mp3-no-cost/"><u>In 2024, Top 6 Offline Tools for TikTok Audio Conversion to MP3 (No Cost)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tricks-to-control-music-paceplay-in-spotify/"><u>In 2024, Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-the-best-free-image-overlay-tools-for-mobile/"><u>In 2024, Ultimate Guide to the Best Free Image Overlay Tools for Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-layers-intricate-analysis-of-vegas-pro-21/"><u>In 2024, Unveiling the Layers  Intricate Analysis of Vegas Pro '21</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>In 2024, Unveiling the Secret  How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-stream-the-hottest-trailers-top-10-iphone-and-ipad-movie-apps/"><u>New 2024 Approved Stream the Hottest Trailers Top 10 iPhone and iPad Movie Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premier-audiospeed-editors-mobile-and-desktop-edition-for-2024/"><u>Premier Audiospeed Editors  Mobile & Desktop Edition for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-transition-from-photography-to-video-with-pixiz-for-2024/"><u>Seamless Transition From Photography to Video with Pixiz for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner-for-2024/"><u>Syma X5C In-Depth Guide  Optimal Choice to Lift Off as a Beginner for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-definitive-vivacut-video-editing-manual-for-24-for-2024/"><u>The Definitive VivaCut Video Editing Manual for '24 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-guide-to-choosing-video-aspect-ratios-for-2024/"><u>The Essential Guide to Choosing Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly-for-2024/"><u>The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-spots-for-virtual-reality-experiences-for-2024/"><u>Top Spots for Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/total-mastery-of-powerdirector-with-our-review-and-guide-for-2024/"><u>Total Mastery of PowerDirector with Our Review & Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tech-gems-best-desktops-revealed-for-2024/"><u>Ultimate Tech Gems - Best Desktops Revealed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-photo-magic-the-role-of-luts-in-editing-for-2024/"><u>Unlocking Photo Magic  The Role of LUTs in Editing for 2024</u></a></li>
+</ul></div>

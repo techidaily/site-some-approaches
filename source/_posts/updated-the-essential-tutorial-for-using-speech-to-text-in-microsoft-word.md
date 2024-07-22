@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Essential Tutorial for Using Speech-to-Text in Microsoft Word\""
-date: 2024-06-03T21:19:49.232Z
-updated: 2024-06-04T21:19:49.232Z
+date: 2024-07-20T22:16:04.204Z
+updated: 2024-07-21T22:16:04.204Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ Here's how to use Microsoft Word's speech-to-text feature:
 
 * [FAQs](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Use Speech to Text in Microsoft Word?
 
 Before you can use Speech to Text in Microsoft Word, the first thing you need is a valid Microsoft 365 subscription. Without a Microsoft 365 subscription, Microsoft won't allow you to use voice typing. However, if you're working for a company, it's likely that your company already has a Microsoft 365 enterprise subscription. If you're a student or your company doesn't offer it, the subscription plans are pretty affordable. For example, Microsoft 365 Personal and Microsoft 365 Family plans cost $6.99/month and $9.99/month, respectively.
@@ -76,6 +79,9 @@ Once again, click the dictate button after completing all the preceding steps. T
 
 Microsoft Word's text-to-speech technology does more than simply transcribing your voice. Instead, Microsoft's voice typing technology, which originally listened only to single words, now listens to individual words and the phrase as a whole, thanks to the advent and improvement of artificial neural networks. This has allowed Microsoft to develop a long list of commands for incorporating punctuation, symbols, and other formatting options into your text without saying anything out loud except for the command word itself. To see the list of commands, press "Ctrl + Shift + S" on your keyboard to open the Stop Dictation dialogue box, then click on the Commands button.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using punctuation commands](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-5.jpg)
 
 We can't go through all of the punctuation instructions here, but we'll mention a few of the most important. For example, the command "period" inserts a period, and "comma" creates a comma, as you may guess. The same rules apply to exclamation marks and colons. In addition, you may use the command "new line" to create a new line, "new paragraph" to start a new paragraph, and "tab" to create a tab space.
@@ -84,6 +90,9 @@ If you want to insert symbols, the commands are a bit different. For example, sa
 
 Microsoft's speech-to-text program is excellent. We can honestly state that Microsoft has the most refined product when it comes to cost vs performance because the software is integrated directly into Microsoft 365, which many businesses already use. So if your company uses Microsoft 365, you may start utilizing the voice typing technology right now with no additional expenses.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part 2: Alternatives to Microsoft Word STT
 
 There are some great alternative options to Microsoft Word's speech-to-text feature. Here are a few of our favorites:
@@ -110,6 +119,18 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 Evernote is a widely used note-taking application that also offers a speech-to-text feature. To use this feature on Windows PC, create a new note and "Windows + H" to activate the microphone of your PC. You'll see the microphone icon at the top of the screen. Evernote will then start recording your voice and transcribing it into text in real-time. Once you're done, click the Stop button, and your transcription will be automatically saved. Evernote also offers a variety of other features that make it a great alternative to Microsoft Word, such as the ability to add images, attachments, and more.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![evernote speech to text](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-6.jpg)
 
 To use voice dictation in Evernote on Mac:
@@ -125,8 +146,14 @@ Google Docs is another popular word processing application with a speech-to-text
 
 Once you're done, click the Stop button, and your transcription will be automatically saved. Google Docs also offers a variety of other features that make it a great alternative to Microsoft Word, such as the ability to collaborate with others in real-time, add images, attachments, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![google doc speech to text](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-8.jpg)
 
 ![click the tools menu](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-9.jpg)
@@ -137,14 +164,23 @@ Microsoft Word's speech-to-text feature is an excellent tool for quickly transcr
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Can MS Word write what I speak?
 
 Yes, MS Word can write what you speak. With speech recognition software, MS Word can interpret your words and turn them into text. This is a great feature for those who have difficulty typing or want to dictate their thoughts without typing them out. However, there are a few things to keep in mind when using this feature, such as speaking clearly and at a moderate pace.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why does my speech-to-text not work?
 
 There are several reasons why your speech-to-text is not working. One issue is that your microphone is not turned on. Another possibility could be that there is too much background noise interfering with the recognition process. Finally, it's also possible that you have not enabled speech-to-text in your settings. Try going to your settings and turning on the speech-to-text feature. If that doesn't work, try restarting your device.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Is Microsoft 365 free?
 
 Microsoft 365 is not free, but it does offer a free trial. You can find more information on the Microsoft website.
@@ -186,3 +222,47 @@ Part 1: How to Use Speech to Text in Microsoft Word?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac/"><u>[New] 2024 Approved  8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-zooms-share-functionality/"><u>[New] 2024 Approved  Navigating Zoom's Share Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swift-shadowing-secrets/"><u>[New] Swift Shadowing Secrets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-tips-for-android-time-lapse-capture-mastery-2024/"><u>[Updated] Cutting-Edge Tips for Android Time-Lapse Capture Mastery 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-journey-through-the-maze-old-vs-innovative-rpgs-for-2024/"><u>[Updated] Journey Through the Maze  Old Vs. Innovative RPGs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-conferencing-using-zoom-to-extend-skype-capabilities/"><u>[Updated] Streamlining Conferencing  Using Zoom to Extend Skype Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-premier-list-best-android-cloud-saving-options/"><u>[Updated] The Premier List  Best Android Cloud Saving Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-toolwiz-app-unveiled-a-critical-examination-of-its-functionality/"><u>[Updated] Toolwiz App Unveiled  A Critical Examination of Its Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-stunts-and-tricks-at-snowboarding-x-olympics/"><u>[Updated] Top Stunts and Tricks at Snowboarding X-Olympics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vampire-vignette-virtuoso/"><u>[Updated] Vampire Vignette Virtuoso</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-playscreen-media-app-review/"><u>2024 Approved  PlayScreen Media App Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>2024 Approved  The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23/"><u>2024 Approved  The Ultimate Guide to YouTube's Most Captivating Storytellers in '23</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-rated-asmr-gear-high-quality-priced-right/"><u>2024 Approved  Top-Rated ASMR Gear  High Quality, Priced Right</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-offline-voice-processor/"><u>2024 Approved  Ultimate Offline Voice Processor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-vivas-multimedia-potential/"><u>2024 Approved  Unlocking Viva's Multimedia Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-untangling-box-mystery-ideas-to-boost-joy/"><u>2024 Approved  Untangling Box Mystery  Ideas to Boost Joy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-superior-color-grading/"><u>2024 Approved  Unveiling the Secrets to Superior Color Grading</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-7-essential-free-audio-tracks-for-youtubers/"><u>Discover 7 Essential Free Audio Tracks for YouTubers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/explore-comical-noise-samples/"><u>Explore Comical Noise Samples</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gtx-gems-the-best-for-high-res-gaming/"><u>GTX Gems  The Best for High-Res Gaming</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv/"><u>How Can I Watch Facebook Videos on My Apple TV?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-11-proplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme 11 Pro+?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-14-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 14 in the Best Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-of-gesture-recognition-all-methods-explained/"><u>In 2024, Mastery of Gesture Recognition  All Methods Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-audio-experience-with-apods/"><u>In 2024, Streamline Your Audio Experience with APods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-magic-behind-luts-crafting-captivating-photos/"><u>In 2024, The Magic Behind LUTs  Crafting Captivating Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects/"><u>In 2024, The Ultimate Directory  30+ Zero-Cost Online Tools for Visual Effects</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>In 2024, The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-immersive-titles-with-oculus-support/"><u>In 2024, Top 8 Immersive Titles with Oculus Support</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-ranked-ai-enhanced-image-maker/"><u>In 2024, Top-Ranked AI Enhanced Image Maker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-total-earning-summary-for-pewdiepie-star/"><u>In 2024, Total Earning Summary for PewDiePie Star</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>In 2024, Unlock the Potential of Your Phone  Individual Ringtone Creation on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>In 2024, Vector Graphics Innovation  Top Apps to Transform Your Creations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/journey-to-aesthetic-excellence-fusing-images-masterfully-for-2024/"><u>Journey to Aesthetic Excellence  Fusing Images Masterfully for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-electrical-energy-the-best-lipo-for-uavs/"><u>Mastering Electrical Energy  The Best LiPo for UAVs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V27 | Dr.fone</u></a></li>
+</ul></div>

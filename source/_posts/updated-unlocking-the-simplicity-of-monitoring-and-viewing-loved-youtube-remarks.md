@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Simplicity of Monitoring and Viewing Loved YouTube Remarks"
-date: 2024-06-03T14:36:12.041Z
-updated: 2024-06-04T14:36:12.041Z
+date: 2024-07-20T18:09:29.129Z
+updated: 2024-07-21T18:09:29.129Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,6 +88,9 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -103,18 +109,30 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +203,48 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>[New] Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-creative-freedom-with-free-top-rated-facebook-photo-and-video-maker/"><u>[New] Creative Freedom with Free, Top-Rated Facebook Photo & Video Maker</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-podcast-reputation-logo-design-principles-for-2024/"><u>[New] Elevating Podcast Reputation  Logo Design Principles for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-masterful-backup-techniques-for-iphone-to-snapchat-content/"><u>[New] In 2024, Masterful Backup Techniques for iPhone to Snapchat Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>[New] Swiftly Start Sharing Joy  Installing the iFunny Meme App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-coherent-audio-segments/"><u>[New] The Art of Coherent Audio Segments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-dialogue-in-film-and-theatre/"><u>[New] The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-free-video-tools-cross-platform-os-support/"><u>[New] Top 10 Free Video Tools  Cross-Platform OS Support</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-the-secrets-to-stellar-igtv-footage-capture-for-2024/"><u>[New] Unveiling the Secrets to Stellar IGTV Footage Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-discover-affordable-screen-recording-apps-windowsmacos/"><u>[Updated] 2024 Approved  Discover Affordable Screen Recording Apps (Windows/macOS)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fresh-start-strategy-budget-channels-to-purchase/"><u>[Updated] 2024 Approved  Fresh Start Strategy  Budget Channels to Purchase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exceptional-book-video-examples/"><u>[Updated] Exceptional Book Video Examples</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-advanced-techniques-to-silence-background-noise-in-media/"><u>[Updated] In 2024, Advanced Techniques to Silence Background Noise in Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-audience-engagement-meets-technology-four-recording-ways-on-facebook/"><u>2024 Approved  Audience Engagement Meets Technology  Four Recording Ways on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mellow-music-volume-control-for-mac-and-windows/"><u>2024 Approved  Mellow Music Volume Control for Mac & Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-canvas-reborn-spotlight-on-top-6-in-digital-arts/"><u>2024 Approved  The Canvas Reborn  Spotlight on Top 6 in Digital Arts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-video-setup-luminosity/"><u>2024 Approved  The Ultimate Guide to Video Setup Luminosity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-images-with-easy-color-changes/"><u>2024 Approved  Transform Your Images with Easy Color Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-trimming-techniques-understanding-video-crops-in-imovie/"><u>2024 Approved  Trimming Techniques  Understanding Video Crops in iMovie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-capacity-for-storing-videos-on-large-scale-drives-64128gb/"><u>2024 Approved  Understanding the Capacity for Storing Videos on Large-Scale Drives (64/128GB)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts/"><u>2024 Approved  Unlock Artistic Expression  Download Movie Maker for Win11 Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>2024 Approved  Unveiling Mastery  The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-scanning-issues-with-your-geforce-experience-on-windows/"><u>Avoid Scanning Issues with Your GeForce Experience on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-xs-max-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone XS Max Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-6-ways-to-increase-audience-retention-on-youtube-filmora/"><u>In 2024, 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 mini When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-talkative-transformations-infusing-your-stories-with-motion/"><u>In 2024, Talkative Transformations  Infusing Your Stories with Motion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-at-memes-app-version/"><u>In 2024, The Best at Memes (App Version)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-low-cost-cloud-storage-plans/"><u>In 2024, The Essential Guide to Low-Cost Cloud Storage Plans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-photography-at-your-fingertips-with-samsung/"><u>In 2024, The Future of Photography at Your Fingertips with Samsung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>In 2024, The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-spectrum-of-present-use-to-future-drones-potential/"><u>In 2024, The Spectrum of Present Use to Future Drones' Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-symphony-of-selection-trailer-music-mastery/"><u>In 2024, The Symphony of Selection  Trailer Music Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-font-customization-in-ae/"><u>In 2024, The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-hdr-camera-match-up/"><u>In 2024, The Ultimate HDR Camera Match-Up</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-srt-resource-for-complete-understanding/"><u>In 2024, The Ultimate SRT Resource for Complete Understanding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unexpected-angle-alterations-in-instagram-video-posts/"><u>In 2024, Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>In 2024, Unleash Your Creativity  The Leading Phone Apps for Image Stickers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-15-royalty-free-music-hideouts-for-video-artists-for-2024/"><u>Top 15 Royalty-Free Music Hideouts for Video Artists for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-instruction-1-same-diffits-level-provide-a-list-of-five-alternative-phrases-that-convey-similar-meaning-to-thrilling-adventure-series-for-yo/"><u>Updated In 2024, Instruction 1 (Same Diffits Level) Provide a List of Five Alternative Phrases that Convey Similar Meaning to Thrilling Adventure Series for Young Explorers</u></a></li>
+</ul></div>

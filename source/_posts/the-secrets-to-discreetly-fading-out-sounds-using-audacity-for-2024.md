@@ -1,7 +1,7 @@
 ---
 title: "The Secrets to Discreetly Fading Out Sounds Using Audacity for 2024"
-date: 2024-06-03T22:26:31.986Z
-updated: 2024-06-04T22:26:31.986Z
+date: 2024-07-20T22:56:18.662Z
+updated: 2024-07-21T22:56:18.662Z
 tags: 
   - screen-recording
   - ai video
@@ -34,16 +34,27 @@ In this example, we divided the clip at the eight-second mark and used the Time 
 
 By selecting the audio segment, you wish to fade out and selecting Effect > Fade Out, you may add a fade-out to the initial clip.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![liner fade in audacity](https://images.wondershare.com/filmora/article-images/2022/07/liner-fade-in-audacity.jpg)
 
 ## Part 2\. Studio Fade Out
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![studio fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/studio-fade-out-audacity.jpg)
 
 ## Part 3\. Adjustable Fade
@@ -55,18 +66,36 @@ A dialog box will show up on the screen when you choose the customizable fade op
 * Select Effect from the menu.
 * Select the variable fading option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Crossfades Audacity
 
 There are two choices available when using this effect. You have two options: either manually make a crossfade of your own, or utilize one of the pre-existing crossfades in Audacity. In Audacity, there are two crossfades that are accessible. Crossfade clips and Crossfade tracks are what they are. Crossfade clips make it easier to switch between two distinct clips. Additionally, crossfade tracks aid in crossfading between two audio tracks and are more exact.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### **Steps to Use Crossfades:**
 
 Using the Time Shift Tool, place your two clips adjacent to one another in order to apply a crossfade across them on the same track.
 
 Select the area to be crossfaded using the Selection tool, and then click Effect > Crossfade Clips to combine the sounds you've chosen.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
@@ -95,6 +124,9 @@ By choosing the Video Editor option from the software's home screen, you may now
 
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 ##### Step4 Fade-in/fade-out audio
@@ -139,3 +171,53 @@ You may access a variety of tools and services on the platform known as Audacity
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-10-most-popular-tiktok-challenges-deserves-your-try-for-2024/"><u>[New] 10 Most Popular TikTok Challenges Deserves Your Try for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-playstation-vr-games-to-look-forward-to/"><u>[New] Top 5 Playstation VR Games to Look Forward To</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>[New] Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncovering-best-in-class-steadicams-for-high-end-dslr-projects/"><u>[New] Uncovering Best-in-Class Steadicams for High-End DSLR Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-under-100-budget-friendly-action-cams-top-choices-guide/"><u>[New] Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-sharing-videos-on-tweet-no-retweets-just-phones/"><u>[Updated] 2024 Approved  Sharing Videos on Tweet  No Retweets, Just Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-share-audio-waves-with-followers-on-instagram/"><u>[Updated] Share Audio Waves with Followers on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-backchannel-bridge-engaging-with-your-audience/"><u>[Updated] The Backchannel Bridge  Engaging with Your Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone/"><u>[Updated] The Ultimate Methods of Acquiring IPodcasts for Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-slow-motion-video-gear/"><u>[Updated] Top 5 Slow-Motion Video Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-tiktok-video-techniques-that-work/"><u>[Updated] Transformative TikTok Video Techniques That Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-videos-with-ease-10-steps-from-youtube-to-mpeg/"><u>[Updated] Transforming Videos with Ease  10 Steps From YouTube to MPEG</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>[Updated] Ultimate Compilation  Best GoPro Cases for Action Seekers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-high-speed-pc-controller-extensions/"><u>[Updated] Ultimate Guide to High-Speed PC Controller Extensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-collective-views-on-vllo/"><u>[Updated] Understanding Collective Views on VLLO</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>[Updated] Upholders of Popularity  The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uploading-subtitles-a-compreenas-guide-for-all-social-media-users/"><u>[Updated] Uploading Subtitles  A Compreenas Guide for All Social Media Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cinematic-supreme-our-selection-of-top-7-4k-cameras/"><u>2024 Approved  Cinematic Supreme  Our Selection of Top 7 4K Cameras</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-engage-viewers-with-powerful-channel-building-stories/"><u>2024 Approved  Engage Viewers with Powerful Channel-Building Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-adjustments-the-editors-guide-to-gopro-video-magic/"><u>2024 Approved  Masterful Adjustments  The Editor's Guide to GoPro Video Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-max-360-and-hero-11-gopro-comparison-which-reigns-supreme/"><u>2024 Approved  Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>2024 Approved  Quick Correction Quest  How to Skillfully Edit Images on WIN10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-simple-steps-to-record-your-youtube-streams/"><u>2024 Approved  Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-dominating-spotifys-advertising-space/"><u>2024 Approved  Strategies for Dominating Spotify's Advertising Space</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-soundtracks-compilation-for-vids/"><u>2024 Approved  Superior Soundtracks Compilation for Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-speedy-windows-inspecting/"><u>2024 Approved  The Essential Guide to Speedy Windows Inspecting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-reno-8t-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo Reno 8T 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/crafting-compelling-lower-thirds-essential-tips-for-fcpx/"><u>Crafting Compelling Lower Thirds Essential Tips for FCPX</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100i to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-asus-rog-phone-8-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Asus ROG Phone 8 Pro Phones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-data-recovery-recover-lost-data-from-itel-s23-by-fonelab-android-recover-data/"><u>Itel Data Recovery – recover lost data from Itel S23</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-resumes-can-be-quite-effective-if-used-in-the-right-context-and-that-is-the-reason-why-weve-decided-to-take-you-through-some-of-the-/"><u>New 2024 Approved Video Resumes Can Be Quite Effective if Used in the Right Context, and that Is the Reason Why Weve Decided to Take You Through some of the Best Video Resume Makers You Can Use to Get the Job Youve A</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-expansion-youtube-channels-boosting-brainpower/"><u>Rapid Expansion  YouTube Channels Boosting Brainpower</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a05-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A05 won’t play MP4 files</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailoring-podcast-sharing-for-instagram-enthusiasts-for-2024/"><u>Tailoring Podcast Sharing for Instagram Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/telegram-tactics-for-aspiring-marketers-a-compreeher-guide-for-2024/"><u>Telegram Tactics for Aspiring Marketers  A Compreeher Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-slow-motion-video-gear-for-2024/"><u>Top 5 Slow-Motion Video Gear for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-6-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turnout-videos-backwards-easily-on-android-for-2024/"><u>Turnout Videos Backwards Easily on Android for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-efficiency-the-editors-guide-to-speed-control-for-2024/"><u>Unlock Efficiency  The Editor's Guide to Speed Control for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-the-mystery-of-where-to-find-top-ranked-instagram-ringtones-and-craft-perfect-alarms-for-2024/"><u>Unraveling the Mystery of Where to Find Top-Ranked Instagram Ringtones & Craft Perfect Alarms for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-choruschanger-prime-the-ultimate-toolkit-for-voice-modification-and-harmony-control/"><u>Updated In 2024, ChorusChanger Prime The Ultimate Toolkit for Voice Modification & Harmony Control</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-which-video-editor-reigns-supreme-final-cut-pro-or-lumafusion/"><u>Updated In 2024, Which Video Editor Reigns Supreme Final Cut Pro or LumaFusion?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vegas-pro-21-reviewed-the-new-frontier-in-sports-betting-software-for-2024/"><u>Vegas Pro '21 Reviewed - The New Frontier in Sports Betting Software for 2024</u></a></li>
+</ul></div>

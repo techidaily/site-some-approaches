@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Storage Enhancement for Sony Alpha 7S II for 2024"
-date: 2024-06-03T19:54:26.069Z
-updated: 2024-06-04T19:54:26.069Z
+date: 2024-07-20T21:23:26.682Z
+updated: 2024-07-21T21:23:26.682Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,6 +134,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -196,6 +212,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -228,3 +247,57 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-power-of-personal-success-stories-in-videos/"><u>[New] Harnessing the Power of Personal Success Stories in Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-and-enchant-explore-the-best-creative-reactions-on-yt/"><u>[New] In 2024, Captivate and Enchant  Explore the Best Creative Reactions on YT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-discovering-youtubes-finest-storyweavers/"><u>[New] In 2024, Discovering YouTube's Finest Storyweavers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-6-methods-for-capturing-your-netflix-viewing-experience-on-mac/"><u>[New] In 2024, Top 6 Methods for Capturing Your Netflix Viewing Experience on Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quick-and-simple-4-ways-to-take-screenshots-on-chromebook/"><u>[New] Quick & Simple  4 Ways To Take Screenshots On Chromebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-software-showdown-wirecast-vs-obs-explored/"><u>[New] Streaming Software Showdown  Wirecast vs OBS Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-supercharge-your-design-with-these-canva-insider-tips/"><u>[New] Supercharge Your Design with These Canva Insider Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-extra-memory-solution-for-sony-a7c/"><u>[New] Superior Extra Memory Solution for Sony A7C</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>[New] Tailoring Visual Quality  Choose Aspect Ratios Wisely</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-latest-evolution-2023s-samsung-bd-j5900-review/"><u>[New] The Latest Evolution  2023'S Samsung BD-J5900 Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-photographers-companion-to-master-color-correction-top-11/"><u>[New] The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-strategies-for-changing-song-pace-on-spotify-app/"><u>[New] Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-pubgs-hidden-voice-tweaks-quickly/"><u>[New] Unlock PUBG's Hidden Voice Tweaks Quickly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-performance-top-windows-11-strategies/"><u>[New] Unlocking Performance  Top Windows 11 Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-iphones-silhouette-potential/"><u>[New] Unveiling iPhone's Silhouette Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ranking-win11s-best-no-cost-screen-recording-software/"><u>[Updated] Ranking Win11's Best No-Cost Screen Recording Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[Updated] Strategize & Succeed  A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tactics-for-snagging-free-visual-frame-content/"><u>[Updated] Tactics for Snagging Free Visual Frame Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>[Updated] The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-picture-in-picture-on-chrome-everywhere/"><u>[Updated] Utilizing Picture In Picture on Chrome Everywhere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>2024 Approved  Android/iPhone's Ultimate Guide  Top 10 Free Photo Overlay Hacks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-swiftly-enhance-videos-on-android-devices/"><u>2024 Approved  Swiftly Enhance Videos on Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uniting-visuals-on-iphone-photos-with-videos/"><u>2024 Approved  Uniting Visuals on iPhone  Photos with Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>2024 Approved  Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-iphonepcs-best-video-conversion-software-8/"><u>2024 Approved  Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerate-learning-latin-online-naturally/"><u>Accelerate Learning Latin Online, Naturally</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v29-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V29 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/curing-windows-11-unrecognized-devices/"><u>Curing Windows 11 Unrecognized Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/gopro-video-editing-made-easy-a-step-by-step-guide-for-beginners-for-2024/"><u>GoPro Video Editing Made Easy A Step-by-Step Guide for Beginners for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-honor-v-purse-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Honor V Purse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-skys-dynamic-range-showcase-websites-ranked-1-10/"><u>In 2024, Sky's Dynamic Range Showcase - Websites Ranked 1-10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-product-placement/"><u>In 2024, The Art of Product Placement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-curve-editing-manual-for-photoshop/"><u>In 2024, The Complete Curve Editing Manual for Photoshop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-mix-combining-intro-and-exit-strategies-for-success/"><u>In 2024, The Essential Mix  Combining Intro & Exit Strategies for Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-videos-assessing-av1s-edge-over-vp9/"><u>In 2024, The Future of Videos  Assessing AV1's Edge over VP9</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-palettes-power-in-film-editing-techniques/"><u>In 2024, The Palette's Power in Film Editing Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tutorial-on-stopping-automatic-youtube-video-prefaces/"><u>In 2024, Tutorial on Stopping Automatic YouTube Video Prefaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-with-these-14-exceptional-text-animations/"><u>In 2024, Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-mysteries-imports-of-media-files-in-w11/"><u>In 2024, Unlocking the Mysteries  Imports of Media Files in W11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-watermark-free-video-editing-the-top-10-free-online-options/"><u>In 2024, Watermark-Free Video Editing The Top 10 Free Online Options</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/inside-look-how-mycam-shapes-your-visual-storytelling/"><u>Inside Look  How MyCam Shapes Your Visual Storytelling</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-download-windows-movie-maker-for-pc-a-simple-and-fast-guide/"><u>New 2024 Approved Download Windows Movie Maker for PC A Simple and Fast Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swiftly-delete-autoplayed-podcast-suggestions-on-spotify-for-2024/"><u>Swiftly Delete Autoplayed Podcast Suggestions on Spotify for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-social-networking-grounds-for-youtube-growth-for-2024/"><u>Top Social Networking Grounds for YouTube Growth for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-creative-expressions-building-stories-from-photos-in-pixiz-for-2024/"><u>Unlock Creative Expressions  Building Stories From Photos in Pixiz for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions-for-2024/"><u>Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-gestures-in-tech-landscape-for-2024/"><u>Unveiling Gestures in Tech Landscape for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-most-innovative-metaverse-visors-and-wearables-for-2024/"><u>Unveiling the Most Innovative Metaverse Visors & Wearables for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-mysteries-of-firefoxs-pip-mode-for-2024/"><u>Unveiling the Mysteries of Firefox’s PIP Mode for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-quickest-method-to-construct-google-image-mosaics-for-2024/"><u>Unveiling the Quickest Method to Construct Google Image Mosaics for 2024</u></a></li>
+</ul></div>

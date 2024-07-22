@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Invisible Social Signals in Online Media\""
-date: 2024-06-03T22:05:34.495Z
-updated: 2024-06-04T22:05:34.495Z
+date: 2024-07-20T22:43:50.940Z
+updated: 2024-07-21T22:43:50.940Z
 tags: 
   - screen-recording
   - ai video
@@ -63,8 +63,14 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,6 +91,9 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -93,12 +102,18 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -115,6 +130,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +203,51 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-maximize-your-content-with-these-top-5-obs-tips/"><u>[New] In 2024, Maximize Your Content with These Top 5 OBS Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illustrators-secret-creating-seamless-image-movement/"><u>[Updated] Illustrator's Secret  Creating Seamless Image Movement</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-game-the-best-of-8-mirrorless-cams/"><u>[Updated] In 2024, Elevate Your Video Game  The Best of 8 Mirrorless Cams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display-for-2024/"><u>Choosing the Right Horizon  Smart Strategies for Buying an Impressive 4K Display for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>In 2024, The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>In 2024, The GIF Odyssey  Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-global-communicators-essential-list-of-top-36-platforms-for-video-conversion/"><u>In 2024, The Global Communicator’s Essential List of Top 36 Platforms for Video Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-greatest-11-child-safe-cameras-for-first-timer-kids/"><u>In 2024, The Greatest 11 Child-Safe Cameras for First-Timer Kids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-importance-of-non-primary-shots-in-media/"><u>In 2024, The Importance of Non-Primary Shots in Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-premium-camera-lenses-in-4k/"><u>In 2024, The Insider's Guide to Premium Camera Lenses in 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-key-to-crisp-clear-cinematography/"><u>In 2024, The Key to Crisp, Clear Cinematography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>In 2024, The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-path-to-perfection-editing-numbers-on-tiktok/"><u>In 2024, The Path to Perfection  Editing Numbers on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-peculiar-plight-dissecting-goofy-chronicles/"><u>In 2024, The Peculiar Plight  Dissecting 'Goofy Chronicles'</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-power-of-persuasion-exploring-6-video-genres/"><u>In 2024, The Power of Persuasion  Exploring 6 Video Genres</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pros-guide-to-exceptional-cameras-and-lenses-in-4k/"><u>In 2024, The Pro's Guide to Exceptional Cameras and Lenses in 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quest-for-immersion-reviewing-benqs-ultra-hd-sw320/"><u>In 2024, The Quest for Immersion  Reviewing BenQ's Ultra HD SW320</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-right-platform-for-content-creation-podcast-or-video/"><u>In 2024, The Right Platform for Content Creation? Podcast or Video?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-soundscape-symphony-magixs-audio-mastery-in-studio-suite/"><u>In 2024, The Soundscape Symphony  Magix's Audio Mastery in Studio Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-spectrums-impact-applying-color-dynamics/"><u>In 2024, The Spectrum's Impact  Applying Color Dynamics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>In 2024, The Streamer's Blueprint  Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>In 2024, The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>In 2024, The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-exploration-inside-xcreative-media-suite/"><u>In 2024, The Ultimate Exploration  Inside XCreative Media Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>In 2024, The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-avi-to-gif-conversion-with-filmora-platform/"><u>In 2024, The Ultimate Guide to AVI-to-GIF Conversion with Filmora Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>In 2024, The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-live-streamers/"><u>In 2024, The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>In 2024, The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-manipulating-image-shapes/"><u>In 2024, The Ultimate Guide to Manipulating Image Shapes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>In 2024, The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>In 2024, The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>In 2024, The Ultimate PowerDirector '24 Review  A Comprehensive Dive</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-resource-for-morphvox-audio-transformation/"><u>In 2024, The Ultimate Resource for MorphVOX Audio Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-review-of-wirecast-and-similar-programs/"><u>In 2024, The Ultimate Review of WireCast & Similar Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-strategy-for-selecting-a-premium-stream-service/"><u>In 2024, The Ultimate Strategy for Selecting a Premium Stream Service</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrating-clips-flawlessly-using-blend-modes-for-2024/"><u>Integrating Clips Flawlessly Using Blend Modes for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-create-stunning-lyric-videos-with-these-web-apps/"><u>New In 2024, Create Stunning Lyric Videos with These Web Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-top-online-video-editing-platforms-for-chromebooks-for-2024/"><u>New S Top Online Video Editing Platforms for Chromebooks for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gpu-glitches-without-freeze-outages/"><u>Overcoming GPU Glitches Without Freeze Outages</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-make-your-own-subtitles-for-free-10-online-resources-for-2024/"><u>Updated Make Your Own Subtitles for Free 10 Online Resources for 2024</u></a></li>
+</ul></div>

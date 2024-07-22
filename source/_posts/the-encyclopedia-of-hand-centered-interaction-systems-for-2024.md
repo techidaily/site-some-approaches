@@ -1,7 +1,7 @@
 ---
 title: "\"The Encyclopedia of Hand-Centered Interaction Systems for 2024\""
-date: 2024-06-03T18:32:55.509Z
-updated: 2024-06-04T18:32:55.509Z
+date: 2024-07-20T20:33:30.766Z
+updated: 2024-07-21T20:33:30.766Z
 tags: 
   - screen-recording
   - ai video
@@ -45,8 +45,15 @@ The Oculus Quest 2 is a virtual reality headset that immerses you in virtual wor
 
 With Hand Tracking, you can interact with the virtual world more naturally and intuitively. You can use your hands to pick up objects, draw, and even type on a virtual keyboard. Moreover, it opens up new possibilities for gameplay, allowing you to play games in new and innovative ways.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -69,6 +76,9 @@ Optical motion capture systems emit infrared light from the camera. The markers 
 
 The more cameras used, the more accurate the results. While this technology is very precise, it can be limited by factors such as body position and movement.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tracking Without Interface
 
 Also known as Markerless Hand Tracking, this type of Hand Tracking allows users to track their hand movements without the need for any external markers or data gloves, meaning more spontaneous interaction and freedom of movement. This could hugely impact everything from gaming to virtual reality to human-computer interaction.
@@ -81,6 +91,14 @@ Above we have learned what is Hand Tracking and the two types of it. Now let’s
 
 Before we go further about them, let us learn about Python quickly. Python is a versatile language used for a wide range of tasks, including image processing and computer vision. We will use Python and two Python Libraries: OpenCV and MediaPipe, to create a Hand Tracking module.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is OpenCV
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
@@ -96,6 +114,9 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Guidance With Steps
 
 Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
@@ -122,12 +143,19 @@ A _main.py_ file for writing code will be automatically created in _Pycharm_ app
 
 First, import the OpenCV and MediaPipe to use their dependencies. Once done, create an object _cap_ for video capturing and three other objects; _mpHands, hands,_ and _mpDraw_ to manipulate your input using MediaPipe.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![importing the libraries](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-3.jpg)
 
 ##### Step2 Capturing And Processing An Image Input
 
 Copy and paste the following line of code to take the image input from your PC webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
 
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
@@ -162,6 +190,9 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 To execute the main method, copy and paste the following code lines:
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
 ##### Step8 Result
@@ -180,6 +211,10 @@ Learn more about Filmora:
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve explored Hand Tracking and its two types, i.e., tracking with interface and tracking without interface. Moreover, we provided step-by-step guidance on using Python, OpenCV, and MediaPipe to create a Hand Tracking module.
@@ -213,3 +248,37 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dodging-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>[New] In 2024, Dodging Doubts  A Guide to Vlogging's Most Common Anxieties</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-natural-filmmaking-compiling-the-best-free-screen-templates-for-cinephiles/"><u>[New] Natural Filmmaking  Compiling the Best Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-premier-mobile-dev-editor-software-guide/"><u>[New] Premier Mobile Dev Editor Software Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategy-sketches-plotting-the-market-map/"><u>[New] Strategy Sketches  Plotting the Market Map</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-ae-text-configurations-from-basics-to-brilliance/"><u>[New] Top AE Text Configurations  From Basics to Brilliance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>[New] Top Picks  YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trim-the-excess-a-beginners-guide-to-simple-video-cuts-in-windows/"><u>[New] Trim the Excess  A Beginner's Guide to Simple Video Cuts in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-turn-standard-alerts-into-personalized-unique-sounds-on-android-devices/"><u>[New] Turn Standard Alerts Into Personalized, Unique Sounds on Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-of-costless-online-editors-for-professionals/"><u>[New] Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-free-moving-text-in-your-motion-captures/"><u>[New] Unlock Free Moving Text in Your Motion Captures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vegaspro-2019-update-changes-and-impacts/"><u>[New] VegasPro 2019 Update  Changes & Impacts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmatched-video-quality-leading-windows-phones-apps/"><u>[Updated] Unmatched Video Quality  Leading Windows Phones Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>2024 Approved  Navigating Digital Discussions with Ease  Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-full-potential-of-zoom-meetings-for-win10-users/"><u>2024 Approved  Unlock the Full Potential of Zoom Meetings for WIN10 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-art-of-instagram-video-filming/"><u>2024 Approved  Unveiling the Art of Instagram Video Filming</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-s18-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo S18 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy S23</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-photo-text-editing-made-simple-tools-and-techniques/"><u>In 2024, Photo Text Editing Made Simple  Tools & Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-footage-iphones-shortening-methods/"><u>In 2024, Streamline Your Footage  IPhone's Shortening Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-of-an-engaging-podcast-blurb/"><u>In 2024, The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-collection-best-zero-price-photo-editing-software/"><u>In 2024, The Ultimate Collection  Best Zero-Price Photo Editing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>In 2024, The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-hubs-for-3d-graffiti-typefaces/"><u>In 2024, Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-choices-360-video-equipment-for-livestreaming-platforms/"><u>In 2024, Top Choices  360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-full-potential-of-zoom-meetings-for-win10-users/"><u>In 2024, Unlock the Full Potential of Zoom Meetings for WIN10 Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-volume-transitions-keyframe-techniques-in-filmora-mac-for-2024/"><u>Updated Mastering Volume Transitions Keyframe Techniques in Filmora (Mac) for 2024</u></a></li>
+</ul></div>

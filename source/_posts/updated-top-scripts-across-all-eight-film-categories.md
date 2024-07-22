@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Scripts Across All Eight Film Categories"
-date: 2024-06-03T18:24:35.746Z
-updated: 2024-06-04T18:24:35.746Z
+date: 2024-07-20T20:28:58.831Z
+updated: 2024-07-21T20:28:58.831Z
 tags: 
   - screen-recording
   - ai video
@@ -41,12 +41,22 @@ Sure, we'd all love to write one of those big blockbusters, but it's going to ta
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Best horror scripts
 
 **_1\. Annabelle_**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![annabelle](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-2.jpg)
 
 **Writer:** Gary Dauberman
@@ -95,6 +105,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### Best Christmas play scripts
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
@@ -109,6 +122,9 @@ When Scrooge's nephew Fred returns the letters Scrooge once wrote to his sister 
 
 _**2\. Angel's Poinsettia**_
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
 **Writer:** Sally Painter
@@ -143,6 +159,9 @@ A short video (usually animated) that explains ideas, products, or services in a
 
 This template begins with a scene where a character is struggling with the same problem your audience is facing. Once you've established a connection, you present the solution, show how it works and the results it delivers, and wrap it up with a call to action.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Best short drama scripts
 
 _**1\. A GIFT – TEN MINUTE PLAY FOR TWO ACTORS**_
@@ -159,6 +178,9 @@ Ages of the actors: _Approximately 30-40 years of age_
 
 Suitable for: _All ages_
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a gift](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-9.jpg)
 
 In this ten-minute play for two actors, two young men meet on a train. One is a serious young man on his way to propose to his girlfriend, the other is a cynical loner who advises the former to escape the wedding while he can. The council backfires and an earnest young man sets out on a journey, leaving the recluse in this comedy-drama with a wonderful twist to his story.
@@ -183,16 +205,25 @@ Set: _A Park. Daytime in the present. It is a bucolic atmosphere in the middle o
 
 Level of difficulty: _6/10 – conversational, easy lines to remember and that also flow easily_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best action scripts
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -215,6 +246,9 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -243,6 +277,9 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -281,6 +318,9 @@ The 4K editing support feature enables users to edit and export videos at a reso
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
 ## Conclusion
@@ -312,3 +352,47 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-proven-methods-for-twitter-brand-awareness/"><u>[New] Proven Methods for Twitter Brand Awareness</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-roadmap-to-recognition-earning-your-verified-status-on-discord/"><u>[New] The Roadmap to Recognition  Earning Your Verified Status on Discord</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>[New] Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-of-7-exceptional-vids-on-mac/"><u>[New] Ultimate List of 7 Exceptional Vids on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-slomo-app-assessment-insights/"><u>[New] Ultimate SloMo App Assessment - Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>[New] Uncompromised Creativity  Best macOS Big Sur Editing Tools Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023/"><u>[New] Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-brand-identity-in-pictures-how-to-watermark-on-instagram-for-2024/"><u>[Updated] Brand Identity in Pictures  How to Watermark on Instagram for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-gen-audiovideo-1-players-guide-for-24/"><u>[Updated] Next Gen Audio/Video  #1 Players Guide for '24</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-of-quick-text-conversion-from-srt/"><u>[Updated] The Future of Quick Text Conversion From SRT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-visual-testimonial-advantage/"><u>[Updated] The Visual Testimonial Advantage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ae-text-configurations-from-basics-to-brilliance/"><u>[Updated] Top AE Text Configurations  From Basics to Brilliance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-professional-mac-cameras-made-easy/"><u>2024 Approved  Professional Mac Cameras Made Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-revolutionize-your-design-work-with-free-images-from-these-leading-sites/"><u>2024 Approved  Revolutionize Your Design Work with Free Images From These Leading Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>2024 Approved  Talecraft Triumphs  The Leading Academies in Narrative Arts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-key-to-unlocking-a-vault-of-no-cost-clip-art/"><u>2024 Approved  The Key to Unlocking a Vault of No-Cost Clip Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-peoples-take-on-vllo/"><u>2024 Approved  The People's Take on VLLO</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>2024 Approved  The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>2024 Approved  Top Audio Interfaces Unveiled  The Podcaster's Must-Have List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-mac-interface-with-speech-recognition-software-review/"><u>2024 Approved  Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-your-view-with-the-hp-envy-27-monitor/"><u>2024 Approved  Transforming Your View with the HP Envy 27 Monitor</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-c02-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia C02 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-resolution-realm-for-rookies-exploring-picture-quality-nuances/"><u>In 2024, Resolution Realm for Rookies  Exploring Picture Quality Nuances</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-subscriber-chatter-best-practices-for-comments/"><u>In 2024, The Art of Subscriber Chatter  Best Practices for Comments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-meme-crafters-playbook-building-a-library-of-laughter-gifs/"><u>In 2024, The Meme Crafter's Playbook  Building a Library of Laughter (GIFs)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-dynamic-image-backdrops-for-video-editing/"><u>In 2024, Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-gaming-monitors-for-xbox-series-x-a-buyers-guide/"><u>In 2024, Top Gaming Monitors for Xbox Series X - A Buyer's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-ten-frame-enhancers-for-visual-artistry/"><u>In 2024, Top Ten Frame Enhancers for Visual Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/integrating-azures-speech-recognition-into-development-for-2024/"><u>Integrating Azure’s Speech Recognition Into Development for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-top-10-for-streamed-television-for-2024/"><u>Navigating the Top 10 for Streamed Television for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-from-watermarks-the-best-video-joining-software-for-2024/"><u>New Free From Watermarks The Best Video Joining Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supernatural-video-slowdown-handbook-for-2024/"><u>Supernatural Video Slowdown Handbook for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sync-systems-swiftly-fastest-file-methods-for-2024/"><u>Sync Systems Swiftly  Fastest File Methods for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-filmora-editing-traits-for-fan-loyalty-for-2024/"><u>Top 10 Filmora Editing Traits for Fan Loyalty for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-11-windows-11-secrets-unveiled-for-2024/"><u>Top 11 Windows 11 Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro-for-2024/"><u>Top 4 Remedies  Enhancing iPhone HDR Images in Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-live-streaming-technologies-for-broadcinas-for-2024/"><u>Top Live Streaming Technologies for Broadcinas for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/versions-of-windows-movie-maker-for-2024/"><u>Versions of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/what-are-the-best-sites-to-download-text-effects-for-2024/"><u>What Are The Best Sites To Download Text Effects for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Cinematic Skills  The Quickest 5 DIY Hacks for Success\""
-date: 2024-06-03T14:57:43.423Z
-updated: 2024-06-04T14:57:43.423Z
+date: 2024-07-20T18:21:53.831Z
+updated: 2024-07-21T18:21:53.831Z
 tags: 
   - screen-recording
   - ai video
@@ -30,26 +30,43 @@ On film sets and studios, the professionals use flags to absorb and make shapes 
 
 You can buy it from a nearby stationery store. Ensure the cardboard is not too big to fit the t-shirt around the board.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
 ### 2\. A Black T-shirt
 
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![black t-shirt for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-2.png)
 
 After managing all the required things, you must wrap and secure the t-shirt around the board. If the size of the t-shirt is larger than cardboard, tie the sleeves to secure the t-shirt. Or you can also use tape to secure the t-shirt and fasten it on the backside.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Final Results for the Flag Light Shaping
 
 After filming the video, see the precise results before using the flag, when the light is dispersed everywhere, which makes a euphoric effect. While after using the flag, the light is only glimpsing the subject.
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
 The black wrap is used in professional studios and set up to block and shape light. You can block light by directly giving shape to LED lightbulbs. The black wrap is made mainly of aluminum, so it's easy to provide forms for different lights.
@@ -74,6 +91,10 @@ Step1 First, carefully wrap the bulb with the foil paper to shape the light.
 
 Step2 Then, you need to install the bulb on the lamp.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** During wrapping, you don't have to allow the foil to touch the bottom part of the bulb.
@@ -86,6 +107,9 @@ Step4 Ensure the lamp switch is off, and install the light bulb.
 
 When you turn on the lamp, the light has been shaped into a smaller light source.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Final Results for the Black Wrap or Cinewrap
 
 You can observe that the light is only at the required place, with no dispersion observed and no scattering. You can create more shapes to foil and then wrap them on the bulb for a different look.
@@ -94,24 +118,40 @@ You can observe that the light is only at the required place, with no dispersion
 
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Part 3\. Hack. DIY Light Reflector
 
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. A Cardboard
 
 As mentioned, you can get cardboard from a nearby stationery store. The cardboard size varies according to your requirement to make a light reflector. The reflector will perform better if the cardboard is large.
 
 ![cardboard used in making a diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Foil Paper
 
 The next thing you should have to make a reflector is foil paper. The foil paper is readily available at all supermarkets or in shops. Ensure that the foil paper is of aluminum because it can reflect back the light.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![foil paper used for making a light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-11.png)
 
 You can wrap the foil paper around the cardboard as smoothly as possible to prevent too many creases. The smoother look, the more chances of a glowing effect.
@@ -122,6 +162,9 @@ You can see clearly that the subject face is brighter than before the reflector 
 
 ![results after using diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4\. Hack. DIY LED Light Panel
 
 For a good-supplied light to a subject, you can make your own LED light panel with LED strips at home in two steps.
@@ -140,6 +183,9 @@ First, you need to cut the cardboard into the required size. The single LED stri
 
 Fasten the LED strip on the cardboard into a spiral shape. Make sure that the gap between each circle does not change too much.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![attachment of led strips on cardboard](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-15.png)
 
 ### Final Results of Using the DIY LED Light Panel
@@ -150,6 +196,9 @@ See how clear the subject's face looks after using an LED panel. Of course, you 
 
 As you have noticed, the light is too bright on the subject. However, you can diffuse the light by following the next hack!
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Hack. DIY Light Diffuser
 
 The light diffusers reduce the bright light and create smooth and soft touching of the light on the subject. You can see below how professional setups use light diffusers.
@@ -160,6 +209,10 @@ Light diffusers are often used on professional sets to reduce harsh shadows and 
 
 To make a light diffuser, you don't need specific props or tools. However, as shown below, you need a desk mat to make it possible!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 1\. A Desk Mat
 
 It would be best if you had a transparent desk mat, which you can find at any household store. It is an alternative to a diffuser and helps maintain the light's tone.
@@ -170,6 +223,9 @@ First, cover the LED light panel as made in the above hack with a desk mat to ma
 
 ![process of making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-19.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Results of Using the Light Diffuser
 
 Look below and notice that the light is not much dispersed now and balances the subject. It gives a smooth look!
@@ -206,3 +262,49 @@ Experiment with other props at home and see which hack evolved from them. You ca
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-discover-15-superior-snap-strategies/"><u>[New] Discover 15 Superior Snap Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>[New] In 2024, Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swiftly-convert-creepy-slow-videos-with-best-apps/"><u>[New] Swiftly Convert Creepy-Slow Videos with Best Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-replaying-twitch-live-streams/"><u>[New] The Art of Replaying Twitch Live Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>[New] The Best in Class  Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-using-obs-and-streamlabs-together-mac/"><u>[New] The Ultimate Guide to Using OBS and Streamlabs Together (Mac)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-awaitingnewagecameratechnologies/"><u>[Updated] AwaitingNewAgeCameraTechnologies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-teachers-compendium-on-multimedia-pedagogy/"><u>[Updated] The Teacher's Compendium on Multimedia Pedagogy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-free-to-use-game-soundtracks-online/"><u>[Updated] Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-mobility-assessment-2023/"><u>[Updated] Total Mobility Assessment 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-premier-live-streaming-plus-local-channels-2024/"><u>[Updated] Ultimate Guide  Premier Live Streaming + Local Channels 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>[Updated] Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-power-of-picture-in-picture-on-apple-devices/"><u>[Updated] Unveiling the Power of Picture-in-Picture on Apple Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-excellent-streamers-guide-to-360-degree-live-footage/"><u>2024 Approved  Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-gmail-and-zoom-for-productive-video-collaboration/"><u>2024 Approved  Navigating Gmail and Zoom for Productive Video Collaboration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality/"><u>2024 Approved  The Drone Enthusiast's Guide to Vibration Reduction and Image Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-budget-friendly-editor-apps/"><u>2024 Approved  The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-online-communities-catering-to-the-commercial-world/"><u>2024 Approved  Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>2024 Approved  Ultimate Source Guide  Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-sphere-video-potential-on-ios-devices/"><u>2024 Approved  Unlocking Full-Sphere Video Potential on iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-lg-bp350-a-detailed-performance-and-design-study/"><u>2024 Approved  Unveiling the LG BP350  A Detailed Performance & Design Study</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-iphones-hdr-abilities/"><u>2024 Approved  Unveiling the Secrets of iPhone's HDR Abilities</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 12 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-s18-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo S18 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>In 2024, Mastering Footage  Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-untapped-potential-of-dji-phantom-4/"><u>In 2024, The Complete Untapped Potential of DJI Phantom 4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-expert-approach-to-negative-picture-tones/"><u>In 2024, The Expert Approach to Negative Picture Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-photography-gurus-guide-to-date-stamping/"><u>In 2024, The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-free-artistic-software-on-mac/"><u>In 2024, The Ultimate Guide to Free Artistic Software on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-budget-friendly-digital-photography-workspaces-online/"><u>In 2024, Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-secret-free-apps-best-macos-text-transcribers/"><u>In 2024, Top Secret Free Apps  Best macOS Text Transcribers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlimited-free-image-refinement-onlinemobile/"><u>In 2024, Unlimited Free Image Refinement Online/Mobile</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-reel-power-mimicking-high-flying-tiktok-methods-for-2024/"><u>Insta Reel Power  Mimicking High-Flying TikTok Methods for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-s-best-free-video-compression-solutions-for-windows-10-users/"><u>New In 2024, S Best Free Video Compression Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-to-amplify-gopro-battery-duration-for-2024/"><u>Techniques to Amplify GoPro Battery Duration for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-technicalities-of-podcast-rss-file-design-for-2024/"><u>The Technicalities of Podcast RSS File Design for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-iphone-lengthy-exposure-secrets-for-2024/"><u>The Ultimate iPhone Lengthy Exposure Secrets for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-video-content-using-story-remix-on-windows-photos-for-2024/"><u>Transform Your Video Content Using Story Remix on Windows Photos for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-nokia-xr21-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Nokia XR21</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide-for-2024/"><u>Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide for 2024</u></a></li>
+</ul></div>

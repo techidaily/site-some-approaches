@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Invisible Motion Capture Instruction"
-date: 2024-06-03T17:56:23.804Z
-updated: 2024-06-04T17:56:23.804Z
+date: 2024-07-20T20:11:28.533Z
+updated: 2024-07-21T20:11:28.533Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,9 @@ It is important to pick something that will move slowly or that you can control 
 
 The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 ### Why do we need a phantom slow-motion camera?
@@ -68,6 +71,9 @@ Once you have all of the necessary equipment, you will need to set up your camer
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to edit time-lapse video on a computer
 
 If you've ever been to a nature preserve, you know that the best way to see it is with your own eyes. But what if you don't have time to go out and look at the wildlife? What if you're stuck in traffic or at work? What if there's a storm? Or what if it's dark out and you can't see anything?
@@ -96,12 +102,18 @@ In addition to being able to edit videos quickly and easily, Filmora also offers
 
 You can easily install Filmora for free, after installing click on it three options will appear but you have to select the first one which is Create a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
 ##### Step3 Drop the media to timeline
@@ -114,12 +126,18 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 ## Conclusion
@@ -157,3 +175,51 @@ Part 1: How to Use Phantom Slow Motion Camera
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-generating-attention-grabbing-video-teasers/"><u>[New] Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-streaming-services-for-musicians/"><u>[New] Superior Streaming Services for Musicians</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>[New] Syma X5C Insights  Choosing the Best Drone for Aviation Rookies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-perplexing-case-of-unexpected-video-aspects-in-instagram/"><u>[New] The Perplexing Case of Unexpected Video Aspects in Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-networking-grounds-grow-your-youtube-audience/"><u>[New] Top Networking Grounds  Grow Your YouTube Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tweaking-audio-outputs-sony-ps4-and-ps5-tips/"><u>[New] Tweaking Audio Outputs  Sony PS4 & PS5 Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix/"><u>[New] Unlock Creative Potential  Editing Videos via Windows Photos and Story Remix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-rapid-releases-review-best-quick-gaming-selections/"><u>[Updated] Rapid Releases Review  Best Quick Gaming Selections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>[Updated] Unveiling the Secrets of Stretching Seconds  Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-deciding-to-display-understanding-and-managing-off-facebook-activity/"><u>2024 Approved  Deciding to Display  Understanding and Managing Off-Facebook Activity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-video-capture-on-youtube/"><u>2024 Approved  Streamline Your Video Capture on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-views-viral-the-ultimate-guide-for-youtube-success/"><u>2024 Approved  Taking Views Viral  The Ultimate Guide for YouTube Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>2024 Approved  The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-memetic-artistry-codes/"><u>2024 Approved  Top 10 Memetic Artistry Codes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-packet-opening-experience-hacks/"><u>2024 Approved  Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-8-digital-collage-crafting-software/"><u>2024 Approved  TOP 8 Digital Collage Crafting Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-youtubes-hidden-feature-stop-snippet-viewing/"><u>2024 Approved  Unveiling YouTube's Hidden Feature  Stop Snippet Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-s24-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy S24 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success-for-2024/"><u>Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-storytelling-merging-narration-into-videos/"><u>Elevating Storytelling  Merging Narration Into Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playing-to-puzzle-dismantling-xbox-s-controllers/"><u>From Playing to Puzzle: Dismantling Xbox S Controllers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-by-drfone-android/"><u>How to Bypass FRP from Lava?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172625751-immerse-in-gaming-the-power-of-oled-technology/"><u>Immerse in Gaming: The Power of OLED Technology</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-se-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone SE How to Bypass?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>In 2024, No Fuss, Full Fun  Exploring iFunny's Meme Treasure</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-initiating-instagram-live-shows/"><u>In 2024, Step-by-Step  Initiating Instagram Live Shows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-2019-evolution-of-vegaspro/"><u>In 2024, The 2019 Evolution of VegasPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-eraser-guru-expert-tips-for-psx-users/"><u>In 2024, The Eraser Guru  Expert Tips for PSX Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-key-to-flawless-tiktok-profile-hyperlinking/"><u>In 2024, The Ultimate Key to Flawless TikTok Profile Hyperlinking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-timeline-enhancement-incor-written-by-assistant/"><u>In 2024, Timeline Enhancement  Incor Written by Assistant</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>In 2024, Top Ten Cyber Shops  Where Every Gift Tells a Story</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toppest-ios-video-capture-aids/"><u>In 2024, Toppest iOS Video Capture Aids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-tapes-the-essential-5-video-booster-apps/"><u>In 2024, Transformative Tapes  The Essential 5 Video Booster Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-full-potential-of-apods-downloads/"><u>In 2024, Unlocking the Full Potential of APods Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-fabric-of-augmented-realities/"><u>In 2024, Unraveling the Fabric of Augmented Realities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfecting-the-science-of-instagram-highlight-recovery-for-2024/"><u>Perfecting the Science of Instagram Highlight Recovery for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/terminating-your-linkedin-membership-an-essential-guide-for-2024/"><u>Terminating Your LinkedIn Membership  An Essential Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-merits-of-sns-hdr-vs-its-industry-contenders-for-2024/"><u>The Merits of SNS HDR Vs. Its Industry Contenders for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-unbreakable-approach-to-tiktok-bio-hyperlinks-for-2024/"><u>The Unbreakable Approach to TikTok Bio Hyperlinks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations-for-2024/"><u>Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-the-mystery-of-instagrams-most-trusted-6-techniques-for-building-a-fanbase/"><u>Unveiling the Mystery of Instagram's Most Trusted  6 Techniques for Building a Fanbase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-xstream-studios-a-complete-review-for-2024/"><u>Unveiling the Secrets of XStream Studios - A Complete Review for 2024</u></a></li>
+</ul></div>

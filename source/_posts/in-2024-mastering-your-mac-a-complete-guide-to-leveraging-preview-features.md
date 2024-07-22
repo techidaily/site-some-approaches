@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Your Mac  A Complete Guide to Leveraging Preview Features\""
-date: 2024-06-03T21:09:04.476Z
-updated: 2024-06-04T21:09:04.476Z
+date: 2024-07-20T22:09:19.710Z
+updated: 2024-07-21T22:09:19.710Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -36,6 +39,9 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -80,6 +86,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -124,6 +133,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -152,6 +164,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -200,6 +215,9 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -262,6 +280,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -310,6 +331,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -322,6 +346,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -354,6 +381,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -386,3 +416,51 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-strategies-for-memorable-youtube-closings/"><u>[New] 2024 Approved  Essential Strategies for Memorable YouTube Closings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-virtual-speaker-to-reel-showman-fb-live-recording-tactics-for-2024/"><u>[New] From Virtual Speaker to Reel Showman  FB Live Recording Tactics for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-your-ultimate-guide-to-unmissable-games/"><u>[New] In 2024, Your Ultimate Guide to Unmissable Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quicksnap-firefox-enhancements/"><u>[New] QuickSnap Firefox Enhancements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>[New] Streamlined Social Integration  Linktree and TikTok Profiles United</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>[New] Tailored Treasure Troves  The Ultimate List of Online Box Sellers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-superior-srt-documents/"><u>[New] The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essence-of-dji-inspire-2-distilled/"><u>[New] The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-professionals-guide-to-innovative-360-cams-2023/"><u>[New] The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-science-of-attractiveness-building-engaging-audio-introductions/"><u>[New] The Science of Attractiveness  Building Engaging Audio Introductions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-ranked-reddit-discussions-top-10-edition/"><u>[New] The Ultimate Ranked Reddit Discussions – Top 10 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>[New] Thrill Seekers Challenge  Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-ranked-android-song-curator/"><u>[New] Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-seamless-easy-to-use-web-tools-for-gif-to-video-transformation/"><u>[Updated] Seamless, Easy-to-Use Web Tools for GIF to Video Transformation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-superior-vector-file-polishing-for-2024/"><u>[Updated] Superior Vector File Polishing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-zoom-setup-ensuring-smooth-video-conferencing/"><u>[Updated] The Art of Zoom Setup  Ensuring Smooth Video Conferencing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-powerdirector-2024-guide/"><u>[Updated] The Complete PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-financial-lifeline-of-podcasting/"><u>[Updated] The Financial Lifeline of Podcasting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-self-validation-on-social-media-for-2024/"><u>[Updated] The Ultimate Guide to Self-Validation on Social Media for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tiktok-number-modification-easy-to-follow-steps/"><u>[Updated] TikTok Number Modification  Easy to Follow Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-trending-14-moving-text-design-illustrations/"><u>[Updated] Trending 14 Moving Text Design Illustrations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-phantom-the-slow-motion-essentials/"><u>[Updated] Unlocking Phantom  The Slow-Motion Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-voice-changing-methods-in-free-fire/"><u>[Updated] Voice Changing Methods in Free Fire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>2024 Approved  Tap Out of TikTok Clutter  Editing Guide for Massive Drafts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-correcting-motion-blur-from-drones/"><u>2024 Approved  Techniques for Correcting Motion Blur From Drones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-beat-drops-highlighting-this-years-best-music-vids/"><u>2024 Approved  The Beat Drops  Highlighting This Year's Best Music Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-combo-guide-zooming-into-facebook-streaming/"><u>2024 Approved  The Ultimate Combo Guide  Zooming Into Facebook Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-efficient-mobile-video-management/"><u>2024 Approved  The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-visual-data-vaults/"><u>2024 Approved  Top-Tier Visual Data Vaults</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-troubleshooting-stuttering-video-on-photo-booth-app/"><u>2024 Approved  Troubleshooting Stuttering Video on Photo Booth App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-psd-transparency-tricks/"><u>2024 Approved  Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-filmora-editing-inquiries/"><u>2024 Approved  Unraveling Filmora Editing Inquiries</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/adding-a-digital-clock-to-your-youtube-video-playback/"><u>Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-c55-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco C55? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-5-best-android-software-for-ps2-games/"><u>Discover the 5 Best Android Software for PS2 Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/from-screens-to-gifs-the-art-of-converting-vimeo-footage-for-2024/"><u>From Screens to Gifs  The Art of Converting Vimeo Footage for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-advanced-audio-editing-how-to-achieve-seamless-volume-automation-using-final-cut-pro-x-ducking-tools/"><u>In 2024, Advanced Audio Editing How to Achieve Seamless Volume Automation Using Final Cut Pro X Ducking Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-cut-mp4-videos-for-free-top-10-editor-recommendations/"><u>In 2024, Cut MP4 Videos for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme 12 Pro 5G FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-compilation-ringtone-renaissance-sites/"><u>In 2024, Ultimate Compilation  Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-latest-win11-applications-and-games/"><u>In 2024, Unleash the Potential  Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-f5-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco F5 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xr-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XR</u></a></li>
+</ul></div>

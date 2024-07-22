@@ -1,7 +1,7 @@
 ---
 title: "[New] The Method for Seamless Volume Dialing Down in Audacity"
-date: 2024-06-03T15:16:31.388Z
-updated: 2024-06-04T15:16:31.388Z
+date: 2024-07-20T18:33:04.425Z
+updated: 2024-07-21T18:33:04.425Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ You can easily apply professional fades to your audio files with Audacity fade o
 
 You may apply linear fades, a straightforward fade option, to any segment of your music. Alternatively, you might apply it to the full audio file. Linear fades come in two varieties. Fade-in and Fade-out are the two varieties. Any section of your audio that you apply a fade-in to will get muted and return to its original volume. Additionally, if you activate the fade-out feature in your audio, the audio will transition from its original volume to total quiet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### **Steps to Use Linear Fade in/out:**
 
 To divide a track into several parts so you may apply a fade to a specific audio segment, press Cmd + I (or Ctrl + I).
@@ -34,8 +37,14 @@ In this example, we divided the clip at the eight-second mark and used the Time 
 
 By selecting the audio segment, you wish to fade out and selecting Effect > Fade Out, you may add a fade-out to the initial clip.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![liner fade in audacity](https://images.wondershare.com/filmora/article-images/2022/07/liner-fade-in-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Studio Fade Out
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
@@ -46,15 +55,24 @@ Choose your audio segment, go to the Effect menu, slide to the bottom, and pick 
 
 ![studio fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/studio-fade-out-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Adjustable Fade
 
 A dialog box will show up on the screen when you choose the customizable fade option. You may customize the form and pattern of the fading using that dialog box. You may use this ability to make partial fades if you'd like. You must maintain the tracks stacked one on top of the other with the lower track underneath the higher track and its end overlapping when employing this form of fade.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Steps to Use Adjustable Fade:**
 
 * Select Effect from the menu.
 * Select the variable fading option.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
 ## Part 4\. Crossfades Audacity
@@ -67,6 +85,9 @@ Using the Time Shift Tool, place your two clips adjacent to one another in order
 
 Select the area to be crossfaded using the Selection tool, and then click Effect > Crossfade Clips to combine the sounds you've chosen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
@@ -95,6 +116,9 @@ By choosing the Video Editor option from the software's home screen, you may now
 
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 ##### Step4 Fade-in/fade-out audio
@@ -139,3 +163,46 @@ You may access a variety of tools and services on the platform known as Audacity
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-backward-glance-decoding-youtube-video-reversals/"><u>[New] 2024 Approved  Backward Glance  Decoding YouTube Video Reversals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-5-best-snipping-tool-for-chromebook/"><u>[New] 5 Best Snipping Tool For Chromebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators-for-2024/"><u>[New] Foster Viewer Connection  Easy Anime Subscribe Buttons for YouTube Creators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-15-youtube-originals-premium-unboxing-sessions/"><u>[New] Top 15 YouTube Originals  Premium Unboxing Sessions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-16-youtube-beginnings-for-higher-engagement/"><u>[New] Top 16 YouTube Beginnings for Higher Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-open-source-video-tools-for-every-desktop-environment/"><u>[New] Top Open Source Video Tools for Every Desktop Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-funny-editing-tool/"><u>[New] Top-Tier Funny Editing Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unboxing-the-market-strategic-essentials/"><u>[New] Unboxing the Market  Strategic Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-humor-with-excellent-zero-cost-memes/"><u>[New] Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-10-cost-free-passport-image-makers/"><u>[Updated] The Ultimate Guide  10 Cost-Free Passport Image Makers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>[Updated] Underwater Cinematography  Avoiding Blur and Grain with a GoPro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-your-gopro-potential-must-have-additions/"><u>[Updated] Unleashing Your GoPro Potential - Must-Have Additions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-video-enhancements-changing-numbers-on-tiktok/"><u>[Updated] Unlock Video Enhancements  Changing Numbers on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-virtual-realitys-interactive-gear/"><u>[Updated] Unraveling Virtual Reality's Interactive Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-world-in-a-whole-view-video-edition/"><u>[Updated] Unveiling the World in a Whole View  Video Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>2024 Approved  A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>2024 Approved  Perfecting the Art of Zooming  Expert Strategies for Snapchat Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>2024 Approved  Streaming Software Showdown  The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters/"><u>2024 Approved  Streamline Stress  Effective Edits for Lifeless, Bigger TikTok Drafters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-video-editing-using-luts-with-obs-studio/"><u>2024 Approved  Streamlining Video Editing  Using LUTs with OBS Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-to-reduce-nausea-while-in-vr/"><u>2024 Approved  Techniques to Reduce Nausea While In VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>2024 Approved  The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-traffic-lure-top-artisan/"><u>2024 Approved  Traffic Lure Top Artisan</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-s17t-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo S17t Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/giggle-galore-twitters-top-10-joke-threads/"><u>Giggle Galore  Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-13-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 13 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-7-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Smart 7 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-5-different-animation-styles-a-simple-but-comprehensive-guide/"><u>In 2024, 5 Different Animation Styles A Simple but Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-guide-incorporating-youtube-videos-in-google-slides/"><u>In 2024, Guide  Incorporating YouTube Videos in Google Slides</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-multi-tasking-pip-settings-in-safari/"><u>In 2024, Streamline Your Multi-Tasking  PIP Settings in Safari</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-x7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find X7 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-approach-to-uncovering-favorite-youtube-remarks-for-2024/"><u>Step-by-Step Approach to Uncovering Favorite YouTube Remarks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-shutter-speed-iphone-tricks-for-blur-magic-for-2024/"><u>Swift Shutter Speed  IPhone Tricks for Blur Magic for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-professional-gopro-filming-for-2024/"><u>The Art of Professional GoPro Filming for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-online-free-video-editing-hacks-for-2024/"><u>Top Online Free Video Editing Hacks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram-for-2024/"><u>Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo A78 | Dr.fone</u></a></li>
+</ul></div>

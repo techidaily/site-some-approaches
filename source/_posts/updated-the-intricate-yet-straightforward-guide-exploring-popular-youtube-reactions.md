@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Intricate Yet Straightforward Guide  Exploring Popular YouTube Reactions\""
-date: 2024-06-03T23:06:49.691Z
-updated: 2024-06-04T23:06:49.691Z
+date: 2024-07-20T23:21:08.091Z
+updated: 2024-07-21T23:21:08.091Z
 tags: 
   - screen-recording
   - ai video
@@ -81,10 +81,16 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -99,6 +105,9 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -111,10 +120,16 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +162,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +203,41 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-expertly-picked-top-10-windows-11-cam-recorders/"><u>[New] In 2024, Expertly Picked Top 10 Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-shooting-canons-time-lapse-techniques/"><u>[New] Streamline Your Shooting  Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-subrip-file-creation-from-compressed-archives/"><u>[New] SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[Updated] The Clear-Out  Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-quest-achieving-immaculate-upconversion-from-sdr-to-hdri/"><u>[Updated] The Ultimate Quest  Achieving Immaculate Upconversion From SDR to HDRI</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-criteria-when-expanding-your-4k-setup/"><u>[Updated] Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>[Updated] Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unmasked-story-watching-a-guide-to-anonymous-instagram-stories-accessibility-pcandroidios/"><u>[Updated] Unmasked Story Watching  A Guide to Anonymous Instagram Stories Accessibility [PC/Android/iOS]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-key-concepts-in-quantum-hdr-mastery/"><u>2024 Approved  Key Concepts in Quantum HDR Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-launch-your-fortune-on-periscope-live-chats/"><u>2024 Approved  Launch Your Fortune on Periscope Live Chats</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-the-art-of-content-on-tiktok-boosting-popularity-and-engagement/"><u>2024 Approved  Mastering the Art of Content on TikTok  Boosting Popularity & Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-laughter-no-10-memes-ranked-by-fun/"><u>2024 Approved  The Art of Laughter  No. 10 Memes Ranked by Fun</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-beginners-guide-to-luts-and-downloading-tools/"><u>2024 Approved  The Beginner's Guide to LUTs and Downloading Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>2024 Approved  The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-srt-to-video-top-10-free-subtitle-tools/"><u>2024 Approved  Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-power-of-engaging-headline-crafting/"><u>2024 Approved  Unleash the Power of Engaging Headline Crafting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-apple-m1-a-computing-revolution/"><u>2024 Approved  Unveiling the Apple M1  A Computing Revolution?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-cloud-animators-handbook-stop-motion-software-features-guidelines-and-alternatives-explored/"><u>2024 Approved The Cloud Animators Handbook Stop Motion Software Features, Guidelines, and Alternatives Explored</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/comparative-study-tiktok-and-trillers-social-media-strategies-max-156-chars-for-2024/"><u>Comparative Study  TikTok & Triller's Social Media Strategies (Max 156 Chars) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cultivating-a-community-through-consistent-quality-livestreams/"><u>Cultivating a Community Through Consistent, Quality Livestreams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-testimonials-for-genuine-brand-connection-for-2024/"><u>Harnessing Testimonials for Genuine Brand Connection for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-motorola-moto-g-stylus-5g-2023-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Motorola Moto G Stylus 5G (2023) Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-soundtracks-the-art-of-editing-in-garageband/"><u>In 2024, Tailoring Soundtracks  The Art of Editing in GarageBand</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>In 2024, Tech Trends Unveiled  Excellence in VR Treadmills</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-new-age-of-memes-how-to-stand-out-in-the-metaverse/"><u>In 2024, The New Age of Memes  How to Stand Out in the Metaverse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-professional-gopro-video-making/"><u>In 2024, The Ultimate Guide to Professional GoPro Video Making</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-choice-for-engaging-type-animations/"><u>In 2024, Ultimate Choice for Engaging Type Animations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-venturing-into-vector-world-starting-point-and-top-tools/"><u>In 2024, Venturing Into Vector World  Starting Point and Top Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-take-your-videos-to-the-next-level-fcpx-stabilization-secrets/"><u>New In 2024, Take Your Videos to the Next Level FCPX Stabilization Secrets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stabilizing-windows-card-drivers-no-more-mc-hangs/"><u>Stabilizing Windows Card Drivers, No More MC Hangs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/start-chatting-in-real-time-learn-live-on-instagram/"><u>Start Chatting in Real-Time  Learn Live on Instagram</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-11-no-cost-audio-transformation-apps-for-ios-devices/"><u>Top 11 No-Cost Audio Transformation Apps for iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y17s-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y17s Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Most Popular Stock Photo Meme and Their Stories\""
-date: 2024-06-03T16:22:41.990Z
-updated: 2024-06-04T16:22:41.990Z
+date: 2024-07-20T19:13:49.674Z
+updated: 2024-07-21T19:13:49.674Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -31,6 +34,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -47,6 +53,9 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -64,6 +73,9 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
@@ -90,12 +102,18 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +131,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -121,10 +142,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -160,3 +187,55 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>[New] How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[New] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-color-correction-with-premiere-pro-luts/"><u>[New] Streamlining Color Correction with Premiere Pro LUTs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-techniques-for-fast-vimeo-videos-for-2024/"><u>[New] Techniques for Fast Vimeo Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-stronger-video-content-with-b-clips/"><u>[New] Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-image-hunting-on-pexelscom/"><u>[New] The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artisans-approach-integrating-typefaces-in-ae/"><u>[New] The Artisan's Approach  Integrating Typefaces in AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artistry-of-image-editing-understanding-luts-role/"><u>[New] The Artistry of Image Editing  Understanding LUTs' Role</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>[New] The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-videography-items-for-travelers/"><u>[New] Top Videography Items for Travelers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>[New] Transform Viewership  Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac/"><u>[New] Unlock Your Creative Potential with the Premier Free Software Lineup on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-fast-fixes-for-lost-reddit-content/"><u>[New] Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-maximizing-inner-illumination-with-natures-glow/"><u>[Updated] Maximizing Inner Illumination with Nature's Glow</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-transcoding-xml-and-ttml-into-professional-srt/"><u>[Updated] Streamlined Transcoding  XML & TTML Into Professional SRT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>[Updated] Swift Skillz  Best High-Speed Games for Laptops/Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tales-of-timeless-togetherness-this-seasons-top-10/"><u>[Updated] Tales of Timeless Togetherness  This Season's Top 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-font-customization-in-ae/"><u>[Updated] The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-iphone-photography-playbook/"><u>[Updated] The Ultimate iPhone Photography Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-cinema-teasers-compilation/"><u>[Updated] Top Cinema Teasers Compilation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-budget-friendly-gopro-adds/"><u>[Updated] Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-success-in-live-streaming-of-cricket-matches/"><u>[Updated] Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-top-5-ios-apps-revolutionizing-podcasts/"><u>[Updated] Unveiling the Top 5 iOS Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-7plus-top-ranked-free-emoji-sites-for-your-discord-experience/"><u>2024 Approved  7+ Top-Ranked Free Emoji Sites for Your Discord Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-swiftvideo-pro-accelerate-your-android-content/"><u>2024 Approved  SwiftVideo Pro  Accelerate Your Android Content</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-mastering-canon-footage-a-step-by-step-video-editing-guide/"><u>2024 Approved Mastering Canon Footage A Step-by-Step Video Editing Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beginners-guide-to-choosing-lenses-and-cameras-for-youtube-vloggers/"><u>Beginner's Guide to Choosing Lenses and Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/cropping-videos-in-vlc-step-by-step-for-2024/"><u>Cropping Videos in VLC Step by Step for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-dynamics-of-fb-video-speeds/"><u>In 2024, Exploring the Dynamics of FB Video Speeds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y100-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y100 Phone that is Locked?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-poco-f5-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Poco F5 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-10-key-steps-for-optimal-stream-service-picks/"><u>In 2024, The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-converting-gifs-how-to-create-cool-stickers-in-discord-and-whatsapp/"><u>In 2024, The Art of Converting GIFs  How to Create Cool Stickers in Discord & WhatsApp</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-top-25-mobile-editors-for-dji-filmmaking/"><u>In 2024, The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-f5-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco F5 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toolwiz-in-pictures-complete-review-unveiled/"><u>In 2024, Toolwiz in Pictures  Complete Review Unveiled</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interpreting-comfailure-in-windows-environments/"><u>Interpreting COMFailure in Windows Environments</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-yt-techniques-for-fading-out-unwanted-backgrounds-for-2024/"><u>Mastering YT  Techniques for Fading Out Unwanted Backgrounds for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/podcast-basics-crafting-your-first-rss-feed-for-2024/"><u>Podcast Basics  Crafting Your First RSS Feed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-conversion-software-top-4k-downloads-for-youtubers-for-2024/"><u>Supreme Conversion Software  Top 4K Downloads for YouTubers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synergistic-campaigns-brands-and-youtube-hand-in-hand-for-2024/"><u>Synergistic Campaigns  Brands & YouTube Hand in Hand for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-straightening-aerial-video-stability-for-2024/"><u>Techniques for Straightening Aerial Video Stability for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-iphone-photography-shadow-techniques/"><u>The Art of iPhone Photography  Shadow Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-metaverse-versus-multi-meva-unraveling-their-differences-for-2024/"><u>The Metaverse Versus Multi-Meva  Unraveling Their Differences for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pantheon-of-popularity-reddits-top-10-posts-for-2024/"><u>The Pantheon of Popularity  Reddit's Top 10 Posts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review-for-2024/"><u>The Ultimate Breakdown  Decoding Comprehensiveness of XVideo Hub Review for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmatched-video-upload-aides-to-twitter-for-2024/"><u>Unmatched Video Upload Aides to Twitter for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-methods-to-exclude-sound-from-multimedia-files-for-2024/"><u>Updated Methods to Exclude Sound From Multimedia Files for 2024</u></a></li>
+</ul></div>

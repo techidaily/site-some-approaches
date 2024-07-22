@@ -1,7 +1,7 @@
 ---
 title: "[New] Tailoring Audio Diminution Process"
-date: 2024-06-03T18:34:24.216Z
-updated: 2024-06-04T18:34:24.216Z
+date: 2024-07-20T20:34:21.141Z
+updated: 2024-07-21T20:34:21.141Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ It can create new sounds through drum machines as a result you can show your cre
 
 Step1 The first and foremost task to do is the successful installation of FL Studio. Getting the latest version of this will be useful for you as it has a lot of new features.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
@@ -42,6 +46,14 @@ After selecting that, there will be an addition of a new automation clip to the 
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Part 2\. FL Studio Alternative to Fade Audio
 
 If you have the latest version of FL i.e., FL Studio 20, then it will allow you for multiple recordings. For this, you just have to build a looped region and then tap on ‘Record’. Now it will create new tracks of its own when it reaches the end region of the loop.
@@ -54,10 +66,16 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
@@ -70,10 +88,16 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -102,3 +126,46 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-resolve-deceptive-user-appearance-within-chat-environments/"><u>[New] Resolve Deceptive User Appearance Within Chat Environments</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-leveraging-imovie-features-to-upgrade-your-youtube-content-quality/"><u>[Updated] 2024 Approved  Leveraging iMovie Features to Upgrade Your YouTube Content Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insights-into-whatsapps-voice-chatting-capabilities/"><u>[Updated] Insights Into WhatsApp's Voice Chatting Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mac-graphics-revolution-top-10-freeware-drawings/"><u>[Updated] Mac Graphics Revolution  Top 10 Freeware Drawings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-the-process-for-free-pictured-frame-files/"><u>[Updated] Streamlining the Process for Free Pictured Frame Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-supreme-cyber-seminar-sorter/"><u>[Updated] Supreme Cyber Seminar Sorter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>[Updated] The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[Updated] Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-the-5-most-excellent-slow-motion-cams/"><u>[Updated] Ultimate List  The 5 Most Excellent Slow-Motion Cams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>[Updated] Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-audio-processing-at-zero-cost/"><u>[Updated] Unlimited Audio Processing at Zero Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-cheapest-deals-on-top-tier-gopros/"><u>2024 Approved  Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-teaching-through-media-efficient-classroom-editing/"><u>2024 Approved  Teaching Through Media  Efficient Classroom Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>2024 Approved  Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncharted-territories-virtual-realitys-role-in-leisure/"><u>2024 Approved  Uncharted Territories  Virtual Reality's Role in Leisure</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-quick-filming-techniques-your-5-best-home-hacks-list/"><u>2024 Approved  Unlock Quick Filming Techniques – Your 5 Best Home Hacks List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-metaverse-an-analysis-of-6-complex-instances/"><u>2024 Approved  Unraveling the Metaverse  An Analysis of 6 Complex Instances</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-major-modifications-in-windows-movie-maker/"><u>2024 Approved  Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-venturing-into-video-production-top-5-mac-videographers/"><u>2024 Approved  Venturing Into Video Production? Top 5 Mac Videographers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-g42-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia G42 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-defy-2-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Defy 2? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-k70-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi K70 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>In 2024, Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-image-assembling-a-facebook-collage-primer/"><u>In 2024, Instantaneous Image Assembling  A Facebook Collage Primer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-through-8-prime-free-srt-translation-options/"><u>In 2024, Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-podcast-perfection-best-timing-strategy/"><u>In 2024, Podcast Perfection  Best Timing Strategy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>In 2024, The Editor’s Almanac  Key Takeaways From Filmora Editioning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-elite-collection-top-10-sites-for-professional-icons/"><u>In 2024, The Elite Collection  Top 10 Sites for Professional Icons</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-turn-up-the-volume-enabling-sound-on-tweeted-videos/"><u>In 2024, Turn Up the Volume  Enabling Sound on Tweeted Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a14-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A14 5G FRP Without Computer</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-an-url-for-your-video-in-2024/"><u>New How to Create an URL for Your Video, In 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-slow-and-steady-wins-the-race-top-10-video-editing-software/"><u>New Slow and Steady Wins the Race Top 10 Video Editing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-strategies-for-adjusting-song-speed-on-spotify-for-2024/"><u>Top Strategies for Adjusting Song Speed on Spotify for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-ideas-into-reality-best-6-nft-services-explored-for-2024/"><u>Transforming Ideas Into Reality  Best 6 NFT Services Explored for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-echo-identifiers-best-android-applications-for-locating-and-listening-to-popular-music-genres/"><u>Updated 2024 Approved Echo Identifiers Best Android Applications for Locating and Listening to Popular Music Genres</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-10-most-popular-video-aspect-ratio-editors/"><u>Updated 2024 Approved The 10 Most Popular Video Aspect Ratio Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>Updated In 2024, Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
+</ul></div>

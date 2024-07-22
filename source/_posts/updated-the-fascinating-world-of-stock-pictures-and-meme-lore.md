@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Fascinating World of Stock Pictures & Meme Lore"
-date: 2024-06-03T17:28:19.652Z
-updated: 2024-06-04T17:28:19.652Z
+date: 2024-07-20T19:54:12.010Z
+updated: 2024-07-21T19:54:12.010Z
 tags: 
   - screen-recording
   - ai video
@@ -22,8 +22,14 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -39,10 +45,21 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -51,6 +68,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -90,10 +110,16 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -121,10 +147,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -160,3 +192,44 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-cultivating-a-thriving-business-model-with-snapchat-insights-for-2024/"><u>[New] Cultivating a Thriving Business Model with Snapchat Insights for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-youtube-content-publishing-to-boost-view-counts/"><u>[New] Strategic YouTube Content Publishing to Boost View Counts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streaming-to-the-next-level-the-top-5-game-cameras-reviewed/"><u>[Updated] In 2024, Streaming to the Next Level  The Top 5 Game Cameras Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-viral-visionaries-most-watched-clips-2023/"><u>[Updated] In 2024, Viral Visionaries  Most Watched Clips 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>[Updated] Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-lexicon-of-persuasion-in-business-communication/"><u>[Updated] The Lexicon of Persuasion in Business Communication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>[Updated] Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-toontales-detailed-breakdown-and-guidebook-2024/"><u>[Updated] ToonTales Detailed Breakdown & Guidebook 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[Updated] Top 5 Effortlessly Converted  GIF to Professional Videos Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[Updated] Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>[Updated] Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-livestream-potential-no-millions-of-followers-needed/"><u>[Updated] Unleash Your Livestream Potential  No Millions of Followers Needed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-av1-codec-mastery/"><u>[Updated] Unveiling the Secrets of AV1 Codec Mastery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-a-closer-look-at-non-tiktok-apps-leading-the-next-wave/"><u>2024 Approved  A Closer Look at Non-TikTok Apps Leading the Next Wave</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-the-course-to-trending-youtubers/"><u>2024 Approved  Charting the Course to Trending YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-stop-automatically-added-podcast-episodes-via-spotifys-suggestions/"><u>2024 Approved  Stop Automatically Added Podcast Episodes via Spotify's Suggestions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-plot-strategies-across-diverse-cinematic-fields/"><u>2024 Approved  Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer/"><u>2024 Approved  The Alchemy of Aesthetics  Top 1 Written by an Experienced Graphic Designer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>2024 Approved  The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>2024 Approved  The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-meta-and-omni-versions/"><u>2024 Approved  The Ultimate Guide to Meta & Omni Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-zero-cost-pubg-visual-anthologies/"><u>2024 Approved  Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-premier-sound-storylines/"><u>2024 Approved  Top Premier Sound Storylines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-notch-meme-editing-suite/"><u>2024 Approved  Top-Notch Meme Editing Suite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>2024 Approved  Transform Voice with Cloud Services  Top 5 Online Chromebook Audio Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-complimentary-premiere-pro-toolset/"><u>2024 Approved  Unleash Creativity - Complimentary Premiere Pro Toolset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-full-capabilities-of-zoom-on-windows-10-pcs/"><u>2024 Approved  Unlocking The Full Capabilities of Zoom on Windows 10 PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-m6-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco M6 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-spark-20-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>Evolving Videography  Redefining Social Sharing with Periscope Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/free-cameras-for-flawless-live-broadcasting-for-2024/"><u>Free Cameras for Flawless Live Broadcasting for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes-for-2024/"><u>From Ordinary to Extraordinary  The Roadmap to Likes on TikTok Unboxes for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-15-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 15 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-refining-published-videos-on-youtube/"><u>The Art of Refining Published Videos on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unleashing-full-hd-clarity-on-every-tweet-scroll/"><u>Unleashing Full HD Clarity on Every Tweet Scroll</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-commanding-attention-techniques-for-higher-pitched-voice-in-digital-storytelling/"><u>Updated 2024 Approved Commanding Attention Techniques for Higher Pitched Voice in Digital Storytelling</u></a></li>
+</ul></div>

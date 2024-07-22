@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Secrets to Discreetly Fading Out Sounds Using Audacity"
-date: 2024-06-03T20:20:08.055Z
-updated: 2024-06-04T20:20:08.055Z
+date: 2024-07-20T21:39:02.924Z
+updated: 2024-07-21T21:39:02.924Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Free, open-source freeware for Windows and Mac, Audacity, is a powerful toolkit 
 
 You can easily apply professional fades to your audio files with Audacity fade out effect. The audio in the chosen portion will progressively get quieter when the fade out effect is applied, ending in stillness. The fade out tool is nearly totally automated, making it simple and understandable for both novices and experts. Along with the other several tools under Audacity's Effects menu, the fade out tool may be found there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Linear Fade in/out
 
 You may apply linear fades, a straightforward fade option, to any segment of your music. Alternatively, you might apply it to the full audio file. Linear fades come in two varieties. Fade-in and Fade-out are the two varieties. Any section of your audio that you apply a fade-in to will get muted and return to its original volume. Additionally, if you activate the fade-out feature in your audio, the audio will transition from its original volume to total quiet.
@@ -40,12 +43,30 @@ By selecting the audio segment, you wish to fade out and selecting Effect > Fade
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![studio fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/studio-fade-out-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Adjustable Fade
 
 A dialog box will show up on the screen when you choose the customizable fade option. You may customize the form and pattern of the fading using that dialog box. You may use this ability to make partial fades if you'd like. You must maintain the tracks stacked one on top of the other with the lower track underneath the higher track and its end overlapping when employing this form of fade.
@@ -55,8 +76,14 @@ A dialog box will show up on the screen when you choose the customizable fade op
 * Select Effect from the menu.
 * Select the variable fading option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Crossfades Audacity
 
 There are two choices available when using this effect. You have two options: either manually make a crossfade of your own, or utilize one of the pre-existing crossfades in Audacity. In Audacity, there are two crossfades that are accessible. Crossfade clips and Crossfade tracks are what they are. Crossfade clips make it easier to switch between two distinct clips. Additionally, crossfade tracks aid in crossfading between two audio tracks and are more exact.
@@ -67,10 +94,21 @@ Using the Time Shift Tool, place your two clips adjacent to one another in order
 
 Select the area to be crossfaded using the Selection tool, and then click Effect > Crossfade Clips to combine the sounds you've chosen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 5\. Alternative Way to Fade Audio
 
 Even though it's still thought of as difficult, time-consuming work, audio editing is really pretty easy with the correct program or tool. The quality of audio tracks in a video is often disregarded by amateur video producers. In addition to having advanced features like 4K editing support, GIF support, noise removal, color tuning, an advanced text editor, an audio mixer, video stabilization, scene detection, and an audio equalizer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is fairly simple to use and allows for extensive customization of pre-existing templates.
@@ -139,3 +177,48 @@ You may access a variety of tools and services on the platform known as Audacity
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-nuclear-dawn-update-issue-xbox-launch-failure/"><u>[FIXED] Nuclear Dawn Update Issue - Xbox Launch Failure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cinematic-capture-a-device-friendly-movie-guidebook/"><u>[Updated] In 2024, Cinematic Capture  A Device-Friendly Movie Guidebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unlock-professional-filmmaking-skills-within-xp/"><u>[Updated] In 2024, Unlock Professional Filmmaking Skills Within XP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-revolutionary-srt-adjustments-unleash-potential-on-both-oses/"><u>[Updated] Revolutionary SRT Adjustments  Unleash Potential on Both OSes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-aerial-cinematography-drone-editing-insights/"><u>[Updated] The Art of Aerial Cinematography  Drone Editing Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-blueprint-achieving-3d-text-mastery/"><u>[Updated] The Artisan's Blueprint  Achieving 3D Text Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-marketers-edge-essential-tools-to-upgrade-instagram-videos/"><u>[Updated] The Marketer's Edge  Essential Tools to Upgrade Instagram Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[Updated] Ultimate Conversion Manual  From SRT to Various Formats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-free-premiere-pro-2023-templates/"><u>[Updated] Unleash Creativity  Free Premiere Pro 2023 Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>[Updated] Unlock Vivid Visuals  Windows HD+ Guide to HDR Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-quick-glitch-fix-for-podcast-broadcasts/"><u>2024 Approved  The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-shift-from-rgb-to-srgb-in-digital-imaging/"><u>2024 Approved  The Shift From Rgb to Srgb in Digital Imaging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-tech-choices-prepping-for-the-metaverse-frontier/"><u>2024 Approved  Top 7 Tech Choices  Prepping for the Metaverse Frontier</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ae-plug-ins-enhance-your-visual-storytelling/"><u>2024 Approved  Top AE Plug-Ins  Enhance Your Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-church-streaming-services-for-the-digital-age/"><u>2024 Approved  Top Church Streaming Services for the Digital Age</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hue-harmonizer-tool/"><u>2024 Approved  Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>2024 Approved  Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>Becoming an Instagram Video Conversation Guru  Your Ultimate Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-15-things-to-do-while-listening-to-podcasts/"><u>In 2024, 15 Things to Do While Listening to Podcasts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>In 2024, Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios/"><u>In 2024, Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlined-steps-to-watching-vr-on-your-ios-device/"><u>In 2024, Streamlined Steps to Watching VR on Your IOS Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-post-production-workflows-for-your-windows-10-setup/"><u>In 2024, Streamlining Post-Production Workflows for Your Windows 10 Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-smartest-podcast-renaming-options-through-ai-technology/"><u>In 2024, The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-alternative-to-samsungs-360-vr-camera/"><u>In 2024, Top Alternative to Samsung’s 360 VR Camera</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-potential-a-step-by-step-solo-podcast-creation/"><u>In 2024, Unleash Potential  A Step-By-Step Solo Podcast Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unseen-video-on-sony-a6400-whats-going-wrong/"><u>In 2024, Unseen Video on Sony A6400  What's Going Wrong?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-free-music-production-software-top-picks-for-windowsmac-users/"><u>New 2024 Approved Free Music Production Software Top Picks for Windows/Mac Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-downloading-soundcloud-songs-as-mp3-files/"><u>New 2024 Approved The Ultimate Guide to Downloading Soundcloud Songs as MP3 Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/portable-balance-enhancer-for-shooting-blurs/"><u>Portable Balance Enhancer for Shooting Blurs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-honor-play-40c-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Honor Play 40C</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-in-motion-learning-to-record-perfect-screens-on-macos-for-2024/"><u>Precision in Motion  Learning to Record Perfect Screens on macOS for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-enhancing-old-photos-and-videos-with-ig-effects/"><u>Step-by-Step Guide to Enhancing Old Photos and Videos with IG Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-better-videos-a-22-enhancer-users-manual-for-2024/"><u>Unlock Better Videos  A 2.2 Enhancer User's Manual for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-srt-editing-for-mac-users-for-2024/"><u>Unlocking the Power of SRT Editing for Mac Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-voice-notes-masterclass-for-2024/"><u>Unlocking the Power of Voice Notes Masterclass for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-top-quality-hdr-camera-brands-and-models-for-2024/"><u>Unveiling Top-Quality HDR Camera Brands and Models for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrading-made-easy-your-guide-to-smooth-tech-transitions-for-2024/"><u>Upgrading Made Easy  Your Guide to Smooth Tech Transitions for 2024</u></a></li>
+</ul></div>

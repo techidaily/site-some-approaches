@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unrivaled Narratives Crafted in Eight Film Fields"
-date: 2024-06-03T22:05:56.917Z
-updated: 2024-06-04T22:05:56.917Z
+date: 2024-07-20T22:44:07.826Z
+updated: 2024-07-21T22:44:07.826Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ _Be it a blockbuster movie, an indie gem, a play on The Fringe, or the West End 
 
 * [Make your own short movie now](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Why did we pick these films?
 
 When you look at the top-grossing movies at the box office, it's no surprise that they primarily consist of superhero movies made by big studios with big budgets. Black Widow is the[top-grossing film of 2022](https://www.boxofficemojo.com/chart/top%5Flifetime%5Fgross/?area=XWW) so far, with Shang-Chi and The Legend of the Ten Rings a close second. In third place is F9: The Fast Saga, the ninth installment in the overwhelmingly popular Fast and Furious franchise.
@@ -43,6 +46,13 @@ As aspiring screenwriters, it is important for us to focus on markets where we c
 
 ## Part 2\. Scripts examples from 8 genre
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Best horror scripts
 
 **_1\. Annabelle_**
@@ -73,6 +83,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -85,6 +98,10 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 **_2\. The Edge of Seventeen_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
 **Writer:** Kelly Fremon Craig
@@ -109,6 +126,9 @@ When Scrooge's nephew Fred returns the letters Scrooge once wrote to his sister 
 
 _**2\. Angel's Poinsettia**_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
 **Writer:** Sally Painter
@@ -117,6 +137,9 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
@@ -143,6 +166,9 @@ A short video (usually animated) that explains ideas, products, or services in a
 
 This template begins with a scene where a character is struggling with the same problem your audience is facing. Once you've established a connection, you present the solution, show how it works and the results it delivers, and wrap it up with a call to action.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best short drama scripts
 
 _**1\. A GIFT – TEN MINUTE PLAY FOR TWO ACTORS**_
@@ -183,6 +209,10 @@ Set: _A Park. Daytime in the present. It is a bucolic atmosphere in the middle o
 
 Level of difficulty: _6/10 – conversational, easy lines to remember and that also flow easily_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
@@ -193,6 +223,9 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -203,6 +236,9 @@ This screenplay explores the relationship between two criminals – Denzel Washi
 
 _**2\. Casino Royale**_
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![casino royale](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-12.jpg)
 
 **Writers:** Robert Wade and Paul Haggis
@@ -243,6 +279,18 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -255,6 +303,9 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
@@ -265,6 +316,10 @@ Like any child of the 90s, I admit to having a soft spot for The Lion King. The 
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that enables users to create amazing videos efficiently using a wide range of powerful editing tools. It gives filters, animated elements, and other video effects. The filters and overlays allow transforming of video with a variety of filters and graphic overlays.
@@ -312,3 +367,44 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-exploring-charms-galore-uncover-top-7-tiktok-emojis-and-their-covert-counterparts/"><u>[New] 2024 Approved  Exploring Charms Galore – Uncover Top 7 TikTok Emojis & Their Covert Counterparts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-evaluation-the-leading-gopro-cases-1-10/"><u>[New] Comprehensive Evaluation  The Leading GoPro Cases #1-10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-zd-soft-screen-recorder-key-features-and-review/"><u>[Updated] 2024 Approved  ZD Soft Screen Recorder  Key Features and Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leveraging-filmora-insights-for-every-content-creator/"><u>[Updated] In 2024, Leveraging Filmora  Insights for Every Content Creator</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-complete-user-manual-how-to-use-screen-recording-on-mac/"><u>[Updated] In 2024, The Complete User Manual  How To Use Screen Recording on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailored-brand-symbols-turn-basic-templates-into-logos/"><u>[Updated] Tailored Brand Symbols  Turn Basic Templates Into Logos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essence-of-ffmpeg-original-audio-capture/"><u>[Updated] The Essence of FFmpeg  Original Audio Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-evolution-continues-iphone-xs-photographic-advancements/"><u>[Updated] The Evolution Continues  IPhone X's Photographic Advancements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-steadicams-to-elevate-your-dslr-filming-capabilities/"><u>[Updated] Top Steadicams to Elevate Your DSLR Filming Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-industries-with-virtual-reality-applications/"><u>[Updated] Transforming Industries with Virtual Reality Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultra-creations-synopsis-studio-25-detailed-analysis-2023/"><u>[Updated] Ultra Creations Synopsis  Studio 25 Detailed Analysis, 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-universalstream-2024-live-and-local-together/"><u>[Updated] UniversalStream 2024  Live & Local, Together</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>[Updated] Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>[Updated] Unlocking Smooth Ocean Footage  Proven Film-Maker's Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[Updated] Unseen Battles  Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-metaverse-displays-the-ultimate-8-picks/"><u>2024 Approved  Optimal Metaverse Displays  The Ultimate 8 Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>2024 Approved  Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-straightening-correcting-fisheye-in-gopro-footage/"><u>2024 Approved  The Art of Straightening  Correcting Fisheye in GoPro Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artists-roadmap-to-professional-growth/"><u>2024 Approved  The Artist's Roadmap to Professional Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-core-ideas-behind-mixed-reality/"><u>2024 Approved  The Core Ideas Behind Mixed Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-definitive-guide-for-quick-srt-to-txt-con/"><u>2024 Approved  The Definitive Guide for Quick SRT to TXT Con</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-blueprint-to-utilizing-google-docs-voice-recognition/"><u>2024 Approved  The Essential Blueprint to Utilizing Google Docs Voice Recognition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-in-flight-hubsan-h501s-hovering-highlights/"><u>2024 Approved  The Future in Flight  Hubsan H501S Hovering Highlights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-virtual-reality-controller-guide/"><u>2024 Approved  Ultimate Virtual Reality Controller Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>2024 Approved  Unlock Potential While Unwinding  Top Tasks for Podcast Lovers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/easily-record-lenovo-laptop-screen-activity/"><u>Easily Record Lenovo Laptop Screen Activity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/engaging-youtube-viewers-effective-interaction-strategies-for-2024/"><u>Engaging YouTube Viewers  Effective Interaction Strategies for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/home-movie-magic-creating-professional-looking-dvds-with-ease-for-2024/"><u>Home Movie Magic Creating Professional-Looking DVDs with Ease for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 15 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a54-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A54 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-lava-yuva-2-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Lava Yuva 2 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneers-panoramas-open-for-all/"><u>Pioneer's Panoramas  Open for All</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/refined-audio-enhancers-for-online-video-and-podcasting-endeavors/"><u>Refined Audio Enhancers for Online Video and Podcasting Endeavors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715701201999-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-7-online-auto-subtitle-translators-for-content-creators/"><u>Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+</ul></div>

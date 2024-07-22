@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Tier Reddit Discussions - A List of the Ten Greatest\""
-date: 2024-06-03T16:56:10.545Z
-updated: 2024-06-04T16:56:10.545Z
+date: 2024-07-20T19:34:00.102Z
+updated: 2024-07-21T19:34:00.102Z
 tags: 
   - screen-recording
   - ai video
@@ -41,20 +41,32 @@ Here they are!
 
 ## 10 Most Upvoted Reddit Posts of All Time
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. [The Senate (/r/movies)](https://www.reddit.com/r/movies/comments/62sjuh/the%5Fsenate%5Fupvote%5Fthis%5Fso%5Fthat%5Fpeople%5Fsee%5Fit%5Fwhen/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
 
 When writing the article (Nov., 2022), this Reddit post features over 400k votes. 97% of those users Upvoted. This percentage made it the most upvoted Reddit post until another overtook it.
 
 (r/wallstreetbets)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
 
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
 Sadly, the attempt failed but still received a lot of attention.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
 
 This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
@@ -65,6 +77,9 @@ $GME stands for GameStop's stock name. BRR represents printing money. The idea b
 
 ### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
 
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
@@ -81,6 +96,9 @@ The image depicts the New York spirit as an excited cab driver shows off his cab
 
 What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
@@ -95,6 +113,9 @@ You understand the pain if you've gone through something like this.
 
 ### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
@@ -103,8 +124,14 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
 
 Some things on Reddit don't have to make sense to get a lot of attention.
@@ -115,6 +142,9 @@ That's all there is to it. No politics, no serious issues, and so on. Just a fro
 
 ### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
 
 This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
@@ -184,3 +214,50 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unwind-the-clock-how-to-reverse-videos-online/"><u>[New] 2024 Approved  Unwind the Clock  How to Reverse Videos Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fix-the-invisible-fb-watch-video-icon-restored-for-2024/"><u>[New] Fix the Invisible FB Watch Video Icon, Restored for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-peering-into-the-future-of-video-capturing-with-apeaksoft/"><u>[New] Peering Into the Future of Video Capturing with Apeaksoft</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/erfect-sound-devices-for-podcasters-for-2024/"><u>[New] Perfect Sound Devices for Podcasters for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unbiased-take-on-recordcast-efficacy-for-2024/"><u>[New] Unbiased Take on RecordCast Efficacy for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[Updated] Enhancing Content Reach  IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discord-live-a-users-blueprint-for-2024/"><u>[Updated] Navigating Discord Live  A User's Blueprint for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-preserving-audio-visual-content-itunes-edition-for-2024/"><u>[Updated] Preserving Audio-Visual Content  ITunes Edition for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-to-identify-proficient-filmmakers/"><u>[Updated] Techniques to Identify Proficient Filmmakers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[Updated] The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-iphonepcs-full-potential-with-these-top-8-converters/"><u>[Updated] Unlock iPhone/PC's Full Potential With These Top 8 Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-instagrams-video-sideways-quandary/"><u>[Updated] Unraveling Instagram's Video Sideways Quandary</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-screenplays-reviewed/"><u>2024 Approved  Pinnacle Screenplays Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-creative-process-with-instagrams-audio-features/"><u>2024 Approved  Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-vr-ready-space-setup/"><u>2024 Approved  The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-dichotomy-of-digital-immersion-in-vr/"><u>2024 Approved  The Dichotomy of Digital Immersion in VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-considerations-for-enhancing-your-4k-cinematic-quality/"><u>2024 Approved  Top Considerations for Enhancing Your 4K Cinematic Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tunes-to-timelapse-crafting-mobile-music-videos/"><u>2024 Approved  Tunes to Timelapse  Crafting Mobile Music Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-elevating-soundtracks-on-mobile-the-top-8-android-apps-redefining-music-production/"><u>2024 Approved Elevating Soundtracks on Mobile The Top 8 Android Apps Redefining Music Production</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/beyond-easy-video-joiner-10-alternative-solutions-for-seamless-video-editing-for-2024/"><u>Beyond Easy Video Joiner 10 Alternative Solutions for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/extend-youtube-videography-per-requirement/"><u>Extend YouTube Videography Per Requirement</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-x6-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find X6 Pro Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-anime-intros-the-ultimate-collection-for-2024/"><u>Iconic Anime Intros  The Ultimate Collection for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-decoding-the-differences-premiere-pro-vs-after-effects-for-video-editors/"><u>In 2024, Decoding the Differences Premiere Pro vs After Effects for Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-pixel-perfect-how-to-calculate-the-ideal-screen-ratio/"><u>In 2024, Pixel Perfect How to Calculate the Ideal Screen Ratio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-raise-the-bar-top-8-speed-up-video-apps/"><u>In 2024, Raise the Bar  Top 8 Speed Up Video Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-create-gripping-documentary-scenes/"><u>In 2024, Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-to-surge-in-youtubers-popularity/"><u>In 2024, The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-financial-floor-and-ceiling-in-podcasting-world/"><u>In 2024, The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-text-in-after-effects-top-10/"><u>In 2024, The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-movie-journey-for-inspiration-seekers/"><u>In 2024, The Ultimate Movie Journey for Inspiration Seekers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-applying-luts-in-film-color-grading/"><u>In 2024, Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-footage-with-fast-and-flawless-trims-in-windows-11/"><u>In 2024, Transform Your Footage with Fast & Flawless Trims in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-power-of-online-livestreams-with-us-today/"><u>In 2024, Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-windows-media-seamless-cd-extraction/"><u>In 2024, Unveiling Windows Media  Seamless CD Extraction</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avs-video-editor-review-update-whats-new-in-2024/"><u>New AVS Video Editor Review Update Whats New , In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/precision-in-photograph-preservation-phone-to-snapchat-guide-for-2024/"><u>Precision in Photograph Preservation  Phone to Snapchat Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-beginners-guide-to-efficient-zoom-meeting-recordings-for-2024/"><u>The Beginner's Guide to Efficient Zoom Meeting Recordings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-sound-guide-for-your-android-devices-customization-for-2024/"><u>The Ultimate Sound Guide for Your Android Device's Customization for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-handheld-stabilizers-to-elevate-your-vlogging-game-for-2024/"><u>Top Handheld Stabilizers to Elevate Your Vlogging Game for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/total-guide-ultimate-video-show-experience-in-24-for-2024/"><u>Total Guide  Ultimate Video Show Experience in '24 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/underwater-cinematography-made-simple-top-7-tips-for-2024/"><u>Underwater Cinematography Made Simple  Top 7 Tips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications/"><u>Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications</u></a></li>
+</ul></div>
