@@ -1,0 +1,164 @@
+---
+title: "\"[New] Vapor 3 Showdown  Shade 4 Advances\""
+date: 2024-08-17T14:30:17.271Z
+updated: 2024-08-18T14:30:17.271Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] Vapor 3 Showdown: Shade 4 Advances\""
+excerpt: "\"This Article Describes [New] Vapor 3 Showdown: Shade 4 Advances\""
+keywords: "\"Vape Clash 3,Shade 4 Growth,Vapor Face-Off,Pure Vapors 3,Smoke Showdown 4,Stealth Advances,Charged Bout 3\""
+thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499dd05b4708d5bc6f8d46016ec.png
+---
+
+## Vapor 3 Showdown: Shade 4 Advances
+
+# Phantom 3 vs. Phantom 4 Complete Comparison
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The name Phantom and DJI are synonymous with quality in the world of drones but with several different versions of the DJI Phantom drone available it's worth it to know the differences between them. DJI [Phantom 3 Pro](https://tools.techidaily.com/wondershare/filmora/download/) and the [DJI Phantom 4](https://tools.techidaily.com/wondershare/filmora/download/) are two of the best consumer quadcopters from DJI, and it’s worthy of a comparison between these two editions. Check this article, and you will know how many improvements that DJI has made and which one is worth the investment.
+
+[phantom 4vs phantom3 pro](https://images.wondershare.com/filmora/article-images/phantom-3-pro-vsphantom-4.jpg) ](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
+
+## Comparison of Basic Specs
+
+| Specs                                             | DJI Phantom 4                                                                                                                                                                                      | DJI Phantom 3 Pro                                                                                                                                                                                  |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Price                                             | [$949](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df) | [$769](https://www.amazon.com/gp/product/B00VSITBJO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00VSITBJO&linkId=34ca14ab4478e81c607365535dacae01) |
+| Weight(Including Battery And Propellers)          | 1380 g                                                                                                                                                                                             | 1280 g                                                                                                                                                                                             |
+| LiPo Battery                                      | 5350mAh                                                                                                                                                                                            | 4480mAh                                                                                                                                                                                            |
+| Charger                                           | 100W                                                                                                                                                                                               | 100W                                                                                                                                                                                               |
+| Flight Time                                       | 28 mins                                                                                                                                                                                            | About 23 mins                                                                                                                                                                                      |
+| Max. Flight Speed                                 | 20m/s                                                                                                                                                                                              | 16m/s                                                                                                                                                                                              |
+| Hover Accuracy                                    | Vertical: +/- 0.1 m or +/- 0.5 m.                                                                                                                                                                  | Vertical: +/- 0.1 m or +/- 0.5 m                                                                                                                                                                   |
+| Horizontal: +/- 0.3 m or +/-1.5 m                 | Horizontal: +/- 1.5 m                                                                                                                                                                              |                                                                                                                                                                                                    |
+| Camera Sensor                                     | 1/2.3″, Effective pixels 12.4M (Total pixels 12.76M)                                                                                                                                               | Sony Exmor R BSI 1/2.3″, Effective pixels 12.4M (Total pixels 12.76M)                                                                                                                              |
+| Video Resolution                                  | UHD: 4096×2160 ( 4K ) 24 / 25p                                                                                                                                                                     | UHD: 4096x2160p 24/25, 3840x2160p 24/25/30                                                                                                                                                         |
+| 3840×2160 ( 4K ) 24 / 25 / 30p                    | FHD: 1920x1080p 24/25/30/48/50/60                                                                                                                                                                  |                                                                                                                                                                                                    |
+| 2704×1520 ( 2.7K ) 24 / 25 / 30p                  | HD: 1280x720p 24/25/30/48/50/60                                                                                                                                                                    |                                                                                                                                                                                                    |
+| FHD: 1920×1080 24 / 25 / 30 / 48 / 50 / 60 / 120p |                                                                                                                                                                                                    |                                                                                                                                                                                                    |
+| HD: 1280×720 24 / 25 / 30 / 48 / 50 / 60p         |                                                                                                                                                                                                    |                                                                                                                                                                                                    |
+| Max. Image Size                                   | 4000 x 3000                                                                                                                                                                                        |                                                                                                                                                                                                    |
+| Lens                                              | FOV 94° 20 mm (35 mm format equivalent) f/2.8 focus at ∞                                                                                                                                           |                                                                                                                                                                                                    |
+| Max Transmission Distance                         | CE: 3500 m FCC: 5000 m (unobstructed and no interference)                                                                                                                                          |                                                                                                                                                                                                    |
+| Video Transmission System                         | Built-in DJI Lightbridge Video Downlink                                                                                                                                                            |                                                                                                                                                                                                    |
+| Max. Video Bitrate                                | 60 Mbps                                                                                                                                                                                            |                                                                                                                                                                                                    |
+| Outdoors Positioning Module                       | GPS+GLONASS Dual Positioning Module                                                                                                                                                                |                                                                                                                                                                                                    |
+| Vision Positioning Module                         | Visual Positioning System utilizing 4 optical sensors and two ultrasonic sensors to for position holding without GPS.                                                                              |                                                                                                                                                                                                    |
+
+**Conclusion**
+
+ 1\. At the core of these devices there are some major improvements between the Phantom 3 Pro and the Phantom 4\. DJI beefed up the frame as a starting point for the Phantom 4\. Making the device far more resilient as well as including a larger battery.
+
+ 2\. Making the drone heavier by 100g has not compromised performance whatsoever. In fact it has improved the performance of the entire drone exponentially.
+
+ 3\. The Phantom 4 can now reach speeds of 4 meters per second faster than the previous version of the drone. It can also detect obstacles between 2 and 49 feet for the prevention of accidents as well as extend flight time by at least 5 min. on the Phantom 3.
+
+ 4\. Still images have not been improved greatly in their quality but the DJI Phantom 4 now has an onboard camera that's capable of UHD 4k video as well as a number of other formats. The older version of the drone featured a different sensor and different image processing which did not allow for the same quality of video.
+
+## Complete comparison and review
+
+#### 1\.  Design
+
+ The design of the DJI Phantom 4 has changed lightly on the Phantom 3\. The stripes have been taken off of the side and the finish is greatly improved with a refined grey plastic underneath to hide a number of the exposed elements that could be seen on the Phantom 3\. The branding is also available on the front which makes the drone seem a lot more professional. The finish allows for customization on the DJI Phantom 4 and this means that many professionals could include their logo or customize the drone as they may want for advertising. Overall the design of the Phantom 4 is much more aesthetically pleasing and a definite improvement when compared to the Phantom 3 pro.
+
+#### 2\.  Battery life
+
+ The battery life performance of the Phantom 4 is improved considerably. DJI was able to include a 5350mAH liPo battery which is extended the flight time by 5 minutes or more. The device also charges in a relatively quick amount of time with batteries that can be hot swapped out. Getting several batteries for the Phantom 4 can make it easy to complete an entire shoot or have 30-40 minutes of flight time as a constant.
+
+#### 3\.  Obstacle avoidance
+
+ The obstacle avoidance has been upgraded on the Phantom 4 vs the Phantom 3 and this allows for object detection up to 49 feet away from the drone. This can be a very powerful tool especially for preventing accidents and using a number of the automated flying features. These types of improvements have made this drone much more user-friendly especially for beginner drone pilots.
+
+#### 4\.  Tracking
+
+ With improved jet detection, the Phantom 4 can deliver a better subject tracking service as well as active track. The newest version of active track comes with the DJI GO app and it involves turning on moving POI and then highlighting a circle around the subject that you would like to follow and track. There's no need to create a beacon or wear a band and it can be quite intelligent.
+
+#### 5\.  Camera
+
+ The Camera in the DJI Phantom 4 has massively improved the quality of video especially. Although there isn't much difference in the format for still photos, the onboard image processing of the 4k camera allows for deeper and richer colors as well as an improved frame rate for UHD video. The newest onboard camera uses a 12.4 megapixel still image camera with image processing capable of handling 4K UHD video at 25fps. Max image sizes available are 4000 x 3000 and the field of view and focus is improved with a new lens configuration.
+
+#### 6\.  Speed and agility
+
+ The speed was improved with the help of the newer frame from the DJI Phantom 4\. The device is capable of reaching speeds 4 m/s faster than on the Phantom 3\. It also feels much more polished to fly and with the collision avoidance and other features, the drone can keep up during action shots better as well as maintain a more stable flight with the extra power and weight ratio.
+
+#### 7\.  Conclusion
+
+ Although after reading this article you may be quick to suggest that the DJI Phantom 4 is hands-down the best drone, this may not be the case for your budget. Overall, if you are planning on using a drone for surveying or still images, either one will serve you well. Of course the Phantom 4 does have some improvements over the Phantom 3 but with the difference in price the Phantom 3 could still likely serve you well as a drone for capturing video and great flight performance. If you need the best, the Phantom 4 is a good choice but if you just need a consistent drone capable of filling a consumer or professional need, the Phantom 3 will still satisfy the same needs. It is tough to call but the Phantom 3 for its value is still likely the best pick until a new version of the DJI Phantom is released!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-in-depth-look-at-videorecorderpros-features-and-review/"><u>[New] In 2024, In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photography-for-rookies-top-cameras-of-the-year-2024/"><u>[New] Photography for Rookies  Top Cameras of the Year 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-seamless-video-editing-on-windows-11-platform/"><u>[New] Seamless Video Editing on Windows 11 Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stream-mastery-on-mac-with-these-5-tools/"><u>[New] Stream Mastery on Mac with These 5 Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-companion-for-creating-unique-metaverse-avatars/"><u>[New] The Ultimate Companion for Creating Unique Metaverse Avatars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-free-online-video-tools-for-all/"><u>[New] The Ultimate Guide to Free Online Video Tools for All</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-templates-for-zooid-introduction/"><u>[New] Top-Tier Templates for Zooid Introduction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-avi-player-the-perfect-match-for-pcmobile/"><u>[New] Ultimate AVi Player  The Perfect Match for PC/Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-full-access-to-itunes-radio-features/"><u>[New] Unlocking Full Access to iTunes Radio Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>[New] Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-photoshops-image-curve-secrets/"><u>[New] Unveiling Photoshop's Image Curve Secrets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-gif-to-sticker-methodology-how-to-express-yourself-better-on-discord/"><u>[Updated] The GIF-to-Sticker Methodology  How to Express Yourself Better on Discord</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions/"><u>[Updated] The Supreme Selection  An Honour Roll of Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>[Updated] Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-two-titans-clash-in-the-vr-arena/"><u>[Updated] Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-the-dynamics-of-spotify-advertising/"><u>[Updated] Understanding the Dynamics of Spotify Advertising</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-viewer-insights-understanding-subscriber-feedback/"><u>[Updated] Unveiling Viewer Insights  Understanding Subscriber Feedback</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-speak-the-code-vr-lingo-essentials/"><u>2024 Approved  Speak the Code  VR Lingo Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-crossfade-audio-transitions/"><u>2024 Approved  Understanding Crossfade Audio Transitions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-standout-cinematography-experts/"><u>2024 Approved  Unveiling Standout Cinematography Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-using-vivavideo-app/"><u>2024 Approved  Unveiling the Secrets to Using VivaVideo App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 without App | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cinematic-basics-a-list-of-essential-camera-movements-for-2024/"><u>Cinematic Basics  A List of Essential Camera Movements for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-football-viewing-watch-record-cut-on-the-cheap/"><u>DIY Football Viewing  Watch, Record, Cut on the Cheap</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-z-flip-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy Z Flip 5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-selecting-audioscapes-for-unveiling-videos/"><u>In 2024, Techniques  Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-lunapic-enhancement-playbook/"><u>In 2024, The Ultimate LunaPic Enhancement Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-browsing-with-ms-edges-pip/"><u>In 2024, Transform Your Browsing with MS Edge's PIP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-guide-for-common-bcm2045a0-driver-errors/"><u>Quick-Fix Guide for Common BCM2045A0 Driver Errors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-superior-free-online-srt-translation-services-tips-and-tricks-for-2024/"><u>Selecting Superior Free Online SRT Translation Services  Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-issues-with-modern-warfare-3-mw3-troubleshooting-tips-for-game-startup-failures/"><u>Solving Issues with Modern Warfare 3 (MW3) - Troubleshooting Tips for Game Startup Failures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-strategies-softwares-versus-hardware-harmony-in-2024/"><u>Streamline Strategies  Softwares Versus Hardware Harmony, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-3d-tools-for-animated-designers-for-2024/"><u>Superior 3D Tools for Animated Designers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-audiophiles-companion-to-top-tier-audio-equipment-for-2024/"><u>The Audiophile's Companion to Top-Tier Audio Equipment for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-insiders-guide-to-overwatch-game-recording/"><u>The Insider's Guide to Overwatch Game Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts-for-2024/"><u>The Secret Ingredient to Success  15 Activities that Enhance Learning While Listening to Podcasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-copying-imagesvideos-between-iphones-for-2024/"><u>The Ultimate Guide to Copying Images/Videos Between iPhones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-top-8-laptop-skins-and-backdrops-for-2024/"><u>The Ultimate Guide to Top 8 Laptop Skins & Backdrops for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thrilling-twists-and-turns-short-track-22-for-2024/"><u>Thrilling Twists & Turns - Short Track '22 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-high-quality-blu-ray-software-variants-pcmac-for-2024/"><u>Top 10  High-Quality Blu-Ray Software Variants (PC/Mac) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tranquil-acoustic-settings-on-computers-for-2024/"><u>Tranquil Acoustic Settings on Computers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-civ-6-installation-failures-on-windows-10/"><u>Troubleshooting Steps for Civ 6 Installation Failures on Windows 10</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-essential-guide-to-adding-audio-content-to-your-powerpoint-slides-on-pcmac-devices/"><u>Updated The Essential Guide to Adding Audio Content to Your PowerPoint Slides on PC/Mac Devices</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
