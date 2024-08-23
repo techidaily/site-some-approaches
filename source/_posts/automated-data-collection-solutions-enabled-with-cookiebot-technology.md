@@ -1,7 +1,7 @@
 ---
 title: "Automated Data Collection: Solutions Enabled with Cookiebot Technology"
-date: 2024-08-19 16:40:23
-updated: 2024-08-22 12:46:21
+date: 2024-08-22T00:01:48.665Z
+updated: 2024-08-23T00:01:48.665Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f080f0e1330c1b328f3cf15bd0.jpg
@@ -47,6 +47,9 @@ There are three key components of KYC:
 
 ## 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## KYC compliance laws
 
 The rules around KYC are governed by several national and international laws. Most KYC laws fall under AML regimes. These regimes are based on the recommendations of the Financial Action Task Force (FATF), a pan-government organization formed to fight money laundering, terrorism, and proliferation financing. 
@@ -120,6 +123,9 @@ A critical, lesser discussed component of the KYC process is ongoing monitoring,
 
 Institutions will train employees and use technology to streamline and improve their KYC procedures, ensuring compliance with regulations and minimizing the risk of financial crimes.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Develop a KYC policy
 
 Developing a robust KYC policy is essential to ensure compliance with international regulations against fraud, money laundering, and terrorist financing. Having clear measures for implementing KYC also helps to foster more secure financial transactions.
@@ -133,6 +139,9 @@ Financial institutions usually base their KYC policies on four key elements:
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conduct employee training
 
 Employee training is critical for communicating, controlling, and safeguarding knowledge of Anti-Money Laundering / Countering the Financing of Terrorism (AML/CFT) and KYC requirements within an organization. At a minimum, training in these areas should cover:
@@ -142,6 +151,9 @@ Employee training is critical for communicating, controlling, and safeguarding k
 * General information on AML/CFT and KYC regulatory compliance requirements
 * How to identify and report transactions to a regulator or authority
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 
 
 ### Implement a robust Customer Identification Program (CIP)
@@ -156,8 +168,16 @@ To create a CIP that’s robust and tailored to your institution's risk-based ap
 * The size of your institution
 * Your institution’s location and customer diversity across different geographic areas
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Leverage advanced KYC technology
 
 Financial services institutions face a unique set of challenges. Crimes, such as fraud, terrorist activity, and money laundering, are committed by bypassing banking processes or using suspicious documents, resulting in billions of dollars in fines and legal risks. Although evolving regulations aim to solve these problems, these institutions often find themselves with fractured processes and repetitive due diligence requests, causing further problems, including:
@@ -176,6 +196,9 @@ Financial services institutions face a unique set of challenges. Crimes, such as
 
 [Request a demo](https://tools.techidaily.com/abbyy/products/) to find out how ABBYY Timeline could improve your [KYC compliance](https://tools.techidaily.com/abbyy/products/) process and streamline your business critical processes.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## KYC challenges
 
 While KYC regulations are designed to be clear and robust, there are increasing challenges to implementing them.
@@ -184,6 +207,9 @@ A benefit of the international commitment to preventing financial crime is that 
 
 In addition, with the increasing significance of data privacy, regulators are imposing stricter rules on businesses to safeguard customer data and use KYC information solely for its intended purpose. Balancing due diligence to protect customer data, while fielding the risks of financial crime, can be difficult to balance. Coupling these challenges with the growing digitization of the KYC process, it can be difficult for institutions to keep up with regulations.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## KYC compliance in the digital age
 
 Digital transformation across KYC compliance processes has led to the advent of eKYC, where businesses use online processes to verify customer identities and transactions. Financial services companies increasingly use mobile and web-enabled solutions that incorporate on-device technology and biometric authentication (such as facial recognition) to accurately identify customers in the digital environment. 
@@ -297,3 +323,50 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-peering-into-the-future-lg-tv-bp550-2023-review/"><u>[New] In 2024, Peering Into the Future  LG TV BP550 2023 Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-securing-a-spotlight-with-zoom-and-fb-live-integration/"><u>[New] Securing a Spotlight with ZOOM & FB Live Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-record-and-save-facebook-chats-effectively/"><u>[New] Step-By-Step  Record and Save Facebook Chats Effectively</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-screen-shotting-for-xbox-enthusiasts-for-2024/"><u>[New] Step-by-Step Screen Shotting for Xbox Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>[New] Swiftly Start Sharing Joy  Installing the iFunny Meme App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-coherent-audio-segments/"><u>[New] The Art of Coherent Audio Segments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-dialogue-in-film-and-theatre/"><u>[New] The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>[Updated] Tech-Assisted Jogs  Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[Updated] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-manipulating-image-shapes/"><u>[Updated] The Ultimate Guide to Manipulating Image Shapes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>[Updated] Transcription Mastery for Office Productivity  Using Microsoft Word's Voice Recognition Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-imagination-into-reality-with-top-animation-software/"><u>[Updated] Transform Your Imagination Into Reality with Top Animation Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-selection-optimal-drones-available/"><u>2024 Approved  Exclusive Selection  Optimal Drones Available</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-canvas-reborn-spotlight-on-top-6-in-digital-arts/"><u>2024 Approved  The Canvas Reborn  Spotlight on Top 6 in Digital Arts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-video-setup-luminosity/"><u>2024 Approved  The Ultimate Guide to Video Setup Luminosity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-capacity-for-storing-videos-on-large-scale-drives-64128gb/"><u>2024 Approved  Understanding the Capacity for Storing Videos on Large-Scale Drives (64/128GB)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-artistic-edits-with-windows-11-for-2024/"><u>Accelerate Artistic Edits with Windows 11 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/androids-elite-mobile-multiplayer-battle-games/"><u>Android's Elite Mobile Multiplayer Battle Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-http-404-error-tips-for-quick-recovery-and-prevention-strategies/"><u>Demystifying the HTTP 404 Error: Tips for Quick Recovery & Prevention Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/feast-of-nations-international-dishes-on-tiktok-for-2024/"><u>Feast of Nations  International Dishes on TikTok for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-15-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 15 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-disappeared-taskbar-icons-on-windows-11-4-essential-troubleshooting-steps/"><u>How To Restore Disappeared Taskbar Icons On Windows 11: 4 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-asus-rog-phone-8-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Asus ROG Phone 8 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-poco-m6-pro-4g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco M6 Pro 4G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-realms-history-of-vr/"><u>In 2024, Innovating Realms  History of VR</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-narzo-n53-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme Narzo N53 Phone Now with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-low-cost-cloud-storage-plans/"><u>In 2024, The Essential Guide to Low-Cost Cloud Storage Plans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>In 2024, The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unexpected-angle-alterations-in-instagram-video-posts/"><u>In 2024, Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>In 2024, Unleash Your Creativity  The Leading Phone Apps for Image Stickers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/leveraging-two-platforms-optimize-your-twitch-and-youtube-presence/"><u>Leveraging Two Platforms  Optimize Your Twitch and YouTube Presence</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-achieve-pristine-sound-quality-tactics-to-reduce-echo-for-2024/"><u>New How to Achieve Pristine Sound Quality Tactics to Reduce Echo for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-audio-gradients-in-ableton-for-2024/"><u>Streamlining Audio Gradients in Ableton for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-virtual-music-showcase-for-2024/"><u>Superior Virtual Music Showcase for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-streamlining-video-addition-to-youtube-playlists-for-2024/"><u>Techniques for Streamlining Video Addition to YouTube Playlists for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-using-kinemaster-techniques-and-top-online-video-editors-for-2024/"><u>The Art of Using KineMaster  Techniques and Top Online Video Editors for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lava-yuva-3-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lava Yuva 3 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-audio-editors-journey-through-garageband-for-2024/"><u>The Complete Audio Editor's Journey Through GarageBand for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms-for-2024/"><u>The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-brands-with-language-mastery-techniques-for-2024/"><u>Transforming Brands with Language Mastery Techniques for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-x-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone X</u></a></li>
+</ul></div>

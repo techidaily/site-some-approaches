@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Well-Being with a Simple Palette: The Power of Virtual Personal Training & Tech Timeouts | Insights From the ABBYY Team"
-date: 2024-08-20 17:43:10
-updated: 2024-08-22 11:14:22
+date: 2024-08-22T00:05:06.222Z
+updated: 2024-08-23T00:05:06.222Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a85122e6caa68a425ef40bc26.jpg
@@ -44,6 +44,9 @@ Here’s how your screen will look like from now on:
 
 ![monochrome mode switched on android](https://static1.abbyy.com/abbyycommedia/26173/pic2-e1517223380832.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **ABBYY Tip: FineScanner vs Regular Camera**
 
 “How is your app different from the pre-installed camera app?” This question has popped up now and then in your comments on the [FineScanner](http://qrs.ly/pl4x25p) page. Read on to find out.
@@ -56,12 +59,18 @@ Unlike your regular camera app:
 4. In [FineScanner](http://qrs.ly/pl4x25p), you can have your documents recognized by means of OCR technology, so you end up with an editable Word, Excel, or PowerPoint document. Many other document formats are also supported. [FineScanner](http://qrs.ly/pl4x25p) can recognize texts in 193 languages.
 5. [FineScanner](http://qrs.ly/pl4x25p) has a unique book scanning mode, where you scan an open book and the app will automatically split the photo into two pages and straighten out any curved lines!
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## **App of the Week: Freeletics, Your Personal Fitness Coach** 
 
 [Freeletics](https://www.freeletics.com/en) is a fitness training program designed to make you stronger, fitter and generally more healthy. It will also help you keep your weight under control. Inside [Freeletics](https://www.freeletics.com/en), you will find all those basic gym exercises that even a novice can do. What sets [Freeletics](https://www.freeletics.com/en) apart is a cleverly devised system for monitoring and motivating athletes. The main statistic the program uses to assess your fitness and effort is the time you spend on each set of exercises. Exercise times are used to monitor your progress and to compare your results against those of other members of the program all over the world.
 
 ![App Freeletics Fitness Coach training program](https://static1.abbyy.com/abbyycommedia/26174/aphrodite_endurance-e1517224372346.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 The program is supported by two mobile apps — [Bodyweight](https://www.freeletics.com/en/knowledge/understanding-your-training-plan/) and [Nutrition](https://www.freeletics.com/en/nutrition). The first is used to organize your workouts while the second takes care of your diet. Here are several reasons why we think [Freeletics](https://www.freeletics.com/en) is worth a try:
 
 * You can work out anywhere — at home, outdoors, in the office or at a gym.
@@ -71,6 +80,9 @@ The program is supported by two mobile apps — [Bodyweight](https://www.freelet
 
 ![apps Bodyweight Nutrition sport health freeletics](https://static1.abbyy.com/abbyycommedia/26175/s3amazonawscom2fappforest_uf2ff1495566770688x3917665102053433602ffre7-e1517225256870.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can start training with [Freeletics](https://www.freeletics.com/en) for free, but as you progress, in several weeks’ time, you will need to pay for the more advanced workout plans. Or you can continue with the basic free plans if that’s all you need to keep yourself in shape.
 
 Available on [iOS](https://itunes.apple.com/us/app/freeletics-bodyweight/id654810212?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=ru).
@@ -81,6 +93,23 @@ _Shared by Catherine Matantseva, international PR manager_
 
 ![abbyy advice digital detox no gadgets](https://static1.abbyy.com/abbyycommedia/26176/j5avporlfvq-e1517235977250.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 Those working in media and communications will know how important it is to be able to handle large amounts of unstructured data. Of course, when we chose this profession we knew what we were in for. Any PR specialist worth his/her salt needs to soak up and assimilate huge swathes of data on a daily basis, separating the wheat from the chaff, sifting out the important from the unimportant.
 
 However, there’s only so much information our brain can hold at any given moment, and the more data we get in the harder it is to process. Therefore, it is absolutely crucial that you give yourself a break now and then, giving yourself time to assimilate what you have learnt so far. Some people will turn off their phone or switch it into flight mode for some time, or put away all their mobile devices to create a digital free zone where they have time to rest and think.
@@ -95,6 +124,9 @@ That’s it from us for today. Until next Monday, have a great week! P.S. You ca
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -158,3 +190,37 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-hear-the-hd-story-from-youtube-to-twitters-vids-for-2024/"><u>[New] Hear the HD Story  From YouTube to Twitter's Vids for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-media-spotlight-top-twitters/"><u>[Updated] In 2024, Social Media Spotlight  Top Twitters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-projects-with-free-video-intros/"><u>2024 Approved  Streamline Projects with Free Video Intros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>2024 Approved  The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>2024 Approved  The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-photoshop-guide-to-text-becoming-3d/"><u>2024 Approved  The Ultimate Photoshop Guide to Text Becoming 3D</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-portable-audio-choices-decoded/"><u>2024 Approved  Top Portable Audio Choices Decoded</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-trailblazers-in-auditory-and-visual-creation-list/"><u>2024 Approved  Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-image-booster-intense-visual-upgrade/"><u>2024 Approved  Ultimate Image Booster  Intense Visual Upgrade</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unparalleled-dramatic-audio-experiences/"><u>2024 Approved  Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-best-android-photos-tactics/"><u>2024 Approved  Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings/"><u>2024 Approved  Unveiling the Secrets of Excellent Interview and Journey Audio Recordings</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-perfect-timing-fixing-delay-in-your-chromecast-audio-experience/"><u>Achieve Perfect Timing: Fixing Delay in Your Chromecast Audio Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-tech-to-preserve-classroom-interactions/"><u>Best Tech to Preserve Classroom Interactions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oneplus-ace-2v-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on OnePlus Ace 2V</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-creative-process-with-instagrams-photography-tips/"><u>In 2024, Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-global-communicators-essential-list-of-top-36-platforms-for-video-conversion/"><u>In 2024, The Global Communicator’s Essential List of Top 36 Platforms for Video Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pros-guide-to-exceptional-cameras-and-lenses-in-4k/"><u>In 2024, The Pro's Guide to Exceptional Cameras and Lenses in 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-avi-to-gif-conversion-with-filmora-platform/"><u>In 2024, The Ultimate Guide to AVI-to-GIF Conversion with Filmora Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>In 2024, The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-premium-game-screens-in-high-definition/"><u>In 2024, Top 5 Premium Game Screens in High Definition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-iphones-macro-and-close-up-photography-tactics/"><u>In 2024, Ultimate Guide to iPhone's Macro & Close-Up Photography Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-for-top-tier-hdr-cameras/"><u>In 2024, Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-brand-potential-top-terminology-for-impactful-campaigns/"><u>In 2024, Unlock Brand Potential  Top Terminology for Impactful Campaigns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-wealth-reddits-top-13-money-making-methods/"><u>In 2024, Unlocking Wealth  Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-overcome-minecraft-server-disconnect-problems/"><u>Resolved: How to Overcome Minecraft Server Disconnect Problems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 Pro Making It Possible</u></a></li>
+</ul></div>

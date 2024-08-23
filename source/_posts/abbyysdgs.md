@@ -1,7 +1,7 @@
 ---
 title: "ABBYYが取り組む持続可能な開発目標(SDGs):成果と貢献"
-date: 2024-08-20 17:51:54
-updated: 2024-08-22 10:56:12
+date: 2024-08-21T23:59:28.529Z
+updated: 2024-08-22T23:59:28.529Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4997d5eb4ebf1da22368f21e.jpg
@@ -51,10 +51,16 @@ SDGsでは以下の17のゴールが設定されています。
 16. 平和と公正をすべての人に
 17. パートナーシップで目標を達成しよう
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ABBYYの8番と10番の取り組みについて
 
 ![Sustainable Development Goals 働きがいも経済成長も](https://static1.abbyy.com/abbyycommedia/34584/13907-icon-8.png) ![Sustainable Development Goals 人や国の不平等をなくそう](https://static1.abbyy.com/abbyycommedia/34585/13907-icon-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ABBYYは、これまで教育とキャリア開発の面で不平等を減らすために、さまざまなバックグラウンドを持つ人々をサポートしてきました。私たちは多様性を重視し、採用と昇進の決定を行う際にも平等な機会を提供しております。
 
 例として現在、ABBYYは女性従業員が約42％に達しており、これは一つの証左です。 ABBYYには、女性従業員をサポートするための「Woman at ABBYY」という内部コミュニティが存在します。 全体として、ABBYYの従業員は、職場での多様性と包摂性をサポートするための取り組みを高く評価しています。隔週の従業員エンゲージメント調査に基づくと、DEIの全体的なスコア（たとえば、性別、民族性、障害、社会経済的地位の観点から、多様性と包摂性をサポートするABBYYの取り組みに満足しています）は8.7/10です。こちらはテクノロジー企業のベンチマークを0.5ポイント上回っており、上位25％にランクインしています。
@@ -65,10 +71,16 @@ ABBYYは、社内の包摂的な文化をサポートすることに重点を置
 
 一部の地域では、さまざまな能力を持つ人々や貧しい家庭や農村地域からの学生を雇用するための特別なプロジェクトがあります。 また、地域に根付いたチャリティー活動（クリスマス関連のチャリティーなど）も実施しています。デジタルインテリジェンス企業として、技術人材の育成に取り組んでいます。一部の地域では、教育活動を推進し、恵まれない／過小評価されている人々のためのメンターシッププログラムや奨学金を通じての技術人材育成をサポートしています。
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYYの13番と15番の取り組みについて
 
 ![Sustainable Development Goals 気候変動に具体的な対策を](https://static1.abbyy.com/abbyycommedia/34586/13907-icon-13.png) ![Sustainable Development Goals 陸の豊かさも守ろう](https://static1.abbyy.com/abbyycommedia/34587/13907-icon-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 私たちはデジタルインテリジェンス企業として、ペーパーレスのビジネスプロセスにつながるデジタルトランスフォーメーション（DX）の推進に取り組んでいます。ABBYYのデジタルテクノロジーは、デジタル（ハードコピーではなく）ドキュメントに焦点を当てることにより、お客様がより環境に優しいものになるように支援します。
 
 2021年、ABBYYは、気候変動との戦い、生物多様性の保全、景観の回復、コミュニティの強化を支援するために獲得した取引のために植樹を行うことを約束する新しい「Plant a Treeキャンペーン」を開始しました。これについての詳細は、こちらのリンクをご参照ください。
@@ -83,6 +95,9 @@ ABBYYは、サステナビリティの重要性を従業員に思い出させる
 
 [カスタマエクスペリエンス](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -145,3 +160,50 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-automating-video-display-in-facebook-feeds/"><u>[New] Automating Video Display in Facebook Feeds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-radiant-android-videos/"><u>[New] The Essential Guide to Radiant Android Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pros-approach-to-optimizing-zoom-settings/"><u>[New] The Pro's Approach to Optimizing Zoom Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-unparalleled-streaming-experience/"><u>[New] The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>[New] Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trendsetting-images-their-histories/"><u>[New] Trendsetting Images  Their Histories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>[New] Your Key to Creative Advertising  Access All 50 FREE YouTube Banner Designs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[Updated] 2024 Approved  Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-beat-bringers-sourcing-premium-dj-visuals/"><u>[Updated] Beat Bringers  Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-demystifying-youtube-shorts-for-total-beginners-for-2024/"><u>[Updated] Demystifying YouTube Shorts for Total Beginners for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-audience-connection-with-empowerment-vlogs/"><u>[Updated] In 2024, Building Audience Connection with Empowerment Vlogs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comparative-assessment-youtube-vs-dailymention/"><u>[Updated] In 2024, Comparative Assessment  YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-instant-podcast-live-simple-strategies/"><u>[Updated] Instant Podcast Live  Simple Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-record-holders-the-epitome-of-reddit-engagement-10-threads/"><u>[Updated] Record Holders  The Epitome of Reddit Engagement (10 Threads)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailored-techniques-for-dynamic-gifs/"><u>[Updated] Tailored Techniques for Dynamic GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tech-talk-the-best-ways-to-move-files-between-idevices/"><u>[Updated] Tech Talk  The Best Ways to Move Files Between iDevices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-rise-of-autofocus-aided-hdr-photography/"><u>[Updated] The Rise of Autofocus Aided HDR Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-secret-sauce-of-successful-pixlr-editing/"><u>[Updated] The Secret Sauce of Successful Pixlr Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>[Updated] The Sound of You  How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-ultimate-guide-to-enhancing-tiktok-video-themes/"><u>[Updated] The Ultimate Guide to Enhancing TikTok Video Themes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-three-budget-friendly-strategies-for-audio-amplification-in-ios-films/"><u>[Updated] Three Budget-Friendly Strategies for Audio Amplification in iOS Films</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>[Updated] Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-3-strategies-converting-pinner-visuals-to-audio/"><u>[Updated] Top 3 Strategies  Converting Pinner Visuals to Audio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-7-mac-friendly-video-players-reviewed/"><u>[Updated] Top 7 Mac-Friendly Video Players Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-workspace-with-these-8-dynamic-backdrops/"><u>[Updated] Transform Your Workspace with These 8 Dynamic Backdrops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-fruition-for-virtual-quests/"><u>[Updated] Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation/"><u>In 2024, Chuckling Chronicles  The Best TikTok Joke & Prank Compilation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/redefining-user-engagement-with-top-10-video-editors/"><u>Redefining User Engagement with Top 10 Video Editors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-ad-101-create-stunning-and-effective-snapchat-ads/"><u>Snapchat Ad 101  Create Stunning & Effective Snapchat Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-remote-work-merging-skype-and-zoom-together-for-2024/"><u>Streamlining Remote Work  Merging Skype and Zoom Together for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tales-that-echo-through-time-top-8-halls-for-storytellers-for-2024/"><u>Tales That Echo Through Time  Top 8 Halls for Storytellers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-metaverse-race-begins-dont-miss-these-7-essential-tools-for-2024/"><u>The Metaverse Race Begins  Don't Miss These 7 Essential Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-applying-luts-in-obs-streaming-for-2024/"><u>The Ultimate Guide to Applying LUTs in OBS Streaming for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-zen-of-zoom-perfecting-your-video-experience-for-2024/"><u>The Zen of Zoom  Perfecting Your Video Experience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tunes-choosing-best-offline-audio-to-text-tools-for-2024/"><u>Top Tunes  Choosing Best Offline Audio-to-Text Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-adobe-storage-alternatives-explained-for-2024/"><u>Understanding Adobe Storage, Alternatives Explained for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts-for-2024/"><u>Unleash Your Creativity  Effective Techniques for Crafting Podcast Scripts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-new-dimensions-of-your-missing-iphone-x-for-2024/"><u>Unlock New Dimensions of Your Missing iPhone X for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unparalleled-8-visual-augmentations-for-live-cams-for-2024/"><u>Unparalleled 8 Visual Augmentations for Live Cams for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-sdr-to-hdr-enhancement-techniques-for-2024/"><u>Unveiling the Secrets of SDR-to-HDR Enhancement Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/versions-of-windows-cuttingediting-programs-for-2024/"><u>Versions of Windows Cutting/Editing Programs for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-performance-optimization-ultimate-guide-to-fixing-low-fps-issues-with-latest-tips/"><u>War Thunder Performance Optimization: Ultimate Guide to Fixing Low FPS Issues with Latest Tips</u></a></li>
+</ul></div>

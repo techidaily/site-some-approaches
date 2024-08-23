@@ -1,7 +1,7 @@
 ---
 title: ABBYYが2024年Gartner Magic Quadrantにてプロセスマイニング技術リーダーとして認定さ
-date: 2024-08-21 14:47:24
-updated: 2024-08-22 11:51:56
+date: 2024-08-22T00:01:42.865Z
+updated: 2024-08-23T00:01:42.865Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg
@@ -39,6 +39,9 @@ GARTNER is a registered trademark and service mark, and MAGIC QUADRANT and PEER 
 
 Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences with the vendors listed on the platform, should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose."
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYYにご関心をお寄せいただき、誠にありがとうございます。 
 
 [レポートを読む](https://www.gartner.com/reprints/?id=1-2HU9T8IX&ct=240614&st=sb "Read the report") 
@@ -109,3 +112,52 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/levating-youtube-creativity-ideal-concepts-and-themes-for-channels-for-2024/"><u>[New] Elevating YouTube Creativity  Ideal Concepts and Themes for Channels for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos-for-2024/"><u>[New] Engaging Everyone Quickly  Which Platform Triumphs for Shorter Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-screen-record-your-win10-game-log-for-2024/"><u>[New] Step-by-Step Screen Record  Your Win10 Game Log for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-format-transmutation-srt-to-ssa-and-more/"><u>[New] The Art of Format Transmutation  SRT to SSA & More</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-6-social-media-outlets-boosting-business-revenue/"><u>[New] Top 6 Social Media Outlets Boosting Business Revenue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-vr-gaming-accessories/"><u>[New] Top 8 VR Gaming Accessories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-online-sources-for-high-quality-vector-illustrations/"><u>[New] Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tiktok-edits-mastering-your-cut-lists/"><u>[New] Top TikTok Edits  Mastering Your Cut Lists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tracing-the-flow-of-money-in-consumer-opinions/"><u>[New] Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-supreme-speakers-showcase-selector/"><u>[Updated] Supreme Speakers' Showcase Selector</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-food-filmmakers-blueprint-techniques-and-tricks/"><u>[Updated] The Food Filmmaker’s Blueprint  Techniques and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-lexicon-of-persuasion-in-business-communication/"><u>[Updated] The Lexicon of Persuasion in Business Communication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-platform-prowess-twitch-vs-youtube-comparison/"><u>[Updated] The Platform Prowess  Twitch vs YouTube Comparison</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>[Updated] Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-premier-html5-video-players-list/"><u>[Updated] Unveiling The Premier HTML5 Video Players List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>2024 Approved  Navigating the Obscured Realm of YouTube  A Methodical Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-iphone-videos-size-and-length-optimization/"><u>2024 Approved  Streamline iPhone Videos  Size & Length Optimization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-zoom-setup-ensuring-smooth-video-conferencing/"><u>2024 Approved  The Art of Zoom Setup  Ensuring Smooth Video Conferencing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-encore-list-top-pick-for-digital-music-tones/"><u>2024 Approved  The Encore List  Top Pick for Digital Music Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>2024 Approved  The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>2024 Approved  Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-devices-to-power-your-metaverse-experience/"><u>2024 Approved  Top 7 Devices to Power Your Metaverse Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-trending-topics-and-themes-to-hook-your-streams-attention/"><u>2024 Approved  Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>2024 Approved  Ultimate Tutorial  Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>2024 Approved  Unlock Creativity  The Best Collection of Free Slide Show Patterns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-utilizing-in-presentation-speech-to-text-functionality-in-powerpoint/"><u>2024 Approved  Utilizing In-Presentation Speech-to-Text Functionality in PowerPoint</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-top-free-software-for-pc-health-and-registry-cleaning-ranked-and-reviewed/"><u>2024'S Top Free Software for PC Health & Registry Cleaning - Ranked and Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-reno-10-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo Reno 10 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-gt-neo-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme GT Neo 5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>In 2024, Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>In 2024, Streamline Your Media Files  8 Pro Convertors, Sub to Srt Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-platform-showdown-twitch-meets-youtube/"><u>In 2024, The Ultimate Platform Showdown  Twitch Meets YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-studio-screening-shorts/"><u>In 2024, Top Studio Screening Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-srt-into-subc-top-3-actionable-steps/"><u>In 2024, Transforming SRT Into SUBC  Top 3 Actionable Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>New In 2024, Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-mobile-platforms-for-enhanced-dji-cinematography/"><u>Premier Mobile Platforms for Enhanced DJi Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-digital-tools-for-enhancing-web-streams-for-2024/"><u>Top 5 Digital Tools for Enhancing Web Streams for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-strategies-for-impartiating-patient-narratives-for-2024/"><u>Transformative Strategies for Impartiating Patient Narratives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-virtual-realitys-basic-words-for-2024/"><u>Understanding Virtual Reality's Basic Words for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-visual-potential-the-power-of-lut-transformations-for-2024/"><u>Unlocking Visual Potential  The Power of LUT Transformations for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-magic-crafting-animated-gifs-with-ease-for-2024/"><u>Unveiling the Magic  Crafting Animated GIFs with Ease for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-pros-and-cons-of-samsung-photo-editor-for-2024/"><u>Unveiling the Pros & Cons of Samsung PHOTO EDITOR for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-simplicity-accessing-highly-engaged-youtube-reactions-for-2024/"><u>Unveiling the Simplicity  Accessing Highly Engaged YouTube Reactions for 2024</u></a></li>
+</ul></div>

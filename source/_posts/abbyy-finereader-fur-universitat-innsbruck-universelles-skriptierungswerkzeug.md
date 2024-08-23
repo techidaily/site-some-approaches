@@ -1,7 +1,7 @@
 ---
 title: "ABBYY FineReader Für Universität Innsbruck: Universelles Skriptierungswerkzeug"
-date: 2024-08-21 23:14:25
-updated: 2024-08-22 10:19:26
+date: 2024-08-21T23:59:24.856Z
+updated: 2024-08-22T23:59:24.856Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808a7e29b4ee7032e1868f5ab0.jpg
@@ -105,6 +105,9 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -125,3 +128,57 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-editing-savvy-streamlining-your-youtube-video-lengths/"><u>[New] 2024 Approved  Editing Savvy  Streamlining Your YouTube Video Lengths</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[New] Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-anglers-arsenal-prime-piscine-recorders/"><u>[New] The Angler’s Arsenal  Prime Piscine Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-snapchats-spotlight-feature/"><u>[New] The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>[New] The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>[New] The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tips-for-shaping-images-with-photoshop-curves/"><u>[New] Tips for Shaping Images with Photoshop Curves</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-9-iphone-tools-expertly-watermarking-your-pics/"><u>[New] Top 9 iPhone Tools  Expertly Watermarking Your Pics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-turning-pics-into-time-capsules-with-videos/"><u>[New] Turning Pics Into Time Capsules With Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-ringtones-guide-top-downloads/"><u>[New] Ultimate Ringtones Guide  Top Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmatched-4k-experience-the-premier-top-eight-list/"><u>[New] Unmatched 4K Experience  The Premier Top Eight List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-5-innovative-book-tts-for-lovers-of-literature/"><u>[New] Unveiling 5 Innovative Book TTs for Lovers of Literature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>[New] Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-practices-to-avoid-missed-frames-during-video-capture/"><u>[Updated] 2024 Approved  Best Practices to Avoid Missed Frames During Video Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-your-youtube-content-for-financial-rewards/"><u>[Updated] 2024 Approved  Harnessing Your YouTube Content for Financial Rewards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>[Updated] Launchpad to Success  Establishing Your Own Food Flavor Blog/Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-is-now-with-the-sj7-4k-action-camera-a-full-review/"><u>[Updated] The Future Is Now with the SJ7 4K Action Camera - A Full Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>[Updated] The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-virtual-set-masterclass-learning-filmmaking-online/"><u>[Updated] The Virtual Set Masterclass  Learning Filmmaking Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-action-cam-battle-max-360-vs-hero-11-review/"><u>[Updated] Top Action Cam Battle  Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tier-gopro-cases-unveiled-1-10-ranking/"><u>[Updated] Top-Tier GoPro Cases Unveiled - #1-10 Ranking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uniting-individual-shots-into-a-compelling-image-story/"><u>[Updated] Uniting Individual Shots Into a Compelling Image Story</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pro-level-insights-for-perfectly-crafted-snaps/"><u>2024 Approved  Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-methodology-viewing-favorited-and-well-liked-youtube-remarks/"><u>2024 Approved  Seamless Methodology  Viewing Favorited and Well-Liked YouTube Remarks</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/collection-sites-for-quick-access-to-youtube-vids-for-2024/"><u>Best Collection Sites for Quick Access to YouTube Vids for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/comprehensive-evaluation-gecata-pro-monitoring/"><u>Comprehensive Evaluation  Gecata Pro Monitoring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-overcoming-nier-replicant-crashing-problems/"><u>Expert Tips on Overcoming NieR: Replicant Crashing Problems</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-video-mastery-effortless-mp4-extraction/"><u>FB Video Mastery  Effortless MP4 Extraction</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-v-purse-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor V Purse FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melding-audio-with-visuals-digitally/"><u>In 2024, Melding Audio With Visuals Digitally</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-guide-to-choosing-your-mp4-player/"><u>Master Guide to Choosing Your MP4 Player</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New In 2024, Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-launch-hurdles-the-ultimate-guide-to-enjoying-hitman-3/"><u>Overcome PC Launch Hurdles: The Ultimate Guide to Enjoying Hitman 3</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-visual-glitches-in-the-sims-4-video-card-solutions-explored/"><u>Overcoming Visual Glitches in The Sims 4: Video Card Solutions Explored</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-capturing-screenshots-in-windows-7-step-by-step/"><u>Quick Guide: Capturing Screenshots in Windows 7 - Step-by-Step</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-paced-fortnite-visual-artistry-for-2024/"><u>Quick-Paced Fortnite Visual Artistry for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-asus-webcam-display-problem-on-windows-11/"><u>Solving the ASUS Webcam Display Problem on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-creativity-with-1-to-5-mac-editors-for-sierra-users-for-2024/"><u>Streamline Creativity with #1 to #5 Mac Editors for Sierra Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swiftly-blur-your-iphone-shots-with-these-4-tricks-for-2024/"><u>Swiftly Blur Your iPhone Shots with These 4 Tricks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-discrete-audio-erosion-in-audacity-for-2024/"><u>The Art of Discrete Audio Erosion in Audacity for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-revision-efficient-erasing-techniques-in-psx-for-2024/"><u>The Art of Revision  Efficient Erasing Techniques in PSX for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-guide-to-trimming-videos-in-your-windows-device-for-2024/"><u>The Essential Guide to Trimming Videos in Your Windows Device for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-photographers-resource-efficient-online-photo-cropping-for-2024/"><u>The Photographer's Resource  Efficient Online Photo Cropping for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tracking-payment-for-consumer-feedback-vlogs-for-2024/"><u>Tracking Payment for Consumer Feedback Vlogs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-zoom-broadcasting-potential-for-youtube-success-for-2024/"><u>Unlock Zoom Broadcasting Potential for YouTube Success for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-ultimate-selection-of-text-plugins-in-ae-for-2024/"><u>Unveiling the Ultimate Selection of Text Plugins in AE for 2024</u></a></li>
+</ul></div>
