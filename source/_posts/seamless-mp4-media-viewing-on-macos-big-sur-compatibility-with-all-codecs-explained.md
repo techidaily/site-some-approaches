@@ -1,7 +1,7 @@
 ---
 title: "Seamless MP4 Media Viewing on macOS Big Sur: Compatibility with All Codecs Explained"
-date: 2024-08-25 17:34:55
-updated: 2024-08-27 11:14:10
+date: 2024-08-26T16:33:06.980Z
+updated: 2024-08-27T16:33:06.980Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf244f3f3d4ecee0cf92b0349.jpg
@@ -64,6 +64,11 @@ Third, update QuickTime Player to the latest version. If you still can't play MP
 2. Switch from QuickTime Player to other Mac players;
 3. Some MP4 videos captured by GoPro action cam, for example, are encoded in HEVC codec, which older Mac computer won't support, unless you update it to the latest macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Convert MP4 to QuickTime Supported Codec 
 
 You can convert unplayable videos in any format (any video/audio codecs) to the files perfectly for Mac. With a MP4 video converter, opening MP4 on macOS is just a snap. This fits those who want to stick with Mac video player and don't want to handle with complicated codec thing. The video converter applied in the method is [**MacX Video Converter Pro**](https://tools.techidaily.com/macxdvd/products/), which will handle everything you throw at it and output to a HQ MP4 file playable on Mac.
@@ -81,10 +86,17 @@ You can convert unplayable videos in any format (any video/audio codecs) to the 
 
 ![How to play mp4/all formats on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mp4player7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Step 3:** Click "Browse" button to select a destination folder to save the output MP4 video. Check the Intel box on the interface to enable the hardware acceleration tech to boost the mp4 conversion on Mac. 
 
 **Step 4:** Click "RUN" button to start converting videos to MP4\. Then you can play output MP4 videos on Mac with QuickTime Player or other MP4 video players on Mac. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Tips: Know More about QuickTime Player Supported Formats
 
 Supposing you're using QuickTime Player to play MP4 on MacBook Pro/Air, iMac etc. Check the formats and codecs supported by QuickTime Player to convert unplayable videos clearly with any [MP4 video converter](https://tools.techidaily.com/macxdvd/products/).
@@ -93,6 +105,9 @@ Supposing you're using QuickTime Player to play MP4 on MacBook Pro/Air, iMac etc
 * It fully supports 3D, 8K/5K/4K UHD videos playback, with untouched image quality;
 * It's an combo of media streamer, online video downloader, and MP4 video player for Mac;
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Part 3: How to Watch MP4 with 3rd-party MP4 Player for Mac 
 
 In the above formats section, we can see that QuickTime Player is limited in supported formats. If QuickTime can't play MP4 on Mac smoothly, you can turn to another MP4 player for Mac. They may come with wider formats support and better playback experience. This method is the easiest for those who have no preference to QuickTime. 
@@ -104,6 +119,9 @@ There are many video player for Mac that works well with MP4 files, for example 
 * It's an combo of media streamer, online video downloader, and MP4 video player for Mac;
 * It works with latest macOS Sierra, El Capitan, Yosemite and earlier version.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Install Perian for QuickTime
 
 As the main reason that QuickTime can't play MP4 on Mac is the lack of certain codecs, you can manually add the codec pack. The free add-on called **Perian** is a perfect mate for QuickTime. With Perian installed, QuickTime Player will support a much wider range of codecs, including MP4, AVI or[playing MKV on Mac](https://tools.techidaily.com/macxdvd/products/). Check the detailed formats supported (Perian is no longer under development and does not work with QuickTime 10 or above):
@@ -118,6 +136,9 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/candice.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
@@ -144,10 +165,16 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 [\[Solved\] Play MP4 Video with No Sound Issue](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 [Best Free MKV Video Player for macOS](https://www.macxdvd.com/mac-dvd-video-converter-how-to/best-free-mkv-player-for-mac.htm 
 ) 
 
@@ -157,6 +184,9 @@ Related Articles
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -171,6 +201,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -202,3 +235,43 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>[New] Swiftly Start Sharing Joy  Installing the iFunny Meme App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-peak-of-data-preservation-cloud-service-guide/"><u>[New] The Peak of Data Preservation  Cloud Service Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>[Updated] Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-thriving-in-the-digital-age-mastering-facebook-interaction/"><u>[Updated] In 2024, Thriving in the Digital Age  Mastering Facebook Interaction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-trimming-footage-for-insta-on-macos/"><u>[Updated] In 2024, Trimming Footage for Insta on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-quick-convert-srt-files-to-text-a-step-by-step-manual/"><u>[Updated] Quick-Convert SRT Files to Text  A Step-by-Step Manual</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-samsung-ubd-k8500-2023-edition-analysis/"><u>[Updated] Samsung UBD-K8500  2023 Edition Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>[Updated] Tech-Assisted Jogs  Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[Updated] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-traffic-lure-top-artisan/"><u>[Updated] Traffic Lure Top Artisan</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmask-subject-with-backdrop-blanket-removal/"><u>[Updated] Unmask Subject with Backdrop Blanket Removal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-technological-trendsetters-exclusive-picks/"><u>2024 Approved  Technological Trendsetters - Exclusive Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>2024 Approved  The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>2024 Approved  Unveiling Mastery  The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-recordevaluator-critique/"><u>In 2024, RecordEvaluator Critique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-2023-shoppers-guide-to-innovative-360-cameras-and-systems/"><u>In 2024, The 2023 Shopper’s Guide to Innovative 360 Cameras & Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-makeover-easy-avatar-construction/"><u>In 2024, The Metaverse Makeover  Easy Avatar Construction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>In 2024, The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-font-customization-in-ae/"><u>In 2024, The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-srt-resource-for-complete-understanding/"><u>In 2024, The Ultimate SRT Resource for Complete Understanding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-for-virtual-reality-gaming-software-2023-guide/"><u>In 2024, Top Picks for Virtual Reality Gaming Software - 2023 Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unexpected-angle-alterations-in-instagram-video-posts/"><u>In 2024, Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>In 2024, Unleash Your Creativity  The Leading Phone Apps for Image Stickers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-audio-gradients-in-ableton-for-2024/"><u>Streamlining Audio Gradients in Ableton for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-virtual-music-showcase-for-2024/"><u>Superior Virtual Music Showcase for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/teleportation-and-time-warp-techniques-for-visual-effects-for-2024/"><u>Teleportation and Time Warp Techniques for Visual Effects for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-aerial-editors-handbook-mastering-the-art-of-drone-video-editing-for-2024/"><u>The Aerial Editor's Handbook  Mastering the Art of Drone Video Editing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-using-kinemaster-techniques-and-top-online-video-editors-for-2024/"><u>The Art of Using KineMaster  Techniques and Top Online Video Editors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-audio-editors-journey-through-garageband-for-2024/"><u>The Complete Audio Editor's Journey Through GarageBand for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms-for-2024/"><u>The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-s17-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo S17 Phone Network-Ready</u></a></li>
+</ul></div>

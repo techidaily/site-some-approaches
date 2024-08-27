@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Cropping Your Screen Capture Images in macOS"
-date: 2024-08-26 21:53:34
-updated: 2024-08-27 10:49:41
+date: 2024-08-26T16:28:04.828Z
+updated: 2024-08-27T16:28:04.828Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/bae0b31bcf0f834a2cb8a8745d5e2bc7c01fc184bad894f3a2d80e9f7aedc125.jpg
@@ -49,6 +49,9 @@ Anybody who needs video screenshots and cropping the recording on Mac can use [M
 
 Actually, the Mac computer has many built-in tools to allow you to crop a screenshot and even edit the screenshot. So, we will find them out and show you the detailed steps to help you keep a portion of an image and discard the unwanted areas. BTW, if you are interested in a third-party Mac screenshot cropper, we will also introduce one to you.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1\. Crop a Screenshot on Mac with Hotkeys
 
 \* Screenshot types: Image screenshot (entire screenshot or cropped screenshot).
@@ -78,6 +81,10 @@ To take screenshots and crop the size on Mac as soon as possible, using a set of
 
 ![Crop Screenshot on Mac with Hotkeys](https://www.macxdvd.com/mac-video-converter-pro/article-image/mac-take-screenshot-keys.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Method 2\. Screenshot on Mac and Crop with Built-in Grab or Screenshot App
 
 \* Screenshot types: Image screenshots (entire screen, specific window, or cropped screenshot).
@@ -112,6 +119,12 @@ If you are using Screenshot app on the newer macOS, you need to click the screen
 
 ![Crop Screenshot on Mac with Grab](https://www.macxdvd.com/mac-video-converter-pro/article-image/grab-crop-screenshot-mac.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Method 3\. Crop a Screenshot on Mac with Preview 
 
 \* Crop and edit screenshots.
@@ -139,6 +152,12 @@ On Mac computer, we usually view images with Preview and it can also be used to 
 
 ![Crop Screenshot on Mac with Preview](https://www.macxdvd.com/mac-video-converter-pro/article-image/crop-screenshot-with-preview.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 4\. Crop a Screenshot on Mac with Photos App
 
 \* Take, crop and edit screenshots.
@@ -194,6 +213,9 @@ Cropping screenshots on Mac is not a difficult thing, but you need some help if 
 
 ![Mac Screen Recorder](https://www.macxdvd.com/mac-video-converter-pro/article-image/macx-video-record-crop.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Frequently Asked Questions
 
 ### 1\. Why can’t I crop screenshots on Mac?
@@ -217,6 +239,9 @@ Before cropping, you need to take screenshots first. So, you need to grasp the f
 * Command-Shift-4-the Space bar: Captures a window or menu.
 * Command-Shift-5: Open the screenshot toolbar to take screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 5\. How to edit a screenshot on Mac?
 
 To edit a screenshot on Mac, like changing angle, rotation and changing color, you can use Preview or Photos app on Mac.
@@ -225,6 +250,9 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/candice.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Candice Liu ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
@@ -239,6 +267,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [4K Screen Recorder Mac: Capture 4K UHD at 60fps/30fps](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic5.jpg)
@@ -247,14 +278,23 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Top 3 Free Online Screen Recorder - Record Screen with No Time Length Limit](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Top 16 Free Screen Recorder for Mac to Capture Screen](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [\[Tutorial\] How to Record Screen on Mac with Audio - Several Easiest Ways Shared](https://tools.techidaily.com/macxdvd/products/) 
 
 
@@ -263,6 +303,9 @@ Related Articles
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -308,3 +351,44 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>[New] In 2024, Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-revenue-revolution-a-practical-guide-for-monetization/"><u>[New] Youtube's Revenue Revolution  A Practical Guide for Monetization</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-6-methods-for-capturing-your-netflix-viewing-experience-on-mac-for-2024/"><u>[Updated] Top 6 Methods for Capturing Your Netflix Viewing Experience on Mac for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-transforming-the-financial-industry-through-advanced-technologies-ai-robotic-process-automation-and-optical-character-recognition/"><u>1. Transforming the Financial Industry Through Advanced Technologies: AI, Robotic Process Automation & Optical Character Recognition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows/"><u>2024 Approved  A Comprehensive Guide to LUT Customization in Premiere Pro Workflows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-cloud-ocr-sdk-comprehensive-guide-on-third-party-licensing-agreements-and-usage-policies/"><u>ABBYY Cloud OCR SDK: Comprehensive Guide on Third-Party Licensing Agreements & Usage Policies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-cloud-services-agreement-understanding-your-data-privacy-rights/"><u>ABBYY Cloud Services Agreement: Understanding Your Data Privacy Rights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-conducts-worldwide-study-on-client-acclimatization-methodologies/"><u>ABBYY Conducts Worldwide Study on Client Acclimatization Methodologies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-rpa-abbyy-blog/"><u>ABBYY プロセスインテリジェンスが RPA性能向上に果たす役割: ABBYY Blog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/achieve-seamless-user-experience-with-our-advanced-cookiebot-technology-solutions/"><u>Achieve Seamless User Experience with Our Advanced Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/alter-default-location-for-mac-captured-images-for-2024/"><u>Alter Default Location for Mac Captured Images for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/automated-data-capture-with-cookiebot-boost-your-conversion-rates/"><u>Automated Data Capture with Cookiebot: Boost Your Conversion Rates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/automated-lead-generation-with-the-help-of-cookiebot-technology/"><u>Automated Lead Generation with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>Child's Play in the Sky  Top Kid-Friendly Drones List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-driven-performance-boost-your-sites-engagement-and-conversions/"><u>Cookiebot-Driven Performance: Boost Your Site's Engagement and Conversions</u></a></li>
+<li><a href="https://win11.techidaily.com/decode-delay-quick-fixes-for-overcoming-windows-setup-stalls/"><u>Decode Delay: Quick Fixes for Overcoming Windows Setup Stalls</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-g2-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo G2</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-15-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 15 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-zero-30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Zero 30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-marathon-of-martainment-essential-steps-in-your-ai-powered-process-automation-quest/"><u>Mastering the Marathon of MarTainment: Essential Steps in Your AI-Powered Process Automation Quest</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-web-presence-advanced-techniques-to-climb-above-the-baseline-page-rank/"><u>Mastering Web Presence: Advanced Techniques to Climb Above the Baseline Page Rank</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/navigating-the-digital-shift-best-practices-for-supplier-accounting/"><u>Navigating the Digital Shift: Best Practices for Supplier Accounting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-executive-appointment-at-abbyy-gabrielle-lukianchuk-as-the-next-cmo/"><u>New Executive Appointment at ABBYY: Gabrielle Lukianchuk as the Next CMO</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/nomme-directeur-financier-chez-james-ritter/"><u>Nommé Directeur Financier Chez James Ritter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimisez-la-gestion-de-vos-credits-immobiliers-a-la-caisse-depargne-bretagne-pays-de-loire-avec-notre-solution-documentaire-complete-et-efficace/"><u>Optimisez La Gestion De Vos Crédits Immobiliers À La Caisse D'Epargne Bretagne Pays De Loire Avec Notre Solution Documentaire Complète Et Efficace</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimized-site-interaction-with-advanced-cookiebot-technology/"><u>Optimized Site Interaction with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/partnership-announcement-abbyy-teams-up-with-carahsoft-for-enhanced-enterprise-solutions-delivery/"><u>Partnership Announcement: ABBYY Teams Up with Carahsoft for Enhanced Enterprise Solutions Delivery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/revive-your-phone-and-enhance-productivity-with-multiple-displays-plus-transcribe-songs-effortlessly-on-the-abbyy-platform/"><u>Revive Your Phone & Enhance Productivity with Multiple Displays + Transcribe Songs Effortlessly on the ABBYY Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selective-picks-for-audible-transformation-technologies-for-2024/"><u>Selective Picks for Audible Transformation Technologies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-iphone-photos-to-digital-textbooks-with-finereader-pdf-ocr-technology-on-android-devices/"><u>Transform Your iPhone Photos to Digital Textbooks with FineReader PDF OCR Technology on Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-abbyys-approach-to-user-data-protection-and-use-of-cookies/"><u>Understanding ABBYY's Approach to User Data Protection and Use of Cookies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-external-tech-solutions-an-insight-into-third-party-technologies/"><u>Understanding External Tech Solutions: An Insight Into Third-Party Technologies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/standing-viewers-preferences-in-thumbnail-sizes-for-2024/"><u>Understanding Viewers' Preferences in Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-new-markets-how-digital-twins-and-process-simulations-pave-the-way-for-enterprise-growth/"><u>Unleashing New Markets: How Digital Twins & Process Simulations Pave the Way for Enterprise Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-business-success-how-process-intelligence-transforms-operations-insights-from-the-abbyy-experts/"><u>Unlocking Business Success: How Process Intelligence Transforms Operations - Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-tailored-marketing-solutions-through-advanced-cookieless-tracking-tools-like-cookiebot/"><u>Unlocking Tailored Marketing Solutions Through Advanced Cookieless Tracking Tools Like Cookiebot</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/alleled-video-grabber-suite-your-download-delight/"><u>Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional DVD Drives on Your MacPro, iMac or MacAir - Easy Fixes!
-date: 2024-08-25 21:59:29
-updated: 2024-08-27 12:11:38
+date: 2024-08-26T16:25:31.005Z
+updated: 2024-08-27T16:25:31.005Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb81eaf0425c85e3bbe8a07c5a.jpg
@@ -47,6 +47,9 @@ If you are one of the Mac users subjected to DVD won't play on MacBook Pro/Air/i
 * [2\. How to Solve Mac Won't Play DVD Issue](https://tools.techidaily.com/macxdvd/products/)
 * [3\. Top Solutions to Fix DVD Won't Play on Mac Issue](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Rip DVD to QT MP4 MOV Digital to Play on Mac without DVD Drive
 
 Use [**MacX DVD Ripper Pro**](https://tools.techidaily.com/macxdvd/products/) to copy protected DVDs on macOS, no matter 99-title DVD, Disney oversized 75GB DVD, Region Code DVD, damaged DVD or unplayable DVD and so on. You can rip any DVD to MP4, MOV, M4V, USB drive for QuickTime playback on Mac without using DVD drive, nor "DVD not playing on Mac" error. 
@@ -71,12 +74,18 @@ Generally, there are many reasons leading to DVD not playing issues on Mac. You 
 
 ![DVD won't play on mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-play-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 5\. Check DVD region. If you have an issue with your Mac when playing DVD you insert it, check if it is region issue with your DVD. For example, a UK DVD in region 2 won't be played on a USA DVD player. See how to [remove region code from DVD](https://tools.techidaily.com/macxdvd/products/). 
 
 6\. Your are playing some unsupported discs like commercial DVDs, or store-bought DVDs etc. If so, you may get the message "supported disc not available"; and your DVD player may refuse to play DVD. See how to [remove DVD copy protections](https://tools.techidaily.com/macxdvd/products/), best DVD ripper for Mac. 
 
 7\. DVD drive issue or hardware issue related to DVD drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Solve the Problem When Mac Won't Play any DVD 
 
 **1\. Resort to cleaning kits to clean DVD discs.** 
@@ -143,10 +152,16 @@ In most cases, your DVD won't play on Mac just because the DVD you are playing i
 
  Step 1\. [Free download ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../seoimage/download-icon-step.png)](https://tools.techidaily.com/macxdvd/products/) to convert DVD disc that won't play on Mac due to protections like Disney X-project protection, Sony ARccOS, Lionsgate DRM, region code 1-6, CSS, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Step 2\. Rip DVD to USB flash drive, hard drive, MP4, MOV, MKV, MEPG-2, VOB, ISO image, AVCHD, AVI, MP3, etc. and play the DVD video on Mac.
 
 ![digitize DVD to MP4 for playback on Mac without DVD drive or player](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-to-mp4-700.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  Step 3\. "Safe Mode" is available to stably rip latest protected DVD like 99-title DVD, oversized 75GB DVD, bad sector DVD, AV DVD, workout DVD, etc. without crash issue. 
 
 _Disclaimer: This post is to fix the problem on playing DVD discs on Mac computer and show users how to digitalize DVD. It does not in any way advocate ripping a DVD for any commercial or other illegal use. Please consult the law in your country before you convert any disc._
@@ -157,6 +172,9 @@ ABOUT THE AUTHOR
 
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
 
 
@@ -177,10 +195,16 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [DVD Player Error 70001 Fixed - Change Region for Unlimited Times](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 [How to Play DVD on Mac without Mac SuperDrive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
@@ -193,6 +217,9 @@ Related Articles
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -207,6 +234,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -238,3 +268,57 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-key-elements-of-viral-success-in-instagram-videos/"><u>[New] 2024 Approved  Key Elements of Viral Success in Instagram Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-adding-dynamic-blurs-to-ai-designed-graphics/"><u>[New] In 2024, Adding Dynamic Blurs to AI-Designed Graphics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infusing-your-art-with-captivating-collage-vistas/"><u>[New] Infusing Your Art with Captivating Collage Vistas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-tools-for-live-gameplay-screen-grabs-for-2024/"><u>[Updated] Best Tools for Live Gameplay Screen Grabs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-embarking-on-style-and-niche-discovery-journey-for-2024/"><u>[Updated] Embarking on Style & Niche Discovery Journey for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-accelerate-your-adrenaline-the-ultimate-5-racing-game-list/"><u>[Updated] In 2024, Accelerate Your Adrenaline  The Ultimate 5 Racing Game List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exploring-ricoh-theta-s-in-full-review/"><u>[Updated] In 2024, Exploring Ricoh Theta S in Full Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-innovation-hub-explore-over-120-creative-title-concepts-to-personalize-your-storytelling/"><u>[Updated] In 2024, Snapchat Innovation Hub  Explore over 120 Creative Title Concepts to Personalize Your Storytelling</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-best-online-placements-for-youtube-video-popularity/"><u>2024 Approved  Best Online Placements for YouTube Video Popularity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-outstanding-backdrops-for-video-conferencing/"><u>2024 Approved  Outstanding Backdrops for Video Conferencing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-step-by-step-guide-to-initiating-a-tiktok-stream-from-desktop/"><u>2024 Approved  Step-by-Step Guide to Initiating a TikTok Stream From Desktop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-partners-with-bizagi-pioneering-intelligent-automation-for-enterprise-digital-transformation/"><u>ABBYY Partners with Bizagi: Pioneering Intelligent Automation for Enterprise Digital Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-unveils-advanced-pdf-and-ocr-innovations-at-aba-techshow-2019-transforming-legal-document-processing/"><u>ABBYY Unveils Advanced PDF & OCR Innovations at ABA Techshow 2019: Transforming Legal Document Processing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-vantage-and-timeline-leading-the-way-in-isgs-selection-of-intelligent-automation-innovators/"><u>ABBYY Vantage and Timeline: Leading the Way in ISG's Selection of Intelligent Automation Innovators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-peak-engagement-for-podcast-drops/"><u>Analyzing Peak Engagement for Podcast Drops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/boost-your-website-with-advanced-cookiebot-analytics-and-personalization-techniques/"><u>Boost Your Website with Advanced Cookiebot Analytics and Personalization Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/boosting-website-performance-with-cookiebots-advanced-tracking-solutions/"><u>Boosting Website Performance with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/capturing-the-world-from-anywhere-9-must-follow-steps/"><u>Capturing the World From Anywhere  9 Must-Follow Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-business-partnership-contract-with-abbyy-timeline-secure-your-enterprise-collaboration/"><u>Comprehensive Business Partnership Contract with ABBYY Timeline: Secure Your Enterprise Collaboration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-driven-solutions-enhancing-your-digital-marketing-strategy/"><u>Cookiebot-Driven Solutions: Enhancing Your Digital Marketing Strategy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-personalization-technology/"><u>Cookiebot-Enhanced Personalization Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-user-experience-the-secret-behind-advanced-website-tracking/"><u>Cookiebot-Enhanced User Experience: The Secret Behind Advanced Website Tracking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-empowering-your-site-with-advanced-tracking-technology/"><u>Cookiebot: Empowering Your Site with Advanced Tracking Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digitales-wachstum-mit-leichtigkeit-erleben-entdecken-sie-die-neuesten-funktionen-von-abbyy-vantage-2-and-der-neuen-ki-plattform/"><u>Digitales Wachstum Mit Leichtigkeit Erleben: Entdecken Sie Die Neuesten Funktionen Von ABBYY Vantage 2 & Der Neuen KI-Plattform!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-integration-get-started-with-abbyy-flexicapture-through-the-reliable-automation-anywhere-connector-click-to-download/"><u>Effortless Integration: Get Started with ABBYY FlexiCapture Through the Reliable Automation Anywhere Connector - Click to Download!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/elevate-your-website-insights-using-advanced-cookiebot-solutions/"><u>Elevate Your Website Insights Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/empowering-intelligent-document-processing-through-abbyy-marketplace-seamless-integration-of-large-language-models-and-retrieval-augmented-generation/"><u>Empowering Intelligent Document Processing Through ABBYY Marketplace: Seamless Integration of Large Language Models and Retrieval-Augmented Generation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-security-and-simplicity-in-client-onboarding-with-abbyy-identity-verification-solution/"><u>Enhance Security and Simplicity in Client Onboarding with ABBYY Identity Verification Solution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-website-with-advanced-cookiebot-tracking-technology/"><u>Enhance Your Website with Advanced Cookiebot Tracking Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-websites-performance-with-the-power-of-cookiebot-technology/"><u>Enhance Your Website's Performance with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhanced-user-experience-with-dynamic-ad-targeting-powered-by-cookiebot/"><u>Enhanced User Experience with Dynamic Ad Targeting - Powered by Cookiebot</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-corporate-efficiency-with-abbyys-cognitive-capture-solutions-for-digital-transformation/"><u>Enhancing Corporate Efficiency with ABBYY's Cognitive Capture Solutions for Digital Transformation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-engagement-with-cookiebot-technology-a-smart-marketing-move/"><u>Enhancing Engagement with Cookiebot Technology: A Smart Marketing Move</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-acer-touchpad-driver-upgrades-for-seamless-windows-11-experience-download-today/"><u>Essential Acer Touchpad Driver Upgrades for Seamless Windows 11 Experience - Download Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-bespoke-content-with-our-cookiebot-technology-integration/"><u>Experience Bespoke Content with Our Cookiebot Technology Integration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-unseen-dynamics-in-informal-procedures-through-advanced-process-analytics/"><u>Exploring Unseen Dynamics in Informal Procedures Through Advanced Process Analytics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/future-of-cosmetics-youtube-gurus-on-the-rise/"><u>Future of Cosmetics  YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-realtek-audio-up-and-running-fixes-for-when-it-wont-beep-or-show-up/"><u>Get Your Realtek Audio Up and Running: Fixes for When It Won't Beep or Show Up</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/harnessing-advanced-technology-for-enhanced-supply-chains-key-takeaways-from-abbyy-industry-experts-talks/"><u>Harnessing Advanced Technology for Enhanced Supply Chains: Key Takeaways From ABBYY Industry Experts Talks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-odt-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .odt file Online with DigiSigner</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-privacy-pioneers-explore-instagram-stories-secretly/"><u>In 2024, Privacy Pioneers  Explore Instagram Stories Secretly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovative-partnership-abbyy-and-xerox-join-forces-through-new-trademark-license-agreement/"><u>Innovative Partnership: ABBYY and Xerox Join Forces Through New Trademark License Agreement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovative-tools-revolutionize-communication-and-learning-memojis-on-facetime-scanning-tech-for-academia-and-canine-behavior-insights-explore-the-latest-fro27/"><u>Innovative Tools Revolutionize Communication & Learning: Memojis on FaceTime, Scanning Tech for Academia & Canine Behavior Insights - Explore the Latest From the ABBYY Blog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/innovatives-scannen-mcdonalds-integriert-abbyy-ocr-in-die-mobile-anwendungstechnik/"><u>Innovatives Scannen - McDonald's Integriert ABBYY OCR in Die Mobile Anwendungstechnik</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itochu-leverages-abbeyys-smart-doc-tech-for-revolutionary-transaction-management/"><u>ITOCHU Leverages ABBEYY's Smart Doc Tech for Revolutionary Transaction Management</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lannonce-dune-mise-a-jour-majeure-abbyy-renomme-le-service-de-reconnaissance-en-finereader-server-la-derniere-innovation-dans-lanalyse-des-documents/"><u>L'annonce D'une Mise À Jour Majeure : ABBYY Renomme Le Service De Reconnaissance en FineReader Server, La Dernière Innovation Dans L'analyse Des Documents.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-languages-journey-two-years-spectacular-ambitions/"><u>Mondly Languages' Journey: Two Years, Spectacular Ambitions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/watch-asmr-video-gems-online-for-2024/"><u>Must-Watch ASMR Video Gems Online for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-how-to-fix-freezing-issues-in-fallout-4-on-pc/"><u>Troubleshooting Made Easy: How to Fix Freezing Issues in Fallout 4 on PC</u></a></li>
+</ul></div>
