@@ -1,7 +1,7 @@
 ---
 title: Professional's Guide to the Lenovo ThinkBook 13X Gen 4 - Unveiling an Ultra-Mobile Powerhouse
-date: 2024-08-26 18:29:40
-updated: 2024-08-29 12:53:34
+date: 2024-08-30T21:16:31.689Z
+updated: 2024-08-31T21:16:31.689Z
 tags:
   - product-reviews
 categories:
@@ -128,6 +128,9 @@ Expand
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Lenovo ThinkBook 13x Gen 4 is a sleek, familiar build that most people who've used a ThinkBook will recognize. Encased in a premium aluminum chassis, I found its minimalist design exuded professionalism but looked contemporary and sleek. Whereas Lenovo might've gone a bit more experimental with the [ThinkBook Plus Gen 4 2-in-1 laptop](https://video-capture.techidaily.com/in-2024-streamline-communications-with-these-best-5-capture-tools/), they've stuck to basics for the 13x Gen 4\. Its build reminded me of the basic yet sleek [ThinkPad Z13 Gen 2 laptop](https://youtube-tips.techidaily.com/024-approved-quick-steps-to-quality-content-via-studio-editor/); it even had some similar specs.
@@ -150,6 +153,9 @@ Close
 
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
@@ -164,10 +170,16 @@ Jerome Thomas / How-To Geek
 
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Of its features, the ThinkBook 13x Gen 4's display was the crème de la crème for me. It isn't an OLED display but a glossy IPS with several top-tier features, like Corning Gorilla Glass, EyeSafe Certification, and Dolby Vision. Although it measures just 13.5 inches, it makes up for the loss of surface with a 2.8K (2,880 x 1,920) resolution that seamlessly displays graphics, photos, and videos in crispy-clear goodness.
@@ -188,6 +200,9 @@ Close
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With an Intel Core Ultra 5 125H CPU with an 18MB cache, 14 cores, and 18 threads, my everyday workload and multitasking on the ThinkBook 13x was a cinch. On a PCMark 10 benchmark, the laptop scored 6,210 overall, with fairly high scores in Essentials (9,463) and Digital Content Creation (8,638). Productivity wasn't far behind, with a score of 7,951.
@@ -208,10 +223,17 @@ Jerome Thomas / How-To Geek
 
  When I ran a benchmark with 3DMark's Time Spy, the ThinkBook 13x scored an overall 3,456\. The CPU scored 7,876, while the graphics scored significantly lower at 3,145\. Playing "Red Dead Redemption 2" at 1080p would give a frame rate of 40FPS, while the ThinkBook 13x could eke out up to 120FPS during Apex Legends at 1080p.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Speakers, Camera, and Microphones
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Laptop speakers are rarely that good, but the ThinkBook 13x Gen 4 has a quad-speaker system with two 2W woofers and two 2W tweeters by Harman Kardon. This, accompanied by Dolby Atmos, made the speakers a joy to listen to. While they aren't the best speakers I've heard on a laptop, they were perfectly satisfactory when streaming shows, listening to music, and even gaming.
@@ -238,12 +260,19 @@ Close
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On average, the ThinkBook 13x Gen 4's battery drained at a rate of about 0.38% per minute (or about 22.8% per hour). That means I got about four hours of battery life out of a full charge. This was usually at 80 to 100% screen brightness, or about 400 to 500 nits, respectively. It's worth noting that the battery life benchmark for local video playback was 27 hours at 150 nits brightness. Based on my battery drainage, I don't believe the battery would last 27 hours at that brightness level. Nonetheless, the ThinkBook had an average to decent battery life when I used it.
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
  If you're looking for an ultra-portable laptop that's powerful enough to handle many tasks at once and serve as a primary device for consuming and creating media, you won't need to look further than the [Lenovo ThinkBook 13x Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036). But it does have its limits—a smaller screen size won't be for everyone, the integrated graphics do well but aren't as powerful for gamers, and the keyboard could be better.
@@ -254,6 +283,9 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 #####  Lenovo ThinkBook 13x Gen 4
 
 8/ 10 
@@ -276,3 +308,44 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-insta-snap-confirmation-essentials-unveiled/"><u>[New] 2024 Approved  Insta Snap Confirmation  Essentials Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-bandicam-reviewed-the-latest-tech-enhancements-and-tips/"><u>[Updated] 2024 Approved  Bandicam Reviewed  The Latest Tech Enhancements and Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-complete-guide-to-utilizing-youtubes-adsense-for-success/"><u>[Updated] In 2024, A Complete Guide to Utilizing YouTube’s AdSense for Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-stardew-key-highlights-from-ginger-isle-for-2024/"><u>[Updated] Mastering Stardew  Key Highlights From Ginger Isle for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-loopers-toolkit/"><u>2024 Approved  Looper's Toolkit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/celebrate-thanksgiving-top-family-friendly-movies-for-a-festive-holiday/"><u>Celebrate Thanksgiving: Top Family-Friendly Movies for a Festive Holiday</u></a></li>
+<li><a href="https://article-files.techidaily.com/deciphering-cameras-smart-hdr-features-and-their-impact/"><u>Deciphering Camera's Smart HDR Features and Their Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-methods-for-transforming-your-dvdmedia-into-mp4-video-format-using-your-mac-computer/"><u>Easy Methods for Transforming Your DVDMedia Into MP4 Video Format Using Your Mac Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exclusive-macxdvd-sale-save-up-to-65-on-mac-software-bundle-and-amazing-discounts/"><u>Exclusive MacXDVD Sale: Save Up to 65%% on Mac Software Bundle & Amazing Discounts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-macx-dvd-ripper-pro-today-rip-any-disc-to-mp4flvmov-without-cost-perfect-for-ios-devices/"><u>Get MacX DVD Ripper Pro Today: Rip Any Disc to MP4/FLV/MOV without Cost – Perfect for iOS Devices!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/groups-of-flying-robots-for-2024/"><u>Groups of Flying Robots for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-access-and-download-html5-movies-without-charge-a-guide-for-windows-and-macos/"><u>How to Access and Download HTML5 Movies without Charge – A Guide for Windows and macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-enable-all-capabilities-in-macx-dvd-ripper-pro-windows-version-discover-solutions-here/"><u>How to Enable All Capabilities in MacX DVD Ripper Pro (Windows Version) - Discover Solutions Here!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-12-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 12 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c51-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C51 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leading-ios-apps-comparable-to-iexplorer-for-seamless-mobile-file-handling-and-data-exchange/"><u>Leading iOS Apps Comparable to iExplorer for Seamless Mobile File Handling and Data Exchange</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-screen-capture-in-linux-with-these-tools-for-2024/"><u>Mastering Screen Capture in Linux with These Tools for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-the-professional-lands-cooked-by-audacity/"><u>Navigating the Professional Lands Cooked by Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/professionelle-videokompression-von-mp4-bis-mkv-die-fuhrenden-kompressorlosungen/"><u>Professionelle Videokompression Von MP4 Bis MKV - Die Führenden Kompressorlösungen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/professionnel-macx-transforme-votre-video-en-mp4mkvaviwmv-pour-ios-et-android/"><u>Professionnel MacX : Transforme Votre Vidéo en MP4/MKV/AVI/WMV Pour iOS Et Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-how-to-securely-obtain-the-pokemon-go-apk-for-android-users/"><u>Quick Guide: How to Securely Obtain the Pokémon GO APK for Android Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-audio-issues-on-mozilla-firefox-corrected/"><u>Resolved: Audio Issues on Mozilla Firefox Corrected</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-non-responsive-printer-in-windows-nt-environment/"><u>Revive Non-Responsive Printer in Windows NT Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safety-and-legality-of-using-handbrake-for-dvd-ripping-and-video-conversion/"><u>Safety & Legality of Using HandBrake for DVD Ripping & Video Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/smart-tv-showdown-the-benefits-of-apple-tv-roku-and-chromecast-unveiled/"><u>Smart TV Showdown: The Benefits of Apple TV, Roku, and Chromecast Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-seamlessly-move-your-iphone-apps-and-data-to-mac-illustrated-with-images/"><u>Step-by-Step Guide: Seamlessly Move Your iPhone Apps and Data to Mac, Illustrated with Images</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-swift-driver-updates-for-lenovo-x240/"><u>Step-by-Step Guide: Swift Driver Updates for Lenovo X240</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-for-seamless-mp4-to-mpg-upgrades-across-macos-and-windows-systems/"><u>Step-by-Step Tutorial for Seamless MP4 to MPG Upgrades Across macOS & Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-efficaces-pour-gerer-lechec-de-lecture-sur-un-disque-dur-mac-defectueux/"><u>Stratégies Efficaces Pour Gérer L'Échec De Lecture Sur Un Disque Dur Mac Défectueux</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-solving-the-4k-video-downloaders-failed-video-extraction-problem/"><u>Troubleshooting Guide: Solving the 4K Video Downloader's Failed Video Extraction Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-kid-friendly-holiday-movie-guide-classic-and-modern-picks-for-the-festive-season/"><u>Ultimate Kid-Friendly Holiday Movie Guide: Classic and Modern Picks for the Festive Season</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eling-the-selection-process-for-highlighted-youtube-comments-for-2024/"><u>Unraveling the Selection Process for Highlighted YouTube Comments for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unrivaled-efficiency-macx-dvd-ripper-pro-v55-dominates-global-market-master-of-all-disc-formats/"><u>Unrivaled Efficiency - MacX DVD Ripper Pro V5.5 Dominates Global Market, Master of All Disc Formats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vanguard-skin-initialization-completed-smooth-play-in-valorant-ensured/"><u>Vanguard Skin Initialization Completed – Smooth Play in Valorant Ensured</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vielschichtigkeit-der-sprache-deutsche-begrussungen-die-nicht-hallo-lauten/"><u>Vielschichtigkeit Der Sprache: Deutsche Begrüßungen, Die Nicht Hallo Lauten</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766286977-mp3-mac-and-windowsmp3/"><u>おすすめ MP3 圧縮ツール: Mac & Windows両用で高音質フリーソフトウェア！オンラインで無料配信を、パワフルなMP3サイズ小振り化【有料版も】</u></a></li>
+</ul></div>

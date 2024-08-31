@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disconnecting Printers in Windows Operating System (Versions 11 & 10)
-date: 2024-08-28 22:16:45
-updated: 2024-08-29 11:19:26
+date: 2024-08-30T21:19:25.015Z
+updated: 2024-08-31T21:19:25.015Z
 tags:
   - desktop
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 2. If you want to completely remove a printer (and the associated drivers), use the Device Manager method. This is helpful if you’re [troubleshooting issues with the printer](https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/).
 3. The third method is a command line method that removes the printer’s connection from your PC, just like the Settings app does.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ##  Uninstall the Printer Using the Settings App 
 
  If you’re on a Windows 11 PC, head into Settings > Bluetooth & Devices > Printers & Scanners. On Windows 10, navigate to Settings > Devices > Printers & Scanners.
@@ -46,14 +49,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Remove' highlighted for a printer in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-printer-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  Windows has removed the selected printer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Uninstall a Printer Using Device Manager
 
  To remove a Printer with Device Manager, first [open Device Manager](https://desktop-recording.techidaily.com/updated-2024-approved-easily-record-lenovo-laptop-screen-activity/) by right-clicking the Start Menu icon and selecting "Device Manager."
 
 !['Device Manager' highlighted in Power User Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-open-windows-device-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "View" in the menu bar, then enable "Show Hidden Devices" to ensure your printer appears even if it's hidden. 
 
 !['Show Hidden Devices' highlighted in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-view-hidden-devices-device-manager.jpg) 
@@ -62,10 +81,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall Device' highlighted for a printer in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-uninstall-printer-device-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  In the "Uninstall Device" window, enable the "Attempt to Remove the Driver for This Device" (Windows 11) or "Delete the Driver Software for This Device" (Windows 10) option. Then, click "Uninstall."
 
 ![Delete a printer and its drivers in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-delete-printer-driver-device-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait while Device Manager uninstalls the selected printer. Then, bring the changes into effect by [restarting your Windows 11](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) or [Windows 10](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) PC.
 
 ##  Use PowerShell to Remove a Printer
@@ -82,14 +108,23 @@ Get-Printer
 
 !['Get-Printer' typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-view-installed-printers-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  From the listed printers, note the name of the printer you want to remove. Then, type the following command, replacing "PrinterName" with the noted name, and press Enter. Make sure the printer’s name is enclosed in double quotes.
 
 Remove-Printer -Name “PrinterName”
 
 !['Remove-Printer' typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-remove-printer-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  PowerShell has removed the specified printer. You can run **Get-Printer** again to confirm that it has been removed. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Delete the Printer's Installed Apps
 
  Most printers (if not all) install their own manufacturer apps when you add a printer to your PC. If you’ve gotten rid of your printer for good, you should remove these installed apps as well. Here’s how to do that.
@@ -104,6 +139,9 @@ Remove-Printer -Name “PrinterName”
 
 !['Uninstall' highlighted for a printer app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-delete-printer-app-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Uninstall" in the prompt.
 
 ###  On Windows 10
@@ -120,6 +158,9 @@ Remove-Printer -Name “PrinterName”
 
  After removing the printer, [clean up any pending print jobs](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/) and leftover registry keys. This ensures all traces of your printer are gone from your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ###  Clean Up the Print Spooler
 
  Open Run by pressing Windows+R, type the following command, and press Enter:
@@ -138,6 +179,11 @@ C:\Windows\System32\spool\PRINTERS
 
 ![The trash can icon highlighted for the print spooler files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-delete-print-spooler-files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  Return to the Services window we opened previously, right-click "Print Spooler" again, and select "Start."
 
 ###  Remove the Deleted Printer’s Leftover Registry Keys
@@ -158,6 +204,9 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
 
 !['Delete' highlighted for a printer's keys in Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-delete-printer-keys-registry-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  Quit Registry Editor and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/). And you’ve successfully removed a printer from your Windows machine.
 
 <ins class="adsbygoogle"
@@ -174,3 +223,53 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-selecting-the-best-ten-spotify-recording-software/"><u>[Updated] 2024 Approved  Selecting the Best Ten Spotify Recording Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-ultimate-chart-watcher-rank-tracking-of-youtube-videos/"><u>[Updated] 2024 Approved  Ultimate Chart Watcher  Rank Tracking of YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-understanding-your-absence-on-snapchat/"><u>[Updated] In 2024, Understanding Your Absence on Snapchat</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-social-crosslink-instagram-and-tiktok-guide/"><u>[Updated] Mastering Social Crosslink  Instagram & TikTok Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-no-cost-conversion-quick-and-simple-guide-to-downloading-your-kickass-movies-from-youtube-as-high-quality-mp4-files/"><u>1. No-Cost Conversion: Quick and Simple Guide to Downloading Your Kickass Movies From YouTube as High-Quality MP4 Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-behind-the-scenes-how-to-log-overwatch-games/"><u>2024 Approved  Behind the Scenes  How to Log Overwatch Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5-top-tools-for-mac-users-to-easily-rip-dvds-into-mkv-files-without-using-makemkv/"><u>5 Top Tools for Mac Users to Easily Rip DVDs Into MKV Files Without Using MakeMKV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/alle-aspekte-von-dvds-aufgeklart-verstandnis-von-formatierung-bis-zum-copyright-schutz/"><u>Alle Aspekte Von DVDs Aufgeklärt: Verständnis Von Formatierung Bis Zum Copyright-Schutz</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/android-vs-ios-vs-windows-vs-mac-comprehensive-guide-to-understanding-the-key-differences-among-popular-mobile-and-desktop-platforms/"><u>Android vs iOS vs Windows vs Mac: Comprehensive Guide to Understanding the Key Differences Among Popular Mobile and Desktop Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apeman-c450-inspection-a-comprehensive-look-at-this-economical-dash-cam-option/"><u>Apeman C450 Inspection: A Comprehensive Look at This Economical Dash Cam Option</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-dji-4k-video-editors-compared-expert-reviews-and-ratings/"><u>Best DJI 4K Video Editors Compared – Expert Reviews and Ratings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-methods-to-securely-obtain-twitch-video-content-at-no-cost-a-guide/"><u>Best Methods to Securely Obtain Twitch Video Content at No Cost: A Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-analysis-of-heictojpgcom-a-reliable-option-for-converting-heic-to-jpg-files/"><u>Comprehensive Analysis of Heictojpg.com: A Reliable Option for Converting HEIC to JPG Files?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-auf-macos-kopieren-schritt-fur-schritt-anleitung/"><u>DVD Auf macOS Kopieren: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-convert-your-dvds-on-a-mac-with-the-powerful-macx-dvd-ripping-tool-100-gratis/"><u>Effortlessly Convert Your DVDs on a Mac with the Powerful MacX DVD Ripping Tool - 100%% Gratis!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-video-conversion-speeds-leveraging-gpu-power-for-4k-and-hd/"><u>Enhancing Video Conversion Speeds: Leveraging GPU Power for 4K & HD</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/face-idiphone-x/"><u>Face IDを活用するためのiPhone X設定ガイド：初期化から本格的に始動まで</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/file-sync-solutions-top-ways-to-bring-data-home-for-2024/"><u>File Sync Solutions  Top Ways To Bring Data Home for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fixing-audio-video-mismatch-in-handbrake-a-step-by-step-guide/"><u>Fixing Audio-Video Mismatch in Handbrake - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-your-free-avi-support-bundle-works-seamlessly-on-windows-and-macos-systems/"><u>Get Your Free AVI Support Bundle - Works Seamlessly on Windows and macOS Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-complet-sur-les-techniques-de-dvd-ripping-conversion-multimedia-et-retouches-videos/"><u>Guide Complet Sur Les Techniques De Dvd Ripping, Conversion Multimédia Et Retouches Vidéos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/herausragende-software-fur-die-einfache-dvd-kopie-fuhren-sie-ihre-kollegen-an/"><u>Herausragende Software Für Die Einfache DVD-Kopie: Führen Sie Ihre Kollegen An!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/icloud-essentials-expert-guides-and-resource-hub/"><u>ICloud Essentials: Expert Guides & Resource Hub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/igniting-passion-creating-a-trending-solo-podcast-for-2024/"><u>Igniting Passion  Creating a Trending Solo Podcast for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>In 2024, The Creative's Handbook  Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-os-xmp4avimov/"><u>Mac OS X向けに、MP4/AVI/MOV形式をスムーズに変換するプロセス集めましょう</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-x-mediatransiphone-x8-plusand/"><u>Mac X Mediatransの更新：iPhone X/8 Plusをサポートしたデータバックアップ&復元機能に加えられた改良点</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macmovmp4imovieconvert-macx/"><u>Mac上でビデオをフリーにMOV/MP4にiMovie互換形式にConvertする - MacXソフトウェアガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macmp4-macx/"><u>Mac用無料MP4動態轉換工具 - MacX簡易操作、多語言支持</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-video-converter-for-macos-seamless-mp4idvd/"><u>MacX Video Converter for macOS - Seamless MP4へのiDVD動画変換ツール:</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-youtube-downloader/"><u>MacX YouTube Downloader チュートリアル - マクスペックで動画ファイルダウンロードの効果的なガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-to-mov-conversion-techniques-for-macos-users-a-comprehensive-tutorial/"><u>MP4 to MOV Conversion Techniques for macOS Users - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>New Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-simple-mac-based-dvd-ripper-and-converter-transfer-your-videos-to-ipad-seamlessly/"><u>Quick & Simple Mac-Based DVD Ripper & Converter: Transfer Your Videos to iPad Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-conversion-a-step-by-step-guide-to-adding-wmv-files-into-imovie-on-your-mac/"><u>Seamless Conversion: A Step-by-Step Guide to Adding WMV Files Into iMovie on Your Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-guide-effortlessly-downloading-and-setting-up-ios-version-17/"><u>Seamless Guide: Effortlessly Downloading and Setting Up iOS Version 17</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/secure-and-legitimate-platforms-for-free-mp3-music-downloads-a-comprehensive-guide/"><u>Secure & Legitimate Platforms for Free MP3 Music Downloads – A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/snapsnatcher-live-stream-repository/"><u>SnapSnatcher - Live Stream Repository</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-reducing-size-of-ipad-videos-while-preserving-original-quality/"><u>Step-by-Step Guide: Reducing Size of iPad Videos While Preserving Original Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-getting-started-with-freemake-for-mac-users/"><u>Step-by-Step Tutorial: Getting Started with Freemake for Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-converter-apps-of-2022-best-dvd-ripping-tools-for-mac-and-pc/"><u>Top Video Converter Apps of 2022: Best DVD Ripping Tools for Mac & PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-your-device-fix-apple-music-not-transferring-to-iphone-ipad-or-ipod/"><u>Troubleshooting Your Device: Fix Apple Music Not Transferring to iPhone, iPad, or iPod</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-seamlessly-combining-video-files-on-windows-macos-and-iphones/"><u>Ultimate Tutorial: Seamlessly Combining Video Files on Windows, macOS, and iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wiidvd/"><u>Wiiの特殊操作でDVD鑑賞可能！新ハード無しで楽しむ方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/zombie-army-4-dead-war-a-survival-guide-for-pc-gaming-troubleshooting/"><u>Zombie Army 4: Dead War - A Survival Guide for PC Gaming Troubleshooting</u></a></li>
+</ul></div>

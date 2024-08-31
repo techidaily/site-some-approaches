@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Creating an In-House Chatbot Similar to ChatGPT on a Desktop PC
-date: 2024-08-28 18:39:26
-updated: 2024-08-29 12:48:51
+date: 2024-08-30T21:23:38.409Z
+updated: 2024-08-31T21:23:38.409Z
 tags:
   - cutting-edge
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  However, it also works beautifully as just a regular old chatbot you can talk to, and we're going to show you how to run it on just about any PC out there.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Does Alpaca Compare with ChatGPT?
 
  We'll just get it out of the way up front: [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/), particularly ChatGPT running [GPT-4](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/), is smarter and faster than Alpaca at the moment.
@@ -45,6 +48,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The 13B and 30B models are quite another story. 13B is capable of providing a coherent, human-like conversation, and can answer complex questions. 30B is even more impressive, if you've got the hardware to run it, and is within striking distance of ChatGPT. It'll wax on philosophically or make a joke without missing a beat if prompted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ##  What Do You Need to Run Alpaca?
 
  Alpaca has pretty flexible system requirements. These guidelines are above the bare minimum but are good guidelines. We're also going to be installing this on Windows. If you're installing this on a system running Linux or macOS, just skip the Windows Subsystem for Linux section --- it isn't relevant to you.
@@ -69,6 +75,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  It is important that you follow these steps in the order they're given. Docker will probably break if you don't, requiring a complete reinstall of both WSL2 and Docker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ###  Install Windows Subsystem for Linux 2
 
  Microsoft's [Windows Subsystem for Linux 2 (WSL2)](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/) allows you to run Linux software in Windows. It has a low overhead and is really handy in a lot of cases. Docker for Windows relies on WSL2, so we need to install WSL2 first.
@@ -91,8 +100,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Checking that WSL2 installed Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_02h27_39.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://video-screen-grab.techidaily.com/updated-2024-approved-proven-methods-for-high-quality-webinars/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Install Docker
 
 [Docker](https://extra-hints.techidaily.com/core-concepts-of-story-making-for-2024/) is a program that lets you run programs in a "container." Containers are similar to virtual machines, but they tend to have less overhead and are more performant for a lot of applications. Serge uses Docker to make installation super convenient.
@@ -113,6 +128,12 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Docker uses WSL2 to create a VM.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Docker-stuff-running.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ###  Install GIT on Windows
 
  The last prerequisite is Git, which we'll use to download (and update) Serge automatically from Github. It isn't strictly necessary since you can always download the ZIP and extract it manually, but Git is better.
@@ -121,6 +142,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Make sure to select the option that adds Git to your system PATH.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pic-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once Git is done installing, you're ready to install Serge and Alpaca.
 
 ###  Install Serge and Alpaca
@@ -133,6 +157,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Download Serge from Github.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Downloading-from-GitHub.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  The next command you need to run is:
 
         `cp .env.sample .env`
@@ -195,6 +222,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![An example conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/pirate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  You can talk about anything you'd like with Alpaca, and you don't have to worry about what is happening to your data. It remains on your device, under your control at all times.
 
  Remember, ChatGPT, Alpaca, and other chatbots seem reliable, but they aren't at this point in time. They very much embody the sentiment: "If you can't dazzle them with brilliance, baffle them with BS." Their tendency to make things up has been dubbed "hallucinating." Do not rely on them for anything essential, especially not something critical to your job or health. They should only be used for entertainment or experimental purposes at this time.
@@ -215,3 +245,45 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/1724766099189-digiarty-software-inc/"><u>[公式] Digiarty Software, Inc のユーザーデータ取り扱い基準:プライバシーポリシー解説 - 信頼できるソフトウェア会社からの保護策</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>[New] 2024 Approved  Effortless FB Stream Setup  Using OBS on Laptops, Mac & PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-the-best-online-science-vloggers-for-curious-minds/"><u>[New] Navigating the Best Online Science Vloggers for Curious Minds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-hidden-insta-story-accessibility-step-by-step-for-tech-savvy/"><u>[Updated] 2024 Approved  Hidden Insta Story Accessibility - Step-by-Step for Tech Savvy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] 2024 Approved  Revamping Imagery  Leading Insta Edits Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-creator-to-curator-expertly-upload-your-videos-on-igadgets/"><u>2024 Approved  From Creator to Curator  Expertly Upload Your Videos on iGadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/50plus-best-practices-in-video-text-design/"><u>50+ Best Practices in Video Text Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/anytime-anywhere-access-with-a-digital-backup-how-to-transfer-and-play-venom-from-dvd-to-digital-device/"><u>Anytime, Anywhere Access with a Digital Backup: How to Transfer and Play 'Venom' From DVD to Digital Device</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-f5-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco F5 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/choosing-between-vimeo-and-youtube-for-your-video-needs-which-platform-reigns-supreme/"><u>Choosing Between Vimeo and YouTube for Your Video Needs: Which Platform Reigns Supreme?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-ankers-superspeed-usb-3/"><u>Comprehensive Review of Anker's SuperSpeed USB 3.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-rapida-e-senza-perdite-di-qualita-trasforma-i-tuoi-file-mkv-in-mp4-sul-tuo-mac/"><u>Conversione Rapida E Senza Perdite Di Qualità: Trasforma I Tuoi File MKV in MP4 Sul Tuo Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-onboard-ai-systems-mechanisms-and-operations-explained/"><u>Demystifying Onboard AI Systems: Mechanisms & Operations Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-elitebook-8460p-drivers-on-windows-step-by-step-guide/"><u>Download and Install HP EliteBook 8460P Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-macx-app-seamlessly-transfer-drm-secured-dvds-onto-your-ipad-at-no-cost/"><u>Download MacX App: Seamlessly Transfer DRM-Secured DVDs Onto Your iPad at No Cost!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-macx-the-ultimate-free-video-to-audio-converter-for-avi-wmv-and-more-on-macos/"><u>Download MacX: The Ultimate Free Video-to-Audio Converter for AVI, WMV & More on MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-ios-mac-device-syncing-with-copytrans-for-mac/"><u>Effortless iOS-Mac Device Syncing with CopyTrans for Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-in-digitizing-content-digiartys-innovative-solutions-for-dvd-and-video-format-conversion/"><u>Expert in Digitizing Content: Digiarty's Innovative Solutions for DVD & Video Format Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-macx-video-format-and-device-transcoder-effortless-video-conversion-across-platforms/"><u>Free MacX Video Format and Device Transcoder: Effortless Video Conversion Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/frei-heruntergeladene-vr-spiele-fur-mobile-gerate-android-and-iphone-unterstutzt/"><u>Frei Heruntergeladene VR-Spiele Für Mobile Geräte: Android & iPhone Unterstützt</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-your-new-series-of-macx-converter-licenses-unlock-full-features-with-the-2022-upgrade/"><u>Get Your New Series of MacX Converter Licenses: Unlock Full Features with the 2022 Upgrade!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-xiaomi-redmi-k70-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-enable-all-capabilities-in-macx-dvd-ripper-pro-windows-version-discover-solutions-here/"><u>How to Enable All Capabilities in MacX DVD Ripper Pro (Windows Version) - Discover Solutions Here!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-find-x6-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Find X6 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-huawei-p60-by-drfone-android/"><u>How to Show Wi-Fi Password on Huawei P60</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-solve-your-iphones-bluetooth-issues-following-the-latest-ios-17-update/"><u>How to Solve Your iPhone's Bluetooth Issues Following the Latest iOS 17 Update</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-understanding-watermarks-and-protecting-fb-pics/"><u>In 2024, Understanding Watermarks & Protecting FB Pics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724765904134-macx-dvd/"><u>MacX DVDコレクションでお得な情報が見つかる! プロモ節度大解放</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-simple-macx-dvd-ripper-seamless-conversion-of-dvds-to-itunes-videos-for-ios-devices/"><u>Quick & Simple MacX DVD Ripper: Seamless Conversion of DVDs to iTunes Videos for iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/slash-h2t64-encoded-file-sizes-up-to-50-for-optimized-storage-and-streaming/"><u>Slash H.2t64 Encoded File Sizes Up to 50%% for Optimized Storage and Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-importing-music-playlists-onto-your-iphone-itunes-and-alternatives/"><u>Step-by-Step Guide: Importing Music Playlists Onto Your iPhone - iTunes and Alternatives</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-reno-11-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo Reno 11 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-iphone-data-management-and-transfer-apps-the-best-alternatives-to-itunes/"><u>Top iPhone Data Management & Transfer Apps: The Best Alternatives to iTunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-nas-devices-ideal-for-mac-users-perfect-solutions-for-your-home-or-business/"><u>Top-Rated NAS Devices Ideal for Mac Users: Perfect Solutions for Your Home or Business</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-losslessly-converting-vob-files-into-mkv-format-on-macos/"><u>Ultimate Guide to Losslessly Converting VOB Files Into MKV Format on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/why-waiting-to-convert-your-files-a-must-read-guide-before-using-any-internet-m4v-to-mov-translator/"><u>Why Waiting to Convert Your Files: A Must-Read Guide Before Using Any Internet M4V to MOV Translator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windowsmacx-dvd-ripper-pro70off/"><u>Windows用MacX DVD Ripper Proの公式割引情報：最高70％OFFでクーポンを獲得！</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Essential Steps for Creating New File Systems with Mkfs on Linux Platforms
-date: 2024-08-26 22:28:35
-updated: 2024-08-29 12:10:35
+date: 2024-08-30T21:20:00.145Z
+updated: 2024-08-31T21:20:00.145Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The syntax of `mkfs` has been updated, and the old format has been deprecated. Both forms will work, but we'll use the modern style in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Choice of File Systems
 
  The modern way of using `mkfs` is to type "mkfs." and then the name of the file system you wish to create.
@@ -39,6 +42,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![List of supported file systems in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/1-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  The list of available file systems is displayed in the terminal window. The screenshot is from Ubuntu 18.04 LTS. Other distributions may offer more or fewer options. We'll run through these and describe each one briefly. After a quick word about journaling.
 
  Journaling is an important concept in file systems. The file systems records the pending file writes to a journal. As each file is written to, the journal is updated, and the pending write records are updated. This allows the file system to repair broken, partially written files that have occurred due to a catastrophic event such as a power cut. Some of the older file systems do not support journaling. Those that don't, write to the disk less frequently because they don't need to update the journal. They may perform faster, but they are more prone to damage due to interrupted file writes.
@@ -54,6 +60,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **CRAMFS**: The [Compressed ROM File System](https://en.wikipedia.org/wiki/Cramfs) is a read-only file system designed for embedded systems and specialist read-only uses, such as in the boot processes of Linux computers. It is common to have a small, transient, file system loaded first so that bootstrap processes can be launched to prepare for the "real" boot system to be mounted.
 * **MSDOS**: The file system of the [Microsoft Disk Operating System](https://en.wikipedia.org/wiki/MS-DOS). Released in 1981, it's an elementary file system that is as basic as it gets. The first version didn't even have directories. It holds a place of prominence in computing history but, beyond compatibility with legacy systems, there is little reason to use it today.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Safe Way to Experiment With File Systems
 
  Creating a file system on a partition is destructive to any data that might already reside on that partition. Using a spare hard drive—or even a spare computer—is the perfect way to experiment with creating and using different file systems. But of course, many people don't have spare hardware lying around, waiting to be experimented on.
@@ -82,6 +100,9 @@ ls -hl
 
  It's 250 MB as expected, which is encouraging.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Creating the File System
 
  Let's pick a file system to use. We'll go back in time and use Ext2, which is the earliest version of Ext that this implementation of `mkfs` can create. This is a non-journaling file system, so don't store anything precious in it without having backups elsewhere. We use the `mkfs.ext2` variant of the `mkfs` command, and we tell it to use our image file as the target.
@@ -94,6 +115,9 @@ mkfs.ext2 ~/howtogeek.img
 
 ![Output of the mkfs.ext2 command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/6-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see from the highlighted text, `mke2fs` makes an appearance.
 
  Now we have a container for the file system—the image file—which is standing in for a hard drive in this scenario. Inside that container, we've created a file system. Now we need to mount the file system so that we can use it.
@@ -110,6 +134,9 @@ sudo mount ~/howtogeek.img /mnt/geek
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/8-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  We need to change the [file ownership](http://man7.org/linux/man-pages/man1/chown.1.html) of the mount point so that we have read and write access to it.
 
 sudo chown dave:users /mnt/geek/
@@ -130,12 +157,18 @@ ls
 
 ![ls in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/11-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The files have been copied, so our file system has been created, mounted and used. Or so we think. Let's double-check. From our home directory, we'll [unmount the file system](https://tech-haven.techidaily.com/explore-ai-possibilities-educating-on-board-games-and-crafting-images-through-gpt-technology/). Note there is only one "n" in [umount](http://man7.org/linux/man-pages/man8/umount.8.html).
 
 sudo umount /mnt/geek
 
 ![sudo umount /mnt/geek  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/12-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  Now, if we pop back to /mnt/geek and check for files, we shouldn't find any because they are inside our image file, and that has been unmounted.
 
 cd /mnt/geek
@@ -144,6 +177,9 @@ ls
 
 ![cd /mnt/geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/13-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Further Exploration
 
  Now we've got the process worked out, trying another file system should be easy. We'll use the MINIX file system this time. In our home directory, we can create a new file system inside our existing image file.
@@ -154,6 +190,9 @@ mkfs.minix ~/howtogeek.image
 
 ![mkfs.minix ~/howtogeek.image in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/14-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Without any hint of asking you "if you're sure," the new file system is created over the old one. We can mount our image file with exactly the same command as before:
 
 sudo mount ~/howtogeek.img /mnt/geek
@@ -182,6 +221,10 @@ sudo rmdir geek
 
 ![sudo rmdir geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/18-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Juggling With Fire
 
  With Linux, as with most things, you learn by doing. The problem with some commands is that they are potentially destructive. The dilemma is how to practice using them without putting your system or data at risk?
@@ -208,3 +251,39 @@ sudo rmdir geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-revenue-through-youtube-brand-partnerships/"><u>[New] In 2024, Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-professional-video-grabber-high-res-recordings/"><u>[New] In 2024, Professional Video Grabber  High-Res Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766318826-dvd/"><u>「マッキーでDVDコピー：初めて触れる人への手順と振り返りガイド付き詳細解説」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-how-to-erase-icloud-backup-data-from-your-iphone-or-ipad-a-comprehensive-guide/"><u>1. How to Erase iCloud Backup Data From Your iPhone or iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-why-cant-i-add-movies-to-my-itunes-library-best-troubleshooting-tips-and-fixes/"><u>1. Why Can't I Add Movies to My iTunes Library? Best Troubleshooting Tips & Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024mp3/"><u>2024最新MP3変換ツール：無料で使いやすく、高速かつ機能も充実したフリーソフトをご紹介！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766172510-itunes/"><u>最強手段でイヤフォンとiTunesを完璧同期するコツ - 悲鳴無しのパーフェクトマッチ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-2024-mac/"><u>最新DVDコピーソフトが完全無料! 2024 Mac対応モデルを特集 - おすすめの人気ソフトで満載!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-chatgpt-plus-here-are-9-key-advantages/"><u>Discover the Power of ChatGPT Plus - Here Are 9 Key Advantages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-the-common-windows-update-error-with-code-0x80n70005-access-is-blocked/"><u>Fixing the Common Windows Update Error with Code 0X80n70005 - Access Is Blocked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-hd-8k-downloads-of-rio-de-janeiro-2016-olympic-games-footage/"><u>Free HD 8K Downloads of Rio De Janeiro 2016 Olympic Games Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hd-and-sd-mpeg-macx-mac/"><u>HD & SD ビデオを容易にMPEG形式へ - MacX: Mac上で最適化されたフリーダウンロードソフト</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S23+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-use-handbrake-for-dvd-conversion-to-m4v-files-different-from-standard-mp4-output/"><u>How to Use Handbrake for DVD Conversion to M4V Files, Different From Standard MP4 Output</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-ace-3-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Ace 3 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/join-our-social-media-giveaway-for-macxdvd-aficionados-and-save-big-get-entire-software-at-no-cost/"><u>Join Our Social Media Giveaway for MacXDVD Aficionados and Save Big – Get Entire Software at No Cost!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lg-360-vr-headset-review/"><u>LG 360 VR Headset Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-macx-hdwindowsd/"><u>MacX DVD最大割引: MacX HD動画変換プロフェッショナルWindows版セールスペリオDがこちら</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-software-licensing-agreement-key-points-explained-for-consumers/"><u>MacXDVD Software Licensing Agreement: Key Points Explained for Consumers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-windows-10-doesnt-have-a-native-app-that-enables-you-to-play-movies-or-music-from-dvd-and-blu-ray-discshere-are-some-of-the-best-free-dvd-pl/"><u>New In 2024, The Windows 10 Doesnt Have a Native App that Enables You to Play Movies or Music From DVD and Blu-Ray Discs,here Are some of the Best Free DVD Players on the Market and Help You Choose the One that M</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/portable-frozen-fun-how-to-legally-acquire-stream-and-watch-disneys-ice-queen-adventure-on-the-move/"><u>Portable Frozen Fun: How to Legally Acquire, Stream, and Watch Disney’s Ice Queen Adventure On-the-Move</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/preserving-clarity-in-editing-guide-to-non-interlaced-video-processing/"><u>Preserving Clarity in Editing: Guide to Non-Interlaced Video Processing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/profi-aufnahmetipps-top-programme-zur-herstellung-von-screenshots-auf-dem-macos/"><u>Profi-Aufnahmetipps: Top-Programme Zur Herstellung Von Screenshots Auf Dem macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/qualitatsbewahrend-dvd-zu-mkv-konvertierung-auf-einem-mac-schritt-fur-schritt-anleitung/"><u>Qualitätsbewahrend DVD-Zu-MKV Konvertierung Auf Einem Mac - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-cropping-your-screen-capture-images-in-macos/"><u>Step-by-Step Guide: Cropping Your Screen Capture Images in macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-greatest-world-cup-goals-in-history-a-comprehensive-guide-to-the-top-five-scoring-masterpieces/"><u>The Greatest World Cup Goals in History: A Comprehensive Guide to the Top Five Scoring Masterpieces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-free-macmp4-players-ultimate-guide-to-the-best-mp4-viewer-apps/"><u>Top Free MacMP4 Players: Ultimate Guide to the Best MP4 Viewer Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-dvds-to-digital-on-macos-with-macx-download-free-dvd-ripper-software-and-stream-seamlessly-to-youtube-flvmp4mp3/"><u>Transform DVDs to Digital on macOS with MacX - Download FREE DVD Ripper Software and Stream Seamlessly to YouTube, FLV/MP4/MP3</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-discover-the-top-11-free-dvd-crackers-for-safe-extraction-of-secure-movies/"><u>Ultimate Guide: Discover the Top 11 Free DVD Crackers for Safe Extraction of Secure Movies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-cybercrime-the-role-of-ai-in-crafting-romance-scam-techniques/"><u>Unveiling Cybercrime: The Role of AI in Crafting Romance Scam Techniques</u></a></li>
+</ul></div>

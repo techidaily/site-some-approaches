@@ -1,7 +1,7 @@
 ---
 title: "Massive Heist: Cryptocurrency Exchange Suffers $80M Loss in Recent Cyber Attack"
-date: 2024-08-27 21:52:44
-updated: 2024-08-29 10:24:18
+date: 2024-08-30T21:25:40.994Z
+updated: 2024-08-31T21:25:40.994Z
 tags:
   - cutting-edge
 categories:
@@ -40,3 +40,53 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-critical-look-at-itop-for-tech-enthusiasts/"><u>[New] In 2024, A Critical Look at ITop for Tech Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-ps4-games-for-live-capture-in-obs-for-2024/"><u>[New] Optimizing PS4 Games for Live Capture in OBS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-macx-dvd-ripper-pro/"><u>1. MacX DVD Ripper Pro 線上購買: 最安心、最可靠的電影導流解決方案</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-macxdvd-support-hub-comprehensive-guide-on-dvd-troubleshooting-and-fixes/"><u>1. MacXDVD Support Hub: Comprehensive Guide on DVD Troubleshooting and Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-mega-discount-on-lifetime-licensed-macx-dvd-ripper-pro-grab-the-authorized-deal-now/"><u>1. Mega Discount on Lifetime Licensed MacX DVD Ripper Pro: Grab the [AUTHORIZED] Deal Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-seamless-ios-file-management-and-transfer-for-mac-with-appandora/"><u>1. Seamless iOS File Management and Transfer for Mac with Appandora</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-start-capturing-high-quality-mov-videos-on-windows-11/"><u>2024 Approved  Quick Start  Capturing High-Quality MOV Videos on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water/"><u>Beneath the Wave  Expert Strategies for Filming with GoPro Below Water</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/collaborative-screen-recording-for-2024/"><u>Collaborative Screen Recording for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/commemorative-event-by-digiarty-a-unique-18-year-journey-in-digital-creation/"><u>Commemorative Event by Digiarty: A Unique 18-Year Journey in Digital Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-g42-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on G42 5G.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-videos-to-imovie-format-using-macx-a-comprehensive-guide-to-free-mp4-and-mov-file-editing/"><u>Convert Videos to iMovie Format Using MacX: A Comprehensive Guide to FREE MP4 and MOV File Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-avi-file-players-for-mac-enjoy-flawless-performance-and-quality/"><u>Discover the Best AVI File Players for Mac - Enjoy Flawless Performance and Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-free-mac-apps-to-play-mkv-videos-ultimi-6-lettori-consigliati-e-progettati-esclusivamente-per-macos/"><u>Discover the Best Free Mac Apps to Play MKV Videos – Ultimi 6 Lettori Consigliati E Progettati Esclusivamente per macOS</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/download-ripit-for-free-top-choice-and-best-alternatives-for-mac-users/"><u>Download RipIt for Free: Top Choice & Best Alternatives for Mac Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-windows-8-tips-record-your-screen-for-2024/"><u>Essential Windows 8 Tips  Record Your Screen for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-your-windows-chat-with-unbounded-gpt/"><u>Free Your Windows Chat with Unbounded GPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-high-resolution-4k-at-60-fps-youtube-downloads-now/"><u>Get High-Resolution 4K at 60 FPS YouTube Downloads Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-watch-latest-blockbuster-movies-online-at-no-cost/"><u>How to Watch Latest Blockbuster Movies Online at No Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-a-thrilling-film-outtakes-package/"><u>In 2024, Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-80-pro-straight-screen-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor 80 Pro Straight Screen Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-battery-longevity-hacks-for-202-cu2023-top-energy-saving-strategies-and-applications-to-combat-quick-depletion/"><u>IPhone Battery Longevity Hacks for 202 Cu2023 - Top Energy-Saving Strategies & Applications to Combat Quick Depletion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-connection-error-with-iphone-resolving-the-value-is-missing-issue/"><u>ITunes Connection Error with iPhone: Resolving the 'Value Is Missing' Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/komplette-anleitung-zur-einrichtung-und-inbetriebnahme-des-neuen-iphones-das-ultimative-handbuch-fur-neuankommlinge/"><u>Komplette Anleitung Zur Einrichtung Und Inbetriebnahme Des Neuen iPhones: Das Ultimative Handbuch Für Neuankömmlinge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-mastery-enhance-storage-and-quality-with-dvd-shrink-the-ultimate-guide-to-dvd-ripping-and-compression/"><u>Mac Mastery: Enhance Storage and Quality with DVD Shrink - The Ultimate Guide to DVD Ripping & Compression</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-os-x-dvd/"><u>Mac OS Xからスマートフォン、タブレットへ高速変換: DVD/動画ファイルをどうやって移行させるか学ぶ完全解説</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macos-sierra-2018/"><u>MacOS Sierraにおけるディズニーコピーロック解除手順とコピー方法 - 2018年版</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766689494-macxdvd-by-digiarty/"><u>MacXDVD by Digiarty: 公式サイトでダビデッド変換ツールをご利用ください</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766476465-makemkv/"><u>MakeMKVがわかりやすい！地球上で一番手軽に学べるステップ・バイ・ステップガイド!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-auto-lock-and-screensaver-interval/"><u>Personalize Auto-Lock & Screensaver Interval</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferring-avi-files-into-itunes-on-your-ios-device/"><u>Transferring AVI Files Into iTunes on Your iOS Device</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m54-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M54 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-converting-pal-dvds-to-ntsc-format-and-preparing-them-for-mp4-burn/"><u>Ultimate Guide: Converting PAL DVDs to NTSC Format & Preparing Them for MP4 Burn</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-peak-wifi-coverage-with-linksys-velop-a-complete-review-experience/"><u>Unlocking Peak WiFi Coverage with Linksys Velop - A Complete Review Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmissable-top-10-spooky-flicks-a-parents-guide-to-safe-and-fun-halloween-movie-night/"><u>Unmissable Top 10 Spooky Flicks: A Parent's Guide to Safe and Fun Halloween Movie Night</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-the-powerhouses-of-vr-engine-technology/"><u>Unveiling the Powerhouses of VR Engine Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrade-video-quality-seamlessly-convert-mp4-files-to-mkv-with-integrated-subtitle-support-try-it-for-free/"><u>Upgrade Video Quality Seamlessly: Convert MP4 Files to MKV With Integrated Subtitle Support - Try It for Free!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->

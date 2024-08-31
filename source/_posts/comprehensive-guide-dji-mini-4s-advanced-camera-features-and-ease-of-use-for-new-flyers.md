@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: DJI Mini 4S Advanced Camera Features & Ease of Use for New Flyers"
-date: 2024-08-26 20:55:39
-updated: 2024-08-29 11:55:55
+date: 2024-08-30T21:17:06.482Z
+updated: 2024-08-31T21:17:06.482Z
 tags:
   - product-reviews
 categories:
@@ -119,6 +119,14 @@ The DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2). The storage bag is not shown.
 
  When a battery is inserted in the drone, it can be charged via its own USB-C port, with the same type of indicator lights and power button found on the charging station. The RC 2 remote controller charges and works the same and has up to three hours of battery life.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Setting Up: Beginner Friendly
 
 ![DJI Mini 4 Pro on a wood tabletop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-dji-mini-4-pro-open-on-a-workbench-1jpg_53204222520_o.jpg) 
@@ -143,6 +151,10 @@ Hannah Stryker / How-To Geek
 
 ![Woman's hands holding the RC 2 remote controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-10-15-45-33-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Three apps, which work with either iOS 11.0 or above, or Android 7.0 or above, devices, are recommended by DJI: [DJI Fly](https://www.dji.com/downloads/djiapp/dji-fly), [DJI Store](https://store.dji.com/pages/app), and [LightCut](https://www.dji.com/downloads/djiapp/lightcut).
@@ -157,6 +169,9 @@ Bill Loguidice / How-To Geek
 
 ![DJI Mini 4 Pro in flight at a park](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-13-17-24-44-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  I tested the DJI Mini 4 Pro in New Jersey's cool fall weather with no stability issues in both sunny and overcast conditions with light winds. Of course, you shouldn't fly in snow, rain, or fog, and wind speeds need to be below 23 mph, but under most normal conditions the lightweight drone only exhibits minor vibrations.
@@ -179,10 +194,16 @@ Bill Loguidice / How-To Geek
 
  As expected from any high-performance device with a battery, after even 10 minutes of flight, the drone does get warm to the touch. It's the same for the RC 2 remote controller, although neither ever becomes uncomfortably hot.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Video Performance: A 4K Powerhouse
 
 ![DJI Mini 4 Pro in flight from side above a park path](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-13-17-24-24.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Taking video and photos is as simple as pressing the respective buttons on the RC 2 remote control. The RC 2 has a microSD card slot and 32GB of internal storage, of which 21GB is available. While the remote controller can do 720p screen recordings and photos, you'll want to use the drone for direct footage captures at its native resolution.
@@ -215,6 +236,9 @@ DJI Mini 4 Pro Wide-Angle Lens
 
 ![Photo from the DJI Mini 4 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/dji_20231010155403_0008_d.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 A photo from the DJI Mini 4 Pro.
@@ -223,6 +247,10 @@ A photo from the DJI Mini 4 Pro.
 
  Each shooting mode was similarly fun to experiment with, and, combined with good photo and video editing software, opened up a lot of creative possibilities. While this size drone with these types of capabilities would work great for professional use cases, such as capturing real estate listings or doing site surveys, it's just as at home as a YouTube content creation or pure recreational device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ##  Should You Buy The DJI Mini 4 Pro?
 
 ![DJI Mini 4 Pro in flight above grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-10-15-46-54-1.jpg) 
@@ -260,3 +288,51 @@ The DJI Mini 4 Pro does just about everything you would want out of a drone in a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/1724766099189-digiarty-software-inc/"><u>[公式] Digiarty Software, Inc のユーザーデータ取り扱い基準:プライバシーポリシー解説 - 信頼できるソフトウェア会社からの保護策</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-cam-cover-selection-made-simple-with-our-10-picks/"><u>[New] 2024 Approved  Cam Cover Selection Made Simple with Our 10 Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-create-vintage-videos-a-comprehensive-tutorial/"><u>[New] How to Create Vintage Videos  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo/"><u>[New] Love in Full Bloom  Top 7 Premium Marriage Films From YouTube and Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-restore-windows-photo-viewer-quick-effective-ways-for-win10-for-2024/"><u>[New] Restore Windows Photo Viewer  Quick, Effective Ways for Win10 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlocking-cinemas-next-frontier-virtual-reality-for-2024/"><u>[New] Unlocking Cinema's Next Frontier  Virtual Reality for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unleash-creativity-premier-vimeo-editors-deliver/"><u>[Updated] 2024 Approved  Unleash Creativity  Premier Vimeo Editors Deliver</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fluid-fusion-combining-videos-for-a-unified-youtube-presence/"><u>[Updated] Fluid Fusion  Combining Videos for a Unified Youtube Presence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-insights-into-instagrams-maxed-out-videos/"><u>[Updated] In 2024, Insights Into Instagram's Maxed-Out Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-unleash-video-magic-mastering-spectacular-effects-and-filters/"><u>1. Unleash Video Magic: Mastering Spectacular Effects & Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-ultimate-mac-video-converter-leading-the-pack-with-native-intel-qsv-acceleration-support/"><u>1) Ultimate Mac Video Converter: Leading the Pack with Native Intel QSV Acceleration Support</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-the-world-of-apex-legends-on-a-personal-platform-quest/"><u>2024 Approved  Navigating the World of Apex Legends on a Personal Platform Quest</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-virtual-worlds-hilarity-crafting-metaverse-memes/"><u>2024 Approved  Virtual World's Hilarity  Crafting Metaverse Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx/"><u>移動式 MacX ビデオコンバータ - 世界で最も優れた無料モバイル動画変換ツール</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/anytime-anywhere-access-with-a-digital-backup-how-to-transfer-and-play-venom-from-dvd-to-digital-device/"><u>Anytime, Anywhere Access with a Digital Backup: How to Transfer and Play 'Venom' From DVD to Digital Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/choosing-between-vimeo-and-youtube-for-your-video-needs-which-platform-reigns-supreme/"><u>Choosing Between Vimeo and YouTube for Your Video Needs: Which Platform Reigns Supreme?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-rapida-e-senza-perdite-di-qualita-trasforma-i-tuoi-file-mkv-in-mp4-sul-tuo-mac/"><u>Conversione Rapida E Senza Perdite Di Qualità: Trasforma I Tuoi File MKV in MP4 Sul Tuo Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-macx-app-seamlessly-transfer-drm-secured-dvds-onto-your-ipad-at-no-cost/"><u>Download MacX App: Seamlessly Transfer DRM-Secured DVDs Onto Your iPad at No Cost!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-macx-the-ultimate-free-video-to-audio-converter-for-avi-wmv-and-more-on-macos/"><u>Download MacX: The Ultimate Free Video-to-Audio Converter for AVI, WMV & More on MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-for-rotating-footage-by-quarter-half-and-three-quarters-turns/"><u>Easy Guide for Rotating Footage by Quarter, Half and Three-Quarters Turns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-ios-mac-device-syncing-with-copytrans-for-mac/"><u>Effortless iOS-Mac Device Syncing with CopyTrans for Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-in-digitizing-content-digiartys-innovative-solutions-for-dvd-and-video-format-conversion/"><u>Expert in Digitizing Content: Digiarty's Innovative Solutions for DVD & Video Format Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-macx-video-format-and-device-transcoder-effortless-video-conversion-across-platforms/"><u>Free MacX Video Format and Device Transcoder: Effortless Video Conversion Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/frei-heruntergeladene-vr-spiele-fur-mobile-gerate-android-and-iphone-unterstutzt/"><u>Frei Heruntergeladene VR-Spiele Für Mobile Geräte: Android & iPhone Unterstützt</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-your-new-series-of-macx-converter-licenses-unlock-full-features-with-the-2022-upgrade/"><u>Get Your New Series of MacX Converter Licenses: Unlock Full Features with the 2022 Upgrade!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hot-topics-in-technology-expert-tips-for-apple-devices-ios-enhancements-and-entertaining-ways-to-stay-updated/"><u>Hot Topics in Technology: Expert Tips for Apple Devices, iOS Enhancements, and Entertaining Ways to Stay Updated</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-solve-your-iphones-bluetooth-issues-following-the-latest-ios-17-update/"><u>How to Solve Your iPhone's Bluetooth Issues Following the Latest iOS 17 Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>In 2024, How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724765904134-macx-dvd/"><u>MacX DVDコレクションでお得な情報が見つかる! プロモ節度大解放</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-art-of-prores-recording-on-iphone-13-a-comprehensive-tutorial/"><u>Mastering the Art of ProRes Recording on iPhone 13 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-simple-macx-dvd-ripper-seamless-conversion-of-dvds-to-itunes-videos-for-ios-devices/"><u>Quick & Simple MacX DVD Ripper: Seamless Conversion of DVDs to iTunes Videos for iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/slash-h2t64-encoded-file-sizes-up-to-50-for-optimized-storage-and-streaming/"><u>Slash H.2t64 Encoded File Sizes Up to 50%% for Optimized Storage and Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-importing-music-playlists-onto-your-iphone-itunes-and-alternatives/"><u>Step-by-Step Guide: Importing Music Playlists Onto Your iPhone - iTunes and Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-4-no-cost-dvd-sound-extraction-tools-for-harvesting-audio-from-discs/"><u>Top 4 No-Cost DVD Sound Extraction Tools for Harvesting Audio From Discs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-iphone-data-management-and-transfer-apps-the-best-alternatives-to-itunes/"><u>Top iPhone Data Management & Transfer Apps: The Best Alternatives to iTunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-macx-avi-converter-transform-your-media-into-any-video-type-without-payment/"><u>Top Rated MacX Avi Converter - Transform Your Media Into Any Video Type without Payment!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-nas-devices-ideal-for-mac-users-perfect-solutions-for-your-home-or-business/"><u>Top-Rated NAS Devices Ideal for Mac Users: Perfect Solutions for Your Home or Business</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-virtual-reality-vr-video-players-compatible-with-pc-mac-android-and-iphone-2018-edition/"><u>Top-Rated Virtual Reality (VR) Video Players Compatible with PC, Mac, Android & iPhone - 2018 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-losslessly-converting-vob-files-into-mkv-format-on-macos/"><u>Ultimate Guide to Losslessly Converting VOB Files Into MKV Format on macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-features-of-chatgpt-copilot-extension-a-comprehensive-guide/"><u>Understanding the Features of ChatGPT Copilot Extension - A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/why-waiting-to-convert-your-files-a-must-read-guide-before-using-any-internet-m4v-to-mov-translator/"><u>Why Waiting to Convert Your Files: A Must-Read Guide Before Using Any Internet M4V to MOV Translator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windowsmacx-dvd-ripper-pro70off/"><u>Windows用MacX DVD Ripper Proの公式割引情報：最高70％OFFでクーポンを獲得！</u></a></li>
+</ul></div>

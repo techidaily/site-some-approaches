@@ -1,7 +1,7 @@
 ---
 title: Mastering Passkey Creation & Management in Windows 11
-date: 2024-08-27 19:11:37
-updated: 2024-08-29 12:25:40
+date: 2024-08-30T21:22:18.997Z
+updated: 2024-08-31T21:22:18.997Z
 tags:
   - deals
 categories:
@@ -35,6 +35,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Passkeys have multiple advantages over passwords. The main one is that, unlike passwords, it is borderline impossible to steal passkeys. Another advantage is that passkeys are almost completely impervious to phishing. It is relatively easy to trick a human into entering a password on a fake website, but passkeys aren't so easily fooled. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Platforms Support Passkeys?
 
  Many popular sites and apps support passkeys, as this is a quick and convenient way to log in. Some services that support this feature are:
@@ -50,6 +53,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You can [find a list of passkey-supported platforms on the Passkeys site](https://www.passkeys.io/who-supports-passkeys).
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  How to Create and Save a Passkey to Your Windows 11 PC
 
  To generate and save a passkey, you'll first visit your favorite website or app’s account settings. From there, you’ll create the key and then save it to your PC. In this guide, we’ll demonstrate how to do that with a Google account.
@@ -66,6 +72,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Create a Passkey' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-google-create-passkey.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  You’ll see a "Windows Security" prompt. Authenticate yourself using your PIN, facial recognition, or fingerprint scanning.
 
 ![A 'Windows Security' prompt for creating a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/3-windows-11-passkey-authentication1.jpg) 
@@ -84,10 +93,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Sign In' highlighted on Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-sign-in-google.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Enter your Google account username and click "Next."
 
 ![The 'Email or Phone' field and the 'Next' button highlighted on Google's login page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/6-enter-google-username1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  On the password page, click "Try Another Way" to see alternate options.
 
 !['Try Another Way' highlighted on Google's password page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/7-choose-another-way1.jpg) 
@@ -96,10 +111,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Use Your Passkey' highlighted on Google's alternate password options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/8-google-use-passkey1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select "Continue" and Google will trigger the "Windows Security" prompt.
 
 !['Continue' highlighted on Google's passkey usage page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9-google-continue-passkey1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the "Windows Security" prompt, select the PIN, facial recognition, or fingerprint scanning authentication method.
 
 ![A 'Windows Security' prompt for signing in to Google with a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10-verify-identity1.jpg) 
@@ -118,10 +139,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The search box and the saved passkeys highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-view-search-saved-passkeys-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To remove a specific passkey, click the three dots next to that item and choose "Delete Passkey."
 
 !['Delete Passkey' highlighted for a passkey in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-delete-passkey-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  In the open prompt, confirm your action by selecting "Delete."
 
 !['Delete' highlighted in the passkey removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-passkey-deletion-prompt-windows-11.jpg) 
@@ -146,3 +173,47 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist/"><u>[New] 2024 Approved  Efficient Content Curation  Steps Towards a Well-Organized 'Watch Later' Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[New] 2024 Approved  Get Noticed on YouTube  The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-go-backwards-a-step-by-step-for-reversing-youtube-videos/"><u>[New] 2024 Approved  Go Backwards  A Step-by-Step for Reversing YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-preserving-audio-broadcasts-a-simple-internet-radio-technique/"><u>[New] Preserving Audio Broadcasts  A Simple Internet Radio Technique</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-wise-process-of-integrating-voice-over-into-videos-for-2024/"><u>[New] Step-Wise Process of Integrating Voice Over Into Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-nba-2k21-crashing-on-pc/"><u>[SOLVED] NBA 2K21 Crashing on PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-macs-best-gif-capture-tools-ranked-and-reviewed/"><u>[Updated] 2024 Approved  Mac's Best GIF Capture Tools Ranked and Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leading-6-social-media-channels-fostering-business-innovation/"><u>[Updated] Leading 6 Social Media Channels Fostering Business Innovation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-logic-pro-techniques-for-fading-out-sounds-for-2024/"><u>[Updated] Logic Pro Techniques for Fading Out Sounds for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-palette-excellence-editor/"><u>[Updated] Palette Excellence Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024iphone-itunes-and-icloud/"><u>【2024】IPhone バックアップが再生できない場合の解決策: ITunes & iCloud対策詳しく解説！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-high-quality-aerobics-workout-routines-get-your-free-hd-video-downloads/"><u>1. High-Quality Aerobics Workout Routines - Get Your FREE HD Video Downloads!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-screen-partnerships-and-talent-licensing/"><u>2024 Approved  Screen Partnerships and Talent Licensing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unearthing-user-generated-footage-on-facebook/"><u>2024 Approved  Unearthing User-Generated Footage on Facebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-14-plus-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 14 Plus Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/music-box-music-fm/"><u>重生のMUSIC BOX: 新バージョンがもたらすリスクと特徴、設置方法、欠点、および楽曲操作 - Music FM</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/alternativen-zum-download-von-powerdvd-fur-macos-fundige-losungen/"><u>Alternativen Zum Download Von PowerDVD Für macOS – Fündige Lösungen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cinematic-highlights-of-2-movies-a-must-watch-list-for-hollywood-fans/"><u>Cinematic Highlights of 2# Movies : A Must-Watch List for Hollywood Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-usare-free-dvd-to-mp3-converter-per-mac-trasforma-i-tuoi-filmati-sul-computer-apple-con-facili-passaggi/"><u>Come Usare Free DVD to MP3 Converter per Mac: Trasforma I Tuoi Filmati Sul Computer Apple Con Facili Passaggi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-tutorial-on-utilizing-handbrake-v107-for-efficient-video-format-changes/"><u>Comprehensive Tutorial on Utilizing HandBrake v1.0.7 for Efficient Video Format Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprendre-le-transfert-dappareil-ios-comment-deplacer-vos-fichiers-de-liphone-a-un-autre-modele-ou-vers-votre-pcandroide/"><u>Comprendre Le Transfert D'appareil iOS - Comment Déplacer Vos Fichiers De L’iPhone À Un Autre Modèle Ou Vers Votre PC/Androïde</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-your-mtsm2ts-files-to-mov-format-free-on-mac-devices-perfect-for-iphone-and-ipad/"><u>Convert Your MTS/M2TS Files to Mov Format Free on Mac Devices, Perfect for iPhone and iPad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-netflix-dvd-renting-strategies-vital-insights-every-member-must-acknowledge/"><u>Essential Netflix DVD Renting Strategies: Vital Insights Every Member Must Acknowledge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/flash-videos-aus-webseiten-wie-youtube-facebook-und-dailymotion-bequem-speichern/"><u>Flash-Videos Aus Webseiten Wie YouTube, Facebook Und Dailymotion Bequem Speichern</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-complet-comment-graver-un-film-sur-disque-dur-protecteur-avec-une-memoire-usb-vers-un-dvd-mac/"><u>Guide Complet: Comment Graver Un Film Sur Disque Dur Protecteur Avec Une Mémoire USB Vers Un DVD - Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-converting-copy-protected-macos-dvds-into-editable-formats/"><u>Guide: Converting Copy-Protected MacOS DVDs Into Editable Formats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-change-your-videos-compatible-format-on-mac-a-comprehensive-tutorial-with-handbrake-and-macx-video-converter-pro/"><u>How to Change Your Videos Compatible Format on Mac: A Comprehensive Tutorial with Handbrake and MacX Video Converter Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-17-unveiled-an-in-depth-analysis-of-key-advantages-and-disadvantages-against-previous-ios-systems-and-android-competitors/"><u>IOS 17 Unveiled: An In-Depth Analysis of Key Advantages and Disadvantages Against Previous iOS Systems and Android Competitors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-by-digiarty-software-macxdvd-digiarty-software-common-questions-and-answers/"><u>MacXDVD by Digiarty Software - 一般的な疑問と回答について (MacXDVD Digiarty Software - Common Questions & Answers)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-closed-captioning-tutorial-for-enabling-and-adding-texts-in-quicktime-videos/"><u>Mastering Closed Captioning: Tutorial for Enabling and Adding Texts in QuickTime Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sailor-talk-101-piratical-expressions/"><u>Sailor Talk 101: Piratical Expressions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-steps-to-tilt-your-videos-at-90-180-and-270-degree-angles/"><u>Simple Steps to Tilt Your Videos at 90, 180 & 270-Degree Angles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/speeding-up-4k-hevc-compression-with-hardware-acceleration-techniques/"><u>Speeding Up 4K HEVC Compression with Hardware Acceleration Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-transcoding-tools-for-xbox-one-effortless-format-conversion-guide/"><u>Top Video Transcoding Tools for Xbox One - Effortless Format Conversion Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-multimedia-with-macx-hd-video-converter-pro-on-windows-10-effortlessly-convert-and-edit-videos-from-m2ts-avchd-to-diverse-formats-for-enhance6/"><u>Transform Your Multimedia with MacX HD Video Converter Pro on Windows 10: Effortlessly Convert and Edit Videos From M2TS, AVCHD, to Diverse Formats for Enhanced Compatibility Across Smart Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-restoring-screen-recording-on-your-iphone-with-ios-17-update/"><u>Troubleshooting Guide: Restoring Screen Recording on Your iPhone with iOS 17 Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-resolving-all-itunes-issues-solutions-updated-for-2018/"><u>Ultimate Guide: Resolving All iTunes Issues - Solutions Updated for 2018</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-sound-quality-awaits-with-free-sound-blaster-audigy-fx-drivers-download-today/"><u>Ultimate Sound Quality Awaits with [Free] Sound Blaster Audigy Fx Drivers - Download Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-windows-8-movie-maker-an-easy-introduction/"><u>Unlocking Windows 8 Movie Maker  An Easy Introduction</u></a></li>
+</ul></div>

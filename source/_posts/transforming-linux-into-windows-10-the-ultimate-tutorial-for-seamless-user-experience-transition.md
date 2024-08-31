@@ -1,7 +1,7 @@
 ---
 title: "Transforming Linux Into Windows 10: The Ultimate Tutorial for Seamless User Experience Transition"
-date: 2024-08-26 15:17:47
-updated: 2024-08-29 10:19:43
+date: 2024-08-30T21:19:28.233Z
+updated: 2024-08-31T21:19:28.233Z
 tags:
   - desktop
 categories:
@@ -24,10 +24,17 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
  Want to use a Linux desktop but don't want to lose Windows 10's familiar look and vibe? Most desktop environments come with unique layouts and themes by default, but with a bit of effort, you can convert it to a spitting image of the Windows 10 desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Method 1: Get a Windows 10 GTK Theme
 
  The method that works on many desktop environments is to simply download a Windows 10 theme pack and icon pack designed for GTK desktops and drop them into the proper folders. We'll demonstrate this with Cinnamon (on Linux Mint 23.3, specifically), but it'll also work on [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/), Xfce, LXDE, and MATE.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ###  Step 1: Download and Install the Theme
 
  The best source for Windows 10 GTK theming files is [the B00merang Project's GitHub release page](https://github.com/B00merang-Project/Windows-10/releases). That is the light version, and though we'll use it as an example in this guide, you can grab [the Windows 10 dark variant](https://github.com/B00merang-Project/Windows-10-Dark/releases) if you prefer.
@@ -58,14 +65,27 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![The Show Hidden Files option in the Nemo file manager for Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_14h53_57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  You should now see several folders that weren't there before and whose names start with a period like ".local". You need the ".themes" folder, but in our version of Linux it didn't exist yet, so we just made one.
 
 ![Creating a folder named .themes in a Linux home directory using a file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_14h57_55.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
  After creating the .themes folder, open it and paste your theme folder there by either right-clicking and selecting "Paste" or using the keyboard shortcut Ctrl+V.
 
 ![Windows 10 theme pasted into the .themes folder on a Linux system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h05_13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Step 2: Download and Install the Icon Pack
 
  The basic theme package contains what you need to get the overall design of Windows 10, but if you want those illustrious icons, you need to get and install those separately.
@@ -74,12 +94,18 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![Windows 10 icon folder in the icons folder in a Linux home directory](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h22_21.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ###  Step 3: Enable Your Windows 10 Theme
 
  With your theme and icons in place, it's time to paint the town Windows. Open your DE's settings and look for its theming preferences, likely called "Appearance" or, in the case of Cinnamon, "Themes."
 
 ![The Themes menu available in the Cinnamon desktop environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h26_20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then we need to choose the Windows 10 theme for every category available. To get this ability in Cinnamon, I needed to click "Advanced Settings."
 
 ![If you're using the Cinnamon desktop environment, click "Advanced Settings" in your Themes menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-10_15h26_22.png) 
@@ -92,6 +118,9 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![The Windows 10 theme selection in the Cinnamon Theme settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h36_04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The finishing touch is of course [the classic Windows 10 background](https://video-screen-grab.techidaily.com/updated-in-2024-dynamic-public-speaker-review-v8/). There's a large collection of the older ones [on Imgur](https://imgur.com/a/3lEQM). I wanted the lighter blue version of the glass pane one, which I found [at 4K Wallpapers](https://4kwallpapers.com/technology/windows-10-windows-logo-glossy-blue-background-2733.html).
 
 ![Cinnamon desktop environment with Windows 10 theme applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h46_04.png) 
@@ -114,6 +143,9 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![Cinnamon desktop with additional Windows 10 tweaks applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h50_56.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Method 2: Use a Community Theme Pack
 
  Some desktop environments have a built-in tool for finding and installing themes built and shared by community members. In my experience, these tend to be hit-and-miss. They may not be as perfect a reproduction as you hope for, so you may end up needing manual tweaks anyway. Icons may be missing. Updates to the desktop environment itself can break the theme, too, forcing you to further tweak or undo the theming altogether.
@@ -124,6 +156,9 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![In Cinnamon's theme manager, click the download button next to the theme you want to download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h32_57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
  Once you've downloaded the theme, you've then got to go back to the Themes tab and activate it. You may have to scroll to find it.
 
 ![Select the Windows 10 theme you downloaded.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h41_53.png) 
@@ -154,3 +189,45 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>2024 Approved  Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-mp4-to-mp3-convertors-on-a-mac-free-vs-premium-options-top-9/"><u>Best MP4 to MP3 Convertors on a Mac: Free Vs. Premium Options (TOP 9)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-130-music-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia 130 Music?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-creare-file-iso-da-dvd-su-un-mac-inclusi-sistemi-con-big-sur/"><u>Come Creare File ISO Da DVD Su Un Mac, Inclusi Sistemi Con Big Sur</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-dvds-and-videos-to-compatible-formats-mp4-h264-mp3-on-mac-for-ipad-viewing/"><u>Convert DVDs and Videos to Compatible Formats (MP4, H.264, MP3) on Mac for iPad Viewing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-gaming-how-to-fix-risk-of-rain-2s-stability-problems/"><u>Crash-Free Gaming: How to Fix Risk of Rain 2'S Stability Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-officejet-pro-8715-printer-drivers-windows-11-10-and-8-compatible-versions/"><u>Download the Latest HP OfficeJet Pro 8715 Printer Drivers: Windows 11, 10 & 8 Compatible Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766368369-dvd/"><u>DVDの最大限圧縮：安全でストリーミングが利用可能な無料解決法！高画質保持方法を学ぶ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-4k-video-encoding-speed-using-hardware-assisted-hevc-technology/"><u>Enhancing 4K Video Encoding Speed Using Hardware-Assisted HEVC Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-windows-11-with-dolby-atmos-experience/"><u>Enriching Windows 11 with Dolby Atmos Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-mac-x-mkv-transcoder-hassle-free-high-definition-video-conversion-for-macos-users/"><u>Free Mac X MKV Transcoder: Hassle-Free High Definition Video Conversion for macOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-curiosity-to-creation-your-guide-to-openai-innovations/"><u>From Curiosity to Creation: Your Guide to OpenAI Innovations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-watching-itunes-m4v-content-on-your-chromecast-device/"><u>Guide: Watching iTunes M4V Content on Your Chromecast Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-guides-for-dvd-movie-enjoyment-a-step-by-step-tutorial/"><u>How-To Guides for DVD Movie Enjoyment: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-macx-mediatrans-mac/"><u>IOSデータ管理・バックアップのプロフェッショナル ソリューション：MacX MediaTrans 推奨 Macユーザー向け</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-10s-milestone-moment-join-macxdvds-limited-time-sweepstakes-and-win-exclusive-rewards/"><u>IPhone 10'S Milestone Moment - Join MacXDVD’s Limited-Time Sweepstakes & Win Exclusive Rewards!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/is-it-time-to-switch-a-comparison-of-macos-ventura-and-monterey/"><u>Is It Time to Switch? A Comparison of macOS Ventura and Monterey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kostenloser-download-von-ultrahochauflosenden-3d-filmen-in-voller-1080p4k-uhd-qualitat-fur-moderne-3d-fernseher/"><u>Kostenloser Download Von Ultrahochauflösenden 3D Filmen - In Voller 1080P/4K-UHD-Qualität Für Moderne 3D-Fernseher.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-and-windows-dvddvd/"><u>Mac & Windowsに最適: DVDストレッチエラーを解決し、読み込み・コピー不可能なDVDの修正方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-windows70/"><u>MacX DVD Ripper Pro 特別価格: 「官方」でWindows版70%%オフクーポンが手に入る！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-mediatrans-takes-the-lead-with-groundbreaking-features-for-managing-itunes-downloads-and-deleting-photos-from-your-devices-memory/"><u>MacX MediaTrans Takes the Lead with Groundbreaking Features for Managing iTunes Downloads and Deleting Photos From Your Device's Memory</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>Mastering Insta Lives  Guide to Downloads & Creative Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-your-youtube-income-through-understanding-cpm/"><u>Maximizing Your YouTube Income Through Understanding CPM</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-pinnacle-studio-not-working-try-these-mac-alternatives-instead/"><u>New Pinnacle Studio Not Working? Try These Mac Alternatives Instead</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamlessly-transform-torrent-downloads-into-mp4-format-for-all-devices-without-cost-windows-android-and-mac-compatible/"><u>Seamlessly Transform Torrent Downloads Into MP4 Format for All Devices without Cost – Windows, Android, and Mac Compatible</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-seamless-movie-transfers-between-ipad-and-mac-devices/"><u>Step-by-Step Tutorial on Seamless Movie Transfers Between iPad and Mac Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-stock-investing-channels-online-for-2024/"><u>The Ultimate Guide to Stock Investing Channels Online for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-11-free-music-downloader-applications-for-ios-android-and-ipad-a-comprehensive-guide/"><u>Top 11 FREE Music Downloader Applications for iOS, Android & iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transfer-iron-man-3-movie-from-dvd-with-drm-onto-mobile-devices-like-iphone-ipad-and-android-on-the-go-viewing-guide/"><u>Transfer Iron Man 3 Movie From DVD with DRM Onto Mobile Devices Like iPhone, iPad & Android - On-The-Go Viewing Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-itunes-unknown-error-0xe80n0065-when-attempting-iphone-connection/"><u>Troubleshooting iTunes Unknown Error (0xE80n0065) When Attempting iPhone Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-sudden-shutdowns-dealing-with-superpowered-account-issues-on-pc/"><u>Troubleshooting Sudden Shutdowns: Dealing with Superpowered Account Issues on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-the-transfer-to-ios-feature-complete-solution-tutorial/"><u>Troubleshooting the 'Transfer to iOS' Feature - Complete Solution Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-bypassing-dvd-regional-lockouts-on-your-player/"><u>Ultimate Guide to Bypassing DVD Regional Lockouts on Your Player</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-high-efficiency-video-minimizers-cutting-down-footage-size-by-90-while-preserving-excellent-visuals/"><u>Ultimate Guide to High-Efficiency Video Minimizers: Cutting Down Footage Size by 90%% While Preserving Excellent Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-distinctions-a-comprehensive-guide-to-mp3-vs-mp4-formats/"><u>Understanding the Distinctions: A Comprehensive Guide to MP3 vs MP4 Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-job-potential-6-ways-to-harness-chatgpt/"><u>Unlocking Job Potential: 6 Ways to Harness ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-macx-dvd-ripper-proshow/"><u>マックでDVDをリッパして変更する - MacX DVD Ripper Pro：ダウンロードから始めまSHOW！</u></a></li>
+</ul></div>

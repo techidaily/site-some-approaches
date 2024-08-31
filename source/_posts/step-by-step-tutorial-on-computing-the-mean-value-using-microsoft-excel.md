@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Computing the Mean Value Using Microsoft Excel
-date: 2024-08-28 23:41:30
-updated: 2024-08-29 10:52:51
+date: 2024-08-30T21:20:40.887Z
+updated: 2024-08-31T21:20:40.887Z
 tags:
   - desktop
 categories:
@@ -58,6 +58,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  How to Use AVERAGEA in Excel
 
  AVERAGEA works in a very similar way to AVERAGE, but includes more than just numbers within the calculation. Here's the syntax for this function:
@@ -72,6 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  In cell D5, we would type the following formula:
 
 =AVERAGEA(B2:B8)
@@ -84,6 +91,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  As with AVERAGE, if any of the values being used in the AVERAGEA calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would return an error.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  How to Use AVERAGEIF in Excel
 
  AVERAGEIF effectively performs two calculations in one go, first identifying data that meet a certain criterion before then finding the average of these data. AVERAGEIF uses the following syntax:
@@ -116,10 +127,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Use AVERAGEIFS in Excel
 
  The AVERAGEIFs function allows you to include several criteria to assess before calculating the average. It works using the following syntax:
@@ -132,6 +149,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To do this, we would use the following formula:
 
 =AVERAGEIFS(B2:B8,C2:C8,"Green",D2:D8,">10")
@@ -165,3 +185,55 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-instructions-on-capturing-streamed-dialogues/"><u>[New] 2024 Approved  Instructions on Capturing Streamed Dialogues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>[New] Capture Dynamic Artistry  Top 9 Tools for Perfect Windows GIFs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/levate-your-learning-the-top-10-educational-historians-yt/"><u>[New] Elevate Your Learning  The Top 10 Educational Historians YT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-video-power-windows-edition-explained/"><u>[New] HDR Video Power  Windows Edition Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-lights-mastery-guide/"><u>[New] IPhone Lights Mastery Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enriching-slides-video-incorporation-from-youtube/"><u>[Updated] 2024 Approved  Enriching Slides  Video Incorporation From YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-filter-guide-to-superior-zoom-quality/"><u>[Updated] 2024 Approved  The Ultimate Filter Guide to Superior Zoom Quality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-unique-ps3-gameplay-presentations-with-screen-recordings/"><u>[Updated] Crafting Unique PS3 Gameplay Presentations with Screen Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software/"><u>[Updated] Pinnacle Tools for Subs to SRT  Unveiling the Top 8 Win & Mac Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-gamers-guide-to-best-4k-laptop-models/"><u>2024 Approved  Gamer's Guide to Best 4K Laptop Models</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-se-2022-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone SE (2022)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-techniques-for-changing-wmv-videos-to-mp4-on-macos-devices/"><u>Best Free Techniques for Changing WMV Videos to MP4 on macOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/capture-crisp-4k-footage-60-fps-with-iphone-and-enjoy-effortless-playback-quality/"><u>Capture Crisp 4K Footage @ 60 FPS with iPhone & Enjoy Effortless Playback Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-videos-seamlessly-with-macx-pro-the-leading-solution-for-high-definition-hd4k-file-format-changes-on-macos/"><u>Convert Videos Seamlessly with MacX Pro: The Leading Solution for High-Definition (HD/4K) File Format Changes on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-superior-alternatives-for-converting-and-saving-youtube-videos-offline/"><u>Discover Superior Alternatives for Converting and Saving YouTube Videos Offline</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-and-stream-videos-anytime-top-alternatives-to-keepvid-for-pc-and-mac-users/"><u>Download and Stream Videos Anytime: Top Alternatives to KeepVid for PC & Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-macx-top-rated-mac-dvd-to-mpeg-and-mp3-format-converter-freeware/"><u>Download MacX: Top-Rated Mac DVD to MPEG & MP3 Format Converter (Freeware)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enjoy-festive-fun-with-these-top-10-animated-christmas-flicks-perfect-for-the-whole-family/"><u>Enjoy Festive Fun with These Top 10 Animated Christmas Flicks Perfect for the Whole Family</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-insights-on-upgrading-from-jpeg-to-advanced-heifheic-format/"><u>Essential Insights on Upgrading From JPEG to Advanced HEIF/HEIC Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exclusive-discount-on-professional-dvd-to-digital-format-transfers/"><u>Exclusive Discount on Professional DVD-to-Digital Format Transfers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/explore-the-macx-collection-easy-online-shopping-at-the-official-macx-digital-outlet/"><u>Explore the MacX Collection: Easy Online Shopping at the Official MacX Digital Outlet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fehlerbehebung-fur-nicht-abspielbare-dvds-auf-dem-xbox-one-schnelllosungsguide/"><u>Fehlerbehebung Für Nicht Abspielbare DVDs Auf Dem Xbox One - Schnelllösungsguide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/firestick-fun-with-apple-a-detailed-walkthrough-of-downloading-and-using-apple-tv-app-on-firestick/"><u>Firestick Fun with Apple: A Detailed Walkthrough of Downloading and Using Apple TV App on Firestick</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-methods-to-convert-wmv-files-into-mp4-format-on-your-mac/"><u>Free Methods to Convert WMV Files Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-effortless-mac-x-flv-video-transcoding-tool-no-cost-solution-for-flv-format-on-macos/"><u>FREE: Effortless Mac X FLV Video Transcoding Tool - No Cost Solution for FLV Format on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-your-macx-mediatrans-now-at-a-low-price-purchase-securely-online/"><u>Get Your MacX MediaTrans Now at a Low Price - Purchase Securely Online!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/huge-savings-alert-snag-your-macx-mediatrans-with-a-staggering-63-discount/"><u>HUGE Savings Alert: Snag Your MacX MediaTrans with a Staggering 63%% DISCOUNT!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-x50iplus-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor X50i+ FRP?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-hp-laserjet-5200-printer-drivers-on-your-pc-with-windows-11-10-or-8/"><u>Installing HP LaserJet 5200 Printer Drivers on Your PC with Windows 11, 10 or 8 (설치 가독성 향상)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-drm/"><u>IPhone DRM解除アプリ一斉紹介：すべてのユーザーが楽しめる簡単操作</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-compatible-vob-file-transcoder-easily-convert-your-vob-videos-into-common-formats-like-mp4-avi-wmv-and-mov/"><u>Mac-Compatible VOB File Transcoder: Easily Convert Your VOB Videos Into Common Formats Like MP4, AVI, WMV & MOV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-lite/"><u>MacX DVD Ripper Pro Lite フォーウィンズで購入したら、リッピングソフトの使用を始めるためのライセンスコード登録ガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-the-art-of-watching-webm-files-on-ios-devices/"><u>Master the Art of Watching WebM Files on iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-video-format-conversion-effortlessly-make-your-videos-ready-for-iphone-ipad-apple-tv-and-itunes-playback/"><u>Master Video Format Conversion: Effortlessly Make Your Videos Ready for iPhone, iPad, Apple TV & iTunes Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-your-device-the-best-app-for-seamlessly-handling-iphone-pictures-tunes-and-movies/"><u>Master Your Device: The Best App for Seamlessly Handling iPhone Pictures, Tunes & Movies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-art-of-capturing-youtube-videos-with-sound-a-comprehensive-guide-for-mac-users/"><u>Mastering the Art of Capturing YouTube Videos With Sound: A Comprehensive Guide for Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-removing-dvd-region-restrictions-for-global-playback/"><u>Step-by-Step Tutorial on Removing DVD Region Restrictions for Global Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-free-no-install-video-editing-tools-you-can-use-immediately/"><u>Top Free No-Install Video Editing Tools You Can Use Immediately</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-editing-software-for-macos-the-best-alternatives-to-imovie/"><u>Top Video Editing Software for macOS: The Best Alternatives to iMovie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trouble-watching-hd-mkv-files-on-your-ipad-discover-effortless-solutions-for-superior-playback/"><u>Trouble Watching HD MKV Files on Your iPad? Discover Effortless Solutions for Superior Playback!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-your-zoom-black-display-issue-expert-solutions-for-2-pcs/"><u>Troubleshoot & Resolve Your Zoom Black Display Issue: Expert Solutions for 2지원 PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-freemake-video-downloader-issues-solutions-for-mac-and-pc/"><u>Troubleshooting Freemake Video Downloader Issues: Solutions for Mac and PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-facile-comment-sapproprier-les-films-sur-ton-ordinateur-avec-un-decrypteur-de-dvd-gratuit/"><u>Tutorial Facile: Comment S'Approprier Les Films Sur Ton Ordinateur Avec Un Decrypteur De DVD Gratuit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-mac-video-converter-transform-videos-into-compatible-formats-for-iphone-ipad-apple-tv-and-more/"><u>Ultimate Mac Video Converter: Transform Videos Into Compatible Formats for iPhone, iPad, Apple TV & More</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-techniques-for-casting-ripping-and-watching-dvds-from-your-computer-onto-chromecast/"><u>Ultimate Techniques for Casting, Ripping & Watching DVDs From Your Computer Onto Chromecast</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-windows-10-movie-making-best-apps-and-tools/"><u>Updated In 2024, Windows 10 Movie Making Best Apps and Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/your-portal-into-next-gen-browsing-sign-up-for-microsofts-bing-with-artificial-intelligence/"><u>Your Portal Into Next-Gen Browsing: Sign Up for Microsoft’s Bing with Artificial Intelligence</u></a></li>
+</ul></div>

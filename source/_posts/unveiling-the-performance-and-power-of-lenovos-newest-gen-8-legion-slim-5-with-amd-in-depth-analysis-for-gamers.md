@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Performance and Power of Lenovo's Newest Gen 8 Legion Slim 5 with AMD – In-Depth Analysis for Gamers
-date: 2024-08-27 17:28:38
-updated: 2024-08-29 12:10:37
+date: 2024-08-30T21:16:56.221Z
+updated: 2024-08-31T21:16:56.221Z
 tags:
   - product-reviews
 categories:
@@ -152,6 +152,9 @@ Hannah Stryker / How-To Geek
 
  While the top and bottom of the laptop have sturdy aluminum, it's a bit disappointing to see the rest of the chassis with hard plastic—but this is an understandable tradeoff for a lighter weight.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Side and Rear Ports Galore
 
  There's no shortage of ports on the Lenovo Legion Slim 5 14 (Gen 8) laptop. On the left side of the laptop are two USB-C ports, while the right side of the device has a headphone/microphone combo jack and a full-sized SD Card reader, in addition to an e-privacy switch for the integrated camera.
@@ -164,6 +167,9 @@ Close
 
 ![Keyboard and Trackpad on the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/keyboard-and-trackpad-on-the-lenovo-legion-slim-5-14-gen-8jpg_53203415606_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I'm a big fan of the sweet spot of a laptop keyboard that lies somewhere between loose yet responsive and springy. For a gaming laptop, the Legion Slim 5 pulls off this balance of quick keyboard action while giving the typist a beautiful spring-back feel and a pleasantly clicky noise while typing. Most gamers should be happy with the keyboard's action, even if they're major proponents of mechanical keyboards. The only bummer to me was the lack of RGB backlighting. Lenovo's other Legion offerings tend to have RGB backlighting as standard, including the similar Slim model, the [Legion Slim 5 16 (Gen 8)](https://www.howtogeek.com/lenovo-legion-slim-5-16-inch-gen-8-review/), but it's absent on the Slim 5 14.
@@ -172,6 +178,9 @@ Hannah Stryker / How-To Geek
 
  The touchpad, meanwhile, was wonderfully responsive for scrolling, zooming, tapping, and navigating my way through work and games, except for those that required a USB mouse.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Display: Vibrant 2.8K Graphics
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop playing episode one of "Life on Our Planet" on Netflix.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/display-image-hero.jpg) 
@@ -194,10 +203,16 @@ Close
 
  I was especially impressed with how NVIDIA's GeForce RTD 4060 GPU handled ray-tracing and contrast in games. I've played "Warhammer 40,000: Darktide" on several other laptops, like the [Razer Blade 18](https://win-howtos.techidaily.com/effective-methods-to-address-the-black-screen-glitch-on-windows-11/), and the smoothness of the graphics on the Legion Slim 5 made me feel like I was playing it for the first time again, marveling at all the smoke and fire and shadows.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance: Smooth Heavy-Load Processing
 
 ![How-To Geek open on the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/how-to-geek-open-on-the-lenovo-legion-slim-5-14-gen-8jpg_53203753520_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I used the Legion Slim 5 14 (Gen 8) for my daily work tasks, including but not limited to Zoom and Google Meet calls, drafting articles, editing photos in Adobe Photoshop, researching with way too many tabs open, and listening to tunes in the background via Spotify or taking a time-out with YouTube.
@@ -206,6 +221,9 @@ Hannah Stryker / How-To Geek
 
  I was also impressed with how cool the Legion Slim 5 14 stayed during charging or heavy usage. I never felt the laptop's base become so hot that I didn't want to use it, except for one instance when I was charging while gaming and using the Legion on my lap instead of at a desk.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  Gaming: AI-Powered High Fidelity Graphics and Smooth Gameplay
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop playing the game "The Outer Worlds."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gaming-hero-1.jpg) 
@@ -214,6 +232,9 @@ Cianna Garrison / How-To Geek
 
 "The Outer Worlds"
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 
 
  I used the default settings on the Legion Slim 5 14, but Lenovo's Vantage app offers plenty of flexibility to customize your gaming experience, including an Adaptive Refresh Rate setting, GPU Overclock, and different power supply modes. I also had the Lenovo AI Engine+ setting switched on, which automatically tunes the CPU and GPU performance. I have to say, the gaming performance was one of the smoothest I've seen in a while, no matter if I was playing games via Steam or [Xbox PC Game Pass](https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass?xr=shellnav).
@@ -238,6 +259,9 @@ Close
 
  The microphone gave me some trouble with connectivity in Google Meet after using the Sound Recorder app. Unfortunately, there was no way to resolve this than to rejoin the meeting or restart the laptop—but I feel this was an issue with Google Meet and my browser. The actual sound from the microphone was so-so. In a quiet setting, the mic worked fine, but in noisy settings, the sound was often clipped.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Microphone Test on the Lenovo Legion Slim 5 14 (Gen 8) in a Quiet Environment
 
 ###  Microphone Test on the Lenovo Legion Slim 5 14 (Gen 8) in a Noisy Environment
@@ -254,6 +278,9 @@ Hannah Stryker / How-To Geek
 
  Charging up was a pleasure, especially with the Rapid Charge capability. The average speed I saw the Legion Slim 5 charge up was 1.15% per minute, with an average of 69% charge per hour—and on occasion, I did see my battery reach 50 to 70% in 30 minutes of charging.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Slim 5 14 (Gen 8) Laptop?
 
  For gamers who want a less bulky mid-range gaming laptop, the [Lenovo Legion Slim 5 14 (Gen 8)](https://shop-links.co/link/?exclusive=1&publisher%5Fslug=howtogeek&u1=UUhtgUeUpU2000880&article%5Fname=Lenovo+Legion+Slim+5+14+Gen+8+%28AMD%29+Review%3A+The+Smoothest+Midrange+Gaming+Laptop&article%5Furl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-legion-slim-5-14-gen-8-amd-review%2F&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flegion-slim-5-gen-8-%2814-inch-amd%29%2Flen101g0032) offers plenty of note-worthy features. From the AMD Ryzen CPU and the NVIDIA GeForce RTX 4060 GPU to its Nahimic Audio and the 2.8K OLED display, most casual to moderate gamers will find a lot to love about this device. You can buy the Lenovo Legion Slim 5 14 (Gen 8) today starting at $1,205.27.
@@ -288,3 +315,40 @@ With a 2.8K display, Nahimic audio, and an NVIDIA GeForce RTX GPU, the Lenovo Le
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-your-instagram-business-blueprint/"><u>[New] 2024 Approved  Crafting Your Instagram Business Blueprint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-video-boundaries-explained/"><u>[Updated] 2024 Approved  Instagram Video Boundaries Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[Updated] Journey's Best Tools  Top 10 VR Peripherals Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-visual-storytelling-with-the-best-scripted-text-extensions/"><u>2024 Approved  Elevate Visual Storytelling with the Best Scripted Text Extensions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-vimeos-end-screens-for-creative-directives/"><u>2024 Approved  Mastering Vimeo's End Screens for Creative Directives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/4-google-chrome/"><u>4簡単なチャンネルビデオダウンロード手順 - Google Chromeを使って無料!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/music-box-music-fm/"><u>重生のMUSIC BOX: 新バージョンがもたらすリスクと特徴、設置方法、欠点、および楽曲操作 - Music FM</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/alternativen-zum-download-von-powerdvd-fur-macos-fundige-losungen/"><u>Alternativen Zum Download Von PowerDVD Für macOS – Fündige Lösungen</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-aaa-game-publishers-just-getting-too-big-podcast/"><u>Are AAA Game Publishers Just Getting Too Big? [Podcast]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-sources-for-downloading-movies-and-tv-shows-online/"><u>Best Free Sources for Downloading Movies and TV Shows Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cinematic-highlights-of-2-movies-a-must-watch-list-for-hollywood-fans/"><u>Cinematic Highlights of 2# Movies : A Must-Watch List for Hollywood Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-tutorial-on-utilizing-handbrake-v107-for-efficient-video-format-changes/"><u>Comprehensive Tutorial on Utilizing HandBrake v1.0.7 for Efficient Video Format Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-any-dvd-securely-to-apple-devices-download-the-official-macx-app-and-transfer-media-flawlessly-onto-iphone-xsxr/"><u>Convert Any DVD Securely to Apple Devices - Download the Official MacX App and Transfer Media Flawlessly Onto iPhone XS/XR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-your-avchd-footage-to-imovie-seamlessly-and-gratuitously/"><u>Convert Your AVCHD Footage to iMovie Seamlessly and Gratuitously</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-your-mtsm2ts-files-to-mov-format-free-on-mac-devices-perfect-for-iphone-and-ipad/"><u>Convert Your MTS/M2TS Files to Mov Format Free on Mac Devices, Perfect for iPhone and iPad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-new-ways-top-video-downloader-plugins-for-chrome-away-from-video-downloadhelper/"><u>Discover New Ways: Top Video Downloader Plugins for Chrome Away From Video DownloadHelper</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdmac-mac-mac/"><u>DVDコピーツール・Mac用: 変換してMacに転送が簡単な無料ソフト - Macユーザー必見!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-netflix-dvd-renting-strategies-vital-insights-every-member-must-acknowledge/"><u>Essential Netflix DVD Renting Strategies: Vital Insights Every Member Must Acknowledge</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-c53-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/flash-videos-aus-webseiten-wie-youtube-facebook-und-dailymotion-bequem-speichern/"><u>Flash-Videos Aus Webseiten Wie YouTube, Facebook Und Dailymotion Bequem Speichern</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-converting-copy-protected-macos-dvds-into-editable-formats/"><u>Guide: Converting Copy-Protected MacOS DVDs Into Editable Formats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hd-video-mastery-effortless-compression-and-upgrade-of-m2ts-to-premium-mkv-without-sacrificing-clarity/"><u>HD Video Mastery: Effortless Compression & Upgrade of M2TS to Premium MKV Without Sacrificing Clarity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-input-delay-no-more-a-guide-to-tackle-window-11-typing-lags/"><u>Keyboard Input Delay No More – A Guide to Tackle Window 11 Typing Lags</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-by-digiarty-software-macxdvd-digiarty-software-common-questions-and-answers/"><u>MacXDVD by Digiarty Software - 一般的な疑問と回答について (MacXDVD Digiarty Software - Common Questions & Answers)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-closed-captioning-tutorial-for-enabling-and-adding-texts-in-quicktime-videos/"><u>Mastering Closed Captioning: Tutorial for Enabling and Adding Texts in QuickTime Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-visual-impact-the-best-ae-title-methods/"><u>Mastering Visual Impact  The Best AE Title Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/resolving-iphone-touch-id-issues-post-ios-update-a-comprehensive-guide/"><u>Resolving iPhone Touch ID Issues Post-iOS Update: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-steps-to-tilt-your-videos-at-90-180-and-270-degree-angles/"><u>Simple Steps to Tilt Your Videos at 90, 180 & 270-Degree Angles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategizing-your-data-space-pre-eminent-cloud-services-for-2024/"><u>Strategizing Your Data Space  Pre-Eminent Cloud Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-transcoding-tools-for-xbox-one-effortless-format-conversion-guide/"><u>Top Video Transcoding Tools for Xbox One - Effortless Format Conversion Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-restoring-screen-recording-on-your-iphone-with-ios-17-update/"><u>Troubleshooting Guide: Restoring Screen Recording on Your iPhone with iOS 17 Update</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-5-minute-timelapse-video-maker-for-2024/"><u>Ultimate 5-Minute Timelapse Video Maker for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-resolving-all-itunes-issues-solutions-updated-for-2018/"><u>Ultimate Guide: Resolving All iTunes Issues - Solutions Updated for 2018</u></a></li>
+</ul></div>

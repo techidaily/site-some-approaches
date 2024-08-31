@@ -1,7 +1,7 @@
 ---
 title: "Think Twice Before Choosing Bargain Lapses: The Hidden Pitfalls of Economical Computers"
-date: 2024-08-27 15:55:23
-updated: 2024-08-29 12:32:57
+date: 2024-08-30T21:21:41.152Z
+updated: 2024-08-31T21:21:41.152Z
 tags:
   - deals
 categories:
@@ -51,12 +51,18 @@ Joe Robinson / How-To Geek
 
 ![Y'all got any more them pixels meme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/a5f.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  Modern smartphones typically have very high pixel densities, but you’re also likely to hold them closer to your face. Laptops don’t need to hit such heady heights. A 15.6-inch laptop with a full HD display (1980x1080) has a pixel density of 141.2 pixels-per-inch (PPI), while the $250 14-inch HP laptop we mentioned earlier only hits 111.9 PPI (1366x768 at 14-inches).
 
  While pixel density doesn’t affect performance, it can negatively affect user experience. On top of this, some laptops skimp even on backlighting by opting for Pulse Width Modulation, or PWM for short. This is a method of controlling brightness by flickering the LED backlight (shorter bursts mean less light). This can cause eye strain and even headaches in some users, especially at low brightness settings.
 
  Lastly, the display will probably have a built-in webcam. It should come as no surprise that the cheapest laptops have the cheapest webcams (and microphones too). If you intend to do any sort of video conferencing it’s a good idea to buy a webcam that doesn’t make you look like a potato. There's only so much you can do to [improve how you look on a video call](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/).
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ##  Don’t Forget the Keyboard and Trackpad
 
  Your laptop’s keyboard and trackpad are important because they are the primary method of interacting with your laptop. These inputs can have a massive impact on the user experience. Small frustrations add up over the lifetime of the laptop and can mar the overall experience.
@@ -65,10 +71,16 @@ Joe Robinson / How-To Geek
 
 ![Speakers on Lenovo X1 Carbon (Gen 11) laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52938420859_c43965a677_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  And then there’s the trackpad. While you can easily [replace your trackpad with a quality mouse](https://snapchat-videos.techidaily.com/directly-send-snaps-from-your-phone-a-tutorial-for-2024/), you may still be stuck with it in some instances. Don’t expect multi-touch on the cheapest laptops, and it’s not uncommon to find a spot on the keyboard where applying pressure will actuate both the left and right mouse buttons at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cheap Laptops Can Be Flexible (in a Bad Way)
 
  Most of us don’t expect the highest possible build quality from the cheapest gadgets, but just how much flex you’re willing to accept is up for debate. Not only are cheap laptops made of cheap plastic, but they can feel and sound cheap too. Many will creak and flex even during normal use (like when typing, for example).
@@ -81,6 +93,10 @@ Joe Robinson / How-To Geek
 
  Don’t even dream of doing the one-finger-open, since many budget laptops lack enough weight in the base to keep the unit on the desk while you lift the lid. The one silver lining to this is that these laptops can be very light to carry around.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Make Sure the Ports Are Useful
 
  A lack of ports is not a problem that is exclusive to cheap laptops, as many Apple users can attest. The MacBook Air still only ships with a MagSafe charging port, 3.5mm stereo output, and two USB-C ports, and it is far from cheap. With that in mind, cheap laptops can suffer from poor I/O too.
@@ -93,6 +109,9 @@ Hannah Stryker / How-To Geek
 
  Not everyone is going to have issues with a limited port selection, but some will. If you intend to rely on an external monitor, make sure your laptop is suitable (preferably with DisplayPort over USB-C or at least a full-sized HDMI connector). The same is true if you want to use removable storage like SD and microSD.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Spend More Today, Save More Tomorrow
 
  Your cheap laptop can end up costing you. Sub-par performance out of the gate is only going to get worse over time. You might find yourself needing to replace your laptop sooner than if you’d spent marginally more in the first place.
@@ -117,3 +136,44 @@ Hannah Stryker / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-loyal-following-with-respectful-requests/"><u>[New] 2024 Approved  Building a Loyal Following with Respectful Requests</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-high-definition-playtime-best-hdmi-21-gaming-displays-ps5-compatible/"><u>[New] 2024 Approved  High Definition Playtime  Best HDMI 2.1 Gaming Displays [PS5 Compatible]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-title-tag-and-description-mastery-for-youtube-success/"><u>[New] 2024 Approved  Title, Tag & Description Mastery for YouTube Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-window-capture-suite-pro-xp/"><u>[New] 2024 Approved  Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-deciphering-the-skies-with-yuneecs-typhoon-uav/"><u>[New] In 2024, Deciphering the Skies with Yuneec’s Typhoon UAV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unzip-excitement-funimate-pros-apk-unwrapped/"><u>[Updated] Unzip Excitement - Funimate Pro's APK Unwrapped</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>2024 Approved  Chuckles on the Clouds  Designing Hits for FB & Instagram Meme Culture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/apple-tv-mac-dvd-mac-macx-dvd-converter/"><u>無料 Apple TV フォーマットへの Mac DVD変換 - Mac用 MacX DVD Converter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/altering-articulations-in-free-fire-arena/"><u>Altering Articulations in Free Fire Arena</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-360-video-playback-software-discover-the-top-5-platforms-for-immersive-viewing-experiences/"><u>Best 360 Video Playback Software: Discover the Top 5 Platforms for Immersive Viewing Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-flash-video-player-apps-for-macos-top-picks-and-features-compared/"><u>Best Flash Video Player Apps for macOS: Top Picks & Features Compared</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-disallowed-in-italy-exploring-the-immediate-effect-policy-shift/"><u>ChatGPT Disallowed in Italy: Exploring the 'Immediate Effect' Policy Shift</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiartys-milestone-anniversary-a-special-project-celebrating-18-years-of-innovation/"><u>DigiArty's Milestone Anniversary: A Special Project Celebrating 18 Years of Innovation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-av1-your-new-codec-solution-for-cost-free-uhd-video-compression-achieving-up-to-35-savings/"><u>Discover AV1 - Your New Codec Solution For Cost-Free UHD Video Compression Achieving Up to 35%% Savings!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-hd-and-4k-content-on-youtube-with-hevc-encoding-a-comprehensive-guide/"><u>Enhancing HD and 4K Content on YouTube with HEVC Encoding – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-methods-to-import-your-favorite-songs-from-cds-onto-your-iphone/"><u>Free Methods to Import Your Favorite Songs From CDs Onto Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-restore-lost-information-on-your-apple-devices-after-upgrading-to-ios-17/"><u>How To Restore Lost Information On Your Apple Devices After Upgrading To IOS 17</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-stabilize-your-video-for-better-impressions-in-fcpx-for-2024/"><u>How to Stabilize Your Video for Better Impressions in FCPX for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-conclusion-to-vr-journeys/"><u>In 2024, Optimal Conclusion to VR Journeys</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-steps-for-deleting-discord-on-computermobile/"><u>In 2024, Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>In 2024, Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-seo-guide-elevating-your-video-rankings-in-a-digital-age/"><u>In 2024, Ultimate SEO Guide  Elevating Your Video Rankings in a Digital Age</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-devices-and-pokemon-go-a-step-by-step-guide-to-installing-and-enjoying-the-game-on-your-iphone/"><u>IOS Devices & Pokémon GO: A Step-by-Step Guide to Installing and Enjoying the Game on Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-mac-dvd-dvdmov-mp4-m4vitunesappletv/"><u>IOS系统 Mac端 DVD转播器软件 - 免费提取DVD影像，支持MOV, MP4, M4V、iTunes和AppleTV等多个音视频格式导出</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphoneitunes/"><u>IPhoneに曲を入れるのに困った？iTunesでの対策集 - 完全手順ガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-gunstige-online-angebote-mit-ermassigung-fur-begeisterte-filmliebhaber/"><u>MacX DVD-Ripper Pro: Günstige Online-Angebote Mit Ermäßigung Für Begeisterte Filmliebhaber</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-motorola-moto-g04-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Motorola Moto G04 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-easy-tools-for-high-quality-8k-video-download-experience-crystal-clear-visuals-today/"><u>Quick and Easy Tools for High-Quality 8K Video Download – Experience Crystal Clear Visuals Today!</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-nubia-red-magic-9-proplus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 9 Pro+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/save-youtube-content-instantly-use-clickdownloader-for-a-hassle-free-experience-on-mac-computers/"><u>Save YouTube Content Instantly: Use ClickDownloader for a Hassle-Free Experience on Mac Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-integration-protecting-your-memories-by-syncing-ipad-content-with-your-computer-in-just-three-steps/"><u>Seamless Integration: Protecting Your Memories by Syncing iPad Content with Your Computer in Just Three Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-masterclass-securely-transferring-cinema-content-to-mac-and-macbook-pcs/"><u>Step-by-Step Masterclass: Securely Transferring Cinema Content to Mac and MacBook PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-converting-dvd-files-into-a-portable-format-for-usb-storage-devices-on-windows-and-mac/"><u>Step-by-Step Tutorial: Converting DVD Files Into a Portable Format for USB Storage Devices on Windows and Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-ranking-top-10-timeless-disney-pixar-masterpieces/"><u>The Ultimate Ranking: Top 10 Timeless Disney Pixar Masterpieces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-mac-compatible-m2ts-file-transformer-effortless-compression-and-conversion/"><u>Top Mac-Compatible M2TS File Transformer: Effortless Compression and Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766843360-top6/"><u>Top6 フリーソフトを使用した動画の圧縮: スピーディかつ高品質保持 - ダウンロード可能な解決法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/44oe44kt44k344oh44kv44k544oh44oh44kj44ki44oi44op44oz44k544gu6kmz57sw6kej6kqs77ya44oa44km44oz44ot44o844oj44gl44kj5qmf6io944cb44ot44oh44kq5zcm5pyf5pa55rov44ks19/"><u>マキシメクスメディアトランスの詳細解説：ダウンロードから機能、ビデオ同期方法を徹底学ぶ</u></a></li>
+</ul></div>

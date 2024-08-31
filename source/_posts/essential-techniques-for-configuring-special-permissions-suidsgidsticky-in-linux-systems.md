@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques for Configuring Special Permissions (SUID/SGID/Sticky) in Linux Systems
-date: 2024-08-27 18:18:30
-updated: 2024-08-29 10:32:52
+date: 2024-08-30T21:20:03.093Z
+updated: 2024-08-31T21:20:03.093Z
 tags:
   - desktop
 categories:
@@ -56,6 +56,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With the core Linux commands and utilities, you can be confident they've got security baked into them and that the code has been reviewed many times. Of course, there's always the threat of as-yet-unknown exploits. However, patches or updates are quick to appear to counter any newly identified vulnerabilities.
 
  It's third-party software—especially any that isn't open-source—you need to be extremely careful about using `SUID` with. We're not saying don't do it, but, if you do, you want to make sure it won't expose your system to risk. You don't want to elevate the privileges of a program that isn't going to correctly self-govern itself and the person running it.
@@ -76,6 +79,10 @@ ls -l /usr/bin/passwd
 
 ![List of Linux commands that have their SUID bit set, in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
  Note the filenames are highlighted in red, which indicates the SUID bit is set.
 
  The permissions on a file or directory are usually represented by three groups of three characters: rwx. These stand for read, write and execute. If the letters are present, that permission has been granted. If a hyphen (`-`) instead of a letter is present, though, that permission hasn't been given.
@@ -90,6 +97,9 @@ passwd
 
 ![passwd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  The `passwd` command prompts `dave` for his new password. We can use the `ps` command [to see the details of running processes](http://man7.org/linux/man-pages/man1/ps.1.html).
 
  We'll use `ps` with `grep` [in a different terminal window](http://man7.org/linux/man-pages/man1/grep.1.html) and look for the `passwd` process. We'll also use the -e (every process) and -f (full-format) options with `ps`.
@@ -120,6 +130,9 @@ ls -lh htg
 
 ![ls -lh htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When we run the local copy of the program, we see the real and effective IDs are both set to `dave`. So, it's behaving just as a normal program should.
 
  Let's copy it to the `/usr/local/bin` directory so others can use it.
@@ -134,18 +147,27 @@ ls -hl /usr/local/bin/htg
 
 ![sudo cp htg /usr/local/bin in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/5-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  So, the program is copied, and the SUID bit is set. We'll run it again, but this time we'll run the copy in the `/usr/local/bin` folder:
 
 htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
 
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
 
 ##  The SGID Bit
@@ -164,6 +186,9 @@ ls -lh /usr/local/bin/htg
 
 ![sudo chown root:mary /usr/local/bin/htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  You can see the `SGID` bit denoted by the "s" in the group permissions. Also, note the group is set to `mary` and the file name is now highlighted in yellow.
 
  Before we run the program, let's establish which groups `dave` and `mary` belong to. We'll use the `id` command with the -G (groups) option, [to print all group IDs](http://man7.org/linux/man-pages/man1/id.1.html). Then, we'll run the `htg` program as `dave`.
@@ -208,6 +233,9 @@ ls -lh -d demo
 
 ![cd work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/13-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The `SGID` bit and "geek" group are automatically applied to the "demo" directory.
 
  Let's type the following to create a file with the [touch command](http://man7.org/linux/man-pages/man1/touch.1.html) and check its properties:
@@ -250,6 +278,9 @@ ls -lh -d /var/tmp
 
  With those permissions, anyone should, theoretically, be able to do anything. However, the sticky bit overrides them, and no one can delete a file that doesn't belong to him.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reminders
 
  The following is a quick checklist of what we covered above for future reference:
@@ -275,3 +306,50 @@ ls -lh -d /var/tmp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebooks-premier-video-extraction-tools-for-iphone-and-ipad/"><u>[New] 2024 Approved  Facebook's Premier Video Extraction Tools for iPhone & iPad</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-best-practices-in-altering-igtv-video-titles/"><u>[New] Best Practices in Altering IGTV Video Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-direct-approaches-to-storing-google-voice-communications/"><u>[New] In 2024, Direct Approaches to Storing Google Voice Communications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-screencastify-for-easy-video-capture/"><u>[New] In 2024, Mastering Screencastify for Easy Video Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-windows-10-like-a-tech-wizard/"><u>[New] Navigating Windows 10 Like a Tech Wizard</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expertly-ranked-online-capturing-software-for-2024/"><u>[Updated] Expertly Ranked Online Capturing Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-get-the-complete-set-of-macxdvd-utilities-secure-your-legitimate-full-version-today/"><u>1. Get the Complete Set of MacXDVD Utilities: Secure Your Legitimate Full Version Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766764426-2024dvd/"><u>初心者のための完全ガイド: 2024年のDVDから無料で高品質なブルーレイへの変換</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-macx-dvdmacx-dvd-rippter-pro-and-convert-pro/"><u>厳選Mac用ソフトウェア: MacX DVD最安値でリーズナブルな価格でMacX DVD Rippter Pro & Convert Proを購入。</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/achieving-harmonic-transition-blends/"><u>Achieving Harmonic Transition Blends</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/all-purpose-capture-software-azs-app-critiques/"><u>All-Purpose Capture Software - AZ's App Critiques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-buys-in-the-drone-world-ready/"><u>Best Buys in the Drone World Ready</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-indian-film-downloads-top-bollywood-movies-without-cost/"><u>Best FREE Indian Film Downloads - Top Bollywood Movies Without Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-premium-mkv-encoders-and-decoders-free-improve-hd-video-streaming-quality/"><u>Download Premium MKV Encoders & Decoders FREE! Improve HD Video Streaming Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-dvd-to-video-conversion-on-macos-with-macx-professional-dvd-to-mp4-avi-and-mkv-creator/"><u>Effortless DVD-to-Video Conversion on macOS with MacX Professional DVD to MP4, AVI, and MKV Creator</u></a></li>
+<li><a href="https://techidaily.com/effortless-ways-to-modify-the-country-of-origin-on-netflix/"><u>Effortless Ways to Modify the Country of Origin on Netflix</u></a></li>
+<li><a href="https://video-capture.techidaily.com/evaluating-active-8-does-it-match-best-recording-standards-for-2024/"><u>Evaluating Active 8 - Does It Match Best Recording Standards for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-guide-to-high-quality-no-compromise-digital-copies-from-your-dvd-collection/"><u>Expert Guide to High-Quality, No-Compromise Digital Copies From Your DVD Collection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fixing-muted-video-issues-how-to-get-your-youtubes-playing-with-sound-again/"><u>Fixing Muted Video Issues - How to Get Your YouTubes Playing with Sound Again!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-optimize-large-drone-footage-for-online-sharing-with-no-loss-of-video-clarity/"><u>How to Optimize Large Drone Footage for Online Sharing with No Loss of Video Clarity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-find-x7-ultra-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Find X7 Ultra To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-streaming-showdown-face-off-between-obs-and-shadowtoolkit/"><u>In 2024, Screen Streaming Showdown  Face Off Between OBS & ShadowToolKit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/letztes-update-fur-macx-dvd-ripper-pro-kostenlos-beziehen/"><u>Letztes Update Für MacX DVD Ripper Pro Kostenlos Beziehen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4a-against-mp3-a-comprehensive-analysis-of-audio-fidelity-compactness-and-professional-endorsement/"><u>M4A Against MP3: A Comprehensive Analysis of Audio Fidelity, Compactness & Professional Endorsement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-video-converter-pro-pack-get-your-free-promo-code-and-save-big-on-professional-software/"><u>MacX DVD Video Converter Pro Pack: Get Your Free Promo Code & Save Big on Professional Software!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-digiarty/"><u>MacX DVD使い方詳しく解説 - Digiartyソフトウェアでの快適な利用ガイド | 支払い手段：コンビニ電子決済方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/musik-auf-ihrem-iphone-speichern-ohne-itunes-eine-schritt-fur-schritt-anleitung/"><u>Musik Auf Ihrem iPhone Speichern Ohne iTunes: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-video-converter/"><u>Online Video Converter: ダウンロードから操作方法、エラー解決策 - ユーザー体験レポート</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rare-insight-into-elite-dvd-rentals-can-you-join-their-exclusive-circle/"><u>Rare Insight Into Elite DVD Rentals – Can You Join Their Exclusive Circle?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/record-stunning-4k-videos-at-60fps-on-your-iphone-trouble-free-viewing-experience/"><u>Record Stunning 4K Videos at 60Fps on Your iPhone - Trouble-Free Viewing Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-transformation-from-flv-to-hevc-video-codec-on-both-macos-and-windows-platforms-best-practices/"><u>Seamless Transformation From FLV to HEVC Video Codec on Both macOS and Windows Platforms - Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-filmdownloadseiten-fur-hollywood-and-bollywood-gratis-streaming-und-herunterladen/"><u>Top-Filmdownloadseiten Für Hollywood & Bollywood: Gratis Streaming Und Herunterladen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-video-game-scores-download-the-greatest-tracks-at-no-cost/"><u>Top-Ranked Video Game Scores: Download the Greatest Tracks at No Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-video-grabber-apps-for-hd-movie-downloads-on-mobile-devices/"><u>Top-Ranked Video Grabber Apps for HD Movie Downloads on Mobile Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranking-dvd-extractor-software-fur-pc-und-mac-sichere-dvd-extraktion-in-verschiedenen-formaten-wie-avi-mp4-mkv/"><u>Top-Ranking DVD Extractor Software Für PC Und Mac: Sichere DVD-Extraktion in Verschiedenen Formaten Wie AVI, MP4, MKV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferring-heic-images-from-iphone-to-mac-a-step-by-step-guide/"><u>Transferring HEIC Images From iPhone to Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferring-images-from-your-iphone-to-a-mac-7-simple-methods/"><u>Transferring Images From Your iPhone to a Mac: 7 Simple Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-free-dvd-cloning-programs-for-both-macos-and-windows-users/"><u>Ultimate Guide to Free DVD Cloning Programs for Both macOS and Windows Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-mastering-the-iphone-x-with-expert-hacks-and-insider-advice/"><u>Ultimate Guide: Mastering the iPhone X with Expert Hacks & Insider Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unify-apple-ecosystem-macx-a-convenient-solution-to-share-files-between-iphoneipodipad-and-mac-computers/"><u>Unify Apple Ecosystem: MacX - A Convenient Solution to Share Files Between iPhone/iPod/iPad and Mac Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windowsmacx-dvd-ripperwindows/"><u>Windowsからスムーズな変更！MacX DVD Ripper無料エディションWindows対応へのアップグレードがお易しに！</u></a></li>
+</ul></div>

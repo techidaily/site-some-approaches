@@ -1,7 +1,7 @@
 ---
 title: "MacBook Battery Solutions: A Comprehensive Price Guide From Budget to Premium Options"
-date: 2024-08-26 16:38:45
-updated: 2024-08-29 10:42:52
+date: 2024-08-30T21:20:17.822Z
+updated: 2024-08-31T21:20:17.822Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,9 @@ Hannah Stryker / How-To Geek
 
  These are only short-term solutions, though. The power banks are compact but can be a little heavy, and they will tie up one of your ports as well. So, if you need your MacBook to be portable, at some stage you will have to replace the battery.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  $75+: Replace the Battery Yourself
 
  The cheapest way to replace your MacBook battery is by doing it yourself. There are a few companies that supply the parts and tools for this. Probably the most well-known is [ifixit.com](https://www.ifixit.com), which offers a battery and toolkit for the M1 MacBook Air for $130\. [OWC](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003305/https://eshop.macsales.com) is another well-regarded brand, and you would pay $75 for a replacement battery and tools for the same MacBook.
@@ -70,22 +73,37 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot showing the price of a self repair MacBook Air battery from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-showing-the-price-of-a-self-repair-macbook-air-battery-from-apple.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  However, these machines are not intended for self-repair, so you do need to be quite brave to do it. It might be worth trying if you're looking to resurrect an old Mac whose battery has long since expired. But on a MacBook that is still in good condition, I would personally feel more comfortable getting the job done properly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  $159+: Get it Repaired (Officially or Unofficially)
 
  Apple will replace your battery for a reasonably affordable price. At the time of writing, it's $159 for a MacBook Air and $249 for a MacBook Pro, and you can always check the latest prices on [Apple's support site](https://support.apple.com/mac/repair). You get an official battery, of course, and a warranty.
 
 ![Screenshot of Apple Support Website to get a quote for repairs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-of-apple-support-website-to-get-a-quote-for-repairs.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also get your battery replaced using an Apple-certified repair service. These can include big companies like Best Buy in the US along with smaller local repair outlets. They will also get you an official Apple battery, but the labor costs can vary and might not always be cheaper. You'll need to get a quote before you begin.
 
 ![The Best Buy Apple Repair homepage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-best-buy-apple-repair-homepage.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  And if you want to save a little bit more money, you can use your local unofficial, non-certified repair service. This will get you a third-party battery that should be cheaper, and it should also cost less to install. Again, you'll need to get a quote. Remember that there are no guarantees with these types of repairs. There's even the chance it will affect Apple's ability to repair anything that goes wrong in the future.
 
  Unless you're on the tightest of budgets, the official Mac repair seems like a good balance between value and peace of mind.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  $759+: Buy a New MacBook
 
  The last option for fixing a bad MacBook battery is to buy a new MacBook. This is overkill in most cases, but if you're seeing other signs that it's [time to upgrade your MacBook](https://audio-editing.techidaily.com/new-in-2024-dissecting-sound-forge-an-experts-guide-to-audio-mastery/), then it may be worth doing.
@@ -116,3 +134,51 @@ Hannah Stryker / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-gross-income-estimates-for-youtube-star-pewdopeep/"><u>[New] 2024 Approved  Gross Income Estimates for YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-instagram-potential-with-advanced-cropping-methods/"><u>[New] 2024 Approved  Unlock Instagram Potential with Advanced Cropping Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tailoring-your-timing-strategy-the-ultimate-instagram-guide/"><u>[New] In 2024, Tailoring Your Timing Strategy  The Ultimate Instagram Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-inspirational-themes-for-regular-vlogs/"><u>[New] Inspirational Themes for Regular Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] 2024 Approved  First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-online-interactions-master-microsoft-teams-snap-for-2024/"><u>[Updated] Elevate Your Online Interactions  Master Microsoft Teams Snap for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-profitable-unlocking-youtubes-monetization-at-500plus/"><u>[Updated] In 2024, From Free to Profitable  Unlocking YouTube's Monetization at 500+</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-video-editing-on-windows-11-for-professionals/"><u>[Updated] Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-mega-discount-on-lifetime-licensed-macx-dvd-ripper-pro-grab-the-authorized-deal-now/"><u>1. Mega Discount on Lifetime Licensed MacX DVD Ripper Pro: Grab the [AUTHORIZED] Deal Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-a58-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo A58 4G without App | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/apple-macosdvdmaciphoneipod/"><u>Apple macOS用無料アプリ：DVD映像をMacからiPhone/iPodに移動</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-mac-software-downloading-ripit-plus-fantastic-alternative-options/"><u>Best Free Mac Software: Downloading RipIt + Fantastic Alternative Options!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/commemorative-event-by-digiarty-a-unique-18-year-journey-in-digital-creation/"><u>Commemorative Event by Digiarty: A Unique 18-Year Journey in Digital Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-and-transfer-your-dvds-effortlessly-with-macx-the-premier-free-tool-to-upload-and-convert-dvd-media-onto-an-iphone-4-using-mac-os/"><u>Convert & Transfer Your DVDs Effortlessly with MacX: The Premier Free Tool to Upload and Convert DVD Media Onto an iPhone 4 Using Mac OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-conversion-tactics-how-to-change-heic-imagery-to-jpg-in-top-6-methods/"><u>Effortless Conversion Tactics: How to Change HEIC Imagery to JPG in Top 6 Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-seatechs-external-blu-ray-drive-with-usb-connection-inconsistent-writing-quality/"><u>Expert Analysis of SeaTech's External Blu-Ray Drive with USB Connection - Inconsistent Writing Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-seamlessly-switching-from-nook-to-kobo-for-your-ebooks/"><u>Guide: Seamlessly Switching From Nook to Kobo for Your Ebooks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-add-english-subtitles-a-guide-to-ripping-your-foreign-language-dvd/"><u>How to Add English Subtitles: A Guide to Ripping Your Foreign-Language DVD</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-9gag-memes-tips-for-creativity-and-impact/"><u>In 2024, Master the Art of 9GAG Memes  Tips for Creativity and Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-cross-platform-tweeting-twitterfacebook/"><u>In 2024, Mastering Cross-Platform Tweeting (Twitter/Facebook)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-13-pro-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 13 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-battery-longevity-hacks-for-202-cu2023-top-energy-saving-strategies-and-applications-to-combat-quick-depletion/"><u>IPhone Battery Longevity Hacks for 202 Cu2023 - Top Energy-Saving Strategies & Applications to Combat Quick Depletion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-connection-error-with-iphone-resolving-the-value-is-missing-issue/"><u>ITunes Connection Error with iPhone: Resolving the 'Value Is Missing' Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/komplette-anleitung-zur-einrichtung-und-inbetriebnahme-des-neuen-iphones-das-ultimative-handbuch-fur-neuankommlinge/"><u>Komplette Anleitung Zur Einrichtung Und Inbetriebnahme Des Neuen iPhones: Das Ultimative Handbuch Für Neuankömmlinge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-os-x-dvd/"><u>Mac OS Xからスマートフォン、タブレットへ高速変換: DVD/動画ファイルをどうやって移行させるか学ぶ完全解説</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-announces-grand-opening-giveaway-of-4-premium-mac-apps-hidden-in-a-deluge-of-10000-easter-eggs-get-your-stash-now/"><u>MacXDVD Announces Grand Opening Giveaway of 4 Premium Mac Apps Hidden in a Deluge of 10,000 Easter Eggs - Get Your Stash Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766476465-makemkv/"><u>MakeMKVがわかりやすい！地球上で一番手軽に学べるステップ・バイ・ステップガイド!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-macx-mediatrans-ersparnis-fur-kunden-finden/"><u>Online MacX MediaTrans Ersparnis Für Kunden Finden</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimizing-videos-for-mobile-viewing-and-sharing-on-platforms-like-youtube-and-via-email/"><u>Optimizing Videos for Mobile Viewing and Sharing on Platforms Like YouTube & Via Email</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pinnacle-portals-high-performance-laptops-for-uhd-videos-for-2024/"><u>Pinnacle Portals  High-Performance Laptops for UHD Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-capturing-screenshots-and-recording-videos-on-a-mac-using-quicktime/"><u>Quick Guide: Capturing Screenshots and Recording Videos on a Mac Using QuickTime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safe-techniques-for-eliminating-audio-interference-in-videos/"><u>Safe Techniques for Eliminating Audio Interference in Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-and-fast-youtube-to-mp3-conversion-in-just-a-single-click/"><u>Simple and Fast YouTube to MP3 Conversion in Just a Single Click</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-infinix-hot-30i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Infinix Hot 30i to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-4-methods-for-watching-avi-videos-on-your-mac/"><u>Top 4 Methods for Watching AVI Videos on Your Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-13t-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi 13T Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-using-the-final-cut-pro-compressor-best-practices-common-hitches-and-effective-remedies/"><u>Ultimate Guide to Using the Final Cut Pro Compressor - Best Practices, Common Hitches & Effective Remedies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-converting-pal-dvds-to-ntsc-format-and-preparing-them-for-mp4-burn/"><u>Ultimate Guide: Converting PAL DVDs to NTSC Format & Preparing Them for MP4 Burn</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmissable-top-10-spooky-flicks-a-parents-guide-to-safe-and-fun-halloween-movie-night/"><u>Unmissable Top 10 Spooky Flicks: A Parent's Guide to Safe and Fun Halloween Movie Night</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrade-video-quality-seamlessly-convert-mp4-files-to-mkv-with-integrated-subtitle-support-try-it-for-free/"><u>Upgrade Video Quality Seamlessly: Convert MP4 Files to MKV With Integrated Subtitle Support - Try It for Free!</u></a></li>
+</ul></div>

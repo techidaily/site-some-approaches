@@ -1,7 +1,7 @@
 ---
 title: "Review of the ACEFAST's Portable GaN-Based PD65W Charging Hub: Featuring High Definition Video Output and Extra Power for Devices"
-date: 2024-08-26 22:36:34
-updated: 2024-08-29 11:38:49
+date: 2024-08-30T21:17:34.385Z
+updated: 2024-08-31T21:17:34.385Z
 tags:
   - product-reviews
 categories:
@@ -64,6 +64,9 @@ The ACEFAST GaN PD65W Portable Dock's targeted feature set and compact design ma
 
 [$34 at Amazon](https://www.amazon.com/dp/B09W5T391Z/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000616&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Facefast-gan-pd65w-portable-dock-review%2F&asc%5Fcampaign=Affiliate) [See at Acefast](https://acefast.com/catalog/wall-chargers/smart-wall-charger-hub-a19-gan-pd65w-us/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Design: Small Stature, Big Performance
 
 ![Person holding the ACEFAST GaN PD65W 3 Port Fast Charger Hub](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/person-holding-the-acefast-gan-pd65w-3-port-fast-charger-hubjpg_53187406566_o.jpg) 
@@ -78,6 +81,9 @@ ACEFAST GaN PD65W Portable Dock
 
  While you can use the ACEFAST GaN PD65W as a regular charger, if you have a device that supports power and display over USB-C, it suddenly transforms into something twice as useful. Compatible devices include Nintendo Switch, Valve Steam Deck, Samsung Galaxy phones and tablets, Apple MacBooks, Apple iPhones and iPads, Google Chromebooks, Google Pixel series, Microsoft Surface laptops, PC laptops, and more. The list of USB-C-based devices, especially those that support power and display over a single cable continues to grow.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance Tests: It (Mostly) Just Works
 
 ![Cables plugged into the ACEFAST GaN PD65W 3 Port Fast Charger Hub to use a Nintendo Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/cables-plugged-into-the-acefast-gan-pd65w-3-port-fast-charger-hub-to-use-a-nintendo-switch-1jpg_53187602655_o-1.jpg) 
@@ -92,6 +98,9 @@ ACEFAST GaN PD65W Portable Dock
 
  I tested across a variety of older and newer devices, including a Steam Deck, Nintendo Switch OLED, Samsung Galaxy Tab S7+, Asus Chromebook CX1, Microsoft Surface Book 3, and Apple iPad Pro 11-inch (1st gen).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Steam Deck
 
  Once connected over USB-C, the Steam Deck disabled its internal display. Although impractical for the gaming handheld's capabilities, it was able to drive the external display at 3,440 x 1,440 @ 60Hz while still charging. Of course, just about every other resolution was supported, including the Steam Deck's native 1,280 x 800 at 60Hz. The keyboard and trackpad worked perfectly, as did the Steam Deck's onboard controls and external Bluetooth game controller.
@@ -100,6 +109,9 @@ ACEFAST GaN PD65W Portable Dock
 
  Like the Steam Deck, once connected, the Switch disabled its internal display. By design, when the Switch is docked, attached Joy-Con controllers are disabled. You either need to slide the Joy-Cons off to use them as wireless controllers or use another type of external controller. The nice thing with the ACEFAST is that you can also connect a compatible controller to its USB-A port and the Switch will immediately recognize it, which is what it did in the case of the generic third-party controller I tried.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Samsung Galaxy Tab S7+
 
  Once connected over USB-C, the Galaxy Tab S7+ mirrored the display and entered its desktop-like computing mode, [DeX](https://youtube-video-recordings.techidaily.com/earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much-in-2024/). The keyboard and trackpad worked right away as well. In fact, even the USB-based controller I tried on the Switch via the dock also worked on the S7+.
@@ -112,6 +124,9 @@ ACEFAST GaN PD65W Portable Dock
 
  The Microsoft Surface Book 3 was able to both mirror and extend its display without issue, as well as use the external Logitech K400r. I also tested with the [AVA WirelessHD portable monitor](https://www.indiegogo.com/projects/ava-4k-wirelesshd-next-gen-touch-monitor/x/1463963#/)'s ThunderBolt 3 USB-C port for video and audio, which similarly worked well. However, the AVA's touchscreen functionality did not work when connected through the ACEFAST dock.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ###  Apple iPad Pro 11-inch (1st gen)
 
  The Apple iPad Pro 11-inch (1st gen) was able to connect to the display, charge, and use the Logitech K400r as a mouse pointer and keyboard. However, the display connection seemed unstable after a few minutes, as the monitor would lose sync with the iPad and flash the screen every 10 to 15 seconds.
@@ -136,6 +151,9 @@ ACEFAST GaN PD65W Portable Dock
 
 ![ACEFAST GaN PD65W Portable Dock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/71c5dkoskxl-_ac_sl1500_.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  ACEFAST GaN PD65W Portable Dock
 
 7/ 10 
@@ -177,3 +195,43 @@ The ACEFAST GaN PD65W Portable Dock's targeted feature set and compact design ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-key-equipment-decisions-for-youtubers-on-a-budget/"><u>[New] 2024 Approved  Key Equipment Decisions for YouTubers on a Budget</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-firecapture-plugins-for-firefox/"><u>[New] In 2024, FireCapture Plugins for Firefox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-reestablishing-communication-with-a-non-responsive-obs-cam/"><u>[New] Reestablishing Communication with a Non-Responsive OBS Cam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-digital-detailing-at-your-command/"><u>[Updated] 2024 Approved  Digital Detailing at Your Command</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-ig-videos-building-a-powerful-focused-marketing-plan/"><u>[Updated] 2024 Approved  Mastering IG Videos  Building a Powerful, Focused Marketing Plan</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-in-depth-world-of-magix-video-pro-x/"><u>[Updated] Exploring the In-Depth World of Magix Video Pro X</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-50plus-best-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>[Updated] In 2024, 50+ Best TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-macx-dvd-ripper-pro/"><u>1. MacX DVD Ripper Pro 線上購買: 最安心、最可靠的電影導流解決方案</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-macxdvd-support-hub-comprehensive-guide-on-dvd-troubleshooting-and-fixes/"><u>1. MacXDVD Support Hub: Comprehensive Guide on DVD Troubleshooting and Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-mega-discount-on-lifetime-licensed-macx-dvd-ripper-pro-grab-the-authorized-deal-now/"><u>1. Mega Discount on Lifetime Licensed MacX DVD Ripper Pro: Grab the [AUTHORIZED] Deal Now!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/bring-your-pics-to-life-with-easy-text-editing-apps-for-2024/"><u>Bring Your Pics to Life with Easy Text Editing Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/commemorative-event-by-digiarty-a-unique-18-year-journey-in-digital-creation/"><u>Commemorative Event by Digiarty: A Unique 18-Year Journey in Digital Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-videos-to-imovie-format-using-macx-a-comprehensive-guide-to-free-mp4-and-mov-file-editing/"><u>Convert Videos to iMovie Format Using MacX: A Comprehensive Guide to FREE MP4 and MOV File Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-avi-file-players-for-mac-enjoy-flawless-performance-and-quality/"><u>Discover the Best AVI File Players for Mac - Enjoy Flawless Performance and Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-free-mac-apps-to-play-mkv-videos-ultimi-6-lettori-consigliati-e-progettati-esclusivamente-per-macos/"><u>Discover the Best Free Mac Apps to Play MKV Videos – Ultimi 6 Lettori Consigliati E Progettati Esclusivamente per macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-high-resolution-4k-at-60-fps-youtube-downloads-now/"><u>Get High-Resolution 4K at 60 FPS YouTube Downloads Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-watch-latest-blockbuster-movies-online-at-no-cost/"><u>How to Watch Latest Blockbuster Movies Online at No Cost</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-15-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 15?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-prime-approaches-to-chronicle-lol-clashes/"><u>In 2024, Prime Approaches to Chronicle LOL Clashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-review-of-updated-videoshow-app-for-24-users/"><u>In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-battery-longevity-hacks-for-202-cu2023-top-energy-saving-strategies-and-applications-to-combat-quick-depletion/"><u>IPhone Battery Longevity Hacks for 202 Cu2023 - Top Energy-Saving Strategies & Applications to Combat Quick Depletion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunes-connection-error-with-iphone-resolving-the-value-is-missing-issue/"><u>ITunes Connection Error with iPhone: Resolving the 'Value Is Missing' Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/komplette-anleitung-zur-einrichtung-und-inbetriebnahme-des-neuen-iphones-das-ultimative-handbuch-fur-neuankommlinge/"><u>Komplette Anleitung Zur Einrichtung Und Inbetriebnahme Des Neuen iPhones: Das Ultimative Handbuch Für Neuankömmlinge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-mastery-enhance-storage-and-quality-with-dvd-shrink-the-ultimate-guide-to-dvd-ripping-and-compression/"><u>Mac Mastery: Enhance Storage and Quality with DVD Shrink - The Ultimate Guide to DVD Ripping & Compression</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-os-x-dvd/"><u>Mac OS Xからスマートフォン、タブレットへ高速変換: DVD/動画ファイルをどうやって移行させるか学ぶ完全解説</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macos-sierra-2018/"><u>MacOS Sierraにおけるディズニーコピーロック解除手順とコピー方法 - 2018年版</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766689494-macxdvd-by-digiarty/"><u>MacXDVD by Digiarty: 公式サイトでダビデッド変換ツールをご利用ください</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766476465-makemkv/"><u>MakeMKVがわかりやすい！地球上で一番手軽に学べるステップ・バイ・ステップガイド!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premium-panels-picked-the-top-10-4k-list-for-2024/"><u>Premium Panels Picked  The #Top 10 4K List for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-online-interactions-diminishing-extensive-data-transmission-delay/"><u>Quickening Online Interactions: Diminishing Extensive Data Transmission Delay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-content-with-these-20-essential-youtube-hacks-for-2024/"><u>Streamline Your Content with These 20 Essential YouTube Hacks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferring-avi-files-into-itunes-on-your-ios-device/"><u>Transferring AVI Files Into iTunes on Your iOS Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-converting-pal-dvds-to-ntsc-format-and-preparing-them-for-mp4-burn/"><u>Ultimate Guide: Converting PAL DVDs to NTSC Format & Preparing Them for MP4 Burn</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-bsod-caused-by-internal-video-memory-management-errors/"><u>Understanding and Fixing BSOD Caused by Internal Video Memory Management Errors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrade-video-quality-seamlessly-convert-mp4-files-to-mkv-with-integrated-subtitle-support-try-it-for-free/"><u>Upgrade Video Quality Seamlessly: Convert MP4 Files to MKV With Integrated Subtitle Support - Try It for Free!</u></a></li>
+</ul></div>

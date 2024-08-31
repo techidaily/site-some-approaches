@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkBook 13X Gen 4 Unveiled - Defining the Next Generation of Ultraportable Tech for Business Users
-date: 2024-08-27 15:28:43
-updated: 2024-08-29 12:31:33
+date: 2024-08-30T21:21:22.881Z
+updated: 2024-08-31T21:21:22.881Z
 tags:
   - deals
 categories:
@@ -124,6 +124,9 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Design: A Familiar, Streamlined Look
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
@@ -150,10 +153,16 @@ Close
 
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While typists everywhere will probably say a keyboard's type-feel is a personal choice (and that's true to an extent), I couldn't get behind the keyboard on the ThinkBook 13x Gen 4\. Typing on it felt more like a chore than it should've been. It felt loose rather than springy. For speed, this might work for some people, but the lack of spring-back felt off to me, and sometimes, I felt like typing on the 13x keyboard was more of an effort than using something stiffer. And I found myself either making weird typos or taking twice as long to type something that would've been easier on springier keys.
@@ -184,10 +193,16 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance: Excellent Computing Within Limits
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With an Intel Core Ultra 5 125H CPU with an 18MB cache, 14 cores, and 18 threads, my everyday workload and multitasking on the ThinkBook 13x was a cinch. On a PCMark 10 benchmark, the laptop scored 6,210 overall, with fairly high scores in Essentials (9,463) and Digital Content Creation (8,638). Productivity wasn't far behind, with a score of 7,951.
@@ -198,6 +213,9 @@ Jerome Thomas / How-To Geek
 
  The device surpassed my expectations thanks to its powerful CPU for streaming and other media consumption and creation, like photo and video editing. Even though integrated [Intel ARC graphics wouldn't be my first choice for gaming](https://instagram-video-recordings.techidaily.com/updated-fast-track-to-fame-masterful-use-of-insta-likes-and-vids-for-2024/), the GPU worked well for most other content scenarios.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Gaming Performance: Surprisingly Good Gameplay for Casual Gamers
 
  Although I experienced a bit too much latency to recommend the ThinkBook 13x Gen 4 for anyone who games competitively, I had a great time playing games casually on the laptop. Some games that give me a lot of trouble on non-gaming laptops, like "A Plague Tale: Requiem," played so well on the 13x that my jaw actually dropped.
@@ -212,6 +230,10 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Laptop speakers are rarely that good, but the ThinkBook 13x Gen 4 has a quad-speaker system with two 2W woofers and two 2W tweeters by Harman Kardon. This, accompanied by Dolby Atmos, made the speakers a joy to listen to. While they aren't the best speakers I've heard on a laptop, they were perfectly satisfactory when streaming shows, listening to music, and even gaming.
@@ -230,10 +252,17 @@ Close
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
@@ -254,6 +283,10 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 #####  Lenovo ThinkBook 13x Gen 4
 
 8/ 10 
@@ -276,3 +309,64 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-a-feathery-symphony-bebop-parrot-2-dissected-for-2024/"><u>[New] A Feathery Symphony – Bebop Parrot 2 Dissected for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-and-polishing-videography-in-adobe-connect/"><u>[New] Capturing and Polishing Videography in Adobe Connect</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc-for-2024/"><u>[New] Top 5 Emulators  The Ultimate Guide for Classic PS1 Games on PC for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-upgrading-zoom-video-fidelity-a-comprehensive-guide-for-2024/"><u>[New] Upgrading Zoom Video Fidelity  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-strategies-for-noiseless-filming/"><u>[Updated] 2024 Approved  Ideal Strategies for Noiseless Filming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-kickstart-your-earnings-with-periscope-strategies-for-2024/"><u>[Updated] Kickstart Your Earnings with Periscope Strategies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-macx-dvd-ripper-pro-macx-video-converter-pro/"><u>1. 格安特典: 公式オフィシャル・サイトからMacX DVD Ripper Pro, MacX Video Converter Proを最安価で購入！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-seamless-ios-file-management-and-transfer-for-mac-with-appandora/"><u>1. Seamless iOS File Management and Transfer for Mac with Appandora</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-steps-for-seamless-use-of-telegram-web/"><u>2024 Approved  Essential Steps for Seamless Use of Telegram Web</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-mp3-extraction-from-pinterest-vids/"><u>2024 Approved  Mastering MP3 Extraction From Pinterest Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-video-capture-the-premier-18-cameras-for-professionals/"><u>2024 Approved  Mastering Video Capture  The Premier 18 Cameras for Professionals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-105-classic-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia 105 Classic to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top6/"><u>無料で動画サイズ変更！速度が速く、品質も低下しないフリー圧縮ソフトTop6のヒント</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/access-terrifying-telugu-and-lgbtqplus-short-films-for-free-via-youtube-downloads/"><u>Access Terrifying Telugu & LGBTQ+ Short Films for Free via YouTube Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/all-you-need-to-know-about-enjoying-content-on-apple-tv/"><u>All-You-Need-to-Know About Enjoying Content on Apple TV</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-blockchain-drivers-download-and-install-for-windows/"><u>AMD Blockchain Drivers Download and Install for Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apple-showdown-unveiling-the-contrasts-between-ipad-pro-and-macbook-pro/"><u>Apple Showdown: Unveiling the Contrasts Between IPad Pro & MacBook Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-10-collage-apps-for-android-top-picks/"><u>Best 10 Collage Apps for Android ​ (Top Picks)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-5-top-rated-video-converters-for-ipad-ensuring-highest-quality-playback-on-your-device/"><u>Best 5 Top-Rated Video Converters for iPad: Ensuring Highest Quality Playback on Your Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-acceder-au-contenu-video-dvd-en-mode-lecture-sur-ordinateurs-mac-guideline-complet/"><u>Comment Accéder Au Contenu Vidéo DVD en Mode Lecture Sur Ordinateurs Mac: Guideline Complet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-understanding-the-features-of-macxdvd-programs/"><u>Comprehensive Guide: Understanding the Features of MacXDVD Programs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/constructing-compelling-trailer-crafts/"><u>Constructing Compelling Trailer Crafts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-software-insights-explore-sales-strategies-license-agreements-update-options-partnerships-technical-assistance-and-product-catalogs/"><u>Digiarty Software Insights: Explore Sales Strategies, License Agreements, Update Options, Partnerships, Technical Assistance, and Product Catalogs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/disney-dvd-dvd-fab/"><u>Disney DVD コピー手順紹介：DVD Fabで劇場版無料ダウンロード【初回限定特典】</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-copy-and-convert-software-for-macos-best-alternatives-to-dvdfab/"><u>DVD Copy and Convert Software for macOS: Best Alternatives to DVDFab</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-persistent-overwatch-w-errors-leading-to-pc-shutdowns-during-playtime/"><u>Effective Fixes for Persistent Overwatch ([W] Errors Leading to PC Shutdowns During Playtime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/efficient-vob-to-avi-transformation-ultimate-guide-for-seamless-video-format-conversion/"><u>Efficient VOB to AVI Transformation: Ultimate Guide for Seamless Video Format Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/effortlessly-connect-camera-roll-to-snapchat-sharing-platforms-for-2024/"><u>Effortlessly Connect Camera Roll to Snapchat Sharing Platforms for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-access-the-best-and-most-iconic-disney-bollywood-movies-original-songs-listed/"><u>Free Access: The Best & Most Iconic Disney-Bollywood Movies' Original Songs Listed!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-macx-software-convert-your-dvds-into-mp3-and-mp4-files-effortlessly/"><u>Free MacX Software: Convert Your DVDs Into MP3 and MP4 Files Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-hd-webcam-c525-drivers-for-windows-os/"><u>Get the Latest Logitech HD Webcam C525 Drivers for Windows OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-correct-audio-discrepancies-when-burning-dvds-updated-techniques-explained/"><u>How to Correct Audio Discrepancies When Burning DVDs: Updated Techniques Explained</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 11 Pro? | Stellar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-nord-n30-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus Nord N30 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-find-x7-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo Find X7 Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-13t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi 13T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ipad-data-syncing-guide-seamlessly-moving-videos-music-and-pictures-from-your-ipad-to-a-mac/"><u>IPad Data Syncing Guide: Seamlessly Moving Videos, Music & Pictures From Your iPad to a Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/itunesiphone-iphone/"><u>ITunesからiPhoneへの音楽転送でトラブル解決 - iPhone曲取り込み方法ガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/join-our-10th-anniversary-tribute-to-iphone-participate-in-the-macxdvd-survey-for-an-exclusive-chance-at-winning-a-gift-card-from-itunes/"><u>Join Our 10Th Anniversary Tribute to iPhone – Participate in the MacXDVD Survey for an Exclusive Chance at Winning a Gift Card From iTunes!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macnetflix/"><u>MacでNetflix視聴困難？すぐに解決するダウンロードガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-optimizing-your-fallout-e76-experience/"><u>Overcoming Performance Hiccups: Optimizing Your Fallout E76 Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safety-and-efficiency-check-on-heictojpgcom-can-you-trust-it-for-your-heic-to-jpg-transformations/"><u>Safety and Efficiency Check on Heictojpg.com - Can You Trust It for Your HEIC to JPG Transformations?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simplify-your-workflow-with-the-leading-vr-video-conversion-tools-on-the-market-today/"><u>Simplify Your Workflow with the Leading VR Video Conversion Tools on the Market Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-to-locate-missing-airpods-on-find-my-apple-feature/"><u>Top 11 Solutions to Locate Missing AirPods on 'Find My' Apple Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-gecastete-filme-fur-den-sommer-2016-und-deren-erfolg-am-kinokasse-best-practices-zum-herunterladen/"><u>Top Gecastete Filme Für Den Sommer 2016 Und Deren Erfolg Am Kinokasse: Best Practices Zum Herunterladen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-free-mobile-hdd-transform-your-iphone-into-a-portable-usb-flash-drive/"><u>Top Rated Free Mobile HDD: Transform Your iPhone Into a Portable USB Flash Drive</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-photo-organization-tools-compatible-with-mac-and-windows-systems/"><u>Top-Ranked Photo Organization Tools Compatible with Mac and Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferring-avi-files-into-itunes-on-your-ios-device/"><u>Transferring AVI Files Into iTunes on Your iOS Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transferring-images-from-your-ipod-to-a-mac-a-comprehensive-guide/"><u>Transferring Images From Your iPod to a Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-dvds-into-digital-format-using-these-5-free-methods/"><u>Transform Your DVDs Into Digital Format Using These 5 Free Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-cinavia-drm-a-comprehensive-guide-on-protection-mechanisms-and-bypass-techniques/"><u>Understanding Cinavia DRM: A Comprehensive Guide on Protection Mechanisms & Bypass Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide/"><u>Updated Achieving Superior Sound in MP4 Videos A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-in-2024/"><u>What Are YouTube Tags and How Can You Find Great Tags For Your Videos, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724765748463-18/"><u>デジアーティーが飾る18周年記念特別展示の魅力</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/x-dvdandhd-macx-dvd/"><u>マックX DVDリッパープロ&HDビデオコンバータープロ: MacX DVD最大割引セールで最安値購入方法</u></a></li>
+</ul></div>

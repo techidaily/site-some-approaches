@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Evacuation Strategies and Fire Alarm Systems Integration"
-date: 2024-08-26 15:54:23
-updated: 2024-08-29 10:10:36
+date: 2024-08-30T21:16:40.652Z
+updated: 2024-08-31T21:16:40.652Z
 tags:
   - product-reviews
 categories:
@@ -109,6 +109,9 @@ Expand
 
 ![Origin PC EON16-X Laptop open on a table top running Diablo IV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-10-32-28.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  On paper, since the built-in display has a reasonable 2,560 x 1,600 resolution, the EON16-X should be able to maintain very high frame rates with high visual fidelity in even the most demanding games. In practice, that definitely proved to be the case, especially when paired with the display's super-fast 240 Hz refresh rate and [NVIDIA G-SYNC](https://www.nvidia.com/en-us/geforce/products/g-sync-monitors/) support.
@@ -121,6 +124,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop open a table top running Fortnite](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-49-18.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  One of my favorite games to play is _Fortnite_, and I would never consider using Wi-Fi over wired Ethernet for a competitive online shooter like this, except in this case. There was not a single connectivity issue with Wi-Fi and performance was as smooth as I've ever experienced. While there were the usual frame rate drops until shortly after landing, once in-game, the frame rate remained a solid 60fps. This was when paired with very high settings, and it felt like a fresh experience even after previously logging over 1,100 hours of playtime. Of course, if you want to run the game with a frame rate in the hundreds, that's always an option, but you'll sacrifice some of the higher-end visuals that really shine on this display.
@@ -147,10 +153,16 @@ Bill Loguidice / How-To Geek
 
  Switching to Office mode, running from battery, 53% screen brightness, and leaving the keyboard and light bar lighting on, I ran the [UL Procyon](https://benchmarks.ul.com/procyon/battery-life-benchmark) benchmark and its Office Productivity One-Hour Battery Consumption test. It gave a performance score of 18,400, noting a 33% drop in battery life over the first hour of use. This translates to roughly three to four hours of maximum battery life, even with minimal screen brightness and no GPU usage. This falls in line with Origin PC's own estimates of three to six hours under normal usage and one and a half to two hours under heavy loads, such as gaming. In any case, you'll probably want to be close to an outlet even when you're not gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design and Hardware: Basic Good Looks with Power** 
 
 ![Origin PC EON16-X Laptop open on a table top next to its AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-25-03.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The EON16-X sports a conservative design and traditional all-black styling. This is no thin and light laptop, but you wouldn't necessarily suspect it's a gaming powerhouse either.
@@ -159,6 +171,9 @@ Bill Loguidice / How-To Geek
 
 ![Origin PC EON16-X Laptop closed on a table top showing the Waves 3 panel print](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-08-02-21-08-04.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  As mentioned, while the keyboard is not the best I've ever used, [even for a laptop](https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a24-phone-network-ready-by-drfone-android/), and there's no [Copilot key](https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/), it's still pleasant to type on with good balance and responsiveness to each key. For anyone who says you don't need a tenkey, maybe you don't, but I certainly found its inclusion convenient for entering numbers, even if each key is only half the width of the letter keys.
@@ -175,6 +190,9 @@ Bill Loguidice / How-To Geek
 
  There's not much Origin PC adds to the basic Windows 11 Home operating system installation, so there are no real worries about bloatware. The most useful inclusion is the aforementioned Origin Control Center, which lets you monitor and modify general, performance, lighting, battery, display, and system settings. It's not as robust as some of the offerings from other companies, but I appreciated that the user interface for things like adjusting the keyboard and light bar lighting was straightforward and not overwhelming.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Input and Output: Ports for Every Need and Few Other Frills** 
 
 ![Rear of Origin PC EON16-X Laptop open on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-29-08.jpg) 
@@ -191,12 +209,18 @@ Bill Loguidice / How-To Geek
 
 ![Left side of open Origin PC EON16-X Laptop on a table top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/2024-07-28-16-28-27.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The built-in microphone is serviceable and did a good job of picking up my voice, but also recorded some background noise. Similarly, the full HD webcam, which, in a nice touch, has a physical switch to block the camera when needed, does a good job with keeping focus, but is otherwise unremarkable in terms of image quality or handling challenging lighting conditions.
 
 ![Origin PC EON16-X Laptop webcam example image showing a man in a chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/win_20240806_22_54_33_pro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 A sample image from the full HD webcam.
@@ -233,3 +257,40 @@ The Origin PC EON16-X boasts premier gaming power with an understated and custom
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-thrifty-approaches-to-youtube-video-card-production/"><u>[New] Thrifty Approaches to YouTube Video Card Production</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-media-optimization-for-television-use/"><u>[Updated] 2024 Approved  Facebook Media Optimization for Television Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-video-editing-tools-on-the-latest-windows-11/"><u>[Updated] 2024 Approved  Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>[Updated] Capture Dynamic Artistry  Top 9 Tools for Perfect Windows GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-mp4-to-mp3-convertors-on-a-mac-free-vs-premium-options-top-9/"><u>Best MP4 to MP3 Convertors on a Mac: Free Vs. Premium Options (TOP 9)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-creare-file-iso-da-dvd-su-un-mac-inclusi-sistemi-con-big-sur/"><u>Come Creare File ISO Da DVD Su Un Mac, Inclusi Sistemi Con Big Sur</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766368369-dvd/"><u>DVDの最大限圧縮：安全でストリーミングが利用可能な無料解決法！高画質保持方法を学ぶ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-4k-video-encoding-speed-using-hardware-assisted-hevc-technology/"><u>Enhancing 4K Video Encoding Speed Using Hardware-Assisted HEVC Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-mac-x-mkv-transcoder-hassle-free-high-definition-video-conversion-for-macos-users/"><u>Free Mac X MKV Transcoder: Hassle-Free High Definition Video Conversion for macOS Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/free-to-air-broadcasts-with-style-a-comprehensive-review-of-antops-at-127-antenna/"><u>Free To Air Broadcasts with Style: A Comprehensive Review of Antop's AT-127 Antenna</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-watching-itunes-m4v-content-on-your-chromecast-device/"><u>Guide: Watching iTunes M4V Content on Your Chromecast Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-reno-10-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Reno 10 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-guides-for-dvd-movie-enjoyment-a-step-by-step-tutorial/"><u>How-To Guides for DVD Movie Enjoyment: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint/"><u>In 2024, Leveraging Innovative Features  A Guide to Implementing Speech Inputs in PowerPoint</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-macx-mediatrans-mac/"><u>IOSデータ管理・バックアップのプロフェッショナル ソリューション：MacX MediaTrans 推奨 Macユーザー向け</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-10s-milestone-moment-join-macxdvds-limited-time-sweepstakes-and-win-exclusive-rewards/"><u>IPhone 10'S Milestone Moment - Join MacXDVD’s Limited-Time Sweepstakes & Win Exclusive Rewards!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/is-it-time-to-switch-a-comparison-of-macos-ventura-and-monterey/"><u>Is It Time to Switch? A Comparison of macOS Ventura and Monterey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kostenloser-download-von-ultrahochauflosenden-3d-filmen-in-voller-1080p4k-uhd-qualitat-fur-moderne-3d-fernseher/"><u>Kostenloser Download Von Ultrahochauflösenden 3D Filmen - In Voller 1080P/4K-UHD-Qualität Für Moderne 3D-Fernseher.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-and-windows-dvddvd/"><u>Mac & Windowsに最適: DVDストレッチエラーを解決し、読み込み・コピー不可能なDVDの修正方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-windows70/"><u>MacX DVD Ripper Pro 特別価格: 「官方」でWindows版70%%オフクーポンが手に入る！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-mediatrans-takes-the-lead-with-groundbreaking-features-for-managing-itunes-downloads-and-deleting-photos-from-your-devices-memory/"><u>MacX MediaTrans Takes the Lead with Groundbreaking Features for Managing iTunes Downloads and Deleting Photos From Your Device's Memory</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-itel-p40plus-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Itel P40+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-world-ai-mastery-top-7-strategies-revealed/"><u>Real-World AI Mastery: Top 7 Strategies Revealed</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a14-4g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A14 4G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamlessly-transform-torrent-downloads-into-mp4-format-for-all-devices-without-cost-windows-android-and-mac-compatible/"><u>Seamlessly Transform Torrent Downloads Into MP4 Format for All Devices without Cost – Windows, Android, and Mac Compatible</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transfer-iron-man-3-movie-from-dvd-with-drm-onto-mobile-devices-like-iphone-ipad-and-android-on-the-go-viewing-guide/"><u>Transfer Iron Man 3 Movie From DVD with DRM Onto Mobile Devices Like iPhone, iPad & Android - On-The-Go Viewing Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-itunes-unknown-error-0xe80n0065-when-attempting-iphone-connection/"><u>Troubleshooting iTunes Unknown Error (0xE80n0065) When Attempting iPhone Connection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-the-transfer-to-ios-feature-complete-solution-tutorial/"><u>Troubleshooting the 'Transfer to iOS' Feature - Complete Solution Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-distinctions-a-comprehensive-guide-to-mp3-vs-mp4-formats/"><u>Understanding the Distinctions: A Comprehensive Guide to MP3 vs MP4 Formats</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-secrets-for-converting-instagram-vids-into-high-quality-mp4-for-2024/"><u>Unveiling Secrets for Converting Instagram Vids Into High-Quality MP4 for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-prevents-graphics-driver-installation/"><u>Windows 10 Prevents Graphics Driver Installation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-macx-dvd-ripper-proshow/"><u>マックでDVDをリッパして変更する - MacX DVD Ripper Pro：ダウンロードから始めまSHOW！</u></a></li>
+</ul></div>

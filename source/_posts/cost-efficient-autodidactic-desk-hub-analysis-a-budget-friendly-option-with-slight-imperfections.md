@@ -1,7 +1,7 @@
 ---
 title: "Cost-Efficient Autodidactic Desk Hub Analysis: A Budget-Friendly Option with Slight Imperfections"
-date: 2024-08-28 13:34:28
-updated: 2024-08-29 11:40:59
+date: 2024-08-30T21:17:13.528Z
+updated: 2024-08-31T21:17:13.528Z
 tags:
   - product-reviews
 categories:
@@ -85,14 +85,24 @@ The essential standing desk with electric dual motors. For all-day productivity 
 
  When it came to design, the biggest pitfall was the material of the desktop. The warp-proof MDF wood looks nice from afar, but up close, it has an almost plastic, cheap-looking appearance. The desktop is an inch thick, which is the same as the FlexiSpot models, but the rounded edge made it look a little thinner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  A Simple and Responsive Control Panel
 
 ![Autonomous SmartDesk Core control panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Autonomous-SmartDesk-Core-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 _Mark LoProto / How-To Geek_
 
  There are no elaborate bells or whistles to worry about when learning the control panel. It screws directly into the underside of the desk and features four programmable memory slots, a digital readout of the current height, and hard-to-miss arrow buttons. I didn't run into any issues with the panel itself, but the buttons were so large and prominent that it did make them a little too easy to accidentally bump into and trigger.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ##  Missing Two Pivotal Features
 
  The underside of my desk is often used as storage for items of note, most importantly my desktop tower. I didn't take the time to measure the distance between the top of the tower and the bottom of the desk at its lowest, so the first time I brought the FlexiSpot desk down to its lowest point of 22 inches, I was quite glad there was an anti-collision feature.
@@ -101,10 +111,16 @@ _Mark LoProto / How-To Geek_
 
  It's a pretty significant safety feature considering the frame adjusts pretty quickly and is strong enough to actively lift 265 lbs. There's also no child lock feature on the control panel, so you'll have to [rig a smart plug](https://android-location-track.techidaily.com/2-ways-to-monitor-huawei-nova-y71-activity-drfone-by-drfone-virtual-android/) or another method to guarantee your child's safety.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ###  Very Basic Wire Management
 
 ![Cables tied to the underside of the Autonomous SmartDesk Core](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Autonomous-SmartDesk-Core-no-wire-well.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Mark LoProto / How-To Geek_
 
  It sounds like a pretty small oversight, but the lack of a [wire organizer](https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-12-drfone-by-drfone-virtual/) was quite surprising. The desk does come with cable ties that stick to the undercarriage of the desk, but it's not a replacement for a designated spot to neatly feed the wires into.
@@ -123,6 +139,9 @@ _Mark LoProto / How-To Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/autonomous-smartdesk-core-small-2-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Autonomous SmartDesk Core
 
 7/ 10 
@@ -145,3 +164,50 @@ The essential standing desk with electric dual motors. For all-day productivity 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-step-backward-in-time-reversing-youtube-media/"><u>[New] 2024 Approved  Step Backward in Time  Reversing YouTube Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-archive-all-highlights-no-limit-savers-available/"><u>[New] Archive All Highlights  No Limit Savers Available</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-assessing-negative-impacts-of-vr/"><u>[New] Assessing Negative Impacts of VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-preserving-the-past-in-motion-photo-to-video-transition/"><u>[New] Preserving the Past in Motion  Photo to Video Transition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-crafting-a-youtube-video-with-100kplus-reach-for-2024/"><u>[New] The Art of Crafting a YouTube Video with 100K+ Reach for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-expert-tips-for-twitter-video-interactions/"><u>[Updated] In 2024, Expert Tips for Twitter Video Interactions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-money-top-stock-focused-yt/"><u>[Updated] In 2024, Mastering Money  Top Stock-Focused YT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-social-media-battlefield-tiktoks-top-10-twitters/"><u>[Updated] In 2024, The Social Media Battlefield  TikTok's Top 10 Twitters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-secrets-of-professional-rl-broadcasts-for-2024/"><u>[Updated] Secrets of Professional RL Broadcasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-decrypterand/"><u>「無料日本語版DVD Decrypterダウンロード&使用ガイド」</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-zoom-for-beginners-managing-breakout-groups/"><u>2024 Approved  Zoom for Beginners  Managing Breakout Groups</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maciphone-prise-dvd-iphone-4/"><u>完全フリー専用: MacからiPhone Prise DVDコンバータ - iPhone 4への高速変換ソフト</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-mp4-to-mp3-convertors-on-a-mac-free-vs-premium-options-top-9/"><u>Best MP4 to MP3 Convertors on a Mac: Free Vs. Premium Options (TOP 9)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/compress-and-convert-dvd-movies-on-macos-with-dvd-shrink/"><u>Compress and Convert DVD Movies on macOS with DVD Shrink</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-dvds-and-videos-to-compatible-formats-mp4-h264-mp3-on-mac-for-ipad-viewing/"><u>Convert DVDs and Videos to Compatible Formats (MP4, H.264, MP3) on Mac for iPad Viewing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-unrestricted-mac-dvd-ripping-software-free-clean-outputs-and-easy-to-use-interface/"><u>Download Unrestricted Mac DVD Ripping Software: Free, Clean Outputs & Easy-to-Use Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-fix-ios-17s-malfunctioning-screen-capture-feature/"><u>How to Fix iOS 17'S Malfunctioning Screen Capture Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-6s-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 6s to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-escapes-how-to-choose-between-rift-vive-ps-vr/"><u>In 2024, Immersive Escapes  How to Choose Between Rift, Vive, PS VR?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streaming-wars-the-digital-platform-showdown/"><u>In 2024, Streaming Wars  The Digital Platform Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/keine-powerdvd-version-fur-mac-entdecken-sie-hier-andere-videoabspielsoftware/"><u>Keine PowerDVD-Version Für Mac? Entdecken Sie Hier Andere Videoabspielsoftware!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-mediatrans-der-bevorzugte-offizielle-medienverschiebungslosung-zum-synchronisieren-von-fotos-videos-and-musik-auf-ihrem-iphoneipad/"><u>MacX MediaTrans: Der Bevorzugte Offizielle Medienverschiebungslösung Zum Synchronisieren Von Fotos, Videos & Musik Auf Ihrem iPhone/iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/one-account-gpo-tailoring-in-the-modern-windows-environment-11-11/"><u>One-Account GPO Tailoring in the Modern Windows Environment (11, 11)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-efficient-mac-video-conversion-with-intel-quick-sync-video/"><u>Quick and Efficient Mac Video Conversion with Intel Quick Sync Video</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-steps-to-save-youtubess-subtitles-for-mac-users-without-worry/"><u>Simple Steps to Save YouTubes's Subtitles for Mac Users Without Worry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/smooth-streaming-master-adapt-videos-perfectly-across-all-gadgets/"><u>Smooth Streaming Master: Adapt Videos Perfectly Across All Gadgets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/specialized-trade-commerce-terminology-official-guide-by-digiarty-software/"><u>Specialized Trade Commerce Terminology - Official Guide by Digiarty Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-to-transferring-dvds-onto-your-macbook-pro-or-air-for-seamless-fullscreen-viewing/"><u>Step-by-Step Guide to Transferring DVDs Onto Your MacBook Pro or Air for Seamless Fullscreen Viewing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-seamless-movie-transfers-between-ipad-and-mac-devices/"><u>Step-by-Step Tutorial on Seamless Movie Transfers Between iPad and Mac Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-compact-sx620-powershot-for-practical-photography/"><u>The Compact SX620: PowerShot for Practical Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-10-google-cardboards-most-stunning-vr-games-for-2024/"><u>Top 10  Google Cardboard's Most Stunning VR Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-anticipated-blockbusters-must-see-films-of-summer-2024/"><u>Top Anticipated Blockbusters: Must-See Films of Summer 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-macs-for-seamless-video-editing-simplify-your-workflow-today/"><u>Top Macs for Seamless Video Editing: Simplify Your Workflow Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-mp4-codec-tools-for-flawless-hd-video-conversion/"><u>Top Rated MP4 Codec Tools for Flawless HD Video Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranking-tools-for-transforming-videos-into-perfect-format-for-instagram-shares/"><u>Top-Ranking Tools for Transforming Videos Into Perfect Format for Instagram Shares</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-resolving-ios-17-stagnation-during-iphone-software-update/"><u>Troubleshooting Guide: Resolving iOS 17 Stagnation During iPhone Software Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-the-transfer-to-ios-feature-complete-solution-tutorial/"><u>Troubleshooting the 'Transfer to iOS' Feature - Complete Solution Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial/"><u>Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-bypassing-dvd-regional-lockouts-on-your-player/"><u>Ultimate Guide to Bypassing DVD Regional Lockouts on Your Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-eliminating-obs-game-capture-black-screen-glitch/"><u>Ultimate Solution: Eliminating OBS Game Capture Black Screen Glitch</u></a></li>
+</ul></div>

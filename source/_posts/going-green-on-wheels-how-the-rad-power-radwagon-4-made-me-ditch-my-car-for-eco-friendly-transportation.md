@@ -1,7 +1,7 @@
 ---
 title: "Going Green on Wheels: How the Rad Power RadWagon 4 Made Me Ditch My Car for Eco-Friendly Transportation"
-date: 2024-08-27 13:47:24
-updated: 2024-08-29 12:52:54
+date: 2024-08-30T21:16:17.175Z
+updated: 2024-08-31T21:16:17.175Z
 tags:
   - product-reviews
 categories:
@@ -130,6 +130,9 @@ Expand
 
 ![Rad Power RadWagon 4 on a grassy hill./](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The first thing I noticed about the RadWagon 4 is how sturdy it feels. The frame is thick, and there are plenty of support bars all over the body. This thing is a tank. The build quality made me feel immediately comfortable about having my 5-year-old ride on the back.
@@ -140,6 +143,9 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 from the rear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-12.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The RadWagon 4 doesn’t have typical tires, either. Rad Power has equipped the bike with custom 22-inch tires that are 3 inches wide. The smaller tires help keep the center of gravity and the overall length of the bike down, but it’s still about 10 to 12 inches longer than a regular bike. I didn’t notice the extra length when driving around, but I definitely did when parking it at public bike racks and putting it in the back of my truck—which made the 77-pound weight [very apparent](https://screen-sharing-recording.techidaily.com/in-2024-superior-sound-recorders-for-scholarly-discussions/).
@@ -148,6 +154,9 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 bike seat and tube.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The stock seat on the RadWagon 4 was okay, but I wanted to replace it with the seat on my regular bike. Unfortunately, I discovered that the telescoping design makes the seat post tube narrower at the seat, so it’s not easily swappable with other bike seats.
@@ -160,6 +169,9 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 front basket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-19.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  Let’s talk about what this bike is really designed for—haulin’. The entire bike’s max carrying capacity is 350 pounds, and the rear deck alone is rated for 120 pounds. Rad Power [offers a number of accessories](https://www.radpowerbikes.com/collections/accessories/current-model-compatibility%5Fradwagon-4) that will help you take advantage of those limits.
@@ -170,6 +182,9 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 with a child on the back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-18.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  For most of the 50+ miles I put on the RadWagon, I had a passenger on the back with me. Usually, that was my 5-year-old, which the bike barely noticed. The bike is definitely more wobbly with a full-grown adult on the back—no surprise with the 120-pound rear deck capacity—but it worked surprisingly well. Just be extra, extra careful if you do this.
@@ -188,6 +203,9 @@ Joe Fedewa / How-To Geek
 
 ![Showing the Rad Power RadWagon 4 digital display used for speed and distance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The RadWagon 4 is [classified as a “Class 2” electric bike](https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/). This means it has a throttle, pedal assist, and a max speed of 20MPH. You can cruise without pedaling or get some help when you _are_ pedaling. It’s your choice. You’re more than welcome to pedal faster than 20 MPH manually, but the motor will not go beyond that limit.
@@ -196,6 +214,18 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 controls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-20.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
 Pedal Assist controls / Shifter and Throttle
@@ -206,6 +236,9 @@ Pedal Assist controls / Shifter and Throttle
 
 ![Showing the Rad Power RadWagon 4 battery with a key inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  Rad Power says the RadWagon 4’s range is between 24 and 45 miles, but there are a ton of variables at play. In my testing, I was able to get around 25 miles on a charge. That was almost exclusively with someone else on the back and using level three or four of pedal assist. I could easily see myself getting close to the 45-mile rating if I was riding alone, just running daily errands.
@@ -254,3 +287,55 @@ The RadWagon 4 is an cargo e-bike perfect for picking up groceries or taking the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>[New] 2024 Approved  Unlocking Windows 11  Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-amusing-tones-bestringeonsite-roundup/"><u>[New] Amusing Tones  Bestringeonsite Roundup</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-avoid-hassles-simple-iphone-screen-sharing/"><u>[New] In 2024, Avoid Hassles  Simple Iphone Screen Sharing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[New] In 2024, Million Visioners  Dissecting the Money Behind the Numbers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-lens-selection-tips-for-vloggers-and-editors/"><u>[New] Ultimate Lens Selection Tips for Vloggers & Editors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>[Updated] 2024 Approved  Capturing Every Word  A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>[Updated] Inside Polarr's Magic Box  The Ultimate Digital Image Enhancer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ranked-top-picks-for-free-skype-tones-for-2024/"><u>[Updated] Ranked Top Picks for Free Skype Tones for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-deep-dive-into-the-top-9-youtube-downloader-apps-for-android-for-2024/"><u>A Deep Dive Into the Top 9 YouTube Downloader Apps for Android for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bring-back-your-asus-notebooks-colorful-side/"><u>Bring Back Your Asus Notebook's Colorful Side</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-smart-8-plus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/capture-crisp-4k-footage-60-fps-with-iphone-and-enjoy-effortless-playback-quality/"><u>Capture Crisp 4K Footage @ 60 FPS with iPhone & Enjoy Effortless Playback Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/co-marketing-brands-and-youtubes-dynamic-duo/"><u>Co-Marketing  Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparing-the-macbook-pro-and-air-retina-advantages-and-disadvantages-revealed/"><u>Comparing the MacBook Pro and Air Retina: Advantages and Disadvantages Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-videos-seamlessly-with-macx-pro-the-leading-solution-for-high-definition-hd4k-file-format-changes-on-macos/"><u>Convert Videos Seamlessly with MacX Pro: The Leading Solution for High-Definition (HD/4K) File Format Changes on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-and-stream-videos-anytime-top-alternatives-to-keepvid-for-pc-and-mac-users/"><u>Download and Stream Videos Anytime: Top Alternatives to KeepVid for PC & Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-conversion-guide-changing-mkv-files-into-mov-to-play-on-apple-products-and-itunes-easily/"><u>Effortless Conversion Guide: Changing MKV Files Into MOV to Play on Apple Products & iTunes Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-file-writing-capability-in-windows-1011/"><u>Enhancing File Writing Capability in Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-insights-on-upgrading-from-jpeg-to-advanced-heifheic-format/"><u>Essential Insights on Upgrading From JPEG to Advanced HEIF/HEIC Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/explore-the-macx-collection-easy-online-shopping-at-the-official-macx-digital-outlet/"><u>Explore the MacX Collection: Easy Online Shopping at the Official MacX Digital Outlet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nubia-red-magic-8s-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nubia Red Magic 8S Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-advanced-iphone-management-toolkit-enhance-and-safeguard-your-data-with-ease/"><u>Free Advanced iPhone Management Toolkit: Enhance & Safeguard Your Data with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-effortless-mac-x-flv-video-transcoding-tool-no-cost-solution-for-flv-format-on-macos/"><u>FREE: Effortless Mac X FLV Video Transcoding Tool - No Cost Solution for FLV Format on macOS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-se-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone SE without Password?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-5-steps-to-crafting-engaging-cost-effective-youtube-ads/"><u>In 2024, 5 Steps to Crafting Engaging, Cost-Effective YouTube Ads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-in-game-recording-unveiled/"><u>In 2024, In-Game Recording Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screenspectrum-app-evaluation/"><u>In 2024, ScreenSpectrum App Evaluation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-fix-lenovo-usb-c-dock-software-update/"><u>Instant Fix: Lenovo USB-C Dock Software Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-drm/"><u>IPhone DRM解除アプリ一斉紹介：すべてのユーザーが楽しめる簡単操作</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-fotogalerien-behuten-sofortiges-loschen-mit-hilfe-von-icloud/"><u>IPhone-Fotogalerien Behüten – Sofortiges Löschen Mit Hilfe Von iCloud</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-through-credential-management-fixes/"><u>Journey Through Credential Management Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-compatible-vob-file-transcoder-easily-convert-your-vob-videos-into-common-formats-like-mp4-avi-wmv-and-mov/"><u>Mac-Compatible VOB File Transcoder: Easily Convert Your VOB Videos Into Common Formats Like MP4, AVI, WMV & MOV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-ripper-pro-lite/"><u>MacX DVD Ripper Pro Lite フォーウィンズで購入したら、リッピングソフトの使用を始めるためのライセンスコード登録ガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766349171-macx-dvd-ripper-pro/"><u>MacX DVD Ripper Pro製品手引き: 正しいインストールと操作方法解説</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-the-art-of-watching-webm-files-on-ios-devices/"><u>Master the Art of Watching WebM Files on iOS Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-video-format-conversion-effortlessly-make-your-videos-ready-for-iphone-ipad-apple-tv-and-itunes-playback/"><u>Master Video Format Conversion: Effortlessly Make Your Videos Ready for iPhone, iPad, Apple TV & iTunes Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-your-device-the-best-app-for-seamlessly-handling-iphone-pictures-tunes-and-movies/"><u>Master Your Device: The Best App for Seamlessly Handling iPhone Pictures, Tunes & Movies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-art-of-capturing-youtube-videos-with-sound-a-comprehensive-guide-for-mac-users/"><u>Mastering the Art of Capturing YouTube Videos With Sound: A Comprehensive Guide for Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-removing-dvd-region-restrictions-for-global-playback/"><u>Step-by-Step Tutorial on Removing DVD Region Restrictions for Global Playback</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolving-halo-infinites-audio-issues-quick-fixes-and-advanced-solutions/"><u>The Ultimate Guide to Resolving Halo Infinite's Audio Issues: Quick Fixes & Advanced Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-free-no-install-video-editing-tools-you-can-use-immediately/"><u>Top Free No-Install Video Editing Tools You Can Use Immediately</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-ultimate-back-to-school-savings-of-2014/"><u>Top Picks: Ultimate Back-to-School Savings of 2014</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-video-editing-software-for-macos-the-best-alternatives-to-imovie/"><u>Top Video Editing Software for macOS: The Best Alternatives to iMovie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trouble-watching-hd-mkv-files-on-your-ipad-discover-effortless-solutions-for-superior-playback/"><u>Trouble Watching HD MKV Files on Your iPad? Discover Effortless Solutions for Superior Playback!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-freemake-video-downloader-issues-solutions-for-mac-and-pc/"><u>Troubleshooting Freemake Video Downloader Issues: Solutions for Mac and PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-facile-comment-sapproprier-les-films-sur-ton-ordinateur-avec-un-decrypteur-de-dvd-gratuit/"><u>Tutorial Facile: Comment S'Approprier Les Films Sur Ton Ordinateur Avec Un Decrypteur De DVD Gratuit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-the-leading-free-stock-video-and-image-archives/"><u>Unveiling the Leading Free Stock Video and Image Archives</u></a></li>
+</ul></div>

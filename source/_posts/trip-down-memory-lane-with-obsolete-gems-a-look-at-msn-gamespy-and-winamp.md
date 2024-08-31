@@ -1,7 +1,7 @@
 ---
 title: "Trip Down Memory Lane with Obsolete Gems: A Look at MSN, GameSpy, and Winamp"
-date: 2024-08-26 12:21:40
-updated: 2024-08-29 10:12:34
+date: 2024-08-30T21:19:29.633Z
+updated: 2024-08-31T21:19:29.633Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,10 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  These days you don’t need middleware like GameSpy, with matchmaking integrated into platforms like Xbox Live and Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  MSN, [AIM](https://my.screenname.aol.com/), [ICQ](https://www.icq.com) 
 
 **You might also remember:** iChat, Gaim (Pidgin), Jabber
@@ -47,6 +51,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -57,6 +64,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Adobe purchased Flash in 2005, but it was clear that the web would eventually move away from browser plugins in favor of native technologies. Apple’s refusal to allow Flash on the iPhone and the increasing threat of Flash-based malware confirmed that the end was nigh. You can still [enjoy a huge library of Flash games using Flashpoint](https://vimeo-videos.techidaily.com/updated-rhythmic-revelations-adding-audio-to-your-vimeo-videos-for-2024/) (which now includes support for other plugins too).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Centralized P2P Software: [Napster](https://www.napster.com/us), KaZaA, WinMX and Others
 
 **You might also remember:** Shareaza, edonkey2000, Morpheus, Grokster, LimeWire, iMesh, WireShare, Gnutella
@@ -109,6 +119,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Though dial-up has largely been replaced in the US, [a very small percentage of users still connect to the internet using dial-up](https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Defunct Browsers: Internet Explorer, Netscape Navigator
 
 **You might also remember:** Mozilla, Internet Explorer for Mac
@@ -119,6 +132,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -127,6 +143,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Amazingly, eJay still exists and you can buy old versions that promise to work on versions of Windows up to Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Desktop Pets: Dogz, Catz, Bonzi Buddy
 
 **You might also remember:** GoPets, MOPy fish
@@ -155,3 +174,52 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-core-concepts-of-story-making/"><u>[New] Core Concepts of Story Making</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-3-steps-for-perfect-instagram-video-margins/"><u>[New] In 2024, 3 Steps for Perfect Instagram Video Margins</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-imovie-projects-with-youtubes-melodies/"><u>[New] In 2024, Harmonize Your iMovie Projects With YouTube's Melodies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-twist-your-content-strategy-inverting-videos-for-instagram-for-2024/"><u>[New] Twist Your Content Strategy  Inverting Videos for Instagram for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-economical-dslrmirrorless-systems/"><u>[Updated] 2024 Approved  Economical DSLR/Mirrorless Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frugal-cloud-cradle-for-copious-file-collection/"><u>[Updated] Frugal Cloud Cradle for Copious File Collection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[Updated] Metaverse Maps Drawn  Understanding Through 6 Vivid Scenarios</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-mac-mp3/"><u>「オマ Mp3 Mac音声変換ソフト | ムービーファイルをmp3に無料で変換」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766318826-dvd/"><u>「マッキーでDVDコピー：初めて触れる人への手順と振り返りガイド付き詳細解説」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-how-to-erase-icloud-backup-data-from-your-iphone-or-ipad-a-comprehensive-guide/"><u>1. How to Erase iCloud Backup Data From Your iPhone or iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-why-cant-i-add-movies-to-my-itunes-library-best-troubleshooting-tips-and-fixes/"><u>1. Why Can't I Add Movies to My iTunes Library? Best Troubleshooting Tips & Fixes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfecting-snapchat-gifting-a-guide-to-gifs/"><u>2024 Approved  Perfecting Snapchat Gifting - A Guide to Gifs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024mp3/"><u>2024最新MP3変換ツール：無料で使いやすく、高速かつ機能も充実したフリーソフトをご紹介！</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-14-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 14 Waze | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766227599-2024/"><u>伝統に憧れながらも革新！2024年正月特選非おせち料理レシピとその作り方</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766172510-itunes/"><u>最強手段でイヤフォンとiTunesを完璧同期するコツ - 悲鳴無しのパーフェクトマッチ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-2024-mac/"><u>最新DVDコピーソフトが完全無料! 2024 Mac対応モデルを特集 - おすすめの人気ソフトで満載!</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-hot-30i-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Hot 30i Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766658071-anydvd/"><u>AnyDVDアプリケーションガイド: ダウンロードから初期設定、暗号化回避、クラッキングについて</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-curls-and-contours-creating-a-personalized-beauty-channel-for-2024/"><u>Crafting Curls and Contours  Creating a Personalized Beauty Channel for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-uefa-euro-2er-2021-complete-roster-and-matches-for-free-in-ultra-clear-4khd-from-youtube-streaming/"><u>Download UEFA Euro 2Er 2021 Complete Roster and Matches for Free in Ultra-Clear 4K/HD From YouTube Streaming</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/fostering-duets-tiktok-vocal-pairings/"><u>Fostering Duets  TikTok Vocal Pairings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-hd-8k-downloads-of-rio-de-janeiro-2016-olympic-games-footage/"><u>Free HD 8K Downloads of Rio De Janeiro 2016 Olympic Games Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hd-and-sd-mpeg-macx-mac/"><u>HD & SD ビデオを容易にMPEG形式へ - MacX: Mac上で最適化されたフリーダウンロードソフト</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-find-n3-flip-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Find N3 Flip</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-x6-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco X6 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-use-handbrake-for-dvd-conversion-to-m4v-files-different-from-standard-mp4-output/"><u>How to Use Handbrake for DVD Conversion to M4V Files, Different From Standard MP4 Output</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-x-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone X Lock Screen with Notifications?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/join-our-social-media-giveaway-for-macxdvd-aficionados-and-save-big-get-entire-software-at-no-cost/"><u>Join Our Social Media Giveaway for MacXDVD Aficionados and Save Big – Get Entire Software at No Cost!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-macx-hdwindowsd/"><u>MacX DVD最大割引: MacX HD動画変換プロフェッショナルWindows版セールスペリオDがこちら</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-software-licensing-agreement-key-points-explained-for-consumers/"><u>MacXDVD Software Licensing Agreement: Key Points Explained for Consumers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-time-lapse-video-apps-for-iphone-and-android/"><u>New Unleash Your Creativity Best Time-Lapse Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/portable-frozen-fun-how-to-legally-acquire-stream-and-watch-disneys-ice-queen-adventure-on-the-move/"><u>Portable Frozen Fun: How to Legally Acquire, Stream, and Watch Disney’s Ice Queen Adventure On-the-Move</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/preserving-clarity-in-editing-guide-to-non-interlaced-video-processing/"><u>Preserving Clarity in Editing: Guide to Non-Interlaced Video Processing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/profi-aufnahmetipps-top-programme-zur-herstellung-von-screenshots-auf-dem-macos/"><u>Profi-Aufnahmetipps: Top-Programme Zur Herstellung Von Screenshots Auf Dem macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/qualitatsbewahrend-dvd-zu-mkv-konvertierung-auf-einem-mac-schritt-fur-schritt-anleitung/"><u>Qualitätsbewahrend DVD-Zu-MKV Konvertierung Auf Einem Mac - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-cropping-your-screen-capture-images-in-macos/"><u>Step-by-Step Guide: Cropping Your Screen Capture Images in macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-greatest-world-cup-goals-in-history-a-comprehensive-guide-to-the-top-five-scoring-masterpieces/"><u>The Greatest World Cup Goals in History: A Comprehensive Guide to the Top Five Scoring Masterpieces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-free-macmp4-players-ultimate-guide-to-the-best-mp4-viewer-apps/"><u>Top Free MacMP4 Players: Ultimate Guide to the Best MP4 Viewer Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-dvds-to-digital-on-macos-with-macx-download-free-dvd-ripper-software-and-stream-seamlessly-to-youtube-flvmp4mp3/"><u>Transform DVDs to Digital on macOS with MacX - Download FREE DVD Ripper Software and Stream Seamlessly to YouTube, FLV/MP4/MP3</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-discover-the-top-11-free-dvd-crackers-for-safe-extraction-of-secure-movies/"><u>Ultimate Guide: Discover the Top 11 Free DVD Crackers for Safe Extraction of Secure Movies</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>

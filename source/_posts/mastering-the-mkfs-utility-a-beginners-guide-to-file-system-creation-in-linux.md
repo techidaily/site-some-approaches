@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Mkfs Utility: A Beginner's Guide to File System Creation in Linux"
-date: 2024-08-26 23:12:38
-updated: 2024-08-29 11:55:37
+date: 2024-08-30T21:19:13.223Z
+updated: 2024-08-31T21:19:13.223Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  The syntax of `mkfs` has been updated, and the old format has been deprecated. Both forms will work, but we'll use the modern style in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Choice of File Systems
 
  The modern way of using `mkfs` is to type "mkfs." and then the name of the file system you wish to create.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 * **CRAMFS**: The [Compressed ROM File System](https://en.wikipedia.org/wiki/Cramfs) is a read-only file system designed for embedded systems and specialist read-only uses, such as in the boot processes of Linux computers. It is common to have a small, transient, file system loaded first so that bootstrap processes can be launched to prepare for the "real" boot system to be mounted.
 * **MSDOS**: The file system of the [Microsoft Disk Operating System](https://en.wikipedia.org/wiki/MS-DOS). Released in 1981, it's an elementary file system that is as basic as it gets. The first version didn't even have directories. It holds a place of prominence in computing history but, beyond compatibility with legacy systems, there is little reason to use it today.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Safe Way to Experiment With File Systems
 
  Creating a file system on a partition is destructive to any data that might already reside on that partition. Using a spare hard drive—or even a spare computer—is the perfect way to experiment with creating and using different file systems. But of course, many people don't have spare hardware lying around, waiting to be experimented on.
@@ -74,6 +80,10 @@ dd if=/dev/zero of=~/howtogeek.img bs=1M count=250
 
 ![Output from the dd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/3-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  We can look at our image file with `ls` :
 
 ls -hl
@@ -90,6 +100,9 @@ mkfs.ext2 ~/howtogeek.img
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/5-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The file system is created, and some details of the file system are displayed.
 
 ![Output of the mkfs.ext2 command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/6-2.png) 
@@ -104,12 +117,18 @@ sudo mkdir /mnt/geek
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/7-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  Now we can mount our image file.
 
 sudo mount ~/howtogeek.img /mnt/geek
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/8-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  We need to change the [file ownership](http://man7.org/linux/man-pages/man1/chown.1.html) of the mount point so that we have read and write access to it.
 
 sudo chown dave:users /mnt/geek/
@@ -124,6 +143,9 @@ cp ~/Documents/Code/*.? .
 
 ![cp ~/Documents/Code/*.? . in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/10-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This will copy all files with a single-letter extension from the "\~/Documents/Code" directory to our new file system. Let's check that they were copied.
 
 ls
@@ -144,6 +166,12 @@ ls
 
 ![cd /mnt/geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/13-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  Further Exploration
 
  Now we've got the process worked out, trying another file system should be easy. We'll use the MINIX file system this time. In our home directory, we can create a new file system inside our existing image file.
@@ -166,6 +194,9 @@ touch geek.txt
 
 ![touch geek.txt in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/17-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ls -ahl geek.txt
 
 ![ls -ahl geek.txt in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/19-1.png) 
@@ -182,6 +213,9 @@ sudo rmdir geek
 
 ![sudo rmdir geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/18-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Juggling With Fire
 
  With Linux, as with most things, you learn by doing. The problem with some commands is that they are potentially destructive. The dilemma is how to practice using them without putting your system or data at risk?
@@ -208,3 +242,53 @@ sudo rmdir geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-key-audio-equipment-for-content-creators/"><u>[New] Key Audio Equipment for Content Creators</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-syncing-fb-vids-with-whatsapp-a-step-by-step-guide-for-2024/"><u>[New] Syncing FB Vids with WhatsApp  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-is-there-a-cash-incentive-in-critique-videos/"><u>[Updated] 2024 Approved  Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-effective-screen-capture-with-dell-devices/"><u>[Updated] Secrets of Effective Screen Capture with Dell Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/amazon-pcprime-video/"><u>無料Amazonプライム会員向け: PC・スマホ・タブレットでPrime Videoのダウンロード手順完全解説！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-mac-software-downloading-ripit-plus-fantastic-alternative-options/"><u>Best Free Mac Software: Downloading RipIt + Fantastic Alternative Options!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-moving-your-information-to-a-new-iphone-xs-or-xr-android-and-older-iphones-included/"><u>Comprehensive Guide: Moving Your Information to a New iPhone XS or XR - Android and Older iPhones Included</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-gratuita-di-file-mkv-in-avi-su-un-mac-una-guida-semplice/"><u>Conversione Gratuita Di File MKV in AVI Su Un Mac: Una Guida Semplice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-and-transfer-your-dvds-effortlessly-with-macx-the-premier-free-tool-to-upload-and-convert-dvd-media-onto-an-iphone-4-using-mac-os/"><u>Convert & Transfer Your DVDs Effortlessly with MacX: The Premier Free Tool to Upload and Convert DVD Media Onto an iPhone 4 Using Mac OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-your-digital-twins-words-techniques-for-adapting-chatgpt-to-mimic-your-prose/"><u>Crafting Your Digital Twins Words: Techniques for Adapting ChatGPT to Mimic Your Prose</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-expert-in-converting-and-managing-your-digital-media-with-dvd-and-video-tools/"><u>Digiarty - Expert in Converting and Managing Your Digital Media with DVD & Video Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-supports-win-11-8-and-7/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers - Supports Win 11, 8 & 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-ripping-tool-piu-efficiente-per-apple-devices-recensioni-e-confronti-tra-mac-iphone-e-ipad/"><u>DVD Ripping Tool Più Efficiente per Apple Devices: Recensioni E Confronti Tra Mac, iPhone E iPad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-pc-experience-by-updating-the-microsoft-mouse-driver-on-windows-systems/"><u>Enhance Your PC Experience by Updating the Microsoft Mouse Driver on Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-backup-software-picks-discover-the-best-6-apps-to-safeguard-your-data-on-iphone-ipad-and-ipod-with-latest-ios-features-ios-171110/"><u>Essential Backup Software Picks: Discover the Best 6 Apps to Safeguard Your Data on iPhone, iPad & iPod with Latest iOS Features (iOS 17/11/10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-fix-no-audio-issue-on-pcs-using-realtek-digital-output-solutions/"><u>Expert Tips to Fix No Audio Issue on PCs Using Realtek Digital Output Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-linksys-ae2500-wireless-router-up-and-running-fast-download-of-latest-drivers/"><u>Get Your Linksys AE2500 Wireless Router Up & Running: Fast Download of Latest Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-to-bypassing-apples-itunes-protections-on-m4v-files/"><u>Guide to Bypassing Apple's iTunes Protections on M4V Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-mastering-high-fidelity-mp3-conversion-from-wmv-on-mac-systems/"><u>Guide: Mastering High-Fidelity MP3 Conversion From WMV on Mac Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/high-definition-4k-film-downloads-directly-from-youtube-experience-like-watching-a-real-dvd/"><u>High Definition 4K Film Downloads Directly From YouTube: Experience Like Watching a Real DVD</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-6s-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 6s Plus to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-guide-to-making-money-with-vimeo-monetization/"><u>In 2024, The Ultimate Guide to Making Money with Vimeo Monetization</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-depth-quicktime-perian-walkthrough-unveiling-its-core-features-for-professionals/"><u>In-Depth QuickTime Perian Walkthrough: Unveiling Its Core Features for Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leading-mobile-and-desktop-photography-sync-tools-apple-ecosystem-edition/"><u>Leading Mobile & Desktop Photography Sync Tools: Apple Ecosystem Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macos-mojave-and-macos-high-sierra-comparison-is-it-time-to-move-to-macos-1014/"><u>MacOS Mojave and macOS High Sierra Comparison: Is It Time to Move to macOS 10.14?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-mp4-mp3-mac/"><u>MacX 動画 DVD を MP4, MP3に簡単変換!無料で使える Mac向けコンバータソフトウェア - リッピングガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-profesional-pack-for-windows-ultimate-dvd-burning-and-video-editing-suite-compatible-with-win11/"><u>MacX DVD-Profesional Pack for Windows - Ultimate DVD Burning & Video Editing Suite Compatible with Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766518043-macx-hd-video-converter-pro-windows/"><u>MacX HD Video Converter Pro プロのWindows用ガイド - 一対多機能ビデオエディタソフト</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-announces-grand-opening-giveaway-of-4-premium-mac-apps-hidden-in-a-deluge-of-10000-easter-eggs-get-your-stash-now/"><u>MacXDVD Announces Grand Opening Giveaway of 4 Premium Mac Apps Hidden in a Deluge of 10,000 Easter Eggs - Get Your Stash Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-crucial-tips-and-fixes-for-your-device-of-any-version/"><u>Mastering iPhone Maintenance: 15 Crucial Tips and Fixes for Your Device of Any Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-7-digital-calendar-solutions-for-busy-households/"><u>Mastering Time Management: 7 Digital Calendar Solutions for Busy Households</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mehr-flexibilitat-fur-netflix-inhalte-downloads-ermoglichen-schnelles-anschauen-ohne-internetverbindung/"><u>Mehr Flexibilität Für Netflix Inhalte: Downloads Ermöglichen Schnelles Anschauen Ohne Internetverbindung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-kaufen-macx-mediatrans-mit-sonderrabatt-erwerben/"><u>Online Kaufen: MacX MediaTrans Mit Sonderrabatt Erwerben</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-film-grading-a-deep-dive-into-cg-centrals-look-up-tables/"><u>Perfecting Film Grading  A Deep Dive Into CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premier-scanners-reviewed-2024-edition/"><u>Premier Scanners Reviewed - 2024 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transferring-high-quality-instagram-footage-from-your-mobile-device/"><u>Step-by-Step Guide: Transferring High-Quality Instagram Footage From Your Mobile Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-instructions-for-accessing-the-iconic-75-years-of-nba-live-stream-matches/"><u>Step-by-Step Instructions for Accessing the Iconic 75 Years of NBA Live Stream Matches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-vr-gaming-experiences-on-pc-android-and-iphone-20162017/"><u>Top-Ranked VR Gaming Experiences on PC, Android & iPhone (2016/2017)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transfer-your-iphone-images-to-a-mac-a-simple-guide-with-top-10-methods/"><u>Transfer Your iPhone Images to a Mac: A Simple Guide with Top 10 Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/trumps-suspension-from-facebook-tested-in-jan/"><u>Trump's Suspension From Facebook Tested in Jan</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-using-the-final-cut-pro-compressor-best-practices-common-hitches-and-effective-remedies/"><u>Ultimate Guide to Using the Final Cut Pro Compressor - Best Practices, Common Hitches & Effective Remedies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32ksys-bluescreen-fixes-comprehensive-troubleshooting-steps/"><u>Win32k.sys Bluescreen Fixes: Comprehensive Troubleshooting Steps</u></a></li>
+</ul></div>
