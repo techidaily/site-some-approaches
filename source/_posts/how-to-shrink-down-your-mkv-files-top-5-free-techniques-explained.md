@@ -1,7 +1,7 @@
 ---
 title: How to Shrink Down Your MKV Files - Top 5 FREE Techniques Explained
-date: 2024-08-30 11:31:53
-updated: 2024-09-02 12:29:33
+date: 2024-09-01T22:01:42.646Z
+updated: 2024-09-02T22:01:42.646Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg
@@ -44,6 +44,9 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 2024 Best Ways to Freely Rip DVDs to MKV on Windows 10/11 & Mac
 
 | Pros                       | Cons                                                                                                                 | More Info                                                                             |                                                          |
@@ -58,6 +61,9 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a11.png)1\. Ripping DVD will Remove DVD Copy Protections** 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Similar to Blu-ray, DVD disc is also equipped with a variety of protections to prevent DVD content from illegal use. The most popular encryption techs include CSS encryption, Sony ARccOS encryption, RCE Region protection, Disney X-project DRM, region code etc. DVD rippers can bypass DVD copy protections and deliver a DRM-free file. But sometimes you may encounter errors while working with [DVD ripping freeware](https://tools.techidaily.com/winxdvd/products/) like MakeMKV, HandBrake and Freemake Video Converter. 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a10.png)2\. DVD to MKV Backup can Reserves All DVD Content** 
@@ -79,6 +85,9 @@ Since MKV supports any type of video/audio tracks and subtitles inside, and is q
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After downloading and installing the DVD to MKV ripper, follow the steps below to rip DVD to MKV on Mac.
 
 **Step 1\. Add the Source DVD** 
@@ -109,6 +118,9 @@ If you do not have other advanced and personalized settings, just hit "**RUN**" 
 
 _Disclaimer: Digiarty Software does not advocate ripping commercial DVDs for any illegal purpose. You're suggested to refer to the [DVD copyright laws](https://tools.techidaily.com/winxdvd/products/) in your country before doing so._ 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. How to Rip DVD to MKV with MakeMKV
 
 [**MakeMKV**](https://www.makemkv.com/) is the first choice of many users when it comes to extracting MKV from a DVD without quality loss. This tool is specially designed to convert Blu-ray and DVD disc to MKV format. It will rip DVD to MKV with all video and audio tracks, chapters information, and all meta information. It works fast because it doesn't transcode video, just extract. More importantly, it's able to remove copy protections from DVD and Blu-ray discs, so that it's the best solution to free rip protected DVDs to MKV losslessly. 
@@ -125,6 +137,9 @@ Now let's download MakeMKV and learn how to convert DVD to MKV with MakeMKV.
 
 ![Rip DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-select-titles-audios-subtitles.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 **Step 3.** Specify an output folder to store the resulting MKV file.
 
 **Step 4.** Hit Make MKV button to begin ripping DVD to MKV. 
@@ -144,6 +159,10 @@ First of all, let's learn how to download and install libdvdcss for Handbrake:
 
 ![Rip DVD to MKV with HandBrake and libdvdcss](https://www.winxdvd.com/resource/../seo-img/handbrake-troubleshoot-tips/libdvdcss.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 After you finish the installation of HandBrake and libdvdcss, you can follow the steps to rip DVD to MKV with HandBrake.
 
 **Step 1.** Put target DVD to your optical drive. Open HandBrake and select your DVD. Then, HandBrake will scan DVD titles.
@@ -152,6 +171,9 @@ After you finish the installation of HandBrake and libdvdcss, you can follow the
 
 ![Rip DVD to MKV with HandBrake](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-dvd-to-mkv-with-handbrake.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3.** Click Preset > Matroska, and then choose a MKV format. You're commended to choose H.264 MKV 480p30 for NTSC DVD and H.264 MKV 576P25 for PAL DVD.
 
 **Step 4.** Hit Start Encode button to begin ripping DVD to MKV. Note: HandBrake will decode the DVD and re-encode the video into MKV in H264, H265, or other codecs, during which quality loss will happen.
@@ -195,6 +217,12 @@ Now let's learn how to rip DVDs to MKV usingi Movavi Video Converter?
 
 ![rip DVDs to MKV Movavi](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/movavi-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## In Conclusion
 
 DVD to MKV converters play a valuable role in the digital transformation of physical media. These converters provide users with a convenient and efficient way to convert DVD content into the widely supported MKV format, preserving both video and audio quality. The flexibility offered by MKV, including support for multiple audio and subtitle tracks, makes it a popular choice for users looking to create digital backups or enjoy their DVD content on various devices. Let's select the best fit DVD to MKV converter and start converting DVD to MKV right now!
@@ -203,9 +231,21 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 
 * [6 Ways to Convert DVD to MP4 on Mac for Free](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [\[2024\] How to Free Convert DVD Video\_TS to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -220,3 +260,53 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-access-your-facebook-recent-view-log-for-2024/"><u>[Updated] How to Access Your Facebook Recent View Log for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ipad-timelapse-a-beginners-handbook-to-filming/"><u>[Updated] IPad Timelapse  A Beginner's Handbook to Filming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oneplus-nord-ce-3-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From OnePlus Nord CE 3 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/adjusting-windows-11-mouse-cursor-appearance-a-step-by-step-guide/"><u>Adjusting Windows 11 Mouse Cursor Appearance: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/catch-all-olympic-events-live-top-streaming-sites-listed/"><u>Catch All Olympic Events Live: Top Streaming Sites Listed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-originality-concerns-a-deep-dive-into-its-information-pool/"><u>ChatGPT and Originality Concerns: A Deep Dive Into Its Information Pool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/choose-weatherproof-smart-plugs-over-regular-ones-why-durability-matters/"><u>Choose Weatherproof Smart Plugs Over Regular Ones: Why Durability Matters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-guide-disconnecting-a-printer-from-your-pc-running-on-windows-11-or-10/"><u>Complete Guide: Disconnecting a Printer From Your PC Running on Windows 11 or 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-guide-locating-and-accessing-every-image-on-your-windows-11-computer/"><u>Complete Guide: Locating and Accessing Every Image on Your Windows 11 Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-keychron-c3-pros-wired-mechanical-keyboard-value-and-versatility-unleashed/"><u>Comprehensive Guide: Keychron C3 Pro's Wired Mechanical Keyboard – Value & Versatility Unleashed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/debunking-myths-top-7-misconceptions-about-switching-from-windows-to-linux/"><u>Debunking Myths: Top 7 Misconceptions About Switching From Windows to Linux</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-improved-sound-modification-capabilities-with-microsofts-new-clipchamp-enhancement/"><u>Discover Improved Sound Modification Capabilities with Microsoft's New Clipchamp Enhancement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-advantages-of-choosing-a-copilotplus-arm-pc-for-enhanced-performance/"><u>Discover the Advantages of Choosing a Copilot+ ARM PC for Enhanced Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easily-access-current-conditions-with-this-guide-to-integrating-weather-on-windows-11-taskbar/"><u>Easily Access Current Conditions with This Guide to Integrating Weather on Windows 11 Taskbar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-configuring-parent-friendly-settings-in-windows-11/"><u>Easy Guide: Configuring Parent-Friendly Settings in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/efficient-lenovo-thinkpad-e16-gen-1-assessment-the-perfect-blend-of-function-and-performance/"><u>Efficient Lenovo ThinkPad E16 Gen 1 Assessment – The Perfect Blend of Function and Performance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-integration-of-latest-lexmark-printer-driver/"><u>Effortless Integration of Latest Lexmark Printer Driver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/eliminating-yellow-discoloration-on-your-computer-display/"><u>Eliminating Yellow Discoloration on Your Computer Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-vivaldi-browser-with-chrome-extension-support-in-version-66/"><u>Enhance Your Vivaldi Browser with Chrome Extension Support in Version 6.6</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-windows-network-safety-the-power-of-microsofts-ztdns/"><u>Enhancing Windows Network Safety: The Power of Microsoft's ZTDNS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/finding-the-balance-adding-videos-to-text-on-a-budget-for-2024/"><u>Finding the Balance  Adding Videos to Text on a Budget for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-access-to-historys-breakthrough-the-trailblazing-early-word-processor-for-computers-is-just-a-click-away/"><u>Free Access to History's Breakthrough: The Trailblazing Early Word Processor for Computers Is Just a Click Away!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/further-changes-coming-as-windows-11-trims-down-on-core-features-and-tools/"><u>Further Changes Coming as Windows 11 Trims Down on Core Features and Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-microsoft-office-suite-opens-the-door-to-cybersecurity-threats/"><u>How Microsoft Office Suite Opens the Door to Cybersecurity Threats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-jpg-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to add a digital signature field to a JPG</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/impact-of-windows-recall-on-increasing-pc-storage-demand/"><u>Impact of Windows Recall on Increasing PC Storage Demand</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-attention-grabbing-facebook-giveaways/"><u>In 2024, Crafting Attention-Grabbing Facebook Giveaways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-s23-fe-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy S23 FE to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hue-harmonies-crafting-visual-balance/"><u>In 2024, Hue Harmonies  Crafting Visual Balance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 6s Plus</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-s23plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel S23+ FRP Bypass</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/latest-cybersecurity-fiasco-at-atandt-unveiled-plus-sneak-peek-of-cutting-edge-phones-from-samsung-your-weekly-update-in-tech/"><u>Latest Cybersecurity Fiasco at AT&T Unveiled + Sneak Peek of Cutting-Edge Phones From Samsung – Your Weekly Update in Tech!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/latest-tech-bargains-get-your-hands-on-pixel-eb-quality-anker-earphones-premium-hisense-qled-tvs-and-top-of-the-line-robotic-vacuums/"><u>Latest Tech Bargains: Get Your Hands on Pixel Eb, Quality Anker Earphones, Premium Hisense QLED Tvs & Top-of-the-Line Robotic Vacuums!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-pc-crashes-solved-for-the-latest-updates-of-2024/"><u>Lego Star Wars: The Skywalker Saga - PC Crashes Solved for the Latest Updates of 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-admin-login-step-by-step-guide-for-windows-1011/"><u>Mastering Admin Login: Step-by-Step Guide for Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-passkey-creation-and-management-in-windows-11/"><u>Mastering Passkey Creation & Management in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-performance-how-to-stop-resource-hogging-apps-running-silently-in-the-background-on-windows-11/"><u>Mastering Performance: How to Stop Resource-Hogging Apps Running Silently in the Background on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-social-media-planning-with-pre-scheduled-tweets/"><u>Mastering the Art of Social Media Planning with Pre-Scheduled Tweets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/questioning-the-necessity-of-windows-unveiling-4-key-reasons-to-consider-alternatives/"><u>Questioning the Necessity of Windows: Unveiling 4 Key Reasons to Consider Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-verticalhorizontal-monitor-alignment-problems-on-your-desktop-easy-fixes-and-tips/"><u>Resolving Vertical/Horizontal Monitor Alignment Problems on Your Desktop - Easy Fixes and Tips!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-a-2020-evaluation-absent-crucial-element/"><u>Samsung Galaxy Tab A (2020) Evaluation: Absent Crucial Element</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/skyrocket-your-productivity-with-these-5-window-always-on-top-tips-for-windows-users/"><u>Skyrocket Your Productivity with These 5 Window Always-On-Top Tips for Windows Users!</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-linux-playtime-top-7-terminal-games/"><u>Step Up Your Linux Playtime: Top 7 Terminal Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-modifying-notifications-audio-in-windows-11/"><u>Step-by-Step Tutorial: Modifying Notifications Audio in Windows 11</u></a></li>
+</ul></div>
