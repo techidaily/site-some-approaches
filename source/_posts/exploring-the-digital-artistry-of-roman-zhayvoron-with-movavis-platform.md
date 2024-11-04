@@ -1,7 +1,7 @@
 ---
 title: Exploring the Digital Artistry of Roman Zhayvoron with Movavi's Platform
-date: 2024-10-27T22:06:42.789Z
-updated: 2024-10-29T20:17:34.065Z
+date: 2024-10-30T16:00:39.371Z
+updated: 2024-11-04T16:00:47.134Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7e23e537fd44d6a1e4e623e1.png
@@ -236,13 +236,6 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
@@ -261,13 +254,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -281,10 +267,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Lisser les bords des polices d'écran.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
@@ -298,6 +284,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -318,13 +311,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -352,7 +338,21 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -372,13 +372,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -396,6 +389,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -429,6 +429,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -490,6 +497,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -512,13 +526,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -553,17 +560,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -601,20 +601,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-instantly-examine-windows-documents-efficiently/"><u>[New] Instantly Examine Windows Documents Efficiently</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-action-hunting-gear/"><u>[New] The Ultimate Guide to Action Hunting Gear</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>[Updated] Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-power-of-multitasking-mastering-ffpm/"><u>[Updated] The Power of Multitasking Mastering FFPM</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats/"><u>2024 Approved The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-basics-of-vsco-filters/"><u>2024 Approved Understanding the Basics of VSCO Filters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/choosing-the-right-format-handbrakes-h264-vs-mpeg-4-for-dvd-conversion/"><u>Choosing the Right Format: HandBrake's H.264 Vs MPEG-4 for DVD Conversion</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-when-outlook-fails-to-establish-a-connection/"><u>Effective Fixes for When Outlook Fails to Establish a Connection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-in-comfort-insights-into-using-vision-pros-travel-mode-your-essential-pre-trip-checklist/"><u>Exploring the World in Comfort: Insights Into Using Vision Pro's Travel Mode – Your Essential Pre-Trip Checklist</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-se-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone SE Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus iOS? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/instagrammable-pcs-how-to-add-your-chosen-weather-image-in-windows-11-status-bar/"><u>Instagrammable PCs: How to Add Your Chosen Weather Image in Windows 11 Status Bar</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-diablo-4-performance-fix-the-crashes-with-these-7-simple-steps-on-any-console/"><u>Mastering Diablo 4 Performance: Fix the Crashes with These 7 Simple Steps on Any Console</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-potential-understanding-and-altering-account-numbers-for-2024/"><u>Unleash Potential Understanding and Altering Account Numbers for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unraveling-the-mystery-of-frame-rates-in-videos/"><u>[New] 2024 Approved Unraveling the Mystery of Frame Rates in Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators/"><u>[New] In 2024, Conquer Your Screen Top 10 Simple YouTube Projects for All Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-software-to-rip-youtube-trailers/"><u>[New] In 2024, Essential Software to Rip YouTube Trailers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ailored-video-experience-creating-a-structured-watch-later-list-on-youtube-for-2024/"><u>[New] Tailored Video Experience Creating a Structured 'Watch Later' List on YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-transferring-media-between-two-iphones/"><u>[New] Techniques for Transferring Media Between Two iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-apps-to-stream-your-favorite-podcasts-on-iphone/"><u>[New] Top 5 Apps to Stream Your Favorite Podcasts on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiled-top-6-tools-to-purify-signature-images-online/"><u>[New] Unveiled Top 6 Tools to Purify Signature Images Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-solo-art-of-personalized-instagram-ringtone-making/"><u>[Updated] The Solo Art of Personalized Instagram Ringtone Making</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-video-livestreaming-vlc-strategies/"><u>2024 Approved Streamline Your Video Livestreaming VLC Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>In 2024, How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-best-text-plugins-for-ae-users/"><u>In 2024, Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>In 2024, Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-tab-trouble-successfully-solved/"><u>Surface Tab Trouble - Successfully Solved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-communitys-take-on-vllo-performance-for-2024/"><u>The Community's Take on VLLO Performance for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-language-models-exploring-the-variances-between-gpt-4-gpt-4-turbo-and-gpt-e/"><u>The Evolution of Language Models - Exploring the Variances Between GPT-4, GPT-4 Turbo & GPT-E</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-x-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone X? How to Fix</u></a></li>
 </ul></div>
 
