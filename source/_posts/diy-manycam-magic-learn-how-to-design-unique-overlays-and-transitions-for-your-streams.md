@@ -1,7 +1,7 @@
 ---
 title: "DIY ManyCam Magic: Learn How to Design Unique Overlays & Transitions for Your Streams"
-date: 2024-09-15T17:04:56.067Z
-updated: 2024-09-18T19:03:25.878Z
+date: 2024-11-07T22:01:48.581Z
+updated: 2024-11-14T02:54:06.839Z
 tags:
   - product
   - solution
@@ -612,6 +612,19 @@ Your effect is now available in ManyCam and ready to be used. Click on your new 
 
 You can also check out our catalog of free downloadable effects [here!](https://tools.techidaily.com/manycam/products/)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 **Can I create my own animated effects?** No, there is no such option at the moment. 
@@ -626,6 +639,19 @@ You can also check out our catalog of free downloadable effects [here!](https://
 
  Updated on August 23, 2022 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
  Was this article helpful? 
@@ -633,10 +659,10 @@ You can also check out our catalog of free downloadable effects [here!](https://
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Related Articles
@@ -644,10 +670,10 @@ You can also check out our catalog of free downloadable effects [here!](https://
 * [How do I create effect without publishing it on ManyCam Effects website?](https://tools.techidaily.com/manycam/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Contents
@@ -667,5 +693,19 @@ You can also check out our catalog of free downloadable effects [here!](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-tiktok-profile-altering-account-numbers/"><u>[New] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-adding-music-to-photo-online/"><u>[Updated] In 2024, Adding Music to Photo Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-desktop-image-blending-techniques/"><u>[Updated] In 2024, Mastering Desktop Image Blending Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-capturing-stories-gopro-hero5-black-in-focus/"><u>[Updated] The Art of Capturing Stories GoPro Hero5 Black in Focus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-costless-online-editors-for-professionals/"><u>[Updated] Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unstuck-video-streams-from-photobooth-screens/"><u>2024 Approved Unstuck Video Streams From Photobooth Screens</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nubia-red-magic-8s-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nubia Red Magic 8S Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-vivo-s18-pro-by-fonelab-android-recover-video/"><u>How to recover old videos from your Vivo S18 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-avoiding-vr-nausea/"><u>In 2024, The Ultimate Guide to Avoiding VR Nausea</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/snapshare-success-the-videoviral-story/"><u>SnapShare Success The #VideoViral Story</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-memory-recovery-with-astrodatarestore-available-for-purchase/"><u>Ultimate iPhone Memory Recovery with AstroDataRestore - Available for Purchase</u></a></li>
+</ul></div>
 
