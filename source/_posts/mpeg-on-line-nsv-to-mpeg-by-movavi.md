@@ -1,7 +1,7 @@
 ---
 title: MPEGビデオフォーマットへの無料変換 - On-Line NSV to MPEG by Movavi
-date: 2024-12-11T21:26:13.477Z
-updated: 2024-12-15T17:37:54.759Z
+date: 2024-12-26T18:03:31.124Z
+updated: 2025-01-02T16:17:08.178Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa53e5f00bb7e352c2dad15fc.jpg
@@ -156,10 +156,6 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -180,11 +176,19 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -219,7 +223,7 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
@@ -274,10 +278,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -299,6 +299,10 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -317,10 +321,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -360,6 +360,10 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -377,6 +381,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -417,10 +425,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -428,7 +432,7 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -447,10 +451,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -484,12 +484,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -509,6 +513,10 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -541,14 +549,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,21 +585,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-do-you-earn-when-a-million-watch-youtube-in-2024/"><u>[New] How Much Do You Earn When a Million Watch Youtube, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>[New] The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>[New] The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-how-to-use-telegram-web-step-by-step-guide/"><u>[Updated] How To Use Telegram Web Step-By-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-twitter-video-enhancers/"><u>[Updated] Ultimate Guide Twitter Video Enhancers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-srt-file-conversion-simplified-with-os-support/"><u>2024 Approved SRT File Conversion Simplified with OS Support</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehensive-guide-to-superior-recordings-in-audacity/"><u>2024 Approved The Comprehensive Guide to Superior Recordings in Audacity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-podcast-broadcast-simplifier/"><u>2024 Approved Ultimate Podcast Broadcast Simplifier</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-utilizing-in-browser-multiframe-pip/"><u>2024 Approved Utilizing In-Browser Multiframe PIP</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-resolve-lenovo-function-fn-key-issues-with-these-tips/"><u>Easily Resolve Lenovo Function (Fn) Key Issues with These Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratuitamente-converti-i-file-ape-in-formato-aiff-con-movavi-guida-rapida-e-completa/"><u>Gratuitamente Converti I File .ape in Formato Aiff Con Movavi: Guida Rapida E Completa</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-on-obtaining-and-keeping-your-surface-drives-updated/"><u>Hassle-Free Guide on Obtaining & Keeping Your Surface Drives Updated</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-dslr-streaming-on-personal-devices/"><u>In 2024, The Ultimate Guide DSLR Streaming on Personal Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-genesis-of-apples-m1-an-insight/"><u>The Genesis of Apple's M1 An Insight</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upping-your-social-game-with-a-blue-badge-on-x-platform/"><u>Upping Your Social Game with a Blue Badge on X Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-mediatrans-100/"><u>[安心お得] WinX MediaTrans認定購入ページ - 100%安全なオンラインショッピング体験</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-gif-software-ranked-apples-favorites/"><u>[New] Leading GIF Software Ranked Apple's Favorites</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-brilliant-strategies-for-instant-signature-cleanup/"><u>[Updated] In 2024, Brilliant Strategies for Instant Signature Cleanup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>[Updated] In 2024, First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-channel-building-essentials/"><u>[Updated] Mastering YouTube Channel-Building Essentials</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/yl-computing-exploration/"><u>八国联军的历史与功能解析 - YL Computing Exploration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdmp4windows11/"><u>DVDからMP4へ簡単変換！Windows11対応フリーツール・ダウンロード不要のオンラインソリューション</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-camstudio-live-streaming-and-screen-capturing-review/"><u>In 2024, CamStudio Live Streaming & Screen Capturing Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-11-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 11 Pro without Password?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/los-mejores-programas-para-minimizar-el-tamano-del-archivo-de-video-manteniendo-la-excelente-calidad-guia-integral/"><u>Los Mejores Programas Para Minimizar El Tamaño Del Archivo De Video Manteniendo La Excelente Calidad: Guía Integral</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-tutorial-for-efficient-mp4-editing-on-windows-11-without-encoding-redo/"><u>Quick Tutorial for Efficient MP4 Editing on Windows 11 Without Encoding Redo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-90-lite-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor 90 Lite Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 
