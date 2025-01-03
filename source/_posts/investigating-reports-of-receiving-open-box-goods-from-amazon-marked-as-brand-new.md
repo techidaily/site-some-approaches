@@ -1,7 +1,7 @@
 ---
 title: Investigating Reports of Receiving Open-Box Goods From Amazon Marked as Brand New
-date: 2024-08-30T21:14:57.497Z
-updated: 2024-08-31T21:14:57.497Z
+date: 2024-12-31T06:54:20.883Z
+updated: 2025-01-03T08:31:04.427Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Investigating Reports of Receiving Open-Box Goods From Amazon Marked as Brand New
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Amazon often resells returned items as new, if they pass inspection—though this isn't always reliable.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Contact Amazon if your purchase isn't new. They usually resolve issues quickly, but don't abuse the policy.
 
  With increasing regularity, I'm buying brand-new products directly from Amazon and they arrive in used condition. If you're a regular Amazon shopper, it's probably happened to you, though you may not have realized. But why is this happening? And can we do anything about it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My Experiences of Buying New and Receiving Used
 
@@ -27,15 +35,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Amazon product page highlighting 'Ships from' and 'Sold by'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/amazon-product-page-highlighting-ships-from-and-sold-by.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I contacted Amazon support and asked how this happened. The representative couldn't say, beyond branding it a "mistake", and immediately shipped out a replacement and told me to keep the used mouse. Thankfully, the replacement arrived promptly new and sealed, but ultimately the incident delayed me receiving the product in the condition I ordered.
 
  I can't fault the customer service here—issues are always easily resolved. But this shouldn't happen in the first place, especially as [Amazon says](https://www.aboutamazon.com/about-us) it wants to be "Earth's most customer-centric company." I want to buy something new and not have to question it.
 
  This isn't the first time I've had this problem. I've received a used hard drive, book, pack of playing cards, and more. It's perhaps more forgivable for the cheaper purchases, but not for expensive tech. Anecdotally, looking at community forums like Reddit, it's happening more frequently too—though it's by no means a new phenomenon, as a thread on [HardForum](https://hardforum.com/threads/have-you-received-some-elses-returned-items-from-amazon-before.1578178/) shows people complaining about this in 2011.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Is Amazon Selling Used as New?
 
  This is happening partly by design, in accordance with [Amazon's return process](https://win-howtos.techidaily.com/step-by-step-solutions-to-fix-windows-installation-failure-error-0x80code0x080070643-on-windows-systems/). In a 2022 [Amazon article](https://www.aboutamazon.eu/news/retail/what-happens-to-returned-products-at-amazon), the company explains that most returns are resold as new:
@@ -49,8 +58,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  According to a [2023 report by the National Retail Federation](https://cdn.nrf.com/sites/default/files/2024-01/2023%20Consumer%20Returns%20in%20the%20Retail%20Industry.pdf), 14.5% of sales by the US retailers studied (not specifically Amazon) result in a return. As a percentage of total returns, 13.7% are fraudulent. These staggering figures make me appreciate why retailers want to resell something used as new.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can You Do Anything to Stop Receiving Used Products?
 
  You might think that the way to avoid this problem is to stop shopping on Amazon, but this isn't a uniquely Amazon issue; every retailer has to deal with returns, and many take a similar approach to Amazon. Besides, while Amazon has plenty of other faults, its speedy shipping and low prices are hard to turn down.
@@ -62,8 +72,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you're not satisfied with the quality of your purchase, contact Amazon immediately and they are likely to resolve it for you. Just don't abuse this because your account will be investigated if you return an abnormal amount.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Keep Shopping on Amazon?
 
  It's a little wearing to wonder, "has someone else used this?" every time I open an Amazon parcel. As a result, it's made me cautious about what I order. Anything expensive or important, especially electronics, I get directly from the manufacturer. Hygiene products are supposedly not returnable with a broken seal, but I still get these elsewhere too.
@@ -76,8 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +94,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/1723208792713-solved-minecraft-wont-launch-in-windows/"><u>[SOLVED] Minecraft Won't Launch in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>[Updated] Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-paso-a-paso-sobre-como-transformar-tu-video-3gp-en-un-formato-mov-sin-coste-alguno-con-movavi-online-video-converter/"><u>Guía Paso a Paso Sobre Cómo Transformar Tu Vídeo 3GP en Un Formato MOV Sin Coste Alguno Con Movavi Online Video Converter</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Note 30 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-uncomplicated-video-snip-for-win10-users/"><u>In 2024, Uncomplicated Video Snip for Win10 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-mxf-mp3/"><u>Movavi의 비용 없는 사이트에서 원활한 MXF 데이터를 MP3로 변환: 단계별 지침</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/no-cost-file-transformation-by-movavi-easily-change-mp4-audiovideo-to-wma/"><u>No Cost File Transformation by Movavi - Easily Change MP4 Audio/Video to WMA</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-capture-showdown-is-obs-better-than-fraps-for-2024/"><u>Screen Capture Showdown Is OBS Better Than Fraps for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-unbeatable-appeal-of-tangible-tape-rentals-vs-intangible-online-movie-streaming-options/"><u>The Unbeatable Appeal of Tangible Tape Rentals Vs. Intangible Online Movie Streaming Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-18-methods-for-converting-mp4-files-into-dvd-format-on-windows-mac-and-via-web-services/"><u>Top 18 Methods for Converting MP4 Files Into DVD Format on Windows, Mac, and Via Web Services</u></a></li>
+</ul></div>
 

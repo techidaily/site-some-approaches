@@ -1,7 +1,7 @@
 ---
 title: 7 Key Moments to Resist Swiping on Your Main Credit Card - Why and How
-date: 2024-08-30T21:14:39.251Z
-updated: 2024-08-31T21:14:39.251Z
+date: 2024-12-28T10:05:13.729Z
+updated: 2025-01-02T22:30:41.847Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 7 Key Moments to Resist Swiping on Your Main Credit Card - Why and How
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Using your main credit card for shopping can earn you benefits like cash back, but using it on insecure websites, with untrusted merchants, and similar situations can expose you to fraudulent or unexpected charges. To protect my finances, I always opt for an alternate payment method in these scenarios.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Insecure Websites Without SSL 
 
 ![A lock in a circuit type structure representing encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-a-lock-in-a-circuit-type-structure-representing-encryption.png) 
@@ -35,16 +43,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  If you have to grab a deal only available on an unprotected website, try using an alternate payment method, such as a disposable credit card.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  When Connected to Public Wi-Fi 
 
 ![A free Wi-Fi sign in an airport.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/public-wifi-sign-in-an-airport.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Igor Martis/Shutterstock.com](https://www.shutterstock.com/image-photo/free-wifi-signboard-airport-zone-506762929)
 
  Public Wi-Fi networks, such as those in airports or hotels, are often not secured properly, making them prime targets for cybercriminals. The lax security practices allow hackers to easily intercept data transmitted over these networks. They can execute [man-in-the-middle attacks](https://vp-tips.techidaily.com/new-preserving-sound-integrity-with-ffmpeg-extract-for-2024/), intercepting data exchanged between your device and the router.
@@ -57,9 +59,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![People using public computers in a New York City library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/computers-in-a-public-library.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Lee Snider Photo Images/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-city-june-22-2013-418391977)
 
  Like public Wi-Fi, shared computers in public libraries, internet cafes, and schools usually aren’t adequately secured. Since anyone can use these devices, they are easy to compromise.
@@ -69,31 +68,15 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Using your credit card on such devices can expose it to fraudsters. Therefore, avoid making transactions on a shared PC, and don’t access your bank account or other sensitive details. If a transaction is urgent, and you can’t access your laptop, you should use your phone. If you only have the choice to use a public PC, opt for an alternate payment method, like a virtual credit card. 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Unreliable Merchants or Shopping Apps 
 
  Shopping with untrusted merchants or stores always poses risks, such as not receiving a product or receiving counterfeit or lower-quality items, but may also compromise your finances. Using your credit card at random stores gives them direct access to your information, which they can sell to third parties.
 
  They can also deduct hidden charges for services you never opted for. If you save your information on their website, a breach could expose your data. To protect yourself, always [use a virtual credit card](https://article-tips.techidaily.com/2024-approved-kinetic-illustration-101-core-skills-and-concepts/) when making a purchase from an untrusted merchant. Additionally, thoroughly research the store by checking reviews and the company history. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 5  Trial Subscriptions 
 
 ![An image showing the 7-day free trial plan features.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-11.png) 
@@ -103,8 +86,9 @@ Key features:
  Some companies intentionally make it difficult to cancel the trial, and if you frequently try new services, it’s easy to forget to cancel them, leading to unexpected expenses. To avoid those problems, use a virtual card when activating a trial. You can also use a prepaid card with a limited balance to ensure you won't be charged even if you forget to cancel.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6  Overseas Transactions 
 
  Using your primary credit card for overseas transactions, such as shopping, subscribing to services, making business payments, or traveling abroad, carries certain risks. Firstly, you might incur additional transaction fees, making the purchase 3-5% more expensive than the regular price.
@@ -116,6 +100,10 @@ Key features:
 ## 7  Crowded or Unsafe Locations 
 
 ![A person entering the credit card into an ATM machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/07/automated-transaction-machine-or-atm.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use your credit card to shop in physical locations, especially in places like outdoor markets or less secure stores, you must be extremely cautious. These environments risk your card details being skimmed by devices attached to point-of-sale machines or ATMs, which capture your information when you swipe your card.
 
@@ -135,8 +123,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +130,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transformative-tips-making-an-indelible-mark-in-the-digital-world/"><u>[New] 2024 Approved Transformative Tips Making an Indelible Mark in the Digital World</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-streamlined-templates-the-essential-ae-text-list/"><u>[New] Streamlined Templates The Essential AE Text List</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-mastering-image-protection-adding-watermarks-with-ease-using-flipbuilder/"><u>1) Mastering Image Protection: Adding Watermarks with Ease Using FlipBuilder</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-c33-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme C33 2023 Phone When You Forget the Password</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-htc-u23-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your HTC U23 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/att-anvanda-vlc-for-spelfull-medinskarm-expertisar-och-tips/"><u>Att Använda VLC För Spelfull Medinskärm - Expertisar Och Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-how-to-disable-cortanacopilot-on-windows-11-systems/"><u>Complete Walkthrough: How To Disable Cortana/Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/create-fantastic-youtube-description-with-templates-to-get-more-viewers-for-2024/"><u>Create Fantastic YouTube Description With Templates To Get More Viewers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-convertidor-de-rapido-para-cambiar-formatos-convierte-webm-a-m4v-sin-coste/"><u>Descargar Convertidor De Rápido Para Cambiar FORMATOS: Convierte Webm a M4V Sin Coste</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-converteren-van-flv-naar-gif-online-vrije-services-movavi/"><u>Gratis Converteren Van FLV Naar GIF - Online Vrije Services Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-mp4-format-naar-wav-format-omzetten-online-en-direct-movavi/"><u>Gratuit MP4-Format Naar WAV-Format Omzetten - Online en Direct - Movavi</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-14ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 14/iPad Without Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-pova-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Pova 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-the-art-of-image-correction-using-movavis-photo-fixer-tool-quick-tips-and-tricks/"><u>Master the Art of Image Correction Using Movavi's Photo Fixer Tool – Quick Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-photo-editor-un-metodo-semplificato-per-generare-immagini-attraverso-scritte-personalizzate/"><u>Movavi Photo Editor: Un Metodo Semplificato per Generare Immagini Attraverso Scritte Personalizzate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movaviwavmov/"><u>Movavi网络上免费的WAV到MOV转换工具：如何方便地将音频文件改为视频格式</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/professional-video-editors-enhancing-your-visual-storytelling-with-advanced-editing-techniques/"><u>Professional Video Editors: Enhancing Your Visual Storytelling with Advanced Editing Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-steps-to-reduce-size-of-avi-videos-using-movavi-video-editor/"><u>Quick Steps to Reduce Size of AVI Videos Using Movavi Video Editor</u></a></li>
+</ul></div>
 

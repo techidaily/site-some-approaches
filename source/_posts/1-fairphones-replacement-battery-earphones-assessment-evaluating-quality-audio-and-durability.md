@@ -1,7 +1,7 @@
 ---
 title: "1. Fairphone's Replacement Battery Earphones Assessment: Evaluating Quality Audio and Durability"
-date: 2024-08-30T21:15:52.871Z
-updated: 2024-08-31T21:15:52.871Z
+date: 2024-12-31T06:58:14.300Z
+updated: 2025-01-02T20:52:15.110Z
 tags:
   - product-reviews
 categories:
@@ -36,15 +36,13 @@ Jerome Thomas / How-To Geek
  The feature the company wants the Fairbuds to be graded against is the buds’ user-replaceable batteries. But earbuds should be judged by how well they play audio, first and foremost. At no point did I ever want to use them to listen to music though.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Okay, so About Those Batteries
 
 ![Fairphone Fairbuds battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-battery.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Being in the consumer electronics space, I’ve thought about the nature of user-replaceable parts for a while. It’s undeniably neat that with a tiny screwdriver I have in my garage I can pop off the case and pop in a fresh, €12.95 (\~$13.85) battery. Or that for €9.95, I can slide off the rubber band around each earbud and give those a renewed listening time.
@@ -53,9 +51,6 @@ Jerome Thomas / How-To Geek
 
 ![Fairphone Fairbuds charging case opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-charging-case-opened.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Of the plethora of earbuds I still have sitting in my garage, I never get the urge to go listen to the old mediocre ones. They don’t age gracefully, getting outdated in other ways beyond their batteries. The Fairbuds also aren't as robust as something like the [Framework laptop](https://buynow-reviews.techidaily.com/expert-recommendations-top-functional-and-stylish-mac-mouse-options-of-2024/) which has a lot of pieces to its user-upgradable computer. The Fairbuds don't have replaceable drivers, Bluetooth chips, or anything else like that.
@@ -63,8 +58,9 @@ Jerome Thomas / How-To Geek
  Electronic waste is a problem, full stop, but I don’t think replaceable batteries are the solution. At least it’s not the first area of the problem to solve. Fairphone is doing other things to try and have an environmental impact for the Fairbuds like using fair trade components and offsetting the earbuds’ carbon. That’s admirable, but it still doesn’t make me want to buy the Fairbuds after spending some time with them.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  There Were Other Things I Didn’t Like, Too
 
 ![Fairphone Fairbuds Proximity Sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-proximity-sensor.jpg) 
@@ -77,13 +73,18 @@ Jerome Thomas / How-To Geek
 
  There are no ANC settings in the app. Really, the only thing to use the app for is to change the EQ. But, to be positive, the Bass Boost EQ mode did help to make the earbuds sound a little better. I didn't care for the other two presets (Flat and Main) at all. The Studio EQ mode allows people to adjust an 8-band EQ. I wasn't interested in putting in that work with all the other issues and don't think anyone should be required to control their own EQ, unless they specifically want to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Are the Fairphone Fairbuds Worth Spending Money On?
 
 ![Fairphone Fairbuds outside charging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The market for cheap earbuds at, or under, €150 (\~$160) is vast. The [Fairphone Fairbuds](https://shop.fairphone.com/fairbuds) should not be at the top of anyone’s list.
@@ -95,8 +96,9 @@ Jerome Thomas / How-To Geek
 ![Fairphone Fairbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-27-at-15-01-18-2x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Fairphone Fairbuds
 
 4/ 10 
@@ -175,8 +177,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +184,21 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race-for-2024/"><u>[Updated] Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-sharing-media-from-one-iphone-to-another/"><u>[Updated] Step-by-Step Sharing Media From One iPhone to Another</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/3gppm4a-movavi/"><u>網上無障礙 自行3GPP轉換成M4A - 使用Movavi 專業工具</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-puzzles-unraveling-virtual-crime-stories/"><u>AI Puzzles Unraveling Virtual Crime Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertir-gratuitement-un-fichier-swf-en-format-mp4-en-ligne-movavi/"><u>Convertir Gratuitement Un Fichier SWF en Format MP4 en Ligne - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-import-videos-into-imovie-a-comprehensive-guide/"><u>How to Import Videos Into iMovie: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-screenshot-solutions-for-any-device-using-movavis-methods/"><u>How To: Screenshot Solutions For Any Device Using Movavi's Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>In 2024, From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavimpgvob/"><u>Movaviを使った免責付きMPGからVOBへの自動変換サービス</u></a></li>
+<li><a href="https://win-special.techidaily.com/passare-a-un-nuovo-servizio-email-guida-completa-per-trasferire-da-gmail/"><u>Passare a Un Nuovo Servizio Email: Guida Completa per Trasferire Da Gmail</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-fundamentals-of-fluent-google-meet-conversations-for-2024/"><u>The Fundamentals of Fluent Google Meet Conversations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-debate-llama-3-against-gpt-4-which-reigns-supreme/"><u>The Ultimate AI Debate: LLaMA 3 Against GPT-4 Which Reigns Supreme?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcode-dvds-effortlessly-how-to-turn-them-into-mp4mkvmov-files/"><u>Transcode DVDs Effortlessly - How to Turn Them Into MP4/MKV/MOV Files!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-creativity-through-windows-photos-app-deletion/"><u>Unleashing Creativity Through Window's Photos App Deletion</u></a></li>
+</ul></div>
 

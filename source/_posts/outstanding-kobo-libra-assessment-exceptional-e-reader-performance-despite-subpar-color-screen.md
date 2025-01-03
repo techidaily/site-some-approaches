@@ -1,7 +1,7 @@
 ---
 title: "Outstanding Kobo Libra Assessment: Exceptional E-Reader Performance Despite Subpar Color Screen"
-date: 2024-08-30T21:16:30.361Z
-updated: 2024-08-31T21:16:30.361Z
+date: 2024-12-27T06:03:05.369Z
+updated: 2025-01-03T10:40:43.443Z
 tags:
   - product-reviews
 categories:
@@ -21,7 +21,15 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 ![kobo libra colour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/kobo-libra-color.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Kobo Libra Colour
 
@@ -101,8 +109,9 @@ The Kobo Libra Colour shines as a color eReader with its easy-to-use interface, 
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Basic Design Does Not Mean Basic Experience
 
 ![Top view of the Kobo Libra Colour with a novel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/top-view-of-the-kobo-libra-colour-with-a-novel.jpg) 
@@ -119,9 +128,6 @@ Tyler Hayes / How-To Geek
 
 ![Kobo Libra Colour showing a color book cover](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/kobo-libra-colour-showing-a-color-book-cover.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Instead of going tall and narrow, the Libra Colour goes wider. One side of the device extends out for one-handed holding and two physical buttons. I find this design extremely comfortable and versatile.
@@ -136,9 +142,6 @@ Tyler Hayes / How-To Geek
 
 ![Side view of a book cover on the Kobo Libra Colour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/side-view-of-a-book-cover-on-the-kobo-libra-colour.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The Libra Colour highlights its new color screen in its name, but after the novelty wears off, all the other aspects of the device are more important for daily use. For those unfamiliar, the Kaleido 3 E Ink display can seem a little muted and colors tend to look more pastel than bold. Color images look familiar, but not like they would on an iPad or mobile phone.
@@ -149,6 +152,10 @@ Tyler Hayes / How-To Geek
 
 ![Kobo Libra Colour with a stylus on top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/kobo-libra-colour-with-a-stylus-on-top.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Unfortunately, I never did find myself wanting to take notes or highlight passages. I’ve never been into that and, Personally, I wouldn’t use an eReader as my main device for taking notes. I need them in too many other places to put notes and tasks on the Libra Colour. Some book formats don't allow marking them up too, so it's not a universal capability.
@@ -156,6 +163,10 @@ Tyler Hayes / How-To Geek
  You can read comics on the Libra Colour, but its 7-inch size is a little small for that use. There are bigger color E Ink tablets that are much better suited for that purpose—both from Rakuten and Boox.
 
  I liked having the color display, but its presence on this portable device is highly niche, rather than critical.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reading Is Easy, but Getting Books Is Less So
 
@@ -171,9 +182,6 @@ Close
 
  As for Google Drive, its integration is simple, easy, and quick. I wish native Google Doc files were supported though. It's easy enough to convert files within Google Drive on a computer, but it's another step.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Kindle Vs. Kobo
 
  Boox is a worthy contender in the eReader space, but for people who primarily want to load up books and sit and read them, a Kobo or Kindle device is the better bet.
@@ -182,13 +190,14 @@ Close
 
  Kindle’s Paperwhite Signature Edition for $189.99 can’t match a lot of the features (hardware and software) of the Libra Colour, which means you’re stuck going to the $339 Scribe’s 10.2-inch screen size—even though you still don’t get page-turn buttons or a color display. The Libra Colour is more tailored to opinionated readers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Rakuten Kobo Libra Colour?
 
 ![top view of Kobo Libra Colour color display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/top-view-of-kobo-libra-colour-color-display.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The [Rakuten Kobo Libra Colour](https://click.linksynergy.com/deeplink?id=2QzUaswX1as&mid=37217&murl=https%3A%2F%2Fus.kobobooks.com%2Fcollections%2Fereaders%2Fproducts%2Fkobo-libra-colour&u1=htglibracolourreview) is a fantastic eReader because it gets all the basics right. The physical buttons are well-placed. Its dimensions are compact, yet sizeable. It’s waterproof and has enough software features built-in to keep it useful long into the future by syncing your own content to it. It's a good device to read a novel on.
@@ -201,9 +210,6 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Kobo Libra Colour
 
 7/ 10 
@@ -218,8 +224,6 @@ The Kobo Libra Colour shines as a color eReader with its easy-to-use interface, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +231,20 @@ The Kobo Libra Colour shines as a color eReader with its easy-to-use interface, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-watchability-adding-time-stamps-to-youtube-videos/"><u>[Updated] In 2024, Enhancing Watchability Adding Time Stamps to YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-xbox-gaming-captured-a-beginners-screen-recording-journey/"><u>[Updated] In 2024, Xbox Gaming Captured A Beginner's Screen Recording Journey</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhancing-video-presence-editing-and-changing-facebook-covers/"><u>2024 Approved Enhancing Video Presence Editing and Changing Facebook Covers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/como-convertir-videos-flv-a-formatos-wav-sin-costo-usando-movavi-en-linea/"><u>Cómo Convertir Videos FLV a Formatos WAV Sin Costo Usando Movavi en Línea</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/download-harmony-free-music-from-fb-for-2024/"><u>Download Harmony Free Music From FB for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install and update device drivers manually on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-understanding-the-special-provisions-on-reversal-refund-policy/"><u>Movavi - Understanding the Special Provisions on Reversal Refund Policy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-wav-m4b-mp3/"><u>Movavi 播客般瀏覽器 – 無限制免費讓 WAV 聲音轉換成 M4B MP3格式</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/"><u>The Ultimate List of AVI Video Cutters Trim and Edit on Any Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformation-de-fichiers-audio-gratuit-guide-complet-pour-convertir-des-fichiers-wav-en-wma-a-laide-de-movavi/"><u>Transformation De Fichiers Audio Gratuit - Guide Complet Pour Convertir Des Fichiers WAV en WMA À L'aide De Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformer-facilement-votre-image-jpeg-en-format-tiff-pour-free-par-movavi/"><u>Transformer Facilement Votre Image JPEG en Format TIFF Pour Free - Par Movavi</u></a></li>
+</ul></div>
 

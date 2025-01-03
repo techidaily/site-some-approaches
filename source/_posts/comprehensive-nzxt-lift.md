@@ -1,7 +1,7 @@
 ---
 title: Comprehensive NZXT Lift
-date: 2024-08-30T21:16:05.560Z
-updated: 2024-08-31T21:16:05.560Z
+date: 2024-12-31T17:35:01.468Z
+updated: 2025-01-02T21:48:48.277Z
 tags:
   - product-reviews
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![NZXT Lift 2 Ergo Gaming Mouse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-lift-2-ergo-gaming-mouse.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  NZXT Lift 2 Ergo
 
@@ -81,6 +85,10 @@ Jerome Thomas / How-To Geek
 
 ![Bottom view of the Lift 2 Ergo mouse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/bottom-view-of-the-lift-2-ergo-mousejpg_53489358158_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Then, continuing on with the no-frills aesthetic, there’s a notable lack of RGB lighting. Coming from NZXT, this isn’t a _huge_ surprise, but, it’s still a surprise none-the-less. Even a no-frills mouse like the [Logitech G203](https://fox-helps.techidaily.com/new-streamline-your-shooting-canons-time-lapse-techniques/) still had _some_ RGB effects, even if it was just centered around the logo. The lack of RGB is both a positive and a negative, however.
@@ -89,16 +97,10 @@ Jerome Thomas / How-To Geek
 
  Coming in two flavors, the [Lift 2 Symm](https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/) and this Ergo model make up the series of NZXT Lift 2\. The Ergo was sufficiently ergonomic too. It’s not a [MX Master 3S](https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-pro-and-ipad-securely-drfone-by-drfone-ios/), and it’s definitely not a [Logitech Lift](https://fox-access.techidaily.com/updated-2024-approved-elevate-your-meetings-with-zooms-filter-capabilities/), but even during longer gaming or work sessions, the mouse was sufficiently ergonomic for my use cases. I never felt like my hand got tired when using it, and it fit quite well for me. Now, this is something that will vary for everyone, as all hands are different. But, I feel that the Lift 2 Ergo is designed in such a way that it’ll be comfortable for the majority of people out there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ##  The Buttons and Scroll Wheel Are Surprisingly Well-Built
 
 ![A closer look at the Lift 2 Ergo scroll wheel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-closer-look-at-the-lift-2-ergo-scroll-wheeljpg_53488309547_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  When it comes to gaming mice in the $50 or less category, the quality can sometimes be hit or miss. Fortunately, NZXT hit the mark here. The scroll wheel is nice and sturdy, with zero wobble left or right. The switches, though optical, are nice, clicky, and solid-feeling. But, while being clicky, they aren't loud, which is a nice benefit as you won't bother others in the room with obnoxious clicking as you game. And the sensor is, well, sensitive.
@@ -109,9 +111,6 @@ Jerome Thomas / How-To Geek
 
 ![NZXT Lift 2 Ergo mouse in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/nzxt-lift-2-ergo-mouse-in-front-of-boxjpg_53488308962_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I remember the original days of NZXT Cam when the first Kraken CPU coolers came out, and it was abysmal. The [NZXT CAM software of today](https://nzxt.com/software/cam) is a far cry from its predecessor, and I’m glad about it. However, the options included in CAM for the Lift 2 are just as no-frills as the mouse itself.
@@ -123,8 +122,9 @@ Jerome Thomas / How-To Geek
  All the CAM options are nice and easy to navigate though. It’s all on one page, allowing you to make a quick change and get back to your favorite game.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the NZXT Lift 2 Mouse?
 
 ![An angled view of the Lift 2 Ergo mouse next to a keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/an-angled-view-of-the-lift-2-ergo-mouse-next-to-a-keyboardjpg_53489510214_o.jpg) 
@@ -136,13 +136,15 @@ Jerome Thomas / How-To Geek
 ![NZXT Lift 2 Ergo Gaming Mouse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-lift-2-ergo-gaming-mouse.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  NZXT Lift 2 Ergo
 
 8/ 10 
@@ -159,8 +161,6 @@ The NZXT Lift 2 Ergo wired gaming mouse offers a no-frills experience. The 26,00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +168,24 @@ The NZXT Lift 2 Ergo wired gaming mouse offers a no-frills experience. The 26,00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/nseen-algorithms-powering-youtubes-viewer-statistics-for-2024/"><u>[New] Unseen Algorithms Powering YouTube's Viewer Statistics for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>[Updated] 2024 Approved The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-access-hq-facebook-content-anytime-offline-for-2024/"><u>[Updated] Access HQ Facebook Content Anytime Offline for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leverage-these-top-12-tactics-to-surge-your-youtube-views-for-2024/"><u>[Updated] Leverage These Top 12 Tactics to Surge Your YouTube Views for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-avi-vobavi/"><u>移動電影串流自行解碼：以 Movavi AVI 格式驅動無成本 VOB到AVI 改編</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/islem-baslangicilari-ve-etkilesim-calismalari-movavi-adimlar-acma-kullanim-bilgileri/"><u>İşlem Başlangıcıları Ve Etkileşim Çalışmaları | Movavi - Adımlar Açma Kullanım Bilgileri</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/navigating-the-aspect-ratio-maze-for-twitter-media/"><u>Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/oppen-undertext-forodande-platsar-det-basta-nedladdningssidotalet-gratis-pa-googlefavoritniva-med-movavi-converter-hedningar/"><u>Öppen Undertext Förödande-Platsar: Det Bästa Nedladdningssidotalet [Gratis] På Googlefavoritnivå Med Movavi Converter Hedningar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/os-melhores-criadores-de-videos-de-aniversarios-online-em-2024-top-9-escolhidos/"><u>Os Melhores Criadores De Vídeos De Aniversários Online Em 2024: Top 9 Escolhidos</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/recognizing-critical-alerts-how-to-identify-warnings-in-bioscmos-setup-expert-insights-from-yl-computing/"><u>Recognizing Critical Alerts: How to Identify Warnings in BIOS/CMOS Setup - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rip-to-waveform-conversion-convert-your-avi-files-into-wav-format-free-online-with-movavis-tool/"><u>Rip-to-Waveform Conversion: Convert Your AVI Files Into WAV Format FREE Online with Movavi's Tool!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-chatgpt-excellence-with-new-plugins/"><u>The Roadmap to ChatGPT Excellence with New Plugins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformacion-libre-de-mpeg-a-mkv-online-guia-paso-a-paso-para-usar-movavi/"><u>Transformación Libre De MPEG a MKV Online: Guía Paso a Paso Para Usar Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-selecting-excellent-hd-screen-recorders-spotlight-on-movavi-and-competitors/"><u>Ultimate Guide to Selecting Excellent HD Screen Recorders - Spotlight on Movavi & Competitors</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-dynamic-brightness-adjustment-in-windows-11/"><u>Unlocking Dynamic Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-editorial-techniques-select-from-the-top-8-video-trimming-titles/"><u>Winning Editorial Techniques: Select From The Top 8 Video Trimming Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-pbmbmp-movavi/"><u>무료 원피스 전환: Online PBM/BMP 교대 기술 - Movavi</u></a></li>
+</ul></div>
 

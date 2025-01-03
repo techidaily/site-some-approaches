@@ -1,7 +1,7 @@
 ---
 title: "The Myth of Perfect AI Search: Insights Into Google’s Overestimated Innovation"
-date: 2024-08-30T21:15:24.344Z
-updated: 2024-08-31T21:15:24.344Z
+date: 2024-12-29T18:47:43.262Z
+updated: 2025-01-03T09:55:09.618Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
 ---
 
 ## The Myth of Perfect AI Search: Insights Into Google’s Overestimated Innovation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
  The idea behind AI Overviews is that instead of scanning multiple web pages to piece together the information you need, Google will do the googling for you. It will pull the most important information from the top Google results and give you a neat summary. You can even tweak the presentation of these answers to make them clearer or break them down step-by-step.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Search Is Google's Strategy to Combat Internet Spam
 
  One big reason why Google is diving into AI Search is because it sees it as a solution to one of its long-standing problems: internet spam.
@@ -43,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
 
  Google hopes AI Search will be the fix for this, but there are some issues with that plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Problem With AI Search Is That It Hallucinates and Erodes Trust
 
  When Google first announced that it would be rolling out AI overviews, my first thought was “What are they going to do about the [hallucination problem](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/)?”
@@ -51,25 +60,16 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
 
 ![A Google overviews response to a query about how to fix a jammed film camera-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-google-overviews-response-to-a-query-about-how-to-fix-a-jammed-film-camera-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  But it didn't end there. Shortly after AI overviews started rolling out, people noticed that [some of its answers were ridiculous](https://ai-vdieo-software.techidaily.com/in-2024-best-top-free-video-editing-tools-for-gamers/) or even harmful. For example, it suggested using gasoline to make spaghetti and drinking at least 2 liters of urine daily. 
 
 ![An AI Overview response to a query of whether gasoline can be used to cook spaghetti-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-overview-response-to-a-query-of-whether-gasoline-can-be-used-to-cook-spaghetti-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  But so what? Everyone knows you shouldn't believe everything you see on the internet, and other chatbots make stuff up too, so why is this a big deal?
 
  Here’s the thing: AI hallucinations in Search bring up a trust problem. It's one thing for a new experimental AI chatbot to occasionally lie to you and fabricate information. It's a whole other ball game when Google does it because people trust Google.
 
  Google says that it has addressed the odd AI Overviews results and put additional safeguards in place, but [I’m still skeptical](https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/). Some experts even believe that hallucinations can’t be fixed and are a fundamental part of LLMs. If this is true, we could be heading into an era of the internet where you really can't trust anything online, not even your search engine.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Losing Nuance With AI Overviews
 
  Google’s AI Overviews doesn't generate responses based on its training data alone. It also consults the top web pages on Google. This is supposed to help it avoid hallucinations, but it also brings up a new problem of context and nuance.
@@ -81,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
  These are obvious blunders, and easy to brush off as harmless. But what happens the next time AI Overviews subtly misinterprets something important that’s not so easy to spot?
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Overviews May Kill the Open Internet
 
  AI Overviews threaten the entire business structure of the internet. Websites rely on ad revenue to make a profit, and this ad revenue is dependent on traffic. Therefore, websites have an incentive to make great content that keeps people visiting the site.
@@ -94,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
  If content gets locked behind paywalls to survive, what happens to the internet? Some say this could lead to the [dead internet theory](https://remote-screen-capture.techidaily.com/in-2024-manycam-recorder-review/) where all that's left of the open web is a bunch of LLMs endlessly recycling each other's content until the internet is just an unrecognizable stew of word predictions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  At the End of the Day, People Want Human Experiences and Content
 
  Google has good intentions with AI Overviews. The problem, however, is that they fundamentally misunderstand what people want from Search: authenticity.
@@ -110,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,24 @@ thumbnail: https://thmb.techidaily.com/4ad77a8ea715329fd3e5a5b2d2c2957ac59e62959
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-the-art-of-teamsnap-photos-for-business-success-for-2024/"><u>[Updated] Perfect the Art of TeamSnap Photos for Business Success for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726219126521-movavi/"><u>易用技巧：以最快速度進行影片逆向和正常切換教程 - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-dvd-player-apps-for-pc-and-mac-in-2ebyte-windows-10plus-and-macos/"><u>Best Free DVD Player Apps for PC & Mac in 2Ebyte (Windows 10+) & macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuita-de-archivos-mp4-a-ogv-en-linea-con-convertidor-movavi/"><u>Conversión Gratuita De Archivos MP4 a OGV en Línea Con Convertidor Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effective-techniques-for-extracting-and-archiving-securely-encoded-dvds-with-winx-mac-edition-a-comprehensive-guide/"><u>Effective Techniques for Extracting and Archiving Securely Encoded DVDs with WinX Mac Edition - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/en-ligne-vrije-vid-conversie-avi-naar-mp4-met-movavi/"><u>En Ligne Vrije Vid-Conversie: AVI Naar MP4 Met Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-online-converter-von-wav-zu-mp3-mit-movavi-kostenlos-und-einfach/"><u>Gratis Online Converter Von WAV Zu MP3 Mit Movavi - Kostenlos Und Einfach</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y02t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y02T Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-blaze-2-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Blaze 2 Pro using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-pursuit-of-dreamscapes-vr-travel-unleashed-for-2024/"><u>In Pursuit of Dreamscapes VR Travel Unleashed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-vob-download/"><u>Movavi VOB 투명화: 원룰륨 비디오를 쉽게 조작하고 조작할 수 있도록 Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movaviamv-mp3/"><u>Movaviを利用した無料のオンラインAMV MP3変換ツール – 使い方ガイド</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-datas-depths-with-gpt-3-6-essential-practices/"><u>Navigating Data's Depths with GPT-3: 6 Essential Practices</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-era-for-honesty-facebook-tightens-misinformation-penalties/"><u>New Era for Honesty? Facebook Tightens Misinformation Penalties</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-5-free-mov-video-merger-software-options/"><u>The Ultimate List 5 Free MOV Video Merger Software Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-6-gpus-recomendadas-para-la-edicion-de-video-en-2024-guia-completa/"><u>Top 6 GPUs Recomendadas Para La Edición De Video en 2024: Guía Completa</u></a></li>
+</ul></div>
 

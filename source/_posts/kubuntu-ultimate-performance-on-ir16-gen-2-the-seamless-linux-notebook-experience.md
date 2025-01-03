@@ -1,7 +1,7 @@
 ---
 title: "Kubuntu Ultimate Performance on IR16 Gen 2: The Seamless Linux Notebook Experience"
-date: 2024-08-30T21:16:25.141Z
-updated: 2024-08-31T21:16:25.141Z
+date: 2024-12-27T03:39:03.585Z
+updated: 2025-01-02T23:36:50.331Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 ---
 
 ## Kubuntu Ultimate Performance on IR16 Gen 2: The Seamless Linux Notebook Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +46,10 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -109,18 +117,14 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: Solid Yet Repairable (With Minor Complaints)
 
 ![Top-down view of a closed Kubuntu Focus Ir16 Gen 2 laptop along with its PSU, wall plug, and factory reset USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784641894_9ff6060b6b_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The aesethic is conservative, not attracting many eyeballs at the coffee shop. The Kubuntu Focus emblem is an optional (paid) addition that looks nice while still matching the utilitarian flow. The structure felt solid, a crucial achievement when designing a user-serviceable laptop like this one. All you need is a standard Phillips-head screwdriver to pop it open for service, and unlike the [Ir14 Gen 1](https://article-posts.techidaily.com/2024-approved-embrace-xps-film-editor-installation-guide/) I reviewed, the underplate relievedly never felt loose. The exterior is made of magnesium alloy, which stayed mostly free of fingerprints. The glass touchpad was a different story, though, which needed frequent wiping down to avoid looking greasy.
@@ -129,16 +133,10 @@ Jerome Thomas / How-To Geek
 
  The 2W speakers were nothing to write home about. They're located on either side of the laptop and point downward, which meant I needed to be set on a flat surface to sound decent; shifting to the couch would muffle the sound. I typically needed the volume set between 70 and 90 just to hear comfortably, and that was in a quiet environment. At 100%, I could hear distortion. Of course, the Focus lineup is meant for development and productivity rather than entertainment. So the speakers work a pinch, but most of the time I far preferred my headphones or external speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Display: A Sensible WQXGA Experience
 
 ![The panel on the Kubuntu Focus Ir16 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784317311_d61fb74229_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Ir16 Gen 2 sports a 16-inch LED IPS panel capable of a 90Hz refresh rate. I was able to comfortably multitask on the 16:10, WQXGA 2,560 x 1,600 screen, with my notes app on one side and a video conference on the other. While [the IPS glow](https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-moto-e13-drfone-by-drfone-virtual-android/) was present, I never found it all that noticeable in the environments I was working. Most of the time, things looked crisp. I also had no trouble connecting and using an external display via the [HDMI 2.1](https://some-knowledge.techidaily.com/updated-full-length-video-view-remove-youtube-preview/) port, so for my purposes, I was overall happy with the display hardware and capabilities.
@@ -158,8 +156,9 @@ Jerome Thomas / How-To Geek
 ![Ports on the left side of the Kubuntu Focus Ir16 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784531143_01e8db16a3_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Notably, there's no [Ethernet](https://facebook-clips.techidaily.com/updated-extract-and-save-fb-videos-the-cutting-edge-of-top-5/) port. In the same room as my Wi-Fi 6 router, I was able to get download speeds of 270Mbps and upload 710Mbps. Pretty respectable, considering my connection maxes out at 1Gbps. Connecting a USB-A-to-Ethernet adapter, I had no trouble verging on that 1Gbps ceiling.
@@ -178,9 +177,6 @@ Jerome Thomas / How-To Geek
 
 ![The Kubuntu Focus Ir16 Gen 2 laptop open and on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784740415_02303a7d27_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While the Focus Ir 16 Gen 2 launched in spring 2024, it packs a 13th-generation chip that debuted in early 2023, the Intel Core i5-13500H. So it's not exactly cutting-edge, and we're in fact gearing up to see Intel's 15th generation later in 2024\. Still, it's a respectable processor in the mobile market. Putting it to the test with [Geekbench 6](https://www.geekbench.com/) using the "Normal" frequency profile, the Ir16 Gen 2 performed a smidge better than average by [scoring](http://browser.geekbench.com/v6/cpu/6693812) 2,590 on a single-core performance and 10,490 multi-core.
@@ -192,8 +188,9 @@ Jerome Thomas / How-To Geek
  In terms of fan noise, it generally went unnoticed by me except when processing shaders for "No Man's Sky." With the Ir16 Gen 2, you have the option to adjust fan speed in [the BIOS](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/), but I never felt the need to.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Competition: The Ir16 Stacks Up Well
 
  I had trouble finding a better deal than the Kubuntu Focus Ir16 Gen 2 for a Linux all-rounder laptop in the US. Compared to the [Dell XPS 9320 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2003917%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fnew-xps-13-plus-laptop%2Fspd%2Fxps-13-9320-laptop%2Fusexcucto9320rpl01) or the [Lenovo ThinkPad X1 Carbon](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-11-%2814-inch-intel%29%2Flen101t0049), both popular [laptops you can order with Linux pre-installed](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/), the Focus Ir16 gets you a bigger chassis, higher-res display, and a more powerful chip for almost $300 less. You would miss out on a few perks like a touch display by choosing the Ir16, but you also get a build you can upgrade, so there's some give and take.
@@ -209,15 +206,14 @@ Jerome Thomas / How-To Geek
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Kubuntu Focus Ir16 (Gen 2)
 
@@ -233,8 +229,6 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +236,22 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-professionals-guide-to-precision-with-morphvox-technology/"><u>[New] A Professional's Guide to Precision with MorphVOX Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-composing-engaging-podcast-thumbnails/"><u>[Updated] Composing Engaging Podcast Thumbnails</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-personal-barriers-in-yt-content-creation/"><u>2024 Approved Breaking Personal Barriers in YT Content Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726227962011-mp4-swf-movavi/"><u>無成本在網路上 MP4 至 SWF 格式過渡 - Movavi 代轉工具</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/conversione-gratuita-da-mp4-a-asf-online-con-movavi-come-trasformare-i-tuoi-file-video/"><u>Conversione Gratuita Da MP4 a ASF Online Con Movavi - Come Trasformare I Tuoi File Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-online-m2ts-to-mp4-conversion-with-movavi-free-service/"><u>Effortless Online M2TS to MP4 Conversion with Movavi - Free Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuidade-converter-imagens-raw-em-png-online-sem-custo-com-o-movavi/"><u>Gratuidade: Converter Imagens RAW Em PNG Online Sem Custo Com O Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y28-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y28 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-migliori-converter-gratuiti-mkv-in-italia-disponibili-ora/"><u>I Migliori Converter Gratuiti MKV in Italia, Disponibili Ora</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-streamlined-steps-for-ios-voice-recordings/"><u>In 2024, Streamlined Steps for iOS Voice Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/meet-the-team-at-movavi-learn-more-about-us/"><u>Meet the Team at Movavi - Learn More About Us</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726223014825-movavi/"><u>Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/navigating-through-2024s-best-video-editor-applications-a-comprehensive-guide-for-selection/"><u>Navigating Through 2024'S Best Video Editor Applications - A Comprehensive Guide for Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-free-software-for-mp4-conversions-quick-simple-and-effective-media-editing-solutions/"><u>Unbeatable Free Software for MP4 Conversions: Quick, Simple & Effective Media Editing Solutions</u></a></li>
+</ul></div>
 

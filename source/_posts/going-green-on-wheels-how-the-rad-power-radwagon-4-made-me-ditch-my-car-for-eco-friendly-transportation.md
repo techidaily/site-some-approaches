@@ -1,7 +1,7 @@
 ---
 title: "Going Green on Wheels: How the Rad Power RadWagon 4 Made Me Ditch My Car for Eco-Friendly Transportation"
-date: 2024-08-30T21:16:17.175Z
-updated: 2024-08-31T21:16:17.175Z
+date: 2024-12-31T18:59:09.416Z
+updated: 2025-01-03T03:27:08.696Z
 tags:
   - product-reviews
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/873b674ec1f0efe7c647278c79a47eb6f488c3e5d
 
 ## Going Green on Wheels: How the Rad Power RadWagon 4 Made Me Ditch My Car for Eco-Friendly Transportation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [RadWagon 4 Design and Build Quality](https://some-knowledge.techidaily.com/new-funimate-android-adventure-the-apk-breakdown/)
 * [RadWagon 4 Cargo & Passengers](https://video-ai-editor.techidaily.com/the-art-of-bokeh-top-mobile-apps-for-creating-stunning-blur-effects/)
 * [RadWagon 4 Performance, Speed, and Range](https://win-able.techidaily.com/optimizing-your-gameplay-solving-dragons-dogma-iis-low-fps-woes/)
 * [Should You Buy the Rad Power RadWagon 4?](https://extra-skills.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -131,8 +139,9 @@ Expand
 ![Rad Power RadWagon 4 on a grassy hill./](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  The first thing I noticed about the RadWagon 4 is how sturdy it feels. The frame is thick, and there are plenty of support bars all over the body. This thing is a tank. The build quality made me feel immediately comfortable about having my 5-year-old ride on the back.
@@ -144,8 +153,9 @@ Joe Fedewa / How-To Geek
 ![Rad Power RadWagon 4 from the rear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  The RadWagon 4 doesn’t have typical tires, either. Rad Power has equipped the bike with custom 22-inch tires that are 3 inches wide. The smaller tires help keep the center of gravity and the overall length of the bike down, but it’s still about 10 to 12 inches longer than a regular bike. I didn’t notice the extra length when driving around, but I definitely did when parking it at public bike racks and putting it in the back of my truck—which made the 77-pound weight [very apparent](https://screen-sharing-recording.techidaily.com/in-2024-superior-sound-recorders-for-scholarly-discussions/).
@@ -155,8 +165,9 @@ Joe Fedewa / How-To Geek
 ![Rad Power RadWagon 4 bike seat and tube.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-15.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  The stock seat on the RadWagon 4 was okay, but I wanted to replace it with the seat on my regular bike. Unfortunately, I discovered that the telescoping design makes the seat post tube narrower at the seat, so it’s not easily swappable with other bike seats.
@@ -165,13 +176,14 @@ Joe Fedewa / How-To Geek
 
  One small gripe is the kickstand when folded up. Whenever you hit a bump, the kickstand swings down a bit and audibly rattles. I’d like it to be more securely in place (a problem that [people with 3D printers have solved](https://www.etsy.com/listing/1034753207/standkeeper-for-radwagon-4)). All in all, this is a beast of a bike. I’m very impressed with Rad Power’s build quality and design.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  RadWagon 4 Cargo & Passengers
 
 ![Rad Power RadWagon 4 front basket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-19.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  Let’s talk about what this bike is really designed for—haulin’. The entire bike’s max carrying capacity is 350 pounds, and the rear deck alone is rated for 120 pounds. Rad Power [offers a number of accessories](https://www.radpowerbikes.com/collections/accessories/current-model-compatibility%5Fradwagon-4) that will help you take advantage of those limits.
@@ -182,9 +194,6 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 with a child on the back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-18.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  For most of the 50+ miles I put on the RadWagon, I had a passenger on the back with me. Usually, that was my 5-year-old, which the bike barely noticed. The bike is definitely more wobbly with a full-grown adult on the back—no surprise with the 120-pound rear deck capacity—but it worked surprisingly well. Just be extra, extra careful if you do this.
@@ -203,9 +212,6 @@ Joe Fedewa / How-To Geek
 
 ![Showing the Rad Power RadWagon 4 digital display used for speed and distance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The RadWagon 4 is [classified as a “Class 2” electric bike](https://extra-skills.techidaily.com/in-2024-scouting-talent-top-5-video-artists-who-create-with-rhythm-and-beat/). This means it has a throttle, pedal assist, and a max speed of 20MPH. You can cruise without pedaling or get some help when you _are_ pedaling. It’s your choice. You’re more than welcome to pedal faster than 20 MPH manually, but the motor will not go beyond that limit.
@@ -214,18 +220,6 @@ Joe Fedewa / How-To Geek
 
 ![Rad Power RadWagon 4 controls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-20.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
 Pedal Assist controls / Shifter and Throttle
@@ -236,9 +230,6 @@ Pedal Assist controls / Shifter and Throttle
 
 ![Showing the Rad Power RadWagon 4 battery with a key inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rad-power-radwagon-4-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  Rad Power says the RadWagon 4’s range is between 24 and 45 miles, but there are a ton of variables at play. In my testing, I was able to get around 25 miles on a charge. That was almost exclusively with someone else on the back and using level three or four of pedal assist. I could easily see myself getting close to the 45-mile rating if I was riding alone, just running daily errands.
@@ -246,6 +237,10 @@ Joe Fedewa / How-To Geek
  All of this information—pedal assist level, battery level, distance, and speed—is easily glanceable on an LCD mounted on the handlebars. It’s big and was easy to read in direct sunlight. As an added bonus, you can use the display’s USB port to charge a phone or other device while driving.
 
  It should also be mentioned that you really don’t want to drive the RadWagon without some help from the motor. I ran out of juice once when I was testing how long the battery would last, and it’s _significantly_ more difficult without any assistance. As mentioned, this is a heavy bike. Don’t get stranded without a charge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Rad Power RadWagon 4?
 
@@ -279,8 +274,6 @@ The RadWagon 4 is an cargo e-bike perfect for picking up groceries or taking the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +281,24 @@ The RadWagon 4 is an cargo e-bike perfect for picking up groceries or taking the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-more-money-from-your-short-videos-on-youtube/"><u>[New] 2024 Approved Achieve More Money From Your Short Videos on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-extracting-youtube-subtitles-srt/"><u>[New] The Ultimate Guide to Extracting YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4a-to-aiff-movavi-converter/"><u>無料ウェブベースのオーディオファイルM4A to AIFFに簡単変換ツール – Movavi Converter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-voc-to-mp4-without-hassle-use-movavis-cost-free-online-tool-today/"><u>Convert VOC to MP4 Without Hassle: Use Movavi's Cost-Free Online Tool Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-votre-fichier-aiff-en-mp3-sans-frais-sur-internet-avec-movavi/"><u>Convertissez Votre Fichier AIFF en MP3 Sans Frais - Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-link-free-brother-mfc-9130cw-printer-drivers-compatible-versions/"><u>Direct Link: Free Brother MFC- 9130CW Printer Drivers - Compatible Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-list-of-iphone-video-editors-ranked-112-by-movavi/"><u>Discover the Ultimate List of iPhone Video Editors Ranked #1–#12 by Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-score-microsoft-surface-pro-pro-8-at-amazing-prices-up-to-600-less-after-black-friday-cyber-monday-deals/"><u>Exclusive Offer Alert! Score Microsoft Surface Pro ([Pro 8] at Amazing Prices, Up to $600 Less After Black Friday Cyber Monday Deals!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-itel-p55plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Itel P55+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-locations-to-grab-snapchat-chime-downloads-for-2024/"><u>Prime Locations to Grab Snapchat Chime Downloads for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/remocao-de-marca-dagua-em-videos-as-melhores-ferramentas-gratuitas-na-internet/"><u>Remoção De Marca D'água Em Vídeos: As Melhores Ferramentas Gratuitas Na Internet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rendre-gratuite-la-conversion-dun-fichier-ppm-en-bmp-en-ligne-avec-moveavi-un-guide-simple-pour-des-resultats-rapides/"><u>Rendre Gratuite La Conversion D'un Fichier PPM en BMP en Ligne Avec MoveAVI – Un Guide Simple Pour Des Résultats Rapides</u></a></li>
+<li><a href="https://win-great.techidaily.com/resolving-your-printers-unresponsiveness-insights-and-solutions-by-yl-software-experts/"><u>Resolving Your Printer's Unresponsiveness: Insights and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sharing-your-ipad-display-with-a-mac-3-effective-methods-featuring-movavi/"><u>Sharing Your iPad Display with a Mac: 3 Effective Methods Featuring Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-breakdown-of-game-capture-in-overwatch/"><u>The Complete Breakdown of Game Capture in Overwatch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-13-ultimate-free-screenshot-tools-discover-the-finest-picks/"><u>Top 13 Ultimate Free Screenshot Tools - Discover the Finest Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovering-the-true-nature-of-metaverse-versus-vr-six-factors/"><u>Uncovering The True Nature of Metaverse Versus VR: Six Factors</u></a></li>
+</ul></div>
 

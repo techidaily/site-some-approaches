@@ -1,7 +1,7 @@
 ---
 title: "Exploring Efficiency and Performance: The Electric Rivian R1S Versus Traditional Trucks"
-date: 2024-08-30T21:16:11.320Z
-updated: 2024-08-31T21:16:11.320Z
+date: 2024-12-28T02:52:19.920Z
+updated: 2025-01-03T05:11:28.880Z
 tags:
   - product-reviews
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Rivian R1S
 
@@ -86,20 +90,22 @@ Expand
 
 [See at Rivian](https://rivian.com/reserve/r1s) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  R1S Price and Availability
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  R1S External Design and Features
 
 ![Rivian R1S in silver facing away from view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ab2d9268-0aa3-4b68-bddb-7db4d3473049.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Parked next to each other, there’s no mistaking the R1T from the R1S. One is clearly a truck with an open bed, made to haul things, while the other is fully covered and better suited to hauling people. They’re very much related, but the exterior design is the first major consideration in choosing between the two. Will you be carrying more things or people?
@@ -113,31 +119,21 @@ Tyler Hayes / How-To Geek
 ![Rivian R1S with the top lift gate open and the bottom portion closed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/419084e5-a85a-4947-933d-c31fac3a1cbb.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  This luxurious touch helps keep items from falling out when the rear door is opened. But I suppose the lower half could also provide a place for people to sit too. It let my legs dangle off comfortably. Only the top part was powered. The smaller bottom section needed to be manually lowered or raised.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Interior Design: (Mostly) Comfortable Seating With a Third Row
 
 ![Looking into the back of the Rivian R1S with all the seats down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5e4dca55-2894-4958-adc7-bdb80cac7f74.JPG) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The driver's cockpit of the R1S is so similar to the R1T that there were a couple of times I forgot I was driving the SUV and thought I was driving the truck. (This applies to the way the vehicle drives, too.) Sitting in the driver’s seat, looking forward, it was nearly impossible to tell which Rivian I was in.
@@ -148,9 +144,6 @@ Tyler Hayes / How-To Geek
 
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 Storage and USB-C charging port in the armrests for the third-row
@@ -177,6 +170,10 @@ Power and seat-release buttons are on the top control panel while the air compre
 
 ![the front of the Rivian R1S parked on the side of the road](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ca957c62-7842-44ab-bae3-0f59fc573a64.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The Rivian R1S was a joy to drive—plain and simple. It felt physically large, in the way a Kia Telluride or Chevy Tahoe might, but it was extremely nimble and responsive. Its turning radius was always impressive. I also never felt like I couldn’t see things around me. There were plenty of video feeds and safety features to navigate comfortably.
@@ -196,8 +193,9 @@ Tyler Hayes / How-To Geek
 ![The large 15.3-inch display in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/32a07ad3-f53a-4cb1-a4bf-fc37817d38b7.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Comfort, driving, and exterior design were all great, but the technology in the R1S shouldn't be ignored. The amount of technical features doesn’t quite match what Tesla’s vehicles offer, but Rivian isn’t far behind. There was at least one meaningful feature that surpassed what Tesla offers.
@@ -224,6 +222,10 @@ Tyler Hayes / How-To Geek
 
 ![Screenshots from the Rivian App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rivian-app-shots.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Rivian
 
  I had to use a keyfob for this review because of an issue gaining access to the Rivian app—available for [iPhone](https://apps.apple.com/us/app/rivian/id1570215232) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000533/https://play.google.com/store/apps/details?id=com.rivian.android.consumer&hl=en%5FUS&gl=US). I did use the app as my vehicle key for my previous review, and it worked great. The app allows for most of the interactions you'd want for your car remotely, like setting a charging schedule, setting a charging limit, unlocking it, opening the hood, controlling the climate, and so on. This is a modern vehicle app, similar to Tesla's, unlike the myVW one offered for the ID.4.
@@ -231,6 +233,10 @@ Rivian
 ##  R1S Charging: Stuck Between Now and the Future
 
 ![Rivian R1S plugged into a charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5a610b3a-82e5-4a05-94d1-0a45e3cda10f.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -248,14 +254,6 @@ Tyler Hayes / How-To Geek
 
  In addition to that information on the vehicle’s screen, it also allowed me to slow down the charging speed if I wanted to. You might want to do that to not stress certain locations, like when visiting relatives. Plus, the automatic charging port would close when the vehicle was engaged so I didn't have to manually close it.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Head-to-Head: R1T vs. R1S
 
  The R1T and R1S look similar. They share most of the same features. The electric vehicles also drove nearly identically. But here are a few specs where they differ around size, towing, and storage space.
@@ -278,16 +276,10 @@ Tyler Hayes / How-To Geek
 * Storage space: 104cu-ft \[more\]
 * Outlets: Two 120V outlets \[fewer\]
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  R1S Price and Availability
 
  The R1S is currently available to order through [Rivian’s website](http://rivian.com). New builds currently have about a four-month wait, while new inventory vehicles are available within one to six weeks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Rivian R1S or R1T?
 
 ![Rivian R1S from the rear showing the trunk open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/3b8a8a65-f097-409c-a036-8e1dfbd721ea.JPG) 
@@ -302,13 +294,6 @@ Tyler Hayes / How-To Geek
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Rivian R1S
@@ -325,8 +310,6 @@ From city streets to far-off trails, explore all types of terrain through all ki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -334,4 +317,24 @@ From city streets to far-off trails, explore all types of terrain through all ki
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-magixs-image-sphere-a-thorough-exploration/"><u>[New] 2024 Approved MAGIX's Image Sphere A Thorough Exploration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-harness-the-power-of-engagement-boosting-youtube-traffic/"><u>[New] In 2024, Harness the Power of Engagement Boosting YouTube Traffic</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-plunge-into-a-live-stream-on-tiktok-with-ease/"><u>[Updated] 2024 Approved Plunge Into a Live Stream on TikTok with Ease</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>[Updated] History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-screen-recorderwindows-desktop/"><u>簡單規劃：使用Movavi Screen Recorder進行Windows Desktop 錄影指南</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/qt-movavi/"><u>手軽なQTファイルのオンライン変換サービス – Movavi | 無料</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mov-to-3gp-movavi/"><u>無料で高品質MOV to 3GP変換 – Movaviの使いやすさ</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevating-your-nba-experience-with-advanced-streaming-for-2024/"><u>Elevating Your NBA Experience with Advanced Streaming for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-conversion-transform-your-tod-files-into-high-quality-mp4-videos-with-movavi/"><u>Free Online Conversion: Transform Your TOD Files Into High-Quality MP4 Videos with Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-converti-gratuitamente-i-file-3gp-in-formato-wma-senza-problemi-scopri-ora/"><u>Movavi: Converti Gratuitamente I File 3GP in Formato WMA Senza Problemi - Scopri Ora!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavigifmp4/"><u>Movaviを使って無料でGIF画像をMP4動画に変換する方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-apple-watch-usage-with-8-key-battery-saving-adjustments-expert-guide/"><u>Revolutionize Your Apple Watch Usage with 8 Key Battery-Saving Adjustments | Expert Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-music-into-videos-free-mp3-to-mov-conversion-with-movavis-top-rated-web-service/"><u>Transform Your Music Into Videos: Free MP3-to-MOV Conversion with Movavi's Top-Rated Web Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rmvbwmvmovavi/"><u>お手軽な無料ファイルコンバータ―－RMVB/WMV用、Movaviのショートカット方法</u></a></li>
+</ul></div>
 

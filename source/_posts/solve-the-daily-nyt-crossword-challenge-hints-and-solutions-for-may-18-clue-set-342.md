@@ -1,7 +1,7 @@
 ---
 title: "Solve the Daily NYT Crossword Challenge: Hints and Solutions for May 18 (Clue Set #342)"
-date: 2024-08-30T21:15:16.467Z
-updated: 2024-08-31T21:15:16.467Z
+date: 2025-01-01T09:41:12.826Z
+updated: 2025-01-03T09:28:40.872Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 ---
 
 ## Solve the Daily NYT Crossword Challenge: Hints and Solutions for May 18 (Clue Set #342)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 342nd Connections game to get you started:
@@ -40,16 +45,14 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 * **Blue:** Games that don't involve digital technology.
 * **Purple:** Sometimes wound, sometimes bouncy.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Are Today's Connections Groups?
 
 ![May 18th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-18th-connections.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Animals Whose Names are Two Animals
@@ -57,16 +60,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 * **Blue:** Classic Party Games
 * **Purple:** Things with Spring/s
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  Today's NYT Connections Answers
 
 ![May 18th Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-18th-connections-filled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **Animals Whose Names Are Two Animals (Yellow):** 
 
  Bulldog, Catfish, Horsefish, Turtledove
@@ -83,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
  Clock, Mattress, Mousetrap, Trampoline
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 18th was immediately daunting. There were so many long words! It seemed likely at least one group would involve the words themselves, so I started looking at them.
@@ -96,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
  That left the words categories, charades, fishbowl, and werewolf. Some of these I recognize as games, so I'm assuming they're all games of some kind. Blue was "Classic Party Games."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -117,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,23 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-how-to-edit-audio-on-youtube/"><u>[New] 2024 Approved How to Edit Audio on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-whip-up-witty-cartoons/"><u>[New] 2024 Approved Whip Up Witty Cartoons</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-auto-arcade-adventures-for-kids-for-2024/"><u>[New] Auto Arcade Adventures for Kids for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-to-fame-identifying-2023s-most-shared-content/"><u>[Updated] In 2024, Tweeted to Fame Identifying 2023'S Most Shared Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-direct-pathway-transferring-youtube-content-to-dailymotion/"><u>2024 Approved Direct Pathway Transferring YouTube Content to Dailymotion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3wavaac-movavi/"><u>網路自由下無限MP3/WAV到AAC變更 - 利用Movavi音樂格式轉換工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-gaming-bounty-picking-the-right-machines-and-add-ons-for-your-child/"><u>Best Gaming Bounty: Picking the Right Machines and Add-Ons for Your Child</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-mkv-files-to-wma-format-for-free-with-movavis-online-tool/"><u>Convert MKV Files to WMA Format for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/effortlessly-switch-from-gif-to-avi-video-the-ultimate-free-online-tool-by-movavi/"><u>Effortlessly Switch From GIF to AVI Video - The Ultimate Free Online Tool by Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-complet-changer-des-fichiers-multimedias-en-format-jpeg-avec-movavi-converter/"><u>Guide Complet - Changer Des Fichiers Multimédias en Format JPEG Avec Movavi Converter</u></a></li>
+<li><a href="https://win-trending.techidaily.com/high-definition-retro-wallpaper-collection-vintage-hd-backgrounds-images-and-graphics-by-yl-computing/"><u>High-Definition Retro Wallpaper Collection: Vintage HD Backgrounds, Images & Graphics by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-gratiska-snipningstekniker-i-2024-uppfostrada-lista/"><u>Top 15 Gratiska Snipningstekniker I 2024 - Uppfostrada Lista</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-best-free-mov-editing-software-of-2024-choosing-the-right-tool/"><u>Top 5 Best Free Mov-Editing Software of 2024: Choosing the Right Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforma-tu-archivo-flac-en-un-video-de-calidad-webm-sin-coste-con-movavi-online/"><u>Transforma Tu Archivo FLAC en Un Vídeo De Calidad WebM Sin Coste Con Movavi Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-connecting-your-samsung-remote-with-the-perfect-television/"><u>Ultimate Guide: Connecting Your Samsung Remote with the Perfect Television</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-codecs-definition-and-how-they-work/"><u>Understanding Codecs: Definition and How They Work</u></a></li>
+</ul></div>
 

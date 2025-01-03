@@ -1,7 +1,7 @@
 ---
 title: "Creating Custom Sounds in Discord with Audacity: A Step-by-Step Guide"
-date: 2024-08-30T21:15:38.899Z
-updated: 2024-08-31T21:15:38.899Z
+date: 2024-12-30T17:12:16.896Z
+updated: 2025-01-02T20:21:06.273Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
 ## Creating Custom Sounds in Discord with Audacity: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Audacity is a free open-source audio editing software that you can use to easily create custom sound clips for Discord Soundboard.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 * Remember that Discord sound clips cannot exceed 5 seconds in length–you can edit down your sound clips in Audacity or on Discord itself when uploading your audio file.
 
  The soundboard feature on Discord lets you play short audio clips during voice calls for all participants to hear. It can be a fun way to react during lively conversations or when watching a friend stream their video game wins and fails. It can be difficult to find just the right audio clip in an online sound database, though, but you can create any sound you want for free using Audacity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Audacity to Record Your Desktop Audio
 
@@ -37,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
 ![Selecting a loopback device for recording desktop audio in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/selecting-a-loopback-device-for-recording-desktop-audio-in-audacity.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While your desired audio is playing from your designated recording device, click the Record button to begin creating your sound clip. Select Stop when you are done recording.
 
 ![Starting and stopping an audio recording in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/starting-and-stopping-an-audio-recording-in-audacity.png) 
@@ -52,25 +64,23 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 ![Exporting audio in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/exporting-audio-in-audacity.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Upload the Sound to Your Discord Server
 
  If you [own a Discord server](https://facebook-clips.techidaily.com/updated-seamless-music-addition-for-social-media-iphoneandroid/) or have Soundboard permissions from the server admins, you can open the Soundboard panel by selecting the Open Soundboard button whenever you are in a voice call. In this panel, you will see the sounds that are available to you in your server's soundboard. To upload a new sound, select "Add Sound."
 
 ![Opening the Discord Soundboard menu and adding a sound.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opening-the-discord-soundboard-menu-and-adding-a-sound.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the next window, browse for the file you wish to upload by navigating to the location where you previously saved your Audacity project. You can then give the sound a name and a related emoji, as well as edit the volume at which it will play when you use it during a voice call. You can also edit the length of your uploaded audio in this window. If your clip is still longer than 5 seconds, you will need to trim it down before uploading.
 
 ![Editing and uploading a sound to your Discord soundboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/editing-and-uploading-a-sound-to-your-discord-soundboard.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You will then find your new sound in the Soundboard panel you opened earlier. Try using it to surprise your friends when [watching movies on Discord](https://visual-screen-recording.techidaily.com/new-2024-approved-best-online-audio-solutions-2023-guide/) or set it up as an entrance sound that automatically plays when you join a voice chat!
 
 ---
@@ -85,8 +95,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +102,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[New] In 2024, Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-launching-hit-online-streams/"><u>[New] The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726221830817-20/"><u>優選影片剪接工具20款: 消除水波紋，不用付錢</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-libera-online-di-file-wtv-in-formato-mkv-con-movavi/"><u>Conversione Libera Online Di File WTV in Formato MKV Con Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-videos-at-no-cost-change-3gp-into-flv-using-movavis-tool/"><u>Convert Videos at No Cost: Change 3GP Into FLV Using Movavi's Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meet-claude-anthropics-breakthrough-technology-to-revolutionize-amazon-alexa-zdnet-exclusive-coverage/"><u>Meet 'Claude': Anthropic's Breakthrough Technology to Revolutionize Amazon Alexa | ZDNET Exclusive Coverage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavis-free-web-based-tool-for-swiftly-changing-between-flac-and-wmv-files/"><u>Movavi's Free Web-Based Tool for Swiftly Changing Between FLAC and WMV Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-default-view-configurations-in-windows/"><u>Reinstating Default View Configurations in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-tricks-to-resolve-the-puzzling-windows-10-stuck-update-dilemma/"><u>Simple Tricks to Resolve the Puzzling Windows 10 Stuck Update Dilemma</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-m6-pro-4g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco M6 Pro 4G Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-3-best-free-screen-recorder-apps-for-windows-with-no-watermark-techradar-comparison/"><u>Top 3 Best Free Screen Recorder Apps for Windows (with No Watermark) – TechRadar Comparison</u></a></li>
+</ul></div>
 

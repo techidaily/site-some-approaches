@@ -1,7 +1,7 @@
 ---
 title: Unveiling Why AI-Driven Search May Not Be Google's Ultimate Solution
-date: 2024-08-30T21:15:34.178Z
-updated: 2024-08-31T21:15:34.178Z
+date: 2025-01-02T07:01:50.118Z
+updated: 2025-01-02T18:55:56.127Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unveiling Why AI-Driven Search May Not Be Google's Ultimate Solution
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,8 +35,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The idea behind AI Overviews is that instead of scanning multiple web pages to piece together the information you need, Google will do the googling for you. It will pull the most important information from the top Google results and give you a neat summary. You can even tweak the presentation of these answers to make them clearer or break them down step-by-step.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Search Is Google's Strategy to Combat Internet Spam
 
  One big reason why Google is diving into AI Search is because it sees it as a solution to one of its long-standing problems: internet spam.
@@ -43,9 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google hopes AI Search will be the fix for this, but there are some issues with that plan.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Problem With AI Search Is That It Hallucinates and Erodes Trust
 
  When Google first announced that it would be rolling out AI overviews, my first thought was “What are they going to do about the [hallucination problem](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/)?”
@@ -54,21 +56,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Google overviews response to a query about how to fix a jammed film camera-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-google-overviews-response-to-a-query-about-how-to-fix-a-jammed-film-camera-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But it didn't end there. Shortly after AI overviews started rolling out, people noticed that [some of its answers were ridiculous](https://ai-vdieo-software.techidaily.com/in-2024-best-top-free-video-editing-tools-for-gamers/) or even harmful. For example, it suggested using gasoline to make spaghetti and drinking at least 2 liters of urine daily. 
 
 ![An AI Overview response to a query of whether gasoline can be used to cook spaghetti-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-overview-response-to-a-query-of-whether-gasoline-can-be-used-to-cook-spaghetti-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  But so what? Everyone knows you shouldn't believe everything you see on the internet, and other chatbots make stuff up too, so why is this a big deal?
 
  Here’s the thing: AI hallucinations in Search bring up a trust problem. It's one thing for a new experimental AI chatbot to occasionally lie to you and fabricate information. It's a whole other ball game when Google does it because people trust Google.
 
  Google says that it has addressed the odd AI Overviews results and put additional safeguards in place, but [I’m still skeptical](https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/). Some experts even believe that hallucinations can’t be fixed and are a fundamental part of LLMs. If this is true, we could be heading into an era of the internet where you really can't trust anything online, not even your search engine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Losing Nuance With AI Overviews
 
@@ -81,8 +85,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  These are obvious blunders, and easy to brush off as harmless. But what happens the next time AI Overviews subtly misinterprets something important that’s not so easy to spot?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Overviews May Kill the Open Internet
 
  AI Overviews threaten the entire business structure of the internet. Websites rely on ad revenue to make a profit, and this ad revenue is dependent on traffic. Therefore, websites have an incentive to make great content that keeps people visiting the site.
@@ -93,9 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If content gets locked behind paywalls to survive, what happens to the internet? Some say this could lead to the [dead internet theory](https://remote-screen-capture.techidaily.com/in-2024-manycam-recorder-review/) where all that's left of the open web is a bunch of LLMs endlessly recycling each other's content until the internet is just an unrecognizable stew of word predictions.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  At the End of the Day, People Want Human Experiences and Content
 
  Google has good intentions with AI Overviews. The problem, however, is that they fundamentally misunderstand what people want from Search: authenticity.
@@ -110,8 +112,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-effortless-image-bending-in-adobe-for-2024/"><u>[New] Effortless Image Bending in Adobe for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-audio-recording-solutions-for-educators-using-apple-products/"><u>[Updated] Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavimp4m4a/"><u>「ためになるオンラインツール：Movaviを使ってMP4とM4Aフォーマットの自由な変換手順」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/3g2-mov-movivision/"><u>3G2 토백을 MOV로 자유성 정신으로 전환: MoviVision 영화 각성 도구</u></a></li>
+<li><a href="https://article-helps.techidaily.com/amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-motion-dynamics-synopsis-for-2024/"><u>Comprehensive Motion Dynamics Synopsis for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-the-right-canon-mp280-printer-drivers-for-your-window-system-windows-1087/"><u>Find and Download the Right Canon MP280 Printer Drivers for Your Window System (Windows 10/8/7)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-paso-a-paso-para-convertir-videos-3g2-a-flv-sin-costo-con-la-solucion-online-de-movavi/"><u>Guía Paso a Paso Para Convertir Videos 3G2 a FLV Sin Costo Con La Solución Online De Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>In 2024, The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavippm-to-jpeg/"><u>Movaviプロアプリを使った無料PPM to JPEGコンバーターオンラインチェンジャー</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-on-transforming-heic-images-into-png-format-using-movavi/"><u>Ultimate Tutorial on Transforming HEIC Images Into PNG Format Using Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ling-8-exceptional-mirrorless-cameras-for-vloggers-for-2024/"><u>Unveiling 8 Exceptional Mirrorless Cameras for Vloggers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726222745347-mp3/"><u>오토로 영화에서 음성을 클립: 제공하는 신선한 MP3</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Legion 5 Review: Affordable High-Performance Gaming Notebook"
-date: 2024-08-30T21:16:27.225Z
-updated: 2024-08-31T21:16:27.225Z
+date: 2024-12-29T05:47:52.035Z
+updated: 2025-01-03T07:44:23.563Z
 tags:
   - product-reviews
 categories:
@@ -104,16 +104,14 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Hardware: Conservative and Heavy** 
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  For a gaming laptop, the LOQ 15IAX9I has surprisingly conservative looks. Outside of some dramatic angles on the rear edges of the unit, it could easily pass for your average business laptop.
@@ -124,12 +122,13 @@ Jerome Thomas / How-To Geek
 
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -137,9 +136,6 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-loq-15iax9i_53589683994_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The right side of the laptop features a multi-purpose USB Type-C connector, a camera switch that can physically disable the built-in webcam, a combo 3.5mm audio jack, and another USB 3.2 Gen 1 Type-A connector. Overall, there are not a lot of ports in comparison to some other laptops of this size, but it does feature just about everything most users would typically need.
@@ -153,6 +149,10 @@ Jerome Thomas / How-To Geek
  For gaming purposes, particularly with the use of the classic W, A, S, and D keys for movement, I found the keyboard only OK. It was a little sluggish. It's definitely not a deal-breaker when gaming, but you likely won't be setting any eSports records with the key response times. The touchpad is relatively small and not as smooth as on some other laptops, but it's still perfectly usable and supports touch gestures.
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Sights and Sounds: Optimized for Gaming** 
 
@@ -174,6 +174,10 @@ Jerome Thomas / How-To Geek
 
 ![Angled view of the opened and powered on Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-powered-on-2_53589684004_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  While 1,920 x 1,080 is merely adequate for productivity purposes, it's actually a good resolution for gaming. It's a common gaming resolution that allows for solid frame rates on even modest hardware. Thanks to its reliance on Intel ARC A530M graphics, this "modest hardware" tag also applies to the LOQ 15IAX9I and its relatively pedestrian gaming capabilities.
@@ -191,17 +195,15 @@ Jerome Thomas / How-To Geek
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
  The [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop is not going to win any awards for its build quality or performance, but considering its sub-$750 retail price, often on sale, it has surprisingly few notable concessions in its overall design. It has a good keyboard, a nice display, and, if you stick to its native HD resolution, enjoyable gaming performance. If you have a limited budget and are looking for a gaming laptop that gets the basics right, it's hard to go wrong with the LOQ 15IAX9I.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Lenovo LOQ 15IAX9I 
 
 7/ 10 
@@ -218,8 +220,6 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +227,26 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-experts-guide-to-live-classroom-capturing-via-macos-for-2024/"><u>[New] The Expert's Guide to Live Classroom Capturing via MacOS for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ransform-your-youtube-routine-control-over-video-delivery-speeds-for-2024/"><u>[New] Transform Your YouTube Routine Control Over Video Delivery Speeds for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-memory-map-maker/"><u>[Updated] In 2024, Memory Map Maker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-roadmap-to-engaging-youtube-trailers-through-filmora/"><u>[Updated] The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cambia-gratis-tus-archivos-de-formato-dpx-a-tiff-en-linea-con-movavi/"><u>Cambia Gratis Tus Archivos De Formato DPX a TIFF en Línea Con Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertir-facilement-un-imageen-gif-a-format-jpeg-online-de-gratis-movavi/"><u>Convertir Facilement Un Imageen GIF a Format JPEG Online De Gratis - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertir-formatos-de-video-de-ogv-a-ogg-online-sin-coste-hacerlo-con-la-herramienta-web-de-movavi/"><u>Convertir Formatos De Video De OGV a OGG Online Sin Coste - Hacerlo Con La Herramienta Web De Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-logitech-webcams-up-and-running-free-windows-compatible-drivers/"><u>Get Logitech Webcams Up and Running: Free Windows-Compatible Drivers</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-identify-signs-of-a-defective-network-interface-controller-insights-from-yl-computings-expertise/"><u>How to Identify Signs of a Defective Network Interface Controller: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-sony-phone-by-drfone-android/"><u>How to Reset a Locked Sony Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-samsung-galaxy-a15-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-compatible-movavi-slideshow-creator-ultimate-presentation-tool/"><u>Mac-Compatible Movavi Slideshow Creator: Ultimate Presentation Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp410/"><u>MP4ファイル無料再生ソフトを選ぶときのあなたの必見トップ10【最新版】</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pc-tiktok-3-movavi/"><u>PC으로 TikTok 동영상을 이동시키기: 3가지 간단하고 독창적인 해곡 - Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-lenovo-mousepad-issues-on-windows-11-8-and-7-a-comprehensive-fix-guide/"><u>Solving Lenovo Mousepad Issues on Windows 11, 8 & 7: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-writing-formatting-for-video-chapters-2024-update-by-movavi/"><u>The Best Writing Formatting for Video Chapters - 2024 Update by Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-13-free-and-open-source-screen-capture-tools-exploring-options-beyond-movavi/"><u>Top 13 Free & Open-Source Screen Capture Tools: Exploring Options Beyond Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasformare-i-file-pef-in-immagini-jpeg-online-gratuito-con-movavi/"><u>Trasformare I File PEF in Immagini JPEG Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-repairing-pc-instances-of-robocop-my-last-stand/"><u>Troubleshooting and Repairing PC Instances of RoboCop: My Last Stand</u></a></li>
+</ul></div>
 
