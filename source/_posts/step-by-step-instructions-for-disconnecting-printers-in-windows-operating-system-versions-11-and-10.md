@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disconnecting Printers in Windows Operating System (Versions 11 & 10)
-date: 2024-08-30T21:19:25.015Z
-updated: 2024-08-31T21:19:25.015Z
+date: 2025-01-07T02:01:25.420Z
+updated: 2025-01-10T01:38:29.344Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Instructions for Disconnecting Printers in Windows Operating System (Versions 11 & 10)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Three Ways to Uninstall a Printer](https://driver-install.techidaily.com/windows-compatibility-download-pro-4-drivers/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Use PowerShell to Remove a Printer](https://screen-capture.techidaily.com/new-selecting-the-perfect-no-fee-video-communication-tools/)
 * [Delete the Printer's Installed Apps](https://digital-screen-recording.techidaily.com/new-in-2024-best-online-meeting-capture-the-leading-5-gadgets/)
 * [Clean Up the Print Spooler and Leftover Registry Keys](https://instagram-videos.techidaily.com/new-crescendo-creations-adding-audio-magic-to-instagram-stories/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,9 +44,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 2. If you want to completely remove a printer (and the associated drivers), use the Device Manager method. This is helpful if you’re [troubleshooting issues with the printer](https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/).
 3. The third method is a command line method that removes the printer’s connection from your PC, just like the Settings app does.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Uninstall the Printer Using the Settings App 
 
  If you’re on a Windows 11 PC, head into Settings > Bluetooth & Devices > Printers & Scanners. On Windows 10, navigate to Settings > Devices > Printers & Scanners.
@@ -50,15 +55,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Remove' highlighted for a printer in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-printer-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows has removed the selected printer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Uninstall a Printer Using Device Manager
 
  To remove a Printer with Device Manager, first [open Device Manager](https://desktop-recording.techidaily.com/updated-2024-approved-easily-record-lenovo-laptop-screen-activity/) by right-clicking the Start Menu icon and selecting "Device Manager."
@@ -66,32 +67,29 @@ The powerful video editing program for your Windows PC</a>
 !['Device Manager' highlighted in Power User Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-open-windows-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select "View" in the menu bar, then enable "Show Hidden Devices" to ensure your printer appears even if it's hidden. 
 
 !['Show Hidden Devices' highlighted in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-view-hidden-devices-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the same window, expand "Printers" and find your printer. If you can't find your printer, expand "Print Queues" and look for it there. Once you've located it, right-click the printer's name and select "Uninstall Device."
 
 !['Uninstall Device' highlighted for a printer in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-uninstall-printer-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  In the "Uninstall Device" window, enable the "Attempt to Remove the Driver for This Device" (Windows 11) or "Delete the Driver Software for This Device" (Windows 10) option. Then, click "Uninstall."
 
 ![Delete a printer and its drivers in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-delete-printer-driver-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait while Device Manager uninstalls the selected printer. Then, bring the changes into effect by [restarting your Windows 11](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) or [Windows 10](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) PC.
 
 ##  Use PowerShell to Remove a Printer
@@ -108,23 +106,14 @@ Get-Printer
 
 !['Get-Printer' typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-view-installed-printers-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  From the listed printers, note the name of the printer you want to remove. Then, type the following command, replacing "PrinterName" with the noted name, and press Enter. Make sure the printer’s name is enclosed in double quotes.
 
 Remove-Printer -Name “PrinterName”
 
 !['Remove-Printer' typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-remove-printer-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  PowerShell has removed the specified printer. You can run **Get-Printer** again to confirm that it has been removed. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Delete the Printer's Installed Apps
 
  Most printers (if not all) install their own manufacturer apps when you add a printer to your PC. If you’ve gotten rid of your printer for good, you should remove these installed apps as well. Here’s how to do that.
@@ -135,13 +124,14 @@ Remove-Printer -Name “PrinterName”
 
 !['Installed apps' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-installed-apps-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find your printer’s app on the list. Next to the app, click the three dots and choose "Uninstall."
 
 !['Uninstall' highlighted for a printer app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-delete-printer-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Uninstall" in the prompt.
 
 ###  On Windows 10
@@ -154,13 +144,18 @@ Remove-Printer -Name “PrinterName”
 
 !['Uninstall' highlighted for a printer app in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-remove-printer-app-windows-10-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clean Up the Print Spooler and Leftover Registry Keys
 
  After removing the printer, [clean up any pending print jobs](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/) and leftover registry keys. This ensures all traces of your printer are gone from your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Clean Up the Print Spooler
 
  Open Run by pressing Windows+R, type the following command, and press Enter:
@@ -179,12 +174,11 @@ C:\Windows\System32\spool\PRINTERS
 
 ![The trash can icon highlighted for the print spooler files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-delete-print-spooler-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Return to the Services window we opened previously, right-click "Print Spooler" again, and select "Start."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Remove the Deleted Printer’s Leftover Registry Keys
 
@@ -204,9 +198,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
 
 !['Delete' highlighted for a printer's keys in Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-delete-printer-keys-registry-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Quit Registry Editor and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/). And you’ve successfully removed a printer from your Windows machine.
 
 <ins class="adsbygoogle"
@@ -215,8 +206,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +213,26 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print\Printers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-guide-to-capturing-your-screens-stepwise-approach/"><u>[New] Essential Guide to Capturing Your Screens - Stepwise Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast/"><u>[New] Stream Wars Evaluating Streamers' Top Contenders, OBS & Wirecast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>[New] Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-snapchat-intro-video-breakdown-size-format-duration/"><u>[Updated] 2024 Approved SnapChat Intro Video Breakdown Size, Format, Duration</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-custom-whatsapp-ringtone-guide-on-ios-devices/"><u>2024 Approved Custom WhatsApp Ringtone Guide on iOS Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-cutting-edge-podcasting-garageband-edition/"><u>2024 Approved Cutting Edge Podcasting GarageBand Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-microtones-and-monikers-shorts-sound-roles/"><u>2024 Approved Microtones and Monikers Shorts' Sound Roles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-personal-snaps-into-motion-stories/"><u>2024 Approved Transforming Personal Snaps Into Motion Stories</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-se-2022-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone SE (2022) to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhance-system-speed-with-ideal-setup-advice-by-yl-software-experts/"><u>Enhance System Speed with Ideal Setup Advice by YL Software Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-smart-8-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Smart 8 Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-summit-of-synergy-for-vr-sensations/"><u>In 2024, Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-lapse-magic-a-samsung-photo-guide/"><u>In 2024, Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-online-photo-montage-maker/"><u>In 2024, Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-adobe-premiere-pro-cs6-for-mac-os-free-trial/"><u>New Download Adobe Premiere Pro CS6 for Mac OS - Free Trial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly-for-2024/"><u>Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-digital-moguls-guide-to-vimeo-earnings-mastery/"><u>The Digital Mogul's Guide to Vimeo Earnings Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-videos-for-2024/"><u>Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-optimal-performance-with-these-key-tricks-for-2024/"><u>Unlock Optimal Performance with These Key Tricks for 2024</u></a></li>
+</ul></div>
 

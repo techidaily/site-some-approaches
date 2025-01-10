@@ -1,7 +1,7 @@
 ---
 title: Latest Cybersecurity Fiasco at AT&T Unveiled + Sneak Peek of Cutting-Edge Phones From Samsung – Your Weekly Update in Tech!
-date: 2024-08-30T21:22:14.151Z
-updated: 2024-08-31T21:22:14.151Z
+date: 2025-01-02T23:25:30.417Z
+updated: 2025-01-09T22:09:36.212Z
 tags:
   - deals
 categories:
@@ -19,27 +19,30 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
  Even if you aren't an AT&T customer, this breach probably affects you.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Thunderbird's Big "Nebula" Update Is Now Available](https://win-dash.techidaily.com/fresh-release-enhanced-biometric-drivers-for-seamless-windows-integration/) 
 
  Thundebird, the email client from Mozilla, just got its big update for the year with several usability improvements and new features.
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mozilla
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
 
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
@@ -53,15 +56,17 @@ Mozilla
  A new comments system encourages influencer culture on Spotify.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Samsung Galaxy Z Fold 6 Has a Much Better External Screen](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/) 
 
  Samsung's new book-style folding phone has arrived, with an updated aspect ratio and some hardware improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Samsung's Galaxy Z Flip 6 Gets the Upgrade We Wanted](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/) 
 
  Finally, Samsung's most trendy phone has a good camera.
@@ -79,8 +84,9 @@ Justin Duino / How-To Geek
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
  The new Galaxy Watch Ultra takes some inspiration from the Apple Watch Ultra.
@@ -89,17 +95,10 @@ Justin Duino / How-To Geek
 
 Justin Duino / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
  Samsung’s new regular smartwatch has new internal hardware and the same circular screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Microsoft Overhauls Game Pass With Higher Prices and New “Standard” Plan](https://howto.techidaily.com/tecno-pova-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  The console-only Game Pass is being replaced with a different "Standard" plan, and pricing is changing.
@@ -114,8 +113,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +120,23 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>[New] In 2024, Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>[New] In 2024, Premier Picks Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-potential-full-guide-to-powerdirectors-2024-edition/"><u>[New] Unleash Your Potential Full Guide to PowerDirector's 2024 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-fb-video-potential-with-speedy-insights/"><u>[New] Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-online-gif-video-converters/"><u>[Updated] The Ultimate Guide to Online GIF Video Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-new-frontier-understanding-ars-role/"><u>2024 Approved The New Frontier Understanding AR's Role</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>2024 Approved Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-srt-files-accessing-on-windowsmac/"><u>2024 Approved Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-chrome-display-glitches-on-pc/"><u>Clearing Chrome Display Glitches on PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-evaluation-of-the-lenovo-chromebook-csu3-the-modern-laptop-alternative/"><u>Comprehensive Evaluation of the Lenovo Chromebook CSU3 - The Modern Laptop Alternative</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-eliminate-lag-while-playing-avatar-frontiers-of-pandora/"><u>Effective Solutions to Eliminate Lag While Playing Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi 13C? </u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-roadmap-to-perfection-in-fcp/"><u>In 2024, The Editor's Roadmap to Perfection in FCP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mobile-tools-optimize-and-enhance-audio-faster-for-2024/"><u>Mobile Tools Optimize and Enhance Audio Faster for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-watermark-free-video-joining-7-top-rated-solutions/"><u>Updated In 2024, Watermark-Free Video Joining 7 Top-Rated Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating and Utilizing Microsoft's Windows Copilot – Your New AI Ally"
-date: 2024-08-30T21:23:36.935Z
-updated: 2024-08-31T21:23:36.935Z
+date: 2025-01-05T03:34:45.461Z
+updated: 2025-01-09T20:24:15.133Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ## Step-by-Step Guide: Activating and Utilizing Microsoft's Windows Copilot – Your New AI Ally
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Update your Windows to Get the Copilot Feature](https://fox-direct.techidaily.com/new-excellence-in-quality-leading-4k-panels-for-filmmaking/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 * [Enable Copilot Through Alternate Methods](https://on-screen-recording.techidaily.com/in-2024-optimal-sound-systems-under-100-for-immersive-gameplay/)
 
  Microsoft is bringing a new AI assistant (like Clippy) called Copilot that is designed to help you make the Windows PC easier to use. The AI assistant is supposed to work just like Bing Chat, but it is still a new feature that needs a lot of work and integration with other apps. However, if you still want to try out Windows Copilot, here's how you can get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Update your Windows to Get the Copilot Feature
 
@@ -36,15 +44,13 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ![Join Windows Insider program to get the latest features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/windows-insider.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use Windows Copilot
 
  There are many ways in which you can use the Copilot feature to make the Windows experience even better. However, there are a few basic settings that you might want to check out.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ###  Show the Windows Copilot Shortcut
 
  If Windows Copilot is not showing on your Taskbar by default go to Settings > Personalization > Taskbar > Enable Copilot. You can now launch Windows Copilot chat directly from the taskbar or by using the Windows+C shortcut key (For Microsoft Edge this shortcut changed to Ctrl+Shift+. \[period\]).
@@ -57,26 +63,20 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Change Windows Copilot Settings and enable it to see Microsoft Edge content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-141803.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to Settings and enable "Let Copilot in Windows use Microsoft Edge content"
 
 ![Enable Let Copilot in Windows use Microsoft Edge Content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-141833.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can now use Windows Copilot with Microsoft Edge. Try asking the [AI powered assistant](https://windows11.techidaily.com/fixing-the-freeze-troubleshooting-windows-obs-not-starting/) to manage your PC settings or organize your windows via snap assist.
 
 ![Windows Copilot organizing tabs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Additional features will also be added later on that will allow Windows Copilot to interact with other apps. However, for now it is limited to interacting with Windows settings and Microsoft Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable Copilot Through Alternate Methods
 
  Microsoft has made Copilot available on many Windows 11 systems, and you can generally use it if you've downloaded the most recent update. However, the feature is only enabled in a select number of markets, such as North America and parts of Asia and South America. If the Windows Copilot option is still unavailable to you, even after installing the latest update you can get, here is a workaround to access the AI feature on your system.
@@ -88,8 +88,9 @@ microsoft-edge://?ux=copilot&tcp=1&source=taskbar
 ![Paste the Windows Copilot shortcut location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click Next and give the shortcut a name. Once you have created the shortcut, you can use it to access Windows Copilot. Again, this shortcut will only work if you have updated your Windows to the latest version through the Insider Program.
 
 <ins class="adsbygoogle"
@@ -98,8 +99,6 @@ microsoft-edge://?ux=copilot&tcp=1&source=taskbar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +106,22 @@ microsoft-edge://?ux=copilot&tcp=1&source=taskbar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturecast-unveiling-2023s-best-recording-software/"><u>[New] 2024 Approved CaptureCast Unveiling 2023'S Best Recording Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-review-of-magix-video-pro-x/"><u>[New] The Ultimate Review of Magix Video Pro X</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elevate-video-experience-ranking-the-best-12-players/"><u>[Updated] 2024 Approved Elevate Video Experience Ranking the Best 12 Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-syma-x8c-user-guide-insights/"><u>[Updated] The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a38-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-single-frames-into-motion-narratives/"><u>2024 Approved Transforming Single Frames Into Motion Narratives</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-xs-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone XS Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nokia-c12-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nokia C12 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>New Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-d3dx927dll-not-detectedmissing-error/"><u>Solving the d3dx9_27.dll Not Detected/Missing Error</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streaming-software-showdown-the-verdict-on-wirecast-vs-obs-for-2024/"><u>Streaming Software Showdown The Verdict on Wirecast Vs. OBS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-the-timestamp-process-for-youtubers-for-2024/"><u>Streamlining the Timestamp Process for YouTubers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-science-of-writing-gripping-documentaries-for-2024/"><u>The Science of Writing Gripping Documentaries for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts-for-2024/"><u>Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis of the Lenovo ThinkBook 13 Gen 4: The Essential Choice for Modern Workspaces"
-date: 2024-08-30T21:17:22.770Z
-updated: 2024-08-31T21:17:22.770Z
+date: 2025-01-05T23:38:56.601Z
+updated: 2025-01-09T16:23:08.187Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93
  Anyone looking for a premium laptop that's highly portable but doesn't skimp on top-tier specs will want to consider the [Lenovo ThinkBook 13x Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036). While it falls short in a few areas, its overall performance is stellar enough to win over most professional and everyday consumers who create and consume media regularly.
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -48,9 +52,6 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Lenovo ThinkBook 13x Gen 4 laptop is now available, starting at $1,580.
@@ -127,17 +128,10 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Design: A Familiar, Streamlined Look
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Lenovo ThinkBook 13x Gen 4 is a sleek, familiar build that most people who've used a ThinkBook will recognize. Encased in a premium aluminum chassis, I found its minimalist design exuded professionalism but looked contemporary and sleek. Whereas Lenovo might've gone a bit more experimental with the [ThinkBook Plus Gen 4 2-in-1 laptop](https://video-capture.techidaily.com/in-2024-streamline-communications-with-these-best-5-capture-tools/), they've stuck to basics for the 13x Gen 4\. Its build reminded me of the basic yet sleek [ThinkPad Z13 Gen 2 laptop](https://youtube-tips.techidaily.com/024-approved-quick-steps-to-quality-content-via-studio-editor/); it even had some similar specs.
@@ -148,9 +142,6 @@ Jerome Thomas / How-To Geek
 
  The keyboard is a 10keyless chiclet affair that takes up about half of the laptop's base, and the buttonless touchpad rests underneath it in a nearly central location.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### **Ports: Just the Basics** 
 
  If you need a lot of ports on your laptop, you may want to invest in a [USB-C hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) if you plan to purchase the Lenovo ThinkBook 13x Gen 4.
@@ -164,8 +155,9 @@ Close
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
@@ -181,11 +173,16 @@ Jerome Thomas / How-To Geek
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -204,8 +201,9 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Performance: Excellent Computing Within Limits
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
@@ -220,6 +218,10 @@ Jerome Thomas / How-To Geek
 
  The device surpassed my expectations thanks to its powerful CPU for streaming and other media consumption and creation, like photo and video editing. Even though integrated [Intel ARC graphics wouldn't be my first choice for gaming](https://instagram-video-recordings.techidaily.com/updated-fast-track-to-fame-masterful-use-of-insta-likes-and-vids-for-2024/), the GPU worked well for most other content scenarios.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Gaming Performance: Surprisingly Good Gameplay for Casual Gamers
 
  Although I experienced a bit too much latency to recommend the ThinkBook 13x Gen 4 for anyone who games competitively, I had a great time playing games casually on the laptop. Some games that give me a lot of trouble on non-gaming laptops, like "A Plague Tale: Requiem," played so well on the 13x that my jaw actually dropped.
@@ -233,6 +235,10 @@ Jerome Thomas / How-To Geek
 ##  The Speakers, Camera, and Microphones
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -252,9 +258,6 @@ Close
 
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 
 
 ### 
@@ -263,15 +266,16 @@ Close
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  On average, the ThinkBook 13x Gen 4's battery drained at a rate of about 0.38% per minute (or about 22.8% per hour). That means I got about four hours of battery life out of a full charge. This was usually at 80 to 100% screen brightness, or about 400 to 500 nits, respectively. It's worth noting that the battery life benchmark for local video playback was 27 hours at 150 nits brightness. Based on my battery drainage, I don't believe the battery would last 27 hours at that brightness level. Nonetheless, the ThinkBook had an average to decent battery life when I used it.
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
  If you're looking for an ultra-portable laptop that's powerful enough to handle many tasks at once and serve as a primary device for consuming and creating media, you won't need to look further than the [Lenovo ThinkBook 13x Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036). But it does have its limits—a smaller screen size won't be for everyone, the integrated graphics do well but aren't as powerful for gamers, and the keyboard could be better.
@@ -280,11 +284,12 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 #####  Lenovo ThinkBook 13x Gen 4
 
 8/ 10 
@@ -299,8 +304,6 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -308,4 +311,26 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-effortless-integration-of-xbox-and-facebook-streams/"><u>[New] In 2024, Effortless Integration of Xbox and Facebook Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-tools-for-gif-to-video-conversion-best-5/"><u>[New] Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>[New] The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thrilling-twists-and-turns-short-track-22/"><u>[New] Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-combining-chords-and-pictures-in-the-cloud/"><u>2024 Approved Combining Chords & Pictures in the Cloud</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-guide-for-webp-to-jpg-conversion/"><u>2024 Approved Precision Guide for WebP to JPG Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fastest-methods-to-uncover-hidden-reddit-articles/"><u>2024 Approved The Fastest Methods to Uncover Hidden Reddit Articles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>2024 Approved Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>2024 Approved Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro 5G FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-content-servers-unreachable-on-steam-platforms/"><u>How To Overcome 'Content Servers Unreachable' On Steam Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-most-popular-images-journey-to-meme-status/"><u>In 2024, The Most Popular Images' Journey to Meme Status</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>In 2024, Transcoding Excellence From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pro-series-showdown-google-pixel-6-ultra-vs-apple-iphone-13-pro-making-an-informed-decision-on-your-next-high-end-phone-digital-trends/"><u>Pro Series Showdown: Google Pixel #6 Ultra vs Apple iPhone #13 Pro – Making an Informed Decision on Your Next High-End Phone | Digital Trends</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-srt-file-integration-on-digital-platforms-for-2024/"><u>Streamlining SRT File Integration on Digital Platforms for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-delving-into-forthcoming-details-about-google-pixel-10s-release-timeline-and-tech-specs/"><u>The Next Big Thing? Delving Into Forthcoming Details About Google Pixel 10'S Release Timeline and Tech Specs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur-for-2024/"><u>The Pathway to Seamless System Enhancement in macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-persistent-sound-issues-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Persistent Sound Issues in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-find-and-restore-deleted-phone-numbers-on-your-ios-device/"><u>Ultimate Guide: Find and Restore Deleted Phone Numbers on Your iOS Device</u></a></li>
+</ul></div>
 

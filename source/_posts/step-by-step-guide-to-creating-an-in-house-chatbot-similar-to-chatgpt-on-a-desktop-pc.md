@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Creating an In-House Chatbot Similar to ChatGPT on a Desktop PC
-date: 2024-08-30T21:23:38.409Z
-updated: 2024-08-31T21:23:38.409Z
+date: 2025-01-04T02:58:00.911Z
+updated: 2025-01-09T17:51:02.110Z
 tags:
   - cutting-edge
 categories:
@@ -34,8 +34,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  However, it also works beautifully as just a regular old chatbot you can talk to, and we're going to show you how to run it on just about any PC out there.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Does Alpaca Compare with ChatGPT?
 
  We'll just get it out of the way up front: [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/), particularly ChatGPT running [GPT-4](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/), is smarter and faster than Alpaca at the moment.
@@ -48,9 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The 13B and 30B models are quite another story. 13B is capable of providing a coherent, human-like conversation, and can answer complex questions. 30B is even more impressive, if you've got the hardware to run it, and is within striking distance of ChatGPT. It'll wax on philosophically or make a joke without missing a beat if prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  What Do You Need to Run Alpaca?
 
  Alpaca has pretty flexible system requirements. These guidelines are above the bare minimum but are good guidelines. We're also going to be installing this on Windows. If you're installing this on a system running Linux or macOS, just skip the Windows Subsystem for Linux section --- it isn't relevant to you.
@@ -71,13 +69,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  There is currently no reason to suspect this particular project has any major security faults or is malicious. We've been through the code and run the software ourselves and found nothing concerning. That does not mean it is or will remain safe. Always be cautious with things you find on internet and reevaluate the safety periodically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Run Alpaca Locally on Your PC
 
  It is important that you follow these steps in the order they're given. Docker will probably break if you don't, requiring a complete reinstall of both WSL2 and Docker.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ###  Install Windows Subsystem for Linux 2
 
  Microsoft's [Windows Subsystem for Linux 2 (WSL2)](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/) allows you to run Linux software in Windows. It has a low overhead and is really handy in a lot of cases. Docker for Windows relies on WSL2, so we need to install WSL2 first.
@@ -100,14 +99,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Checking that WSL2 installed Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_02h27_39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://video-screen-grab.techidaily.com/updated-2024-approved-proven-methods-for-high-quality-webinars/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Install Docker
 
 [Docker](https://extra-hints.techidaily.com/core-concepts-of-story-making-for-2024/) is a program that lets you run programs in a "container." Containers are similar to virtual machines, but they tend to have less overhead and are more performant for a lot of applications. Serge uses Docker to make installation super convenient.
@@ -117,6 +110,10 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
  If you're running a headless Linux server, you'll want to [follow the appropriate instructions for your Linux distro](https://docs.docker.com/engine/install/) to get Docker running. 
 
 ![Install Docker Desktop from the Docker website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-24_13h44_36.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the installer and be prepared to wait a few minutes. Docker will take a while and set up a bunch of stuff behind the scenes. Once it is done, you'll want to restart your PC.
 
@@ -128,12 +125,6 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Docker uses WSL2 to create a VM.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Docker-stuff-running.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ###  Install GIT on Windows
 
  The last prerequisite is Git, which we'll use to download (and update) Serge automatically from Github. It isn't strictly necessary since you can always download the ZIP and extract it manually, but Git is better.
@@ -143,9 +134,14 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 ![Make sure to select the option that adds Git to your system PATH.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/pic-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once Git is done installing, you're ready to install Serge and Alpaca.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Install Serge and Alpaca
 
@@ -157,9 +153,6 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![Download Serge from Github.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Downloading-from-GitHub.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  The next command you need to run is:
 
         `cp .env.sample .env`
@@ -173,6 +166,10 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 [Docker compose](https://video-screen-grab.techidaily.com/updated-advanced-skype-audio-filtration/) ties together a number of different containers into a neat package. You can check out the docker-compose.yml file in the Serge folder if you want to see more specifically what is involved here.
 
 ![Docker-Compose setting up Serge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/docker-compose.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The last command will initiate a download, and here you need to make a choice before proceeding. There are three different variants you can download: 7B, 13B, and 30B. 7B is the simplest and "dumbest" model, whereas 30B is the most sophisticated and smartest. 13B is the middle ground.
 
@@ -206,6 +203,10 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 
 ![The Serge Web Interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/The-main-screen.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are a fair number of settings available, but there are five that you'll really want to pay attention to:
 
 * **Temperature** \- Determines how freely the AI answers. Lower numbers result in more rigid answers, while higher numbers are more creative.
@@ -223,8 +224,9 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
 ![An example conversation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/pirate.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can talk about anything you'd like with Alpaca, and you don't have to worry about what is happening to your data. It remains on your device, under your control at all times.
 
  Remember, ChatGPT, Alpaca, and other chatbots seem reliable, but they aren't at this point in time. They very much embody the sentiment: "If you can't dazzle them with brilliance, baffle them with BS." Their tendency to make things up has been dubbed "hallucinating." Do not rely on them for anything essential, especially not something critical to your job or health. They should only be used for entertainment or experimental purposes at this time.
@@ -237,8 +239,6 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +246,21 @@ Related: [How to Run ChatGPT Using ShellGPT From the Ubuntu Terminal](https://vi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-faithful-melodies-downloaded-tips-for-personalization/"><u>[New] Faithful Melodies Downloaded Tips for Personalization</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-skyrocket-your-twitter-presence-through-livestreaming/"><u>[New] In 2024, Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-7-streaming-tools-for-mac-enthusiasts/"><u>[New] Top 7 Streaming Tools for Mac Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-passion-into-a-fulfilling-design-career/"><u>[New] Transforming Passion Into a Fulfilling Design Career</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-master-the-technique-of-radial-distortion-in-adobe-ps/"><u>[Updated] 2024 Approved Master the Technique of Radial Distortion in Adobe PS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-incor-written-by-a-professor-the-article-discusses-the-use-of-metaphors-and-analogies-to-explain-complex-scientific-concepts-how-can-teachers-effect/"><u>[Updated] Incor Written by a Professor, the Article Discusses the Use of Metaphors and Analogies to Explain Complex Scientific Concepts. How Can Teachers Effectively Incorporate These Rhetorical Devices Into Their Teaching Methods?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-downloading-standardized-youtube-images-with-ease-and-precision/"><u>2024 Approved Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-evaluating-the-functionality-of-vidma-screen-replayer/"><u>2024 Approved Evaluating the Functionality of Vidma Screen Replayer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-podcast-with-ease/"><u>2024 Approved Streamline Your Podcast With Ease</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-virtuality-unleashed-insightful-reviews-of-top-10-pc-vr-streamers/"><u>2024 Approved Virtuality Unleashed Insightful Reviews of Top 10 PC VR Streamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-kids-5-safety-steps-to-follow/"><u>ChatGPT for Kids: 5 Safety Steps to Follow</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s18-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S18 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tints-shades-and-tones-practical-application-in-art/"><u>In 2024, Tints, Shades & Tones Practical Application in Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-new-face-of-sony-updates-to-s6500-blu-rayhd-player-for-2024/"><u>The New Face of Sony Updates to S6500 Blu-Ray/HD Player for 2024</u></a></li>
+</ul></div>
 

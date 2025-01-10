@@ -1,7 +1,7 @@
 ---
 title: "Electric Vs. Gas: Understanding the Energy Equivalent in EV Charging and Fueling"
-date: 2024-08-30T21:24:08.118Z
-updated: 2024-08-31T21:24:08.118Z
+date: 2025-01-02T18:05:01.922Z
+updated: 2025-01-10T04:16:28.517Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 
 ## Electric Vs. Gas: Understanding the Energy Equivalent in EV Charging and Fueling
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Far Can You Drive an EV on a Single Charge?](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-spark-20-by-fonelab-android-recover-photos/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 * [Is It Cheaper to Charge an EV Than Fill a Gas Tank?](https://facebook.techidaily.com/the-balance-of-privacy-and-safety-removing-identifying-facial-information-from-facebook/)
 
  There are clear environmental benefits to driving an [electric vehicle (EV)](https://instagram-video-recordings.techidaily.com/new-2024-approved-heres-what-you-dont-know-about-instagram-story-viewer2/). But will it leave you stranded between charging stations? Here we'll look at how an EV's battery range compares to a tank of gasoline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Far Can You Drive an EV on a Single Charge?
 
@@ -34,15 +42,17 @@ Related: [How Does an Electric Vehicle Work?](https://instagram-video-recordings
  Though road trips wore down an EV's battery more quickly, chances are they'd hold up to your daily commute just fine. According to data from the [Federal Highway Administration](https://www.fhwa.dot.gov/policyinformation/statistics/2019/), people in the U.S. drive an average of around 40 miles per day. Even if your commute was 40 miles one-way, you'd still get there and back with juice to spare as long as you left with a nearly full charge.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Does the Weather Affect EVs More Than Gas Cars?
 
 ![An electric car parked and charging in the snow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/electric-car-charging-snow.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[Hrecheniuk Oleksii/Shutterstock.com](https://www.shutterstock.com/image-photo/electric-car-plug-charging-winter-amsterdam-1039566367)_
 
  Like a lot of questions concerning mileage, the answer is: it depends. Cold weather can sap an EV's battery faster, especially in highway driving conditions, when it's moving. That's because an EV pulls power from the battery to run the car's heating and other electrical systems. The motor also spins more rapidly at higher speeds, meaning higher energy consumption. Jeremy Michalek, a co-founder of the Vehicle Electrification Group and professor at Carnegie Mellon University, co-authored a study that showed cold temperatures can reduce an EV's range [by up to half](https://pubs.acs.org/doi/abs/10.1021/es505621s).
@@ -52,8 +62,9 @@ _[Hrecheniuk Oleksii/Shutterstock.com](https://www.shutterstock.com/image-photo/
  PolitiFact has in fact [debunked](https://www.politifact.com/factchecks/2022/jan/07/facebook-posts/theres-no-evidence-electric-vehicles-fare-worse-ga/) multiple claims that EVs wouldn't last as long in cold weather traffic jams as gasoline vehicles. Whether a car has the energy to get through extreme weather conditions also depends on how much fuel/energy it had when those conditions began and how efficiently that energy gets used.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is It Cheaper to Charge an EV Than Fill a Gas Tank?
 
  It definitely can be cheaper, if you charge your EV at home. The Wall Street Journal [calculated](https://www.wsj.com/articles/how-much-do-electric-vehicles-cost-to-fill-up-compared-with-buying-gasoline-11636626601) the cost of driving an EV versus a gas vehicle for a year in several large U.S. cities and found people could save hundreds of dollars a year when they charged at home instead of filling up on gas. In Los Angeles, for example, the average yearly savings was $721.
@@ -68,8 +79,6 @@ _[Hrecheniuk Oleksii/Shutterstock.com](https://www.shutterstock.com/image-photo/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +86,18 @@ _[Hrecheniuk Oleksii/Shutterstock.com](https://www.shutterstock.com/image-photo/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>[New] Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-primary-footage-document-critique-with-asides/"><u>[Updated] Primary Footage Document Critique with Asides</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quickest-quarter-mile-sochi-22/"><u>[Updated] The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-potential-master-avi-to-gif-conversion-using-filmora/"><u>2024 Approved Unleash the Potential Master AVI-to-GIF Conversion Using Filmora</u></a></li>
+<li><a href="https://extra-information.techidaily.com/click-into-art-ultimate-edits-for-stunning-snaps/"><u>Click Into Art Ultimate Edits for Stunning Snaps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-the-wlanapidll-file-absence-error/"><u>How to Correctly Address the wlanAPI.dll File Absence Error</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-platform-faceoff-twitchs-challenge-to-youtube/"><u>In 2024, The Platform Faceoff Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-cameraphone-trackers-precision-power-performance/"><u>In 2024, Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-11-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme 11 Pro Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-latest-macos-sonoma-patch-v144-essential-info-pre-update-zdnet/"><u>Understanding the Latest MacOS Sonoma Patch v14.4 - Essential Info Pre-Update | ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-quick-and-easy-vocal-removal-in-audacity-a-guide-for-2024/"><u>Updated Quick and Easy Vocal Removal in Audacity A Guide for 2024</u></a></li>
+</ul></div>
 

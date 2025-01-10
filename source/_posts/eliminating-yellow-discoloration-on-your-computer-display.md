@@ -1,7 +1,7 @@
 ---
 title: Eliminating Yellow Discoloration on Your Computer Display
-date: 2024-08-30T21:22:03.131Z
-updated: 2024-08-31T21:22:03.131Z
+date: 2025-01-03T17:20:38.434Z
+updated: 2025-01-09T19:48:45.123Z
 tags:
   - deals
 categories:
@@ -38,10 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turning off the night light in Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-off-the-night-light-in-windows-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  Ensure the Cable Connection Isn't Loose
 
  The display cable transmits video signals from the video card to the monitor. These signals can be analog or digital, depending on the type of cable and the devices involved. If the cable is not securely plugged in at either end, it can lead to poor connection quality, which might present problems like a yellow tint on the screen.
@@ -52,6 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-photo/protected-hdmi-cable-connected-monitor-728531827)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Reset the Monitor Settings
 
  If you've [manually tweaked the monitor settings](https://win-answers.techidaily.com/effortless-ways-to-stop-your-deathloop-from-freezing-and-crashing-on-your-pc-detailed-steps-inside/) by pressing the monitor buttons, ensure that you haven't misconfigured its display settings. To rule out this possibility, you should reset the monitor settings to their default values. The process for doing this can vary depending on the manufacturer of your monitor.
@@ -60,58 +60,56 @@ _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-ph
 
  If you can't find it, refer to the manufacturer's website for instructions on resetting your specific monitor model.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Make Sure the GPU Is Properly Plugged In
 
  Similar to the display cable, a loosely connected GPU in the PCIe slot can also affect color accuracy and may cause a yellow tint on the screen. To ensure this isn't the issue, open your computer casing and carefully remove the GPU from the PCIe slot. Then, firmly reinsert it into the slot. If you hear a clicking sound, it indicates that the GPU has been properly seated.
 
 ![ASUS Republic of Gamers NVIDIA GeForce RTX GPU inside a gaming PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/asus-republic-of-gamers-nvidia-geforce-rtx-gpu-inside-a-gaming-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Also, if the power connector supplying power to the GPU is loosely connected, it can lead to inconsistent power output and cause display problems. To rule out this possibility, disconnect the connector from both the GPU and PSU, clean the socket where the power connector goes in, and then reconnect the connector securely.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check for App-Specific Issues
 
  If the yellowish tint only occurs when using a specific app, the problem is likely to be unique to that application. There are several potential causes to consider: the app's settings may have the night light or a similar feature enabled, the app's graphics requirements may exceed what your CPU or GPU can handle, or you might have misconfigured the app's graphics settings.
 
  If you use dedicated software to manage your GPU, such as NVIDIA's Control Panel, reset its settings to make sure that a specific setting in that software isn't the cause.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Change the Default Color Profile
 
 [Changing the default ICC profile](https://hardware-tips.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-gear/) may also fix the issue with your monitor's display. To do this, right-click on the Start button and select "Settings." Then, navigate to System > Display. Click on "Advanced Display" under Related Settings. If you have multiple displays connected, make sure you choose the correct one from the drop-down menu in the top-right corner.
 
 ![Opening the advanced display settings in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-opening-the-advanced-display-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Next, click on "Display Adapter Properties for Display 1 (or 2)," go to the "Color Management" tab, and click on the "Color Management" button.
 
 ![Opening the color management settings in the display settings of Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-opening-the-color-management-settings-in-the-display-settings-of-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, select the correct display from the drop-down menu next to Device. Then, click on the "Add" button, choose the "sRGB" profile from the ICC profiles list, and click "OK."
 
 ![Adding a new color profile in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-adding-a-new-color-profile-in-the-color-management-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  After that, select the newly added profile and click on the "Set as Default Profile" button. Close all windows, restart your device, and check if the yellow tint issue has been resolved.
 
 ![Making a newly created color profile default in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-making-a-newly-created-color-profile-default-in-the-color-management-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Calibrate the Display Color
 
  If none of the above-mentioned solutions fix the issue, you may need to calibrate the display color. Calibration fine-tunes your display to known color reference standards, which can help eliminate color irregularities such as the yellow tint. To calibrate the display, type "Color Management" into Windows Search and open the "Color Management" window.
@@ -121,8 +119,9 @@ Justin Duino / How-To Geek
  Then, navigate to the "Advanced" tab and click on the "Calibrate Display" button. Follow the on-screen instructions in the Display Color Calibration window to calibrate the display.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Reinstall the Graphics Card Driver
 
  Outdated or corrupted graphics card drivers can also cause unexpected graphics issues. To rule out this possibility, update or reinstall them. Download the latest drivers from your GPU manufacturer's website. If the file is in executable format, run it and follow the on-screen instructions to install it.
@@ -130,6 +129,10 @@ Justin Duino / How-To Geek
  If you have to install the driver manually, right-click on the Start button and select "Device Manager." Expand the "Display Adaptors" category, then right-click on the relevant driver and choose "Update Driver." Select "Browse My Computer for Drivers," locate the downloaded driver file, and follow the on-screen instructions to complete the update.
 
 ![Updating the graphics drivers in the Windows Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-updating-the-graphics-drivers-in-the-windows-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Likewise, follow the steps outlined above to update the monitor drivers.
 
@@ -147,8 +150,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,22 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-guided-pathway-for-large-file-exchange-in-apple-ecosystem-for-2024/"><u>[New] Guided Pathway for Large File Exchange in Apple Ecosystem for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[New] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-understanding-slug-lines-essentials-and-application-guide/"><u>[New] Understanding Slug Lines Essentials & Application Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-full-potential-of-mixer-streaming-on-macos/"><u>[New] Unlocking Full Potential of Mixer Streaming on macOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-why-is-there-no-sound-on-twitter-videos-fixes-for-2024/"><u>[New] Why Is There No Sound on Twitter Videos? | Fixes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailored-ending-scenes-get-em-for-free/"><u>[Updated] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-100-instagram-captions-to-show-yourself-to-the-world-filmora/"><u>2024 Approved 100 Instagram Captions to Show Yourself to the World - Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-list-of-firefox-plugins-for-easy-facebook-video-retrieval-2023-edition/"><u>2024 Approved The Ultimate List of Firefox Plugins for Easy Facebook Video Retrieval, 2023 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-art-of-hdr-photography-on-iphone/"><u>2024 Approved Unveiling the Art of HDR Photography on iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-efficiency-in-telecommuting-a-guide-to-the-6-best-uses-of-chatgpt-for-independent-contractors/"><u>Boosting Efficiency in Telecommuting: A Guide to the 6 Best Uses of ChatGPT for Independent Contractors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-summit-elite-25-testing-analysis/"><u>In 2024, Summit Elite 25 Testing Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>In 2024, Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-full-screen-potential-of-premiere-pro/"><u>In 2024, Unlocking the Full Screen Potential of Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-gameplay-best-portable-accessories-for-nintendo-switch/"><u>Next Level Gameplay: Best Portable Accessories for Nintendo Switch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-10-setup-issues-overcoming-initialization-problems-with-ease/"><u>Solving Windows 10 Setup Issues: Overcoming Initialization Problems with Ease</u></a></li>
+</ul></div>
 

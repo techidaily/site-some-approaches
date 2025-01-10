@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Latest Wave of Smart and AR Glasses - Why They Fall Short
-date: 2024-08-30T21:23:20.049Z
-updated: 2024-08-31T21:23:20.049Z
+date: 2025-01-04T03:42:17.451Z
+updated: 2025-01-09T21:55:46.816Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Evaluating the Latest Wave of Smart and AR Glasses - Why They Fall Short
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,15 +38,17 @@ Tyler Hayes / How-To Geek
  Of course, with the Vision Pro, I’m not actually through a piece of glass to see my room and that digital window. I’m viewing everything through cameras. The same thing is true for the Meta Quest 3 headset. Each of those devices is a laptop-class computer, of some degree, that is processing video feeds to augment reality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Kind of Smart Glasses Can You Buy Now?
 
  The Vision Pro is a good example of where the cutting edge is today. It's a $3,500 headset that uses 12 cameras and lots of sensors to make it feel like you're looking right through a screen, into your room. Apple is taking a top-down approach to hopefully bring the cost of that technology down so it can eventually fit inside a normal-sized pair of glasses. Until then, we're left with different products tackling different pieces of the full AR sum.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Smart Glasses That Work Best For Video Games
 
 ![Display visible through the XReal Air 2 Glasses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/display-visible-throught-the-xreal-air-2-glassesjpg_53347569115_o.jpg) 
@@ -59,16 +65,10 @@ Sergio Rodriguez / How-To Geek
 
 ![Person using the XReal Air 2 Glasses to play on a handheld gaming console.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-using-the-xreal-air-2-glasses-to-play-on-a-handheld-gaming-console-2jpg_53347564035_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Xreal does advertise AR capabilities, but that mostly means that it can put a computer window in your room, in front of you. The Xreal Air 2 performed fine for a product pushing the limits of screen technology and still coming in under $500\. These types of projection glasses are good for playing handheld consoles on a bigger screen or using a laptop with more privacy in public.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Audio Glasses to Replace AirPods
 
 ![Lucyd Lyte audio glasses sitting inside their case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/53116395599_1e47488a7f_o.jpg) 
@@ -86,6 +86,10 @@ Joe Robinson / How-To Geek
 ###  Camera Glasses with Integrated AI Assistants
 
 ![Ray-Ban Meta Smart Glasses sitting on grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/ray-ban-meta-smart-glasses-sitting-on-grass.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -106,25 +110,13 @@ Tyler Hayes / How-To Geek
  If true visual AR glasses aren’t technically possible at the moment, then products like the Meta Ray-Ban Smart Glasses might be able to brute force their way into the space by feeding visual information around you directly into your ears. Look at a face and tell me who it is. Preemptively whisper information into my ear based on what the camera sees that I might have missed or not even known I needed information about.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Will We Get True AR Glasses?
 
 ![A physical keyboard with a virtual text window above it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/img_0032.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 My real, physical, Magic Keyboard on a table with a virtual typing window above it inside visionOS.
 
  That’s where we are regarding the state of shipping products that are inching toward AR glasses. Even though Meta is being aggressive with its face products, I think the actual best look at the possibilities of AR right now is Apple’s Vision Pro. The virtual reality headset launches right into a view of your surroundings and lets you place windows around the space.
@@ -143,8 +135,6 @@ My real, physical, Magic Keyboard on a table with a virtual typing window above 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +142,20 @@ My real, physical, Magic Keyboard on a table with a virtual typing window above 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-unleash-creativity-a-comprehensive-guide-to-movie-maker-on-windows-11-for-2024/"><u>[New] Unleash Creativity A Comprehensive Guide to Movie Maker on Windows 11 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>2024 Approved The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-mobile-video-assembly-software-for-smartphones/"><u>2024 Approved Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-sony-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Sony FRP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ballot-box-battles-prime-voting-challenge-platforms/"><u>Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-not-saving-your-talks-learn-to-fix-it-now/"><u>ChatGPT Not Saving Your Talks? Learn to Fix It Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-endless-load-on-skyrims-startup-a-step-by-step-guide/"><u>Fixing Endless Load on Skyrim's Startup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-all-about-srt-essential-information-made-easy/"><u>In 2024, All About SRT Essential Information Made Easy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-ready-syncing-photos-and-videos-from-pc/"><u>In 2024, IPhone-Ready Syncing Photos & Videos From PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-audio-gradients-in-ableton/"><u>In 2024, Streamlining Audio Gradients in Ableton</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-mystery-of-where-to-find-top-ranked-instagram-ringtones-and-craft-perfect-alarms/"><u>In 2024, Unraveling the Mystery of Where to Find Top-Ranked Instagram Ringtones & Craft Perfect Alarms</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-early-access-obstacles-fixing-valheim-wont-launch-problems-releases/"><u>Overcoming Early Access Obstacles: Fixing 'Valheim Won't Launch' Problems Releases</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-dji-fpv-revolution-a-review-of-eyewear-innovation-for-2024/"><u>The DJI FPV Revolution A Review of Eyewear Innovation for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Files with Ease: Encryption Tips for USB Flash Drives in Windows 10 and 11"
-date: 2024-08-30T21:20:27.441Z
-updated: 2024-08-31T21:20:27.441Z
+date: 2025-01-08T22:26:58.010Z
+updated: 2025-01-09T19:16:43.900Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c
 
  Full disk encryption isn't something everyone needs to do, but if your computer has sensitive information on it that could harm you if the drive were stolen, BitLocker is a good way to protect yourself. It's particularly useful for portable computers, since these have a much higher chance of being lost or stolen than a desktop system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Encrypt a USB Flash Drive in Windows 10 or 11
 
  If you've decided that BitLocker is the right solution for your removable drive, here's how to set it up:
@@ -47,42 +51,45 @@ thumbnail: https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c
 ![A red arrow points to the 'Turn on bitlocker' option in the right-click context menu for a drive in Windows Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Wait for BitLocker to initialize the drive.
 
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  5\. Choose a password.
 
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
 ![Bitlocker asking the user whether they want to encrypt the entire disk or only part of it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8\. Choose the encryption type, which in almost all cases should be "Compatibility Mode." This ensures that older versions of Windows can read the drive. Since we're encrypting a portable drive, this is presumably something you want. However, if you're only going to use this drive with one computer, feel free to select the newer encryption option instead.
 
 ![Bitlocker offering either the new encryption mode or the older compatible mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9\. Click "Start Encrypting" and wait for the process to finish.
 
 ![The BitLocker Ready screen with a 'Start Encrypting' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
 
 ##  How to Decrypt a USB Flash Drive in Windows 10 or 11
@@ -99,14 +106,8 @@ thumbnail: https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then simply confirm as you did when first encrypting the drive.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Third-Party Encryption Options
 
  As mentioned earlier, BitLocker isn't included in Home versions of Windows. That doesn't mean you have to be left in the lurch when it comes to keeping your data safe.
@@ -125,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +133,20 @@ thumbnail: https://thmb.techidaily.com/9caf09d90581e3a94b158683bfe9026f493c02c1c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>[New] The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-brand-potential-top-terminology-for-impactful-campaigns/"><u>[New] Unlock Brand Potential Top Terminology for Impactful Campaigns</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bringing-imagery-elements-into-harmony/"><u>[Updated] Bringing Imagery Elements Into Harmony</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-in-pixels-we-trust-a-guide-to-photomontages/"><u>[Updated] In 2024, In Pixels We Trust A Guide to Photomontages</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-clarity-iphone-low-light-techniques/"><u>2024 Approved Capturing Clarity IPhone Low Light Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-simplify-collaboration-with-mematics-cloud-notes/"><u>2024 Approved Simplify Collaboration with Mematic’s Cloud Notes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-highlight-trail-from-skatescape-2022/"><u>2024 Approved The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/best-10-tikfilters-for-viral-video-success/"><u>Best 10 TikFilters for Viral Video Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-nord-3-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Nord 3 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-virtual-journey-past-to-present/"><u>In 2024, The Virtual Journey Past to Present</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unlimited-sing-along-fun-discover-the-latest-34-karaoke-hits-with-your-party-tyme-subscription/"><u>Unlimited Sing-Along Fun: Discover the Latest 34 Karaoke Hits with Your Party Tyme Subscription</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-7-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 7 i Do? Get Answers here</u></a></li>
+</ul></div>
 

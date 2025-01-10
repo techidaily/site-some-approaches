@@ -1,7 +1,7 @@
 ---
 title: Creating Your Own Simplistic Smartphone Operating System with No-Cost Tools
-date: 2024-08-30T21:17:53.654Z
-updated: 2024-08-31T21:17:53.654Z
+date: 2025-01-06T23:34:21.544Z
+updated: 2025-01-09T23:54:55.043Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Creating Your Own Simplistic Smartphone Operating System with No-Cost Tools
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Start With LineageOS](https://fox-cloud.techidaily.com/in-search-of-perfection-the-top-10-live-streamers/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Top It Off With a Minimalist Launcher](https://extra-lessons.techidaily.com/uninterrupted-cinematic-videos-smartphones-best-feature-optimal-stability/)
 
  I carried around a Light Phone 2 for years, but as an LTE-only phone, it didn't get strong reception where I lived. Still, I've kept an eye on the minimalist phone scene, and after seeing yet another phone with a paired-down launcher hit the web, it occurred to me that I could just make my own using a phone I already have lying around.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Start With LineageOS
 
@@ -35,8 +43,9 @@ Close
  Frankly, if you want, you could stop right here. Your phone is already more capable than most dumbphones, and you get to keep the large screen and superior camera you may like about your existing smartphone. However, you may want to disable the browser to keep yourself from mindlessly scrolling (or, if you find yourself simply re-enabling the browser, [remove it entirely using ADB](https://techtrends.techidaily.com/how-to-successfully-obtain-a-refund-for-your-purchased-games-on-steam/)). 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Avoid Temptation — Don't Install the Play Store
 
  After installing LineageOS, you have the option to install a package known as GApps. This supplies your phone with Google Play Services and the Play Store. It's a necessary component to make your phone feel like a traditional Android phone you get from the store.
@@ -44,8 +53,9 @@ Close
  To keep your phone a minimalist phone, avoid this step. The Play Store is an endless well of distraction. Leaving the Play Store off means you don't have to resist thousands of games, streaming platforms, or dedicated social media apps. Instead of having to [set limits on which apps you use](https://eaxpv-info.techidaily.com/updated-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/), they simply aren't available, even though you're still running Android.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Download F-Droid for a Few Apps
 
 Close 
@@ -59,8 +69,9 @@ Close
  I turn to F-Droid for [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), an alternative I prefer over the default Music app in LineageOS. There's [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) for podcasts and [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) for audiobooks. [Breezy](https://f-droid.org/en/packages/org.breezyweather/) is an incredibly stylish weather app. There's also the entire [Fossify suite of apps](https://search.f-droid.org/?q=fossify&lang=en) that provide everything you need for a functional phone, such as a Dialer, Messages, Contacts, Gallery, Voice recorder, and so on. Going all in on Fossify apps is not a bad way to have a consistent experience that's more fleshed out than what the default LineageOS apps provide.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Top It Off With a Minimalist Launcher
 
  The launcher that LineageOS comes with is functional, but I'm not a fan. I'm not particularly keen on Android's default launcher in general. An app drawer begs to be filled with apps, as do empty home screen pages. That's the opposite of what I want to do.
@@ -91,8 +102,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +109,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-decrypting-youtube-live-thumbnails-for-success/"><u>[New] 2024 Approved Decrypting YouTube Live Thumbnails for Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-nft-mastermakers-essential-tools-for-digital-artists/"><u>[New] NFT Mastermakers Essential Tools for Digital Artists</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unmute-youtube-links-in-silent-twitter-videos-for-2024/"><u>[New] Unmute YouTube Links in Silent Twitter Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-zoom-setup-ensuring-smooth-video-conferencing/"><u>[Updated] The Art of Zoom Setup Ensuring Smooth Video Conferencing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-powerdirector-2024-guide/"><u>[Updated] The Complete PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-learn-the-ins-and-outs-of-online-photo-cropting-tools/"><u>2024 Approved Learn the Ins and Outs of Online Photo Cropting Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sound-on-a-toshibe-notebook-proven-techniques-and-advice/"><u>Reviving Sound on a Toshibe Notebook: Proven Techniques and Advice</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/time-saving-approaches-to-turn-whatsapp-audios-into-mp3-format-for-2024/"><u>Time-Saving Approaches to Turn WhatsApp Audios Into MP3 Format for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-mysteries-of-digital-media-ownership-on-youtube/"><u>Unveiling the Mysteries of Digital Media Ownership on YouTube</u></a></li>
+</ul></div>
 

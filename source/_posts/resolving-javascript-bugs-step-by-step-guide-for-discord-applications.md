@@ -1,7 +1,7 @@
 ---
 title: "Resolving JavaScript Bugs: Step-by-Step Guide for Discord Applications"
-date: 2024-08-30T21:21:08.494Z
-updated: 2024-08-31T21:21:08.494Z
+date: 2025-01-04T17:58:06.903Z
+updated: 2025-01-09T21:40:26.945Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 !['Run as Administrator' highlighted for Discord in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-run-discord-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the User Account Control prompt, select "Yes."
 
  If this method fixes the issue, make Windows always launch Discord as an admin. Do that by first right-clicking Discord’s desktop shortcut and choosing "Properties."
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 !['Run as Administrator' and 'OK' highlighted for Discord.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-always-launch-discord-as-admin.jpg) 
 
  Select "Apply," choose "Continue" in the prompt, and select "OK." From now on, whenever you launch Discord using your desktop shortcut, it’ll run with admin rights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Delete Discord’s AppData Files
 
@@ -61,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
  Launch the [Discord Download](https://discord.com/download) site, download the installer, and run the installer to reinstall fresh copies of the required files to your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Turn Off Your Antivirus Program
 
  It’s possible your antivirus app is interfering with Discord, causing the problem. To verify and fix that, temporarily disable your antivirus protection. How you do this depends on the program you’re using.
@@ -69,21 +81,14 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 !['Manage Settings' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-manage-virus-protection-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, turn off "Real-Time Protection" and choose "Yes" in the prompt.
 
 !['Real-Time Protection' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disable-microsoft-defender-antivirus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That’s it.
 
 ##  Uninstall BetterDiscord
@@ -94,21 +99,20 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 !['Uninstall BetterDiscord' and 'Next' highlighted BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-uninstall-betterdiscord.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select your current Discord app and choose "Uninstall."
 
 ![The current Discord app and 'Uninstall' highlighted in BetterDiscord installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-remove-betterdiscord.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When BetterDiscord is uninstalled, click "Close" to close the open window.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Reinstall Discord
 
  If nothing fixes your issue, your last resort is to completely remove and reinstall the Discord app on your computer. This removes all the app files (some of which may be faulty), helping you resolve the problem.
@@ -119,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 !['Uninstall' highlighted for Discord in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-delete-discord-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  To delete Discord on a Windows 10 PC, visit Settings > Apps. Select Discord on the list, click "Uninstall," and choose "Uninstall."
 
 !['Uninstall' highlighted for Discord in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-remove-discord-windows-10.jpg) 
@@ -134,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +142,24 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>[New] Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>[Updated] In 2024, Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-survey-spectrum-of-video-and-film-equipment/"><u>[Updated] Survey Spectrum of Video and Film Equipment</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps/"><u>[Updated] Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-adding-audio-storytelling-to-video-content/"><u>2024 Approved The Art of Adding Audio Storytelling to Video Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-scripted-text-into-storytelling-magic/"><u>2024 Approved Transform Scripted Text Into Storytelling Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unzip-the-scripts-crafting-subtitles-from-compressed-files/"><u>2024 Approved Unzip the Scripts Crafting Subtitles From Compressed Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-eblack-screen-issue-efficient-solutions-and-fixes-to-restore-your-gameplay-smoothly/"><u>Fallout Eblack Screen Issue: Efficient Solutions and Fixes to Restore Your Gameplay Smoothly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-rtx-nv-rdlc43157-full-drivers-for-your-pc-running-on-windows-11-download-and-update/"><u>Get the Newest RTX Nv-RDLC_431.57 Full Drivers for Your PC Running on Windows 11 (Download & Update)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v17-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.7 document with digital signature software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-iphone-photography-in-the-dark/"><u>In 2024, The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>In 2024, Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-enhancing-mobile-connectivity-2024s-leading-signal-boosters/"><u>Ultimate Guide to Enhancing Mobile Connectivity: 2024'S Leading Signal Boosters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-social-media-stardom-essential-strategies-for-instagram-fame-for-2024/"><u>Unlocking Social Media Stardom Essential Strategies for Instagram Fame for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-discovering-vn-video-editor-for-pc-a-brief-analysis/"><u>Updated In 2024, Discovering VN Video Editor for PC A Brief Analysis</u></a></li>
+</ul></div>
 

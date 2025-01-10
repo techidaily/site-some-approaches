@@ -1,7 +1,7 @@
 ---
 title: "Exploring Plasma Eo6: A One-Week Journey Through Its Features and Functionalities"
-date: 2024-08-30T21:20:08.387Z
-updated: 2024-08-31T21:20:08.387Z
+date: 2025-01-06T04:07:22.058Z
+updated: 2025-01-09T21:23:46.403Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 * [Stability: Generally Good...](https://facebook-videos.techidaily.com/2024-approved-effortless-extraction-of-facebook-hd-vids/)
 * [Will I Stick With Plasma 6.0?](https://facebook-video-content.techidaily.com/in-2024-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Plasma 6.0 is feature-rich with seemingly endless customization options. It's developed by KDE with support from major companies.
@@ -32,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
  I’ve always been aware of the KDE Plasma desktop, and occasionally I’ve dabbled with it out of curiosity. Here’s what a GNOME user discovered when I used it exclusively for one week.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Desktop Environment and Getting Work Done
 
  I use my computers to earn my living. My number one priority is getting work done. That means I need to have solid, dependable software available to me, and both the software and operating system must be stable. Likewise, the desktop environment.
@@ -48,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  First Impressions
 
  I installed Plasma on Arch to get a plain-vanilla spin of Plasma. To get work done I need to navigate the file system, launch and install applications, and change settings in the DE.
@@ -59,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 
 ![The KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The panel, or toolbar, at the bottom of the desktop, has a refined touch of class to it. The system tray icons on the far right, in particular, look great in their monochrome minimalist style.
@@ -72,6 +71,10 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 desktop with several windows open and a panel thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  By default, Plasma windows have their close, minimize, and maximize icons on the top right, and a small application icon on the top left. Clicking the icon and choosing “More Actions” from the menu gives you access to a further set of options for the window, including keeping this window on top of other windows.
@@ -79,8 +82,9 @@ Dave McKay/How-To Geek
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  You can change wallpapers, icons, system sounds, window decorations, and more in the System Settings application, under the "Colors and Themes" section.
@@ -99,14 +103,15 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser with split panes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -120,15 +125,16 @@ Dave McKay/How-To Geek
 
  Having a list of mounted drives, each with a visual depiction of used and free space, is such a useful feature it makes you wonder why others don’t adopt this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Default KDE Applications
 
  Plasma 6.0 comes well-equipped, with a [collection of software applications](https://community.kde.org/KDE%5FGear/24.02%5FRelease%5Fnotes) already installed. They’re all accessible from the Application Launcher.
 
 ![The KDE Plasma 6.0 Application Launcher showing Frequently Used applications and places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  You can search by name, browse through categories such as Development, Graphics, and Internet, or pick from frequently used applications.
@@ -142,17 +148,15 @@ Dave McKay/How-To Geek
 ![The LibreOffice entry in the KDE Plasma 6.0 Discover app store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  A small progress bar in the lower left lets you know how close to completion your installation is.
 
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Once installed and launched, LibreOffice looked like any other application in Plasma, with the appropriate window and dialog decorations from the desktop theme.
@@ -179,14 +183,12 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 System Settings application open on the General Behavior pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Stability: Generally Good...
 
  Plasma 6.0 is touted as having much-improved support for Wayland, but I couldn’t get it to work at all. Swapping back to X11 brought everything to life, and no doubt Wayland support will continue to improve. The chatter on forums tells me it works just fine for many people.
@@ -211,8 +213,6 @@ Dave McKay/How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +220,26 @@ Dave McKay/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-5-best-ps1-emulators-for-pc/"><u>[New] 2024 Approved 5 Best PS1 Emulators for PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-guide-to-creating-engaging-trendy-fb-reels/"><u>[New] Step-by-Step Guide to Creating Engaging, Trendy FB Reels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-eternal-methodology-for-instantaneous-tiktok-linking/"><u>[New] The Eternal Methodology for Instantaneous TikTok Linking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-frontier-of-gesture-based-technology-advancements/"><u>[New] The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-key-elements-in-achieving-proficient-interview-performance/"><u>[New] The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-the-top-5-apple-compatible-podcast-tools-for-2024/"><u>[Updated] Essential Guide to The Top 5 Apple-Compatible Podcast Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-integrating-obs-recording-capabilities-into-zoom-sessions/"><u>[Updated] In 2024, Integrating OBS Recording Capabilities Into Zoom Sessions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-directory-for-free-visual-treasures/"><u>[Updated] Ultimate Directory for Free Visual Treasures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>2024 Approved Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-web-exploration-with-microsofts-split-screen-functionality/"><u>2024 Approved Transform Your Web Exploration with Microsoft's Split Screen Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-file-fusion-seamless-conversion-from-srt-to-other-formats-for-2024/"><u>Audio File Fusion Seamless Conversion From SRT to Other Formats for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guide-pratique-comment-joindre-une-vedette-par-email/"><u>Guide Pratique : Comment Joindre Une Vedette Par Email</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-exclusive-windows-11s-media-importers/"><u>In 2024, The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-turn-template-ideas-into-real-logo-artwork/"><u>In 2024, Turn Template Ideas Into Real Logo Artwork</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/microsoft-targets-improvement-of-text-clarity-in-chrome-browsers-for-windows-users/"><u>Microsoft Targets Improvement of Text Clarity in Chrome Browsers for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990899286-solving-lost-ark-server-disconnect-error-effective-solutions-revealed/"><u>Solving Lost Ark Server Disconnect Error - Effective Solutions Revealed!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-newbies-roadmap-to-understanding-av1-for-2024/"><u>The Newbie’s Roadmap to Understanding AV1 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-pinnacle-studio-for-mac-top-competitors-and-options-for-2024/"><u>Updated Pinnacle Studio for Mac Top Competitors and Options for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Linux Experience: Emulating the Aesthetic of Windows 11"
-date: 2024-08-30T21:20:46.473Z
-updated: 2024-08-31T21:20:46.473Z
+date: 2025-01-06T02:26:11.210Z
+updated: 2025-01-09T23:06:53.655Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  Want to use a Linux desktop but don't want to lose Windows 10's familiar look and vibe? Most desktop environments come with unique layouts and themes by default, but with a bit of effort, you can convert it to a spitting image of the Windows 10 desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 1: Get a Windows 10 GTK Theme
 
  The method that works on many desktop environments is to simply download a Windows 10 theme pack and icon pack designed for GTK desktops and drop them into the proper folders. We'll demonstrate this with Cinnamon (on Linux Mint 23.3, specifically), but it'll also work on [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/), Xfce, LXDE, and MATE.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![GitHub Release page for B00-merang-Project's Windows 10 theme, with the zip file download labeled Source Code highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_13h33_54.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  When the ZIP file download completes, you'll need to extract the contents. For a quick command line solution, first run this command in your home directory to create the folder in case it doesn't already exist:
 
 mkdir -p ~/.themes
@@ -62,25 +63,21 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 ![The Show Hidden Files option in the Nemo file manager for Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_14h53_57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You should now see several folders that weren't there before and whose names start with a period like ".local". You need the ".themes" folder, but in our version of Linux it didn't exist yet, so we just made one.
 
 ![Creating a folder named .themes in a Linux home directory using a file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_14h57_55.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After creating the .themes folder, open it and paste your theme folder there by either right-clicking and selecting "Paste" or using the keyboard shortcut Ctrl+V.
 
 ![Windows 10 theme pasted into the .themes folder on a Linux system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h05_13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
+
 ###  Step 2: Download and Install the Icon Pack
 
  The basic theme package contains what you need to get the overall design of Windows 10, but if you want those illustrious icons, you need to get and install those separately.
@@ -100,11 +97,16 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 ![If you're using the Cinnamon desktop environment, click "Advanced Settings" in your Themes menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-10_15h26_22.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Again, the interface will look different depending on precisely your distro and DE. But in Cinnamon, there are three categories you can change to Windows: Applications, Icons, and Desktop. Click the button in each category to open the options.
 
 ![Cinnamon breaks theming down into applications, icons, and desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-10_15h29_17.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You might need to scroll to reveal it, but there will be an option named Windows-10-1.2.3 (or whatever theme or icon version you downloaded is named).
 
@@ -120,6 +122,10 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![Choose the "start-here-symbolic" icon to fix the Start menu icon in Cinnamon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_14h39_57.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If I want to see window titles in open taskbar apps, I can right-click any app icon and go to Applet Preferences > Configure > Panel > Button Label, then select "Window Title."
 
 ![Change the "Button Label" option in your applet panel settings to "Window Title" so that you can see app names in your Cinnamon task bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-16_15h42_08.png) 
@@ -128,16 +134,14 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![Toggle on and off your desktop icons in Cinnamon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h27_39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now my Cinnamon desktop is looking pretty good.
 
 ![Cinnamon desktop with additional Windows 10 tweaks applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h50_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 2: Use a Community Theme Pack
 
  Some desktop environments have a built-in tool for finding and installing themes built and shared by community members. In my experience, these tend to be hit-and-miss. They may not be as perfect a reproduction as you hope for, so you may end up needing manual tweaks anyway. Icons may be missing. Updates to the desktop environment itself can break the theme, too, forcing you to further tweak or undo the theming altogether.
@@ -148,27 +152,24 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![In Cinnamon's theme manager, click the download button next to the theme you want to download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h32_57.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've downloaded the theme, you've then got to go back to the Themes tab and activate it. You may have to scroll to find it.
 
 ![Select the Windows 10 theme you downloaded.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h41_53.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select it and, if all went well, you've got your Windows 10 theme.
 
 ![Linux Mint Cinnamon desktop with a Windows 10 theme installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-16_16h46_07.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I added a classic Windows 10 background myself. As you can see, though, there are none of those recognizable icons. At least on Cinnamon, you'll have to manually install them, which I walked through above. You may want to make the extra tweaks I outlined above too.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Why Clone Windows 10 With Linux?
 
  For me, the unconventional interface some desktop environments bring is part of the appeal of switching to Linux. Not everyone is like me, though, and you may want to switch to Linux without your PC desktop world turned upside down. Even if you are like me, this is still a great trick to know if you're [replacing an installation of Windows with Linux](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/) on the PC of a friend or relative who doesn't want to put up with Windows' annoyances anymore.
@@ -181,8 +182,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +189,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-high-quality-vector-graphics-top-10-sources/"><u>[New] High-Quality Vector Graphics Top 10 Sources</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-permitted-practices-for-saving-youtube-videos/"><u>[New] In 2024, Permitted Practices for Saving YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-gear-for-gopro-lenses/"><u>[New] Ultimate Gear for GoPro Lenses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>[New] Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-your-ideal-vr-gear-selection-would-you-prefer-the-ease-of-mobile-or-tethered-setup/"><u>[New] Unveiling Your Ideal VR Gear Selection Would You Prefer the Ease of Mobile or Tethered Setup?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-priority-tools-critical-6-fb-lite-downloads/"><u>[Updated] Priority Tools Critical 6 FB Lite Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-budget-friendly-cloud-service-providers/"><u>[Updated] Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kickstart-a-successful-charity-contest-via-social-media/"><u>2024 Approved Kickstart a Successful Charity Contest via Social Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>In 2024, The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-your-essential-list-of-free-high-quality-online-meeting-software/"><u>In 2024, Your Essential List of Free, High-Quality Online Meeting Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-secret-language-of-success-top-20-market-phrases/"><u>The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-tactics-for-triumph-roller-champions-crossplay-gaming-guide-on-computer-systems-updated/"><u>Top Tactics for Triumph: Roller Champions Crossplay Gaming Guide on Computer Systems (Updated )</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
+</ul></div>
 

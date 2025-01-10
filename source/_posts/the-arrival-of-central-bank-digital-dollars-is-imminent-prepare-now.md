@@ -1,7 +1,7 @@
 ---
 title: The Arrival of Central Bank Digital Dollars Is Imminent - Prepare Now
-date: 2024-08-30T21:23:39.908Z
-updated: 2024-08-31T21:23:39.908Z
+date: 2025-01-09T02:45:11.215Z
+updated: 2025-01-10T01:11:53.490Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## The Arrival of Central Bank Digital Dollars Is Imminent - Prepare Now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  They are coming for you and your bank sooner than you think. And they have the potential to upend the way you transact and the future of cash as we know it. Meet "Central Bank Digital Currencies," or CBDCs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  CBDCs: Coming to a Country Near You
 
 [According to the Atlantic Council](https://www.atlanticcouncil.org/cbdctracker/), an independent organization based in Washington, D.C. that tracks CBDCs, as of April 2022, 91 countries are considering issuing a CBDC. The Biden administration signed an [executive order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/) on digital assets on March 9, 2022 which contained a stipulation to research what a government-wide approach to deploying a CBDC would look like in the United States.
@@ -32,9 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  It's also important to understand that not all CBDCs are created equal and nation-states will deploy them in a variety of ways, leading to significant implications for their citizens. The consequences of specific CBDC designs will play out in everyday society and culture. Let's explore some of the nuances of CBDCs so you are prepared for the coming revolution in government money.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **What Is a CBDC?** 
 
  A CBDC is a central bank digital currency. They are digital versions of a nation-state currency issued by the central bank of a given nation. They may or may not be backed by another asset or they may exist purely as fiat currency, which means the value is based on the promise of the government. Most major nation-states use fiat currency today and you could think of CBDCs as a digital version of fiat that has special unique additions in capabilities and functions because it's purely digital.
@@ -47,14 +52,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Development of CBDCs by Country Based on Color Codes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Screen-Shot-2022-04-18-at-3.02.28-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[Atlantic Council](https://www.atlanticcouncil.org/cbdctracker/)_
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Government Issued & Owned** 
 
  Governments like CBDCs because they are issued by the state and it allows for tight regulation within a closed system. CBDCs are under the direct control of the government unlike cryptocurrencies which are issued by the private sector or public blockchains
@@ -70,11 +73,16 @@ _[Atlantic Council](https://www.atlanticcouncil.org/cbdctracker/)_
  Let's remember that crypto is opt-in because you have the freedom to choose if you want to participate in the cryptocurrency and web3 economy. Nobody is making you download a [crypto wallet](https://fox-that.techidaily.com/iphone-users-troubleshoot-your-contacts-app-issues-with-these-simple-solutions/) and start trading [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/) or cryptocurrency tokens. It's entirely your own individual choice. It's critical to note that CBDCs may be opt-in---or they may become mandatory, depending on the laws and rules of a specific country.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Concerns With CBDCs** 
 
 ![A Bitcoin token and a dollar bill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/shutterstock_1224403570.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/closeup-george-washingtons-image-on-us-1224403570)_
 
@@ -88,10 +96,6 @@ _[Robert Avgustin/Shutterstock.com](https://www.shutterstock.com/image-photo/clo
 
  The basic rights outlined in the Bill of Rights depend on economic freedom to be exercised. If economic freedom becomes more limited through the strict oversight of financial transactions using CBDCs, then fundamental rights become impinged and threatened.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## **Benefits of CBDCs** 
 
  There are a range of benefits derived from some CBDCs, while others may offer limited benefits depending on their application. CBDCs are more cost-efficient than physical cash as they have lower transaction costs. It's much cheaper to send bits of data across the country than to pay for the security needed to transport large sums of cash as in the case of using armed guards and armored bank vehicles to pick up and deliver cash and other physical assets like gold bars.
@@ -100,9 +104,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  One major benefit is that CBDCs can promote financial inclusion by allowing people who are often left out of the financial sector access to banking and other services. In many cases, all you need is a smartphone to get access to CBDCs. They can compete with private companies that need incentives to meet transparency standards and limit illicit activity.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How Will CBDCs Affect You?** 
 
  A CBDC is virtual money backed and issued by a central bank. CBDCs are a government version of digital money but differ in some ways from cryptocurrency because they are always centralized whereas cryptocurrencies vary in their level of decentralization and central control. CBDCs could reach mass adoption and become part of daily life nearly as much as debit and credit cards.
@@ -123,8 +124,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +131,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tune-tastic-transfers-find-your-favorite-youtube-songs-with-top-6-free-android-apps/"><u>[New] 2024 Approved Tune-Tastic Transfers Find Your Favorite Youtube Songs with Top 6 Free Android Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-tips-for-creating-engaging-and-memorable-instagram-reels/"><u>[New] In 2024, Top Tips for Creating Engaging and Memorable Instagram Reels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-sustainable-brand-collaboration-with-youtubers/"><u>[New] Strategies for Sustainable Brand Collaboration with YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-components-of-podcast-scripting-guide-plus-free-examples/"><u>[New] The Essential Components of Podcast Scripting (Guide + Free Examples)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-screen-record-on-lenovo-laptop/"><u>[Updated] In 2024, How to Screen Record on Lenovo Laptop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-thrives-amidst-widespread-shop-closures-a-deep-dive-into-its-resilient-strategy-zdnet/"><u>Amazon Thrives Amidst Widespread Shop Closures: A Deep Dive Into Its Resilient Strategy - ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-the-quest-for-data-security/"><u>ChatGPT and the Quest for Data Security</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-sony-xperia-1-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Sony Xperia 1 V</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>In 2024, Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>In 2024, Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-in-depth-study-of-audafreedomaudiotools/"><u>In 2024, The In-Depth Study of AudaFreedomAudioTools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-online-titler-pros-unveiled/"><u>In 2024, Top 5 Online Titler Pros Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>In 2024, Top Picks Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-rated-mkv-player-mobile-laptop/"><u>In 2024, Top-Rated MKV Player Mobile, Laptop</u></a></li>
+<li><a href="https://fox-links.techidaily.com/maximize-your-snapshots-on-android-for-2024/"><u>Maximize Your Snapshots on Android for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-s17-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on S17</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-gameplay-be-enhanced-by-switching-to-a-mech-keyboard/"><u>Should Gameplay Be Enhanced by Switching to a Mech Keyboard?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-for-premiere-pro-full-screen-viewing-for-2024/"><u>The Ultimate Guide for Premiere Pro Full Screen Viewing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-superior-video-compression-in-av1-for-2024/"><u>Unveiling the Superior Video Compression in AV1 for 2024</u></a></li>
+</ul></div>
 

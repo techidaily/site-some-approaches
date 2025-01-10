@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkBook 13X Gen 4 Unveiled - Defining the Next Generation of Ultraportable Tech for Business Users
-date: 2024-08-30T21:21:22.881Z
-updated: 2024-08-31T21:21:22.881Z
+date: 2025-01-03T00:55:41.756Z
+updated: 2025-01-09T17:21:10.412Z
 tags:
   - deals
 categories:
@@ -43,6 +43,10 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 * There are no up-firing speakers
 
 [$1,580 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036ViAz2DznXxyKRV719Q) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -124,12 +128,13 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Design: A Familiar, Streamlined Look
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -140,6 +145,10 @@ Jerome Thomas / How-To Geek
  From the front, the ultra-thin frame encases a vibrant 13.5-inch touchscreen display, while the webcam is built into the bezel, with the quad microphone system and two microphones nestled into the top of the bezel. Its lightweight build—just 2.7 pounds—is perfect for taking on the go. It fit comfortably under my arm when folded and was easy to tote around town when I had a power outage at home and needed to work elsewhere.
 
  The keyboard is a 10keyless chiclet affair that takes up about half of the laptop's base, and the buttonless touchpad rests underneath it in a nearly central location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Ports: Just the Basics** 
 
@@ -153,16 +162,14 @@ Close
 
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  While typists everywhere will probably say a keyboard's type-feel is a personal choice (and that's true to an extent), I couldn't get behind the keyboard on the ThinkBook 13x Gen 4\. Typing on it felt more like a chore than it should've been. It felt loose rather than springy. For speed, this might work for some people, but the lack of spring-back felt off to me, and sometimes, I felt like typing on the 13x keyboard was more of an effort than using something stiffer. And I found myself either making weird typos or taking twice as long to type something that would've been easier on springier keys.
@@ -172,6 +179,10 @@ Jerome Thomas / How-To Geek
  The glass surface touchpad, which measured approximately 2.95 by 4.72 inches, felt better than the keyboard. I enjoyed scrolling, clicking, and tapping enough to avoid using my Bluetooth mouse unless I needed it for gaming.
 
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
@@ -193,16 +204,10 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performance: Excellent Computing Within Limits
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With an Intel Core Ultra 5 125H CPU with an 18MB cache, 14 cores, and 18 threads, my everyday workload and multitasking on the ThinkBook 13x was a cinch. On a PCMark 10 benchmark, the laptop scored 6,210 overall, with fairly high scores in Essentials (9,463) and Digital Content Creation (8,638). Productivity wasn't far behind, with a score of 7,951.
@@ -213,9 +218,6 @@ Jerome Thomas / How-To Geek
 
  The device surpassed my expectations thanks to its powerful CPU for streaming and other media consumption and creation, like photo and video editing. Even though integrated [Intel ARC graphics wouldn't be my first choice for gaming](https://instagram-video-recordings.techidaily.com/updated-fast-track-to-fame-masterful-use-of-insta-likes-and-vids-for-2024/), the GPU worked well for most other content scenarios.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Gaming Performance: Surprisingly Good Gameplay for Casual Gamers
 
  Although I experienced a bit too much latency to recommend the ThinkBook 13x Gen 4 for anyone who games competitively, I had a great time playing games casually on the laptop. Some games that give me a lot of trouble on non-gaming laptops, like "A Plague Tale: Requiem," played so well on the 13x that my jaw actually dropped.
@@ -230,10 +232,6 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Laptop speakers are rarely that good, but the ThinkBook 13x Gen 4 has a quad-speaker system with two 2W woofers and two 2W tweeters by Harman Kardon. This, accompanied by Dolby Atmos, made the speakers a joy to listen to. While they aren't the best speakers I've heard on a laptop, they were perfectly satisfactory when streaming shows, listening to music, and even gaming.
@@ -253,25 +251,34 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 
 
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  On average, the ThinkBook 13x Gen 4's battery drained at a rate of about 0.38% per minute (or about 22.8% per hour). That means I got about four hours of battery life out of a full charge. This was usually at 80 to 100% screen brightness, or about 400 to 500 nits, respectively. It's worth noting that the battery life benchmark for local video playback was 27 hours at 150 nits brightness. Based on my battery drainage, I don't believe the battery would last 27 hours at that brightness level. Nonetheless, the ThinkBook had an average to decent battery life when I used it.
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
@@ -283,10 +290,6 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 #####  Lenovo ThinkBook 13x Gen 4
 
 8/ 10 
@@ -301,8 +304,6 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -310,4 +311,21 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-structuring-stimulating-podcast-sneak-peeks/"><u>[New] Structuring Stimulating Podcast Sneak Peeks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-hues-handbook-theory-meets-technique/"><u>[New] Ultimate Hues Handbook Theory Meets Technique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-choice-for-live-tv-access-with-regional-networks-2024-edition/"><u>[Updated] Ultimate Choice for Live TV Access with Regional Networks, 2024 Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-using-obs-with-zoom-the-easiest-steps/"><u>[Updated] Using OBS with Zoom [The Easiest Steps]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-efficiency-in-action-best-10-ways-to-youtube-conversion/"><u>2024 Approved Efficiency in Action Best 10 Ways to YouTube Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-flat-text-into-sculptable-3d-characters/"><u>2024 Approved Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>2024 Approved Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dual-realities-decoded-meta-and-omni-explored-for-2024/"><u>Dual Realities Decoded Meta and Omni Explored for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-action-footage-enhanced-top-mic-picks/"><u>In 2024, Action Footage Enhanced Top Mic Picks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 10C Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-white-screens-and-blank-logins-on-windows-1011/"><u>Navigating Through White Screens and Blank Logins on Windows 10/11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a54-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A54 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-imagination-into-visual-masterpieces-on-windows-10-for-2024/"><u>Transform Your Imagination Into Visual Masterpieces on Windows 10 for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerful-capabilities-of-the-garmin-forerunner-945-top-tier-gps-smartwatch-reviewed/"><u>Unveiling the Powerful Capabilities of the Garmin Forerunner 945 - Top-Tier GPS Smartwatch Reviewed</u></a></li>
+</ul></div>
 

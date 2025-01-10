@@ -1,7 +1,7 @@
 ---
 title: "Portable Powerhouse: Unboxing the Razer USB-C Dock for On-the-Go Laptop Enthusiasts"
-date: 2024-08-30T21:17:33.049Z
-updated: 2024-08-31T21:17:33.049Z
+date: 2025-01-09T02:27:26.172Z
+updated: 2025-01-09T18:15:08.884Z
 tags:
   - product-reviews
 categories:
@@ -47,6 +47,10 @@ From Windows and Mac setups to desktops and mobile workstations, maximize your c
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Razer USB-C Dock retails for $119.99 and is available at Razer's store, Amazon, and other retailers. There are two colorways available—[Black](https://www.amazon.com/Razer-11-Port-Charging-Station-Chromebook/dp/B0CPGZTX6C?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004322&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-usb-c-dock-review%2F&asc%5Fcampaign=Authority) and [Mercury](https://www.amazon.com/Razer-11-Port-Charging-Station-Chromebook/dp/B0CPH52JRT?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004322&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-usb-c-dock-review%2F&asc%5Fcampaign=Authority). At this time, this is one of two docks available from Razer—the other is the [Razer Thunderbolt 4 Dock](https://www.amazon.com/Razer-Thunderbolt-Dock-Future-Proof-Backward-Compatible/dp/B091BML59Y?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004322&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frazer-usb-c-dock-review%2F&asc%5Fcampaign=Authority).
@@ -79,13 +83,13 @@ From Windows and Mac setups to desktops and mobile workstations, maximize your c
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Design: Small, Slim, and With Portability In Mind
 
 ![The Razer USB C Dock on a desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53723816631_5f1240f23f_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -97,16 +101,14 @@ Jerome Thomas / How-To Geek
 
  That said, this little dock is a game-changer for laptop gamers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  An Ethernet Port Is a Big Deal
 
 ![The back of the Razer USB C Dock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53724253920_1c65373928_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  One thing that helps Razer's USB-C dock stand out from the crowd is an Ethernet port. While not entirely unheard of with a dock, it isn't particularly common, either. As many USB-C docks are created with productivity in mind, an Ethernet port will take a back seat to other ports that are considered more important. Having a wired connection is low on the list of priorities for the average professional.
@@ -121,9 +123,6 @@ Jerome Thomas / How-To Geek
 
 ![The Razer USB C Dock connected to a laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53724161679_51304095a5_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Another unique aspect of the Razer USB-C Dock is the ability to charge your laptop via a passthrough USB-C port. The port delivers up to 85W of power. For comparison, a MacBook Air M3 needs at least 65W for fast charging, and my gaming laptop (a 2021 Lenovo Legion laptop) accepts power delivery from 65W to 100W.
@@ -135,8 +134,9 @@ Jerome Thomas / How-To Geek
  Normally, with power delivery passthrough on a dock, you have to decide if you want to forgo some other ports and features to save on the price, have a bulky dock that's harder to slip into a laptop bag, or just pay a lot to have it all. Razer's dock does lean more toward that third camp with its higher price point, but compared to other docks with similar features on the market, the company manages to balance cost with useful features well.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Razer USB-C Dock?
 
 ![The Razer USB C Dock connected to a laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53722917557_5924e03b46_o.jpg) 
@@ -154,17 +154,9 @@ Jerome Thomas / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Razer USB-C Dock
 
 8/ 10 
@@ -181,8 +173,6 @@ From Windows and Mac setups to desktops and mobile workstations, maximize your c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +180,20 @@ From Windows and Mac setups to desktops and mobile workstations, maximize your c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>[New] The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-11-hacks-for-new-windows-11/"><u>[New] Top 11 Hacks for New Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>[New] Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-curved-image-design/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Curved Image Design</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-screens-with-active-8-a-comparative-review/"><u>[Updated] In 2024, Mastering Screens with Active 8 - A Comparative Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok/"><u>2024 Approved Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fix-windows-sandboxs-no-hypervisor-error/"><u>Guide to Fix Windows Sandbox's No Hypervisor Error</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210929074-9781781484173-infinite-awakening-a-miraculous-journey-for-the-advanced-soul/"><u>Infinite Awakening - A Miraculous Journey for the Advanced Soul | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-amazon-prime-day-2024-every-detail-explained/"><u>Inside Scoop on Amazon Prime Day 2024: Every Detail Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-fb-alerts-and-messages-instantly-tips-and-tricks/"><u>Stop FB Alerts & Messages Instantly: Tips and Tricks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-mighty-flyers-best-drones-for-maximum-load/"><u>The Mighty Flyers Best Drones for Maximum Load</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-path-to-artistic-expression-discover-free-tools-for-voice-modification-for-2024/"><u>The Path to Artistic Expression – Discover Free Tools for Voice Modification for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-photoshop-guide-to-text-becoming-3d-for-2024/"><u>The Ultimate Photoshop Guide to Text Becoming 3D for 2024</u></a></li>
+</ul></div>
 

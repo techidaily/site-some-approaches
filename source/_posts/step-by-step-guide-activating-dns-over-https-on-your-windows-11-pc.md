@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating DNS over HTTPS on Your Windows 11 PC"
-date: 2024-08-30T21:21:35.552Z
-updated: 2024-08-31T21:21:35.552Z
+date: 2025-01-07T17:52:08.893Z
+updated: 2025-01-09T22:23:49.239Z
 tags:
   - deals
 categories:
@@ -26,13 +26,18 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
  For improved online privacy and security, Windows 11 lets you use [DNS over HTTPS](https://hardware-updates.techidaily.com/insignia-thunderbolt-usb-cable-with-ethernet-adapter-software/) (DoH) to encrypt the DNS requests your computer makes while you browse or do anything else online. Here's how to set it up.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Encrypted DNS Is More Private and Secure
 
  Every time you visit a website using a domain name (such as "google.com," for example), your computer sends a request to a [Domain Name System (DNS) server](https://instagram-clips.techidaily.com/new-2024-approved-revealing-the-top-10-hidden-story-supporters/). The DNS server takes the domain name and looks up the matching IP address from a list. It sends the IP address back to your computer, which your computer then uses to connect to the site.
 
  This domain name fetching process traditionally happened unencrypted on the network. Any point in between could intercept the domain names of the sites you are visiting. With [DNS over HTTPS](https://hardware-updates.techidaily.com/insignia-thunderbolt-usb-cable-with-ethernet-adapter-software/), also known as DoH, the communications between your computer and a DoH-enabled DNS server are encrypted. No one can intercept your DNS requests to snoop on the addresses you're visiting or tamper with the responses from the DNS server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  First, Choose a Supported Free DNS Service
 
@@ -64,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 ![Press Windows+X or right-click the Start button, then select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Settings, click "Network & Internet" in the sidebar. In Network & Internet settings, click the name of your primary internet connection in the list, such as "Wi-Fi" or "Ethernet." (Don't click "Properties" near the top of the window—that won't let you encrypt your DNS connections.)
 
 ![Click the "Wi-Fi Properties" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-10.png) 
@@ -76,33 +78,17 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ![Click "Hardware Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-hw-props.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Wi-Fi or Ethernet hardware properties page, locate the "DNS Server Assignment" option and click the "Edit" button beside it.
 
 ![Click the "Edit" button next to DNS Server Assignment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-click-edit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  In the window that pops up, use the drop-down menu to select "Manual" DNS settings. Then flip the "IPv4" switch to the "On" position.
 
 ![Set the DNS mode to "Manual," then enable IPv4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-manual-turn-on-ipv4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  In the IPv4 section, enter the primary DNS server address you chose from the [section above](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-zero-30-5g-phone-frp-lock-by-drfone-android/) in the "Preferred DNS" box (such as "8.8.8.8"). Similarly, enter the secondary DNS server address in the "Alternate DNS" box (such as "8.8.4.4").
 
  If you don't see the DNS encryption options, then you're editing the DNS settings for your Wi-Fi SSID. Make sure you select the connection type in Settings > Network & Internet, then click "Hardware Properties" first.
@@ -110,11 +96,16 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ![Alternative and primary DNS servers. In this example, we used Google's DNS server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-enable-dns-server.png) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the same window, set "DNS Over HTTPs" to the "On" position. 
 
 ![Enable DNS Over HTTPs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-dns-over-https.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, repeat this process with IPv6.
 
@@ -136,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +134,26 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-best-budget-camera-stabilizers-for-youtube-stars/"><u>[Updated] 2024 Approved The Best Budget Camera Stabilizers for YouTube Stars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-youtube-clips-beginnings-and-conclusions-on-a-budget/"><u>[Updated] In 2024, Mastering YouTube Clips Beginnings & Conclusions on a Budget</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-the-experience-accessing-facebooks-video-features-through-apple-tv-for-2024/"><u>[Updated] Streamlining the Experience Accessing Facebook's Video Features Through Apple TV for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamsurf-skimming-above-dacast/"><u>[Updated] StreamSurf Skimming Above DaCast</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-the-art-of-night-sky-captures-on-iphone/"><u>[Updated] Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tutorial-transforming-photos-into-works-of-art/"><u>2024 Approved Tutorial Transforming Photos Into Works of Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlimited-choice-in-free-personalized-outro-sounds/"><u>2024 Approved Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unparalleled-vr-game-setups-top-8-edition/"><u>2024 Approved Unparalleled VR Game Setups Top 8 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-10-leading-christian-church-streamers/"><u>2024 Approved Unveiling The 10 Leading Christian Church Streamers</u></a></li>
+<li><a href="https://discover-help.techidaily.com/decoding-history-the-impactful-legacy-left-by-the-second-opium-war-expert-analysis-from-yl-computing-software-solutions/"><u>Decoding History: The Impactful Legacy Left by the Second Opium War - Expert Analysis From YL Computing Software Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-zexmo-bluetooth-adapter-installed-on-windows-1078-today/"><u>Get Your Zexmo Bluetooth Adapter Installed on Windows 10/7/8 Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-huawei-nova-y71-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Huawei Nova Y71</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y100a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y100A For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-speedy-explorer-windows-10-photography-interface/"><u>In 2024, Speedy Explorer - Windows 10 Photography Interface</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-potential-with-magix-paint-pro/"><u>In 2024, Unlocking Potential with MAGIX Paint Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-your-creative-process-with-vsco-app-for-2024/"><u>Streamlining Your Creative Process with VSCO App for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-quick-glitch-fix-for-podcast-broadcasts-for-2024/"><u>The Quick Glitch Fix for Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-on-halting-your-paramount-streaming-account/"><u>Ultimate Tutorial on Halting Your Paramount Streaming Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-spark-ars-full-potential-with-personalized-lut-implementations-for-2024/"><u>Unlock Spark AR's Full Potential with Personalized LUT Implementations for 2024</u></a></li>
+</ul></div>
 

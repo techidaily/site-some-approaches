@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Assessing Arithmetic Expressions with Linux Command 'Expr'"
-date: 2024-08-30T21:20:39.503Z
-updated: 2024-08-31T21:20:39.503Z
+date: 2025-01-04T02:13:49.755Z
+updated: 2025-01-10T01:22:20.686Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 * [Performing expr Operations Using a Shell Script](https://extra-guidance.techidaily.com/new-snapseed-101-easy-steps-to-photo-perfection/)
 * [Try Some Alternative Linux Commands](https://twitter-videos.techidaily.com/updated-in-2024-navigating-full-hd-display-on-twitter-videos/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The expr command can evaluate expressions and output the corresponding value. You can use it to perform arithmetic calculations, comparisons, and string operations.
@@ -32,18 +36,6 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 
  Want to do some simple calculations in Linux? Just use the expr command. This command can perform various operations, such as evaluating expressions, extracting substrings, comparing strings, and more. Using expr, you can add, subtract, multiply, or divide two numbers, and get the answer as the output.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The expr Command
 
  expr is a tool that can perform calculations and manipulate strings based on the expressions you provide. With the expr command, you can perform various operations on integers and strings, like comparing values or finding specific patterns using [regular expressions](https://instagram-clips.techidaily.com/discreetly-explore-instagram-stories-with-us-for-2024/).
@@ -64,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 
  For strings, you can use regular expressions and character sets to find matches and indexes. You can also use parentheses to group expressions and backslashes to escape special characters.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  expr Command Options
 
  While expr doesn't have traditional command-line options, it offers versatile operators for arithmetic, string manipulation, and comparison. Furthermore, you can use the **\--help** option to show expr's help page, which explains its syntax, features, and examples:
@@ -76,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 ![Linux terminal with expr command documentation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To check the expr command version, run:
 
         `expr --version`
@@ -86,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 
  This option displays the version number, source code, license, and author of expr.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performing Arithmetic Operations With expr
 
  To use the expr command for basic arithmetic operations, write the command expr followed by a space. Then, write the expression that you want to evaluate. This expression is a combination of integers and operators such as +, -, \*, and /. Make sure to separate each token (integer or operator) in the expression by a space character.
@@ -107,9 +94,17 @@ expr 10 / 2`
     
 ![Linux terminal showing various arithmetic operations with expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You need to escape the multiplication (\*) operator with a backslash (\\) to avoid shell expansion. Otherwise, the shell will try to match the operator (\*) with the filenames in the current directory and pass them to the expr command, which will cause an error.
 
 ![Linux terminal with syntax error](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also prevent the shell from interpreting the characters by quoting the arguments and operators properly:
 
@@ -117,9 +112,6 @@ expr 10 / 2`
     
 ![Linux terminal with variables and operator quotes with double quotations marks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Comparing Two Expressions With expr
 
  To compare two expressions using the expr command, you can use logical operators such as =, <, >, and !=. If you see the command output one, the condition is true, otherwise, it is false, and the value returned is zero.
@@ -130,9 +122,6 @@ expr 10 / 2`
     
 ![Linux terminal displaying checking of the two numbers equality using expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, let's check whether the first argument is smaller than the other argument. For that, we use the < operator:
 
         `expr 40 \< 50`
@@ -145,15 +134,16 @@ expr 10 / 2`
     
 ![Linux terminal showing the comparison of two values using the expr command with not equal to operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, the output 1 indicates that 45 is not equal to 55.
 
  This way, the expr command provides a simple and effective method to compare numerical values.
 
  Like the multiplication (\*) operator, the <, >, and != operators also need to be escaped with a backslash (\\). Otherwise, they may be interpreted as special characters by the shell.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Finding a String's Length With expr
 
  To find the length of a string using the expr command, you can use the length method. This operator will return the number of characters present in the given string to the output.
@@ -164,20 +154,18 @@ expr 10 / 2`
     
 ![Linux terminal showing the length using the expr command with the length operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The output is 11 because there are nine characters and two white spaces in the string. If you want to find the length of a string without whitespace, you can use other commands like [tr](https://fox-hovers.techidaily.com/new-discovering-the-quintessential-5-title-creators-online/) or [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to remove them first. For example:
 
         `expr length "$(echo 'How To Geek' | tr -d ' ')"`
     
 ![Linux terminal displaying the string length without the including the white spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The output will be nine because the tr command deletes all the spaces in the string before passing it to the expr length command.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Matching Two Strings With expr
 
  One of the operations that expr offers is the comparison of two strings. For this, use the colon (:) operator with the expr command. This operator returns the number of characters that match at the beginning of both strings.
@@ -208,6 +196,10 @@ expr 10 / 2`
     
 ![The Linux terminal displays how to match different string variables using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Incrementing and Decrementing a Variable With expr
 
  The expr command can also evaluate an expression that increments and decrements a variable's value. Further, you can assign the result to a new variable.
@@ -221,8 +213,9 @@ echo $a ``
 ![The Linux terminal displays usage of expr command to increment the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Similarly, to decrement the variable value, use the same syntax but replace the addition sign with subtraction:
 
         `` a=20  
@@ -231,9 +224,6 @@ echo $a ``
     
 ![The Linux terminal displays usage of expr command to decrement the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Extracting a Substring Using expr
 
  To extract a substring from a given string, you can use the expr command with a substr operator. This way, you can extract specific information from a larger text, such as name, date, or any code. You can also use this operator to remove unwanted characters or spaces from a string.
@@ -247,8 +237,13 @@ echo $b ``
 ![The Linux terminal displays the usage of the expr command with substr option to extract a substring](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performing expr Operations Using a Shell Script
 
  To automate expression handling using the expr command, you can create a custom shell script. Shell scripts are multipurpose tools that can help you do more with less. With shell scripts, you can automate repetitive tasks, manipulate data, and perform complex calculations.
@@ -263,9 +258,6 @@ echo "Sum of two numbers is= $sum" ``
     
 ![Bash script file containing the script of adding two numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This script uses the expr command to evaluate arithmetic operations on the variables "a" and "b." The echo command prints a message to the standard output, while the read command reads a line from the standard input and puts it in a variable.
 
  Next, to make this script executable, run the [chmod](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/) command:
@@ -280,9 +272,6 @@ echo "Sum of two numbers is= $sum" ``
 
  You will be prompted to enter two numbers. After entering the numbers, you will see the script will display the sum of both numbers on screen. You can also modify the script to perform other operations or tasks as per your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Try Some Alternative Linux Commands
 
  This article mainly focuses on the expr command, but you can also try a few other commands for various operations. These commands include declare, let, and bc. All these command-line tools can perform simple to intricate mathematical operations on defined values.
@@ -295,8 +284,6 @@ echo "Sum of two numbers is= $sum" ``
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -304,4 +291,18 @@ echo "Sum of two numbers is= $sum" ``
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-outstanding-asmr-audio-experience-for-minimal-spending/"><u>[New] Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-20-anime-song-intros/"><u>[New] Superior 20 Anime Song Intros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-googles-gemini-a-new-era-of-ai-or-just-another-contender-against-chatgpt/"><u>Exploring Google's Gemini: A New Era of AI or Just Another Contender Against ChatGPT?</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-collaboration-and-efficiency-master-these-5-innovative-window-tips/"><u>Optimize Collaboration and Efficiency: Master These 5 Innovative Window Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/restoring-your-samsung-soundbar-expert-advice-for-bringing-it-back-to-life/"><u>Restoring Your Samsung Soundbar: Expert Advice for Bringing It Back to Life</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syncing-social-media-zoom-and-facebook-live-interactions-for-2024/"><u>Syncing Social Media Zoom and Facebook Live Interactions for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-itel-a60s-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Itel A60s without backup.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcription-made-simple-at-no-cost-for-2024/"><u>Transcription Made Simple At No Cost for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-choosing-excellent-free-srt-translators-for-2024/"><u>Ultimate Selection Choosing Excellent FREE SRT Translators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncharted-sci-fi-dimensions-top-10-metaverse-movie-experiences-for-2024/"><u>Uncharted Sci-Fi Dimensions Top 10 Metaverse Movie Experiences for 2024</u></a></li>
+</ul></div>
 

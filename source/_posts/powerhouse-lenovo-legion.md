@@ -1,7 +1,7 @@
 ---
 title: Powerhouse Lenovo Legion
-date: 2024-08-30T21:23:00.669Z
-updated: 2024-08-31T21:23:00.669Z
+date: 2025-01-07T03:45:00.925Z
+updated: 2025-01-09T21:33:07.053Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Powerhouse Lenovo Legion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -112,10 +116,6 @@ Expand
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The overall design of Lenovo’s latest Legion 7i 16 Gen 9 is pretty sleek if I do say so myself. I had the privilege of testing the white model and, while I typically like gray or dark laptops, the white is pretty crisp and clean. The branding is minimal with just "Legion" and "Lenovo" graphics on the top. Overall, the aesthetic is definitely on the cleaner side for gaming laptops.
@@ -126,44 +126,25 @@ Jerome Thomas / How-To Geek
 
 ![The function key lights up keys that have commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-funtion-key-lights-up-keys-that-have-commands_53663005894_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For the keyboard, mouse, and other peripherals like that, you’ll find that it’s pretty typical, but above average. The keyboard features 1.3mm of key travel and offers per-key RGB backlighting. The feel of the keys was a _tad_ squishy for me, but my two main keyboards are Cherry MX Blues and Kailh Copper switches, so most other keyboards feel squishy to me. The trackpad was only okay. The right-click is a little picky, but, for daily usage, it got the job done. For gaming, however, I would always recommend a dedicated mouse. The [SteelSeries Aerox](https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-open-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/) lineup of wireless mice is my personal favorite.
 
 ![The Lenovo Legion 7i 16 Gen 9 in quiet mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-in-quiet-mode_53663112120_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Battery life is something that’s coveted in a laptop, but, this isn’t just any laptop. It’s a gaming laptop. You’re not going to see stellar battery life here, and you’ll likely get around two to three hours of usage on a single charge when gaming. If you lower the brightness, drop the screen refresh rate, and disable all unnecessary software, you could eke out four to five hours, but that’ll be a stretch. However, with the included 230W power adapter, you can charge from 0% to 70% in just 30 minutes. And, if you have a compatible 140W USB-C battery, you can even power up on the go without a wall plug.
 
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -177,10 +158,6 @@ Jerome Thomas / How-To Geek
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Overall, I was extremely pleased with the performance of this laptop. When compared to other higher-class laptops, it also holds its own. I also have an RTX 4090-powered ASUS ROG Strix system which is an absolute monster of a machine. The RTX 4090 laptop, for comparison, hit 199FPS when in turbo mode. While that’s about two times the frames, it’s also over double the cost, and much, much larger and heavier.
@@ -188,6 +165,10 @@ Jerome Thomas / How-To Geek
  With the real-world benchmarks out of the way, I wanted to touch on synthetic benchmarks a little. The above performance metrics are a great way to find out how it plays in those (and similar) titles, but if you want to have something easy to compare across many systems, I have a few numbers for you to look at.
 
 ![The Lenovo Legion 7i 16 Gen 9 on a table (2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-on-a-table-2_53661777582_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -211,22 +192,20 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-legion-7i-16-gen-9_53663005784_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  All that to say, this laptop has a slew of port options to choose from. The inclusion of SD and HDMI is really nice, and, while there is Thunderbolt 4, I would have liked to see more than one port be rated at 40Gb/s here.
 
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 16-inch IPS WQXGA display here has a resolution of 2,560 x 1,600, which clocks in with a 16:10 aspect ratio. This seems to be the norm among modern laptops as people want a slightly taller aspect ratio, but it does mean that you’re pushing slightly more pixels when gaming. The RTX 4070 doesn’t let that affect performance though, which is nice. The screen features a 240Hz refresh rate, is 100% sRGB, and comes in at 500 nits, which is very noticeable when gaming. Windows didn’t find the display to be HDR ready, even though it’s DisplayHDR 400 certified, but the X-Rite Color Management with Dolby Vision and G-SYNC features all functioned as well as you’d expect.
@@ -235,9 +214,17 @@ Jerome Thomas / How-To Geek
 
  One unique thing is that there’s a keyboard shortcut (Fn+R) to switch between 240/60Hz and 165/60Hz, depending on which screen you get. This might seem redundant, but it’s actually very useful. If you’re on the road and need to preserve battery life over all else, then dropping to a 60Hz refresh rate will make the screen refresh 66% slower, which reduces power usage across the board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9?
 
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -247,10 +234,11 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo Legion 7i 16 Gen 9
 
@@ -268,8 +256,6 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +263,26 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-recovery-methods-for-erased-reddit-topics/"><u>[New] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spice-up-your-feeds-text-based-meme-magic/"><u>[New] Spice Up Your Feeds Text-Based Meme Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-film-tech-top-cinematic-tips-for-the-year-2024/"><u>[New] The Future Film Tech Top Cinematic Tips for the Year 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-travelers-guide-mastering-video-speed-adjustment/"><u>[New] Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-quick-windows-photo-zoom/"><u>[New] Ultimate Quick Windows Photo Zoom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-ten-os-agnostic-video-players/"><u>[New] Unveiling Top Ten OS-Agnostic Video Players</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-live-stream-success-obs-steps-to-shine-on-youtube/"><u>[Updated] 2024 Approved Live Stream Success OBS Steps to Shine on Youtube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-tiktok-creation-process-with-zoom/"><u>2024 Approved Streamline Your TikTok Creation Process with Zoom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-summit-of-virtual-reality-resolution/"><u>2024 Approved Summit of Virtual Reality Resolution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-communication-device-with-new-tunes/"><u>2024 Approved Transform Your Communication Device with New Tunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-secrets-phantoms-slow-motion-techniques/"><u>2024 Approved Unveiling Secrets Phantom's Slow Motion Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/g-deep-youtubes-best-immersive-experiences-for-2024/"><u>Diving Deep YouTube's Best Immersive Experiences for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/extra-your-guide-to-joining-the-youtube-premium-club/"><u>Earn Extra Your Guide to Joining the YouTube Premium Club</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/get-ahead-with-top-tier-premiere-pro-samples-free/"><u>Get Ahead with Top-Tier Premiere Pro Samples (Free)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unpacking-the-3dr-experience-from-a-single-individual/"><u>In 2024, Unpacking the '3DR' Experience From a Single Individual</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-easy-guide-converting-dvds-with-format-factory-mp4avi-options/"><u>Quick & Easy Guide: Converting DVDs with Format Factory - MP4/AVI Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-24-festive-season-bargains-on-dell-computers-compare-prices-and-offers-from-amazon-best-buy-newegg-and-others-zdnet-guide/"><u>Top 24 Festive Season Bargains on Dell Computers: Compare Prices & Offers From Amazon, Best Buy, Newegg & Others - ZDNet Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-high-tech-secrets-with-toms-hardware-discoveries/"><u>Unraveling High-Tech Secrets with Tom’s Hardware Discoveries</u></a></li>
+</ul></div>
 

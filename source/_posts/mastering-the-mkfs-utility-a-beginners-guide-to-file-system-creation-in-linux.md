@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Mkfs Utility: A Beginner's Guide to File System Creation in Linux"
-date: 2024-08-30T21:19:13.223Z
-updated: 2024-08-31T21:19:13.223Z
+date: 2025-01-08T21:57:11.836Z
+updated: 2025-01-09T18:08:36.004Z
 tags:
   - desktop
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  You must create a file system before you can use any data storage device connected to a Linux computer. Learn how to use `mkfs` and other utilities to do just that for all sorts of file systems. We show you how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  mkfs Makes File Systems
 
  The `mkfs` command [makes file systems](http://man7.org/linux/man-pages/man8/mkfs.8.html). On other operating systems, creating a file system is called [formatting](https://en.wikipedia.org/wiki/Disk%5Fformatting). Regardless of its name, it is the process that prepares a partition so that it can store data. The partition needs a way to store files, yes. But it also needs a mechanism to store the names and locations of those files, together with their metadata such as the file creation timestamp, the file modified timestamp, the size of the file, and so on. Once `mkfs` has built the necessary framework for handling and storing file metadata, you can start adding files to the partition.
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  The syntax of `mkfs` has been updated, and the old format has been deprecated. Both forms will work, but we'll use the modern style in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Choice of File Systems
 
  The modern way of using `mkfs` is to type "mkfs." and then the name of the file system you wish to create.
@@ -41,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  To see the file systems that `mkfs` can create, type "mkfs" and then hit the Tab key twice. There's no space after "mkfs", just hit Tab twice.
 
 ![List of supported file systems in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/1-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The list of available file systems is displayed in the terminal window. The screenshot is from Ubuntu 18.04 LTS. Other distributions may offer more or fewer options. We'll run through these and describe each one briefly. After a quick word about journaling.
 
@@ -57,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 * **CRAMFS**: The [Compressed ROM File System](https://en.wikipedia.org/wiki/Cramfs) is a read-only file system designed for embedded systems and specialist read-only uses, such as in the boot processes of Linux computers. It is common to have a small, transient, file system loaded first so that bootstrap processes can be launched to prepare for the "real" boot system to be mounted.
 * **MSDOS**: The file system of the [Microsoft Disk Operating System](https://en.wikipedia.org/wiki/MS-DOS). Released in 1981, it's an elementary file system that is as basic as it gets. The first version didn't even have directories. It holds a place of prominence in computing history but, beyond compatibility with legacy systems, there is little reason to use it today.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Safe Way to Experiment With File Systems
 
  Creating a file system on a partition is destructive to any data that might already reside on that partition. Using a spare hard drive—or even a spare computer—is the perfect way to experiment with creating and using different file systems. But of course, many people don't have spare hardware lying around, waiting to be experimented on.
@@ -76,21 +78,29 @@ dd if=/dev/zero of=~/howtogeek.img bs=1M count=250
 
 ![dd if=/dev/zero of=~/howtogeek.img bs=1M count=250](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/2-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The file is created for us and `dd` reports that there were 250 blocks created for us, as requested.
 
 ![Output from the dd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/3-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  We can look at our image file with `ls` :
 
 ls -hl
 
 ![ls -hl in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/4-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's 250 MB as expected, which is encouraging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Creating the File System
 
@@ -100,9 +110,6 @@ mkfs.ext2 ~/howtogeek.img
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/5-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The file system is created, and some details of the file system are displayed.
 
 ![Output of the mkfs.ext2 command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/6-2.png) 
@@ -117,23 +124,21 @@ sudo mkdir /mnt/geek
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/7-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Now we can mount our image file.
 
 sudo mount ~/howtogeek.img /mnt/geek
 
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/8-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  We need to change the [file ownership](http://man7.org/linux/man-pages/man1/chown.1.html) of the mount point so that we have read and write access to it.
 
 sudo chown dave:users /mnt/geek/
 
 ![sudo chown dave:users /mnt/geek/  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/9-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And now we should be able to use our new file system. Let's change into the file system, and copy some files to it.
 
@@ -144,8 +149,9 @@ cp ~/Documents/Code/*.? .
 ![cp ~/Documents/Code/*.? . in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/10-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This will copy all files with a single-letter extension from the "\~/Documents/Code" directory to our new file system. Let's check that they were copied.
 
 ls
@@ -166,12 +172,6 @@ ls
 
 ![cd /mnt/geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/13-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Further Exploration
 
  Now we've got the process worked out, trying another file system should be easy. We'll use the MINIX file system this time. In our home directory, we can create a new file system inside our existing image file.
@@ -188,6 +188,10 @@ sudo mount ~/howtogeek.img /mnt/geek
 
 ![sudo mount ~/howtogeek.img /mnt/geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/16-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let's change into the new file system at /mnt/geek and see if we can create a file.
 
 touch geek.txt
@@ -195,8 +199,9 @@ touch geek.txt
 ![touch geek.txt in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/17-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ls -ahl geek.txt
 
 ![ls -ahl geek.txt in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/19-1.png) 
@@ -213,9 +218,6 @@ sudo rmdir geek
 
 ![sudo rmdir geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/18-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Juggling With Fire
 
  With Linux, as with most things, you learn by doing. The problem with some commands is that they are potentially destructive. The dilemma is how to practice using them without putting your system or data at risk?
@@ -234,8 +236,6 @@ sudo rmdir geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +243,21 @@ sudo rmdir geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-premier-playwright-gateway/"><u>[New] Premier Playwright Gateway</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secure-re-entry-resuming-fb-usage-post-hack/"><u>[New] Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-standout-cinematography-experts/"><u>[Updated] Unveiling Standout Cinematography Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-trimming-the-tremble-a-guide-to-smoother-gopro-videos/"><u>2024 Approved Trimming the Tremble A Guide to Smoother GoPro Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-collection-top-free-ae-template-packs/"><u>2024 Approved Ultimate Collection Top Free AE Template Packs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>2024 Approved Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-back-in-action-troubleshooting-guide-for-stuck-or-frozen-minecraft-on-desktop-computers/"><u>Getting Back in Action: Troubleshooting Guide for Stuck or Frozen Minecraft on Desktop Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>In 2024, Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grab-your-guiltless-film-endings-with-our-template-service/"><u>In 2024, Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tale-bearers-school-distinguished-dothee/"><u>In 2024, Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>In 2024, The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138592743-9781449734060-one-hour-to-inner-peace/"><u>One Hour to Inner Peace | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/settle-down-with-our-best-10-chill-titles/"><u>Settle Down with Our Best 10 Chill Titles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
+</ul></div>
 

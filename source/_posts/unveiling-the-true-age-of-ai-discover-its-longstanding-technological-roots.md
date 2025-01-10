@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the True Age of AI: Discover Its Longstanding Technological Roots"
-date: 2024-08-30T21:24:48.362Z
-updated: 2024-08-31T21:24:48.362Z
+date: 2025-01-05T20:05:28.586Z
+updated: 2025-01-09T22:29:14.124Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
 ## Unveiling the True Age of AI: Discover Its Longstanding Technological Roots
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI has existed as an idea since ancient times, with the idea of artificial human-like beings written about by the Ancient Greeks.
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
  The use of artificial intelligence has been increasing across most industries over the past decade or so, and this technology has a lot of potential. However, is AI a fairly new development, or did its roots begin in a much earlier time? Here's how old AI really is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Was AI Conceptualized?
 
  The idea of machines gaining consciousness, or at least mimicking human behavior, came about a very long time ago. In its most basic form, the idea of AI first popped up by the Ancient Greeks when the idea of humans creating artificial, human-like beings, was [written about by poet Hesiod in the story of Talos](https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/).
@@ -26,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  In the following centuries, more stories, predictions, and myths of artificial human-like creations were written, such as Paracelsus discussion of the creation of an "artificial man" [in his work 'Of the Nature of Things](https://erenow.org/common/history-philosophy-science-reader/58.php).' It wasn't until the mid-20th century that the idea of artificial intelligence became a reality.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Creation of AI
 
  The first system that used artificial intelligence to function was created in 1955 by Herbert Simon, Clifford Shaw, and Allen Newell, and was named Logic Theorist. Simon, a political scientist and sociologist, along with Hewell, a computer scientist, developed Logic Theorist in order to artificially mimic certain human thought processes. The program itself was written by Shaw, a computer programmer who worked for RAND at the time. As Logic Theorist was being developed in 1955, the term "artificial intelligence" hadn't even been coined yet; this was to come a year later from John McCarthy.
@@ -35,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  Logic Theorist was specifically designed to solve mathematical problems using human-attributed skills, therefore simulating a basic version of the human mind in doing so. As stated in a [2006 academic article on the topic of Logic Theorist](https://www.researchgate.net/publication/276216226%5FNewell%5Fand%5FSimon's%5FLogic%5FTheorist%5FHistorical%5FBackground%5Fand%5FImpact%5Fon%5FCognitive%5FModeling), the program was "perhaps the first working program that simulated some aspects of peoples' ability to solve complex problems."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How AI Has Evolved
 
  The first AI system created and the AI systems we see today differ vastly from one another. As our understanding of technology has grown, we've been able to continuously improve AI's capabilities over time, which has given way to the impressive AI-based tools we see today. But this wasn't an easy journey.
@@ -58,9 +68,9 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  Things didn't slow down for AI in the 2010s, with advancements in the mid-to-late period of the decade entirely changing how we can receive and analyze data. So, what happened here?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Today
 
  Today, the global AI market is worth over $2 trillion, according to a [Statista study](https://www.statista.com/statistics/1365145/artificial-intelligence-market-size/). By 2026, the market is expected to exceed $5 trillion, and this number will likely only increase over time.
@@ -77,9 +87,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  But AI also has its uses in a lot of other technologies, such as virtual assistants. Siri, Alexa, Google Assistant, and Cortana all use AI to better understand users' verbal commands. Moreover, the recommendations you'll get on social media, online retailers, and similar platforms are also often powered by AI. You've likely come into contact with AI multiple times without even realizing it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ##  The Future of AI
 
  The future of AI is a topic that has stirred a lot of concern, mainly due to the fact that AI's potential is essentially endless. As technology advances, AI systems can gain greater computing power, more perfected neural networks, and increased capability overall. We'll start with the more realistic future applications of AI, and then get into the more sci-fi aspects.
@@ -92,9 +99,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In the next few years, we may see AI-based chatbots improve in their capabilities and accuracy, and it's likely that AI's presence will increase across almost all industries.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ##  AI Has Undoubtedly Changed the World
 
  Even though AI still has a long way to go before it can truly mimic the human brain, this technology has already changed the world. There's no knowing how AI will develop in the future, and the question of AI surpassing human intelligence is still up in the air. But there's no doubt that AI has already changed the online landscape, and likely the future of humanity as a whole.
@@ -105,8 +109,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +116,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-image-hunting-on-pexelscom/"><u>[New] The Art of Image Hunting on Pexels.com</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-videography-items-for-travelers/"><u>[New] Top Videography Items for Travelers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair-for-2024/"><u>[Updated] Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>[Updated] Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tales-of-timeless-togetherness-this-seasons-top-10/"><u>[Updated] Tales of Timeless Togetherness This Season's Top 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-path-to-larger-video-presentation-in-youtube/"><u>2024 Approved The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-g42-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia G42 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-the-common-problem-of-a-lost-binkw32dll-file/"><u>Comprehensive Solutions to the Common Problem of a Lost binkw32.dll File</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 14 Plus? | Stellar</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-ditch-adobe-premiere-rush-top-4-video-editing-software-alternatives/"><u>In 2024, Ditch Adobe Premiere Rush Top 4 Video Editing Software Alternatives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-finding-balance-the-art-of-choosing-video-dimensions/"><u>In 2024, Finding Balance The Art of Choosing Video Dimensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-satire-and-smile-mixer/"><u>In 2024, Superior Satire & Smile Mixer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-complete-walkthrough-obtaining-and-implementing-the-nexiq-usb-link-driver-on-your-system/"><u>The Complete Walkthrough: Obtaining & Implementing the Nexiq USB-Link Driver on Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-unresponsive-touchpad-scroll-issues-in-windows-10/"><u>Troubleshooting: Fixing Unresponsive Touchpad Scroll Issues in Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmatched-video-upload-aides-to-twitter-for-2024/"><u>Unmatched Video Upload Aides to Twitter for 2024</u></a></li>
+</ul></div>
 

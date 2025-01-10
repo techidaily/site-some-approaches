@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Elements That Could Revolutionize Windows 12
-date: 2024-08-30T21:22:43.538Z
-updated: 2024-08-31T21:22:43.538Z
+date: 2025-01-07T23:42:36.613Z
+updated: 2025-01-09T16:12:29.279Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 7 Linux Elements That Could Revolutionize Windows 12
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The GNOME Software app showing tiles with green ticks on them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  So the first thing Windows 12 should steal from Linux is a nonintrusive user experience. It'd be best if ads were completely removed, but opt-in ads would provide a better user experience than enabled by default, as it is now.
@@ -40,9 +48,9 @@ Dave McKay / How-To Geek
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Multiple Start Menu Variations
 
  Now, coming to the good stuff, what is most certain about a new Windows release? A new Start Menu design! And with Windows 12, let’s just allow people to choose or customize their own Start Menu.
@@ -63,9 +71,6 @@ Close
 
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
 
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
@@ -81,8 +86,9 @@ Close
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Options to Customize the Taskbar
 
  Windows 10 offered a decent amount of customization options for the Taskbar. Unfortunately, Windows 11 severely reduced them to the point where the Taskbar is now fixed at the bottom; you can’t move it to the left, right, or top. Also, the right-click menu is overly simplified to just two options—Taskbar Setting or the Task Manager.
@@ -104,8 +110,9 @@ Close
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
  Additionally, the [Workspace Indicator](https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/) extension adds a virtual desktop switcher to the panel, allowing you to switch and move apps between desktops directly from the panel without opening the Activities Overview.
@@ -113,11 +120,9 @@ Close
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
 
 <!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  KDE Activities
 
  Most people use a single Windows PC for various tasks like work, gaming, recreation, and learning. Unfortunately, Windows doesn’t provide a meaningful way to segregate these different use cases. But you could do it if Windows 12 comes with a feature like KDE Activities. Here’s a quick look at [how KDE Activities work](https://techidaily.com/complete-tutorial-for-realme-c33-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/):
@@ -138,8 +143,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +150,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-maximize-your-valorant-potential-try-this-costless-game-changer-today-for-2024/"><u>[New] Maximize Your Valorant Potential - Try This Costless Game Changer Today for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-for-sporty-streamers-on-mac-for-2024/"><u>[New] Step-by-Step Guide for Sporty Streamers on Mac for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>[New] The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turbo-tracker-fastest-image-browser-w10/"><u>[Updated] Turbo Tracker - Fastest Image Browser W10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-it-upward-panning-high-with-your-phone/"><u>2024 Approved Taking It Upward Panning High with Your Phone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/catch-the-flame-ideas-for-unbroken-snapstreaks/"><u>Catch the Flame - Ideas for Unbroken Snapstreaks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insider-guide-whatsapp-audio-talks/"><u>In 2024, The Insider Guide WhatsApp Audio Talks</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/navigating-graphics-glitches-a-comprehensive-guide-to-fix-display-problems-yl-software-experts/"><u>Navigating Graphics Glitches: A Comprehensive Guide to Fix Display Problems - YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preserving-integrity-of-chatgpt-discourse/"><u>Preserving Integrity of ChatGPT Discourse</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pros-and-cons-of-googles-pixel-vs-apple-in-the-wearable-arena-making-sense-of-the-pixel-watch-vs-apple-watch-series-veer-a-side-by-side-evaluation-gadgetflo11/"><u>Pros & Cons of Google's Pixel Vs. Apple in the Wearable Arena - Making Sense of the Pixel Watch Vs. Apple Watch Series Veer: A Side-By-Side Evaluation | GadgetFlow</u></a></li>
+</ul></div>
 

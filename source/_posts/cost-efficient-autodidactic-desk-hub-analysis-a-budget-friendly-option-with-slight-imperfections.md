@@ -1,7 +1,7 @@
 ---
 title: "Cost-Efficient Autodidactic Desk Hub Analysis: A Budget-Friendly Option with Slight Imperfections"
-date: 2024-08-30T21:17:13.528Z
-updated: 2024-08-31T21:17:13.528Z
+date: 2025-01-04T16:42:10.247Z
+updated: 2025-01-09T21:30:10.576Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ---
 
 ## Cost-Efficient Autodidactic Desk Hub Analysis: A Budget-Friendly Option with Slight Imperfections
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
  The sleek white desk I tested was simple in design, but its steel frame worked as needed, quietly lifting the desktop up to a comfortable 48 inches. There are a few tweaks I'd make, primarily to how the desk is shipped and two missing features, but overall the SmartDesk Core is a good option for more casual home use and a [decent starter desk](https://instagram-video-files.techidaily.com/new-in-2024-demystifying-social-engagement-instagram-stories-surveys/).
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/autonomous-smartdesk-core-small-2-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Autonomous SmartDesk Core
 
@@ -77,6 +85,10 @@ The essential standing desk with electric dual motors. For all-day productivity 
 
  For those that don't have the option to follow the "team lift" recommendation, you're working with nearly 100 lbs between the desktop and steel frame. It's ultimately a trivial matter if you have a second set of hands, but having enjoyed a much easier assembly with other models, I was a little taken aback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Good Solid Construction
 
  That being said, there's little negative to say about the overall build of the desk. The frame is a solid SPCC steel that holds up to 265 lbs. It's sturdy, and I didn't feel any wiggle, even when used on a plush carpet.
@@ -85,24 +97,14 @@ The essential standing desk with electric dual motors. For all-day productivity 
 
  When it came to design, the biggest pitfall was the material of the desktop. The warp-proof MDF wood looks nice from afar, but up close, it has an almost plastic, cheap-looking appearance. The desktop is an inch thick, which is the same as the FlexiSpot models, but the rounded edge made it look a little thinner.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  A Simple and Responsive Control Panel
 
 ![Autonomous SmartDesk Core control panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Autonomous-SmartDesk-Core-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 _Mark LoProto / How-To Geek_
 
  There are no elaborate bells or whistles to worry about when learning the control panel. It screws directly into the underside of the desk and features four programmable memory slots, a digital readout of the current height, and hard-to-miss arrow buttons. I didn't run into any issues with the panel itself, but the buttons were so large and prominent that it did make them a little too easy to accidentally bump into and trigger.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ##  Missing Two Pivotal Features
 
  The underside of my desk is often used as storage for items of note, most importantly my desktop tower. I didn't take the time to measure the distance between the top of the tower and the bottom of the desk at its lowest, so the first time I brought the FlexiSpot desk down to its lowest point of 22 inches, I was quite glad there was an anti-collision feature.
@@ -112,15 +114,17 @@ _Mark LoProto / How-To Geek_
  It's a pretty significant safety feature considering the frame adjusts pretty quickly and is strong enough to actively lift 265 lbs. There's also no child lock feature on the control panel, so you'll have to [rig a smart plug](https://android-location-track.techidaily.com/2-ways-to-monitor-huawei-nova-y71-activity-drfone-by-drfone-virtual-android/) or another method to guarantee your child's safety.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Very Basic Wire Management
 
 ![Cables tied to the underside of the Autonomous SmartDesk Core](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Autonomous-SmartDesk-Core-no-wire-well.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Mark LoProto / How-To Geek_
 
  It sounds like a pretty small oversight, but the lack of a [wire organizer](https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-12-drfone-by-drfone-virtual/) was quite surprising. The desk does come with cable ties that stick to the undercarriage of the desk, but it's not a replacement for a designated spot to neatly feed the wires into.
@@ -139,9 +143,6 @@ _Mark LoProto / How-To Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/autonomous-smartdesk-core-small-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Autonomous SmartDesk Core
 
 7/ 10 
@@ -156,8 +157,6 @@ The essential standing desk with electric dual motors. For all-day productivity 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +164,20 @@ The essential standing desk with electric dual motors. For all-day productivity 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-best-cameras-for-capturing-live-dynamic-music-events-in-hd4k-for-2024/"><u>[New] Best Cameras for Capturing Live, Dynamic Music Events in HD/4K for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-handle-accidental-reflections-in-video-conversations-for-2024/"><u>[New] How To Handle Accidental Reflections in Video Conversations for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-efficient-edits-encapsulating-powerpoint-talks/"><u>[New] In 2024, Efficient Edits Encapsulating PowerPoint Talks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-into-the-future-with-these-7-premier-live-streaming-apps-iphoneandroid/"><u>[New] Step Into the Future with These 7 Premier LIVE Streaming Apps (iPhone/Android)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-resource-for-mac-users-unlocking-preview-capabilities/"><u>[New] The Ultimate Resource for Mac Users Unlocking Preview Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[Updated] 2024 Approved Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-still-photos-using-illustration-for-dynamic-effects/"><u>[Updated] Transform Still Photos Using Illustration for Dynamic Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-speech-to-text-processing-in-powerpoint/"><u>2024 Approved Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enhance-its-understanding-from-conversing-with-people/"><u>How Does ChatGPT Enhance Its Understanding From Conversing With People?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-perfect-setup-for-travel-storytelling/"><u>In 2024, The Perfect Setup for Travel Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>In 2024, Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
+<li><a href="https://win-premium.techidaily.com/optimized-steps-for-adjusting-preferences-via-windows-control-panel-guided-tutorial-by-yl-computing/"><u>Optimized Steps for Adjusting Preferences via Windows Control Panel - Guided Tutorial by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-video-editing-techniques-for-viral-tiktok-creations-for-2024/"><u>Transformative Video Editing Techniques for Viral TikTok Creations for 2024</u></a></li>
+</ul></div>
 

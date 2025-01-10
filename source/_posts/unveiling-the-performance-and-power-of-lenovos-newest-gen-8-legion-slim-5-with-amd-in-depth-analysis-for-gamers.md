@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Performance and Power of Lenovo's Newest Gen 8 Legion Slim 5 with AMD – In-Depth Analysis for Gamers
-date: 2024-08-30T21:16:56.221Z
-updated: 2024-08-31T21:16:56.221Z
+date: 2025-01-07T01:23:38.086Z
+updated: 2025-01-10T00:01:13.903Z
 tags:
   - product-reviews
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/92a9o7g547o46ou2ewiq0punp38n3k293431.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo Legion Slim 5 14 (Gen 8)
 
@@ -138,6 +142,10 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flegion-slim-5-gen-8-%2814-inch-amd%29%2Flen101g0032%23tech_specs) [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-slim-5-14-5-oled-gaming-laptop-ryzen-7-7840hs-with-16gb-memory-nvidia-geforce-rtx-4060-8gb-with-1-tb-ssd-storm-grey%2F6559123.p) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design and Comfort: The Lenovo Legion Slim 5 14 (Gen 8) Continues the Tradition
 
 ![Homescreen of the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/homescreen-of-the-lenovo-legion-slim-5-14-gen-8-3jpg_53203753380_o.jpg) 
@@ -153,8 +161,9 @@ Hannah Stryker / How-To Geek
  While the top and bottom of the laptop have sturdy aluminum, it's a bit disappointing to see the rest of the chassis with hard plastic—but this is an understandable tradeoff for a lighter weight.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Side and Rear Ports Galore
 
  There's no shortage of ports on the Lenovo Legion Slim 5 14 (Gen 8) laptop. On the left side of the laptop are two USB-C ports, while the right side of the device has a headphone/microphone combo jack and a full-sized SD Card reader, in addition to an e-privacy switch for the integrated camera.
@@ -167,9 +176,6 @@ Close
 
 ![Keyboard and Trackpad on the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/keyboard-and-trackpad-on-the-lenovo-legion-slim-5-14-gen-8jpg_53203415606_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I'm a big fan of the sweet spot of a laptop keyboard that lies somewhere between loose yet responsive and springy. For a gaming laptop, the Legion Slim 5 pulls off this balance of quick keyboard action while giving the typist a beautiful spring-back feel and a pleasantly clicky noise while typing. Most gamers should be happy with the keyboard's action, even if they're major proponents of mechanical keyboards. The only bummer to me was the lack of RGB backlighting. Lenovo's other Legion offerings tend to have RGB backlighting as standard, including the similar Slim model, the [Legion Slim 5 16 (Gen 8)](https://www.howtogeek.com/lenovo-legion-slim-5-16-inch-gen-8-review/), but it's absent on the Slim 5 14.
@@ -178,9 +184,6 @@ Hannah Stryker / How-To Geek
 
  The touchpad, meanwhile, was wonderfully responsive for scrolling, zooming, tapping, and navigating my way through work and games, except for those that required a USB mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Display: Vibrant 2.8K Graphics
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop playing episode one of "Life on Our Planet" on Netflix.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/display-image-hero.jpg) 
@@ -203,16 +206,10 @@ Close
 
  I was especially impressed with how NVIDIA's GeForce RTD 4060 GPU handled ray-tracing and contrast in games. I've played "Warhammer 40,000: Darktide" on several other laptops, like the [Razer Blade 18](https://win-howtos.techidaily.com/effective-methods-to-address-the-black-screen-glitch-on-windows-11/), and the smoothness of the graphics on the Legion Slim 5 made me feel like I was playing it for the first time again, marveling at all the smoke and fire and shadows.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performance: Smooth Heavy-Load Processing
 
 ![How-To Geek open on the Lenovo Legion Slim 5 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/how-to-geek-open-on-the-lenovo-legion-slim-5-14-gen-8jpg_53203753520_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I used the Legion Slim 5 14 (Gen 8) for my daily work tasks, including but not limited to Zoom and Google Meet calls, drafting articles, editing photos in Adobe Photoshop, researching with way too many tabs open, and listening to tunes in the background via Spotify or taking a time-out with YouTube.
@@ -222,8 +219,9 @@ Hannah Stryker / How-To Geek
  I was also impressed with how cool the Legion Slim 5 14 stayed during charging or heavy usage. I never felt the laptop's base become so hot that I didn't want to use it, except for one instance when I was charging while gaming and using the Legion on my lap instead of at a desk.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Gaming: AI-Powered High Fidelity Graphics and Smooth Gameplay
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop playing the game "The Outer Worlds."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gaming-hero-1.jpg) 
@@ -233,8 +231,9 @@ Cianna Garrison / How-To Geek
 "The Outer Worlds"
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 
 
  I used the default settings on the Legion Slim 5 14, but Lenovo's Vantage app offers plenty of flexibility to customize your gaming experience, including an Adaptive Refresh Rate setting, GPU Overclock, and different power supply modes. I also had the Lenovo AI Engine+ setting switched on, which automatically tunes the CPU and GPU performance. I have to say, the gaming performance was one of the smoothest I've seen in a while, no matter if I was playing games via Steam or [Xbox PC Game Pass](https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass?xr=shellnav).
@@ -260,9 +259,14 @@ Close
  The microphone gave me some trouble with connectivity in Google Meet after using the Sound Recorder app. Unfortunately, there was no way to resolve this than to rejoin the meeting or restart the laptop—but I feel this was an issue with Google Meet and my browser. The actual sound from the microphone was so-so. In a quiet setting, the mic worked fine, but in noisy settings, the sound was often clipped.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Microphone Test on the Lenovo Legion Slim 5 14 (Gen 8) in a Quiet Environment
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Microphone Test on the Lenovo Legion Slim 5 14 (Gen 8) in a Noisy Environment
 
@@ -278,9 +282,6 @@ Hannah Stryker / How-To Geek
 
  Charging up was a pleasure, especially with the Rapid Charge capability. The average speed I saw the Legion Slim 5 charge up was 1.15% per minute, with an average of 69% charge per hour—and on occasion, I did see my battery reach 50 to 70% in 30 minutes of charging.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Slim 5 14 (Gen 8) Laptop?
 
  For gamers who want a less bulky mid-range gaming laptop, the [Lenovo Legion Slim 5 14 (Gen 8)](https://shop-links.co/link/?exclusive=1&publisher%5Fslug=howtogeek&u1=UUhtgUeUpU2000880&article%5Fname=Lenovo+Legion+Slim+5+14+Gen+8+%28AMD%29+Review%3A+The+Smoothest+Midrange+Gaming+Laptop&article%5Furl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-legion-slim-5-14-gen-8-amd-review%2F&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-5-series%2Flegion-slim-5-gen-8-%2814-inch-amd%29%2Flen101g0032) offers plenty of note-worthy features. From the AMD Ryzen CPU and the NVIDIA GeForce RTX 4060 GPU to its Nahimic Audio and the 2.8K OLED display, most casual to moderate gamers will find a lot to love about this device. You can buy the Lenovo Legion Slim 5 14 (Gen 8) today starting at $1,205.27.
@@ -288,6 +289,10 @@ Hannah Stryker / How-To Geek
  If you're looking for something different, the [Lenovo Legion Slim 7i Gen 8](https://tech-renaissance.techidaily.com/the-ultimate-tutorial-to-get-siri-reading-out-words-on-ios-and-macos-devices/) offers stand-out performance for a slightly higher price.
 
 ![The Lenovo Legion Slim 5 14 Gen 8 laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/92a9o7g547o46ou2ewiq0punp38n3k293431.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
@@ -307,8 +312,6 @@ With a 2.8K display, Nahimic audio, and an NVIDIA GeForce RTX GPU, the Lenovo Le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +319,26 @@ With a 2.8K display, Nahimic audio, and an NVIDIA GeForce RTX GPU, the Lenovo Le
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-insiders-choice-best-picks-for-snappable-soundtracks/"><u>[New] Insider's Choice Best Picks for Snappable Soundtracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>[New] The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206759321-solved-computer-wont-wake-up-from-sleep-windows-1110/"><u>[SOLVED] Computer Won’t Wake Up From Sleep Windows 11/10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860368457-updated-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>[Updated] Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-organizing-music-into-a-playlist/"><u>[Updated] Mastering YouTube Organizing Music Into a Playlist</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[Updated] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-your-image-brightness-upside-down-a-tutorial/"><u>[Updated] Turn Your Image Brightness Upside Down A Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-video-editing-simplified-the-best-hacks-for-new-creators-for-2024/"><u>[Updated] Video Editing Simplified The Best Hacks for New Creators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>2024 Approved UltraWide VS UHD 4K Monitors Which to Choose</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asmr-magic-made-simple-high-performance-at-economic-prices/"><u>ASMR Magic Made Simple High Performance at Economic Prices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-disentangle-focus-from-webcams-surroundings/"><u>In 2024, Disentangle Focus From Webcam's Surroundings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>In 2024, Streamline Visuals Integrating Filters Into Videos (PC/Mobile)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>In 2024, The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-apples-audio-content-guidelines/"><u>In 2024, Understanding Apple’s Audio Content Guidelines</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-5-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-custom-settings-that-wont-respond/"><u>Step-by-Step Guide: Reactivating Custom Settings That Won't Respond</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-definitive-guide-to-crafting-memorable-podcast-names-with-inspirations-for-2024/"><u>The Definitive Guide to Crafting Memorable Podcast Names, with Inspirations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure-for-2024/"><u>Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure for 2024</u></a></li>
+</ul></div>
 

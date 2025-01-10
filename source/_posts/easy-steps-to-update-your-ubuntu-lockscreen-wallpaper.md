@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Update Your Ubuntu Lockscreen Wallpaper
-date: 2024-08-30T21:19:56.875Z
-updated: 2024-08-31T21:19:56.875Z
+date: 2025-01-04T18:34:23.346Z
+updated: 2025-01-09T20:17:43.220Z
 tags:
   - desktop
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Customizing your lock screen background not only adds a unique and appealing touch to your system, but is also a way to showcase your identity, interests, and goals. You can display any image on your Ubuntu lock screen that makes you happy, curious, or excited.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  How to Change the Ubuntu Lock Screen Background
 
  Changing Ubuntu's lock screen background is done the same way as on [any other operating system, like Windows](https://extra-resources.techidaily.com/auroras-influence-on-modern-image-processing-techniques-for-2024/). Simply right-click on your desktop and click the "Change Background" option.
@@ -39,8 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A Gallery of preinstalled available images on Ubuntu desktop settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, close the tab and lock your screen. Your desktop and lock screen background will change to your chosen image.
 
 ![Ubuntu Lock screen with blur effect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-1.png) 
@@ -57,28 +55,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A window for selecting a custom image to set it as a background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  After uploading your image, you will see it on top of the default available images. Select the new image to set it as the lock screen background.
 
 ![A custom image added to the desktop background gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your lock screen is now updated with a custom background, albeit still behind a layer of blur.
 
 ![Ubuntu lock screen with the new custom image applied](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove the Lock Screen Blur Effect on Ubuntu
 
  To remove the blur effect from the lock screen background image, first, you need to install GNOME Extension Manager. After that, add a lock screen blur control extension to your system.
@@ -91,30 +87,29 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![Terminal with installation command of GNOME extension manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After installing GNOME Extension Manager, open it and search for the "Lock Screen Background" extension. Then, click on the "Install" button to add a lock screen blur control extension.
 
 ![Searching for the Lock Screen blur effect extension on the GNOME extension manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  Once the extension is installed, navigate to the "Installed" tab. Find and enable the "Control Blur Effect on Lock Screen" extension. Then, click on the gear icon to customize this extension.
 
 ![All installed extensions with Lock screen blur effect extension on top](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  From there, you can move the sliders to change the settings, such as sigma or brightness. Adjust them as required.
 
 ![Lock screen blur remove extension settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lock your screen and see the changes that are applied to your lock screen background. It is now clear and without any blur effect.
 
 ![Lock screen with blur effect removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Optimize Your Ubuntu Environment
 
@@ -126,8 +121,6 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +128,20 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-banishing-static-like-motion-in-aerial-videos-for-2024/"><u>[New] Banishing Static-Like Motion in Aerial Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-zoom-enhancing-your-skype-experience-for-2024/"><u>[Updated] Mastering Zoom Enhancing Your Skype Experience for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-complete-guide-to-generating-profits-vimeo-monetization-mastery/"><u>[Updated] The Complete Guide to Generating Profits Vimeo Monetization Mastery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>[Updated] Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>2024 Approved Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-lenovo-t430-drivers-for-multiple-windows-os-versions/"><u>Effortless Installation - Lenovo T430 Drivers for Multiple Windows OS Versions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-natural-felt-of-a-traditional-sketchpad-with-this-high-tech-wacom-tablet-zdnet-review/"><u>Experience the Natural Felt of a Traditional Sketchpad with This High-Tech Wacom Tablet - ZDNet Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-add-crop-and-edit-music-to-canva-video-for-2024/"><u>How To Add, Crop And Edit Music To Canva Video for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-update-sas-driver-software-on-windows-systems-1087-guides-and-resources/"><u>How to Install or Update SAS Driver Software on Windows Systems: 10/8/7 Guides & Resources</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pop-culture-with-a-click-using-kinemaster/"><u>In 2024, Pop Culture with a Click Using KineMaster</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-closeup-cinematography/"><u>In 2024, Unlocking the Potential of Closeup Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits-for-2024/"><u>Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-montage-apps-for-androidiphone-for-2024/"><u>Top 8 Montage Apps for Android/iPhone for 2024</u></a></li>
+</ul></div>
 

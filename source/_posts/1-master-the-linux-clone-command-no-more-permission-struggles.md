@@ -1,7 +1,7 @@
 ---
 title: 1. Master the 'Linux Clone Command' - No More Permission Struggles!
-date: 2024-08-30T21:19:44.824Z
-updated: 2024-08-31T21:19:44.824Z
+date: 2025-01-04T19:44:15.797Z
+updated: 2025-01-10T03:53:24.319Z
 tags:
   - desktop
 categories:
@@ -42,9 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Hand-fixing these types of error conditions is tedious. The answer is to use chown and chmod to clone the settings of a correctly configured file.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Problem?
 
  I needed some files from an archive file I’d been sent. I [unpacked the archive](https://youtube-help.techidaily.com/first-steps-launching-a-youtube-channel-for-profit-for-2024/), but the extracted directory had a padlock badge on its icon.
@@ -56,17 +53,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![GNOME asking for the root password to allow access to a directory](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1a.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Checking with ls (again, using sudo) reveals the problem.
 
 sudo ls -hld project
 
 ![Examing the permissions on a directory with ls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The root user owns the directory, and nobody has read or write permissions.
 
  The files and subdirectories are also owned by root, and the permissions are a mishmash of different incorrect settings.
@@ -75,10 +70,11 @@ sudo ls -hl project
 
 ![Using ls to examine the permissions on files and subdirectories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let’s sort out the ownership issues first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Cloning Ownership With chown
 
@@ -88,9 +84,6 @@ sudo chown -R --reference=/home/dave/Downloads project
 
 ![Recursively copying file ownership from one directory to another](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The **\--reference** option tells chown which directory to copy the permission settings from. The **\-R** (recursive) option tells chown to set the new permissions on the target directory, and on all files and subdirectories.
 
  We can check with ls that user dave is now the owner of the files and directories. We still need to use sudo because we haven’t sorted out the permissions yet.
@@ -99,11 +92,12 @@ sudo ls -hl project
 
 ![Checking the ownership of directories and files with ls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that we’ve reclaimed ownership of the files and directories, we can fix the permissions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Cloning Permissions With chmod
 
  This is a process very similar to the one we used with chown, but we need to be a little more careful with the permissions.
@@ -118,9 +112,6 @@ sudo chmod -R --reference=/home/dave/Downloads/existing.dat project
 
 ![Recursively copying and setting file permissions using chmod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We can use ls to see what effect this has had.
 
 sudo ls -hld project
@@ -129,6 +120,10 @@ sudo ls -hld project
                     sudo ls -hl project
 
 ![Checking the file permissions on a directory and on its contents with ls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The permissions from the reference file (read and write for the owner and group, and read-only for others) have been replicated on all files and directories.
 
@@ -161,11 +156,9 @@ ls -hl project
 ![Using ls to verify the permissions on directories and files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Cloning Everything With setfacl
 
  If you’re using [Access Control Lists](https://video-capture.techidaily.com/new-2024-approved-ranking-the-top-5-instant-frame-recorder-apps/) (ACLs), you can still clone the settings from a correctly set file to other files. ACLs give you granular control, allowing you to do things like specify permissions on a per-user basis, with different users having different permissions.
@@ -179,13 +172,18 @@ getfacl existing.file
 ![Using getfacl to examine the ACL settings of a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The owner, dave has read, write, and execute permissions. User mary has read and write permissions. To clone these settings to the files in the project directory, we use the setfacl command. We pipe in the output from the getfacl command to make sure we get the ACL settings that we want. The files we want to apply the ACL settings to are in a directory called “source.”
 
 getfacl /home/dave/Downloads/existing.file | setfacl --set-file=- source
 
 ![Piping the output of getfacl into setfacl to recusively copy ACL settings to files and directories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/13.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **\--set-file** option usually takes the name of a file that you want to copy the settings _from_. Using a single hyphen “-” as the filename tells setfacl to use stdin as its data source. This will be our piped data.
 
@@ -194,6 +192,10 @@ getfacl /home/dave/Downloads/existing.file | setfacl --set-file=- source
 getfacl terminal.c
 
 ![Using getfacl to verify the ACL settings have been copied to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/14.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Out of Chaos, Order
 
@@ -205,8 +207,6 @@ getfacl terminal.c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +214,21 @@ getfacl terminal.c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-collaborative-listening-made-simple-on-youtube/"><u>[New] Collaborative Listening Made Simple on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-choose-the-right-thumbnail-size-for-impact/"><u>[Updated] 2024 Approved How to Choose the Right Thumbnail Size for Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revamp-your-photos-is-pickup-a-game-changer-for-android-users/"><u>[Updated] Revamp Your Photos Is PickUp a Game-Changer for Android Users?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>[Updated] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-apple-m1-a-computing-revolution/"><u>2024 Approved Unveiling the Apple M1 A Computing Revolution?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brand-integration-with-youtube-content-creators-for-2024/"><u>Brand Integration with YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-m6-pro-4g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco M6 Pro 4G to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-effortless-and-effective-embedding-youtube-in-gslides/"><u>In 2024, Effortless and Effective - Embedding YouTube in GSlides</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-engaging-audiences-through-snapbiz-campaigns/"><u>In 2024, Engaging Audiences Through SnapBiz Campaigns</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-soundtracks-the-art-of-editing-in-garageband/"><u>In 2024, Tailoring Soundtracks The Art of Editing in GarageBand</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-professional-gopro-video-making/"><u>In 2024, The Ultimate Guide to Professional GoPro Video Making</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg-for-2024/"><u>Swift Steps to Personalize Your In-Game Sonic Presence in PUBG for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-free-video-conversion-software-compatible-with-windows-10-and-mac-os-discover-winxdvd/"><u>Top Free Video Conversion Software Compatible with Windows 10 and Mac OS - Discover WinXDVD!</u></a></li>
+</ul></div>
 

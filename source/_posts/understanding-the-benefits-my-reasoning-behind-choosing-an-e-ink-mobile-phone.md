@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Benefits: My Reasoning Behind Choosing an E-Ink Mobile Phone"
-date: 2024-08-30T21:18:52.366Z
-updated: 2024-08-31T21:18:52.366Z
+date: 2025-01-09T01:08:42.761Z
+updated: 2025-01-09T22:36:56.647Z
 tags:
   - mobile
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 
  E-readers have shown us the appeal of e-ink screens. The Light Phone 2 crammed this eye-friendly display technology into a phone. I want to see this technology come to smartphones. Let me tell you why.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ​Easier on the Eyes
 
  I have carried around a [Light Phone 2](https://www.thelightphone.com/) for years. I loved the look of that tiny, credit-card sized phone with its minimal e-ink display. After a while, I returned to using a smartphone, but I wish that choice didn't mean having to give up e-ink.
@@ -32,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  E-Ink Helps Form Healthier Habits
 
  Front-lighting gets the job done, but I find it off-putting and consider this reason to wait for the sun to come back up to read instead.
@@ -48,16 +53,10 @@ thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d0273900
 
  This might sound like an e-ink phone would be unusable, but rather it just means you would have to use it differently.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Less Streaming, More Reading
 
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  If e-ink displays aren't great for so much of what we do on our phones, why want one? They're far better for reading. Personally, this is something many (if not most) of us do much more of on our devices. We read texts, email, webpages, and social media posts. With e-ink, it's also more tempting to dive into ebooks.
@@ -67,8 +66,9 @@ Sergio Rodriguez / How-To Geek
  I love the idea of a portable eReader that can be used to place calls, send texts, and draft email. It's good for the stuff I find most important about using a phone and discourages many of the things I consider distractions.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Less-Distracting Interface
 
 ![Boox Tab Ultra C being held in a hand showing its home screen icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/C183E45A-A48E-4841-968E-DF39B15CD066.jpg) 
@@ -82,15 +82,17 @@ Sergio Rodriguez / How-To Geek
  E-ink screens do better with simple layouts than they do with gradients and animations. This makes the devices less eye-catching. It's hard to get excited about a presentation showing off the new home screen on a [Nook GlowLight](https://instagram-video-recordings.techidaily.com/turning-horizons-into-heights-uploading-videos-to-igtv/), yet enough of us have come to the conclusion that that's a good thing. Give us something straightforward that helps us do the task at hand and then encourage us to put the phone back down when we're done.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  ​It's Like Writing on Paper
 
 ![Boox Tab Ultra C Pro with annotations on the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/boox-tab-ultra-c-pro.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Want to know why people buy the [reMarkable tablet](https://www.amazon.com/reMarkable-Essentials-Bundle-Marker-Leather/dp/B0BJNFJY8Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003688&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-i-want-an-e-ink-phone%2F&asc%5Fcampaign=Evergreen)? Just like e-ink better simulates the experience of reading a physical book, this type of panel also helps replicate what it's like to write on paper.
@@ -115,8 +117,6 @@ Jerome Thomas / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,24 @@ Jerome Thomas / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-first-steps-into-facebook-data-analysis-for-new-users-for-2024/"><u>[New] First Steps Into Facebook Data Analysis for New Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-professional-audio-recorder-reviews-ipad-edition-3/"><u>[Updated] 2024 Approved Professional Audio Recorder Reviews IPad Edition #3</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/"><u>[Updated] In 2024, Top 5 Recorder Picks to Freeze Your Web Wanderings in Time</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-scene-stealers-archive-responses-await-for-2024/"><u>[Updated] Scene Stealers Archive Responses Await for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sculpting-memorable-moments-in-your-shows-start/"><u>[Updated] Sculpting Memorable Moments in Your Show's Start</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-ways-to-procure-quality-photo-and-video-backgrounds/"><u>[Updated] Top 10 Ways to Procure Quality Photo & Video Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-with-android-and-iphones-top-free-layering-apps/"><u>[Updated] Unleash Creativity with Android & iPhone's Top FREE Layering Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-windows-xp-professional-for-media-development/"><u>[Updated] Unlock Windows XP Professional for Media Development</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-best-tiktok-video-editing-tips/"><u>2024 Approved Best Tiktok Video Editing Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlimited-potential-with-best-in-class-pp-templates/"><u>2024 Approved Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-the-world-of-gopro-timelapses-efficiently/"><u>In 2024, Navigating the World of GoPro Timelapses Efficiently</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-flip-side-realities-of-virtual-reality/"><u>In 2024, The Flip Side Realities of Virtual Reality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-guide-to-the-best-video-editors-not-on-youtoo/"><u>In 2024, The Ultimate Guide to the Best Video Editors Not on YouToo</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-budget-friendly-filmmaking-essentials-8-must-know-software-for-2024/"><u>New Budget-Friendly Filmmaking Essentials 8 Must-Know Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stealthy-styles-easy-color-corrections-techniques-for-2024/"><u>Stealthy Styles Easy Color Corrections Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/steps-to-obtain-access-from-trustedinstaller-on-windows-11/"><u>Steps to Obtain Access From TrustedInstaller on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209850658-9781947072015-this-joy-that-i-have/"><u>This Joy That I Have | Free Book</u></a></li>
+</ul></div>
 

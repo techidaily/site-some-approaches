@@ -1,7 +1,7 @@
 ---
 title: "Yale Advanced Secure Entry System: The Ideal Intelligent Locking Solution for Your Apartment"
-date: 2024-08-30T21:16:58.106Z
-updated: 2024-08-31T21:16:58.106Z
+date: 2025-01-09T02:03:10.792Z
+updated: 2025-01-10T03:28:17.807Z
 tags:
   - product-reviews
 categories:
@@ -100,11 +100,6 @@ Expand
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  Design: Modern Cosmetics
 
 ![The back cover removed from the Yale Approach Lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-back-cover-removed-from-the-yale-keypad_53678334926_o.jpg) 
@@ -123,9 +118,17 @@ Jerome Thomas / How-To Geek
 
  Every Approach Lock also comes with a Yale Connect Wi-Fi bridge and a magnetized DoorSense module. The former requires an AC outlet and is about the size of a doorbell chime or smart plug. The latter is no bigger than my thumb and is designed to be mounted on the door frame or jamb. Additional contents include installation hardware and user manuals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Installation and Setup: Just Bring a Screwdriver
 
 ![The Yale Approach Lock with tools and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-yale-approach-lock-with-tools-and-accessories_53678553938_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -142,8 +145,9 @@ Close
  After the Connect finishes updating, I recommend performing a deadbolt calibration. I was having issues getting the Approach Lock to fully extend my deadbolt, but this problem disappeared after I took a couple of minutes to get things fine-tuned. You can find the “Calibrate” option on the “Lock Settings” screen, housed under “Utilities.”
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using the Yale Approach Lock: More Pros than Cons
 
  I had a couple of issues when using the Yale Approach Lock, but for the most part, I was very satisfied with my overall experience. So how about we get the cons out of the way?
@@ -156,34 +160,30 @@ Close
 
  The Door Ajar setting was convenient, too. That little DoorSense module was smart enough to detect my door being left open; and I had the Yale Access app set up to send me a Smart Alert if the door wasn’t closed within one minute.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using the Yale Access App: Screens and Menus You’ll Want to See
 
 ![The home page of the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-front-door-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Michael Bizzaco / How-To Geek
 
 ![The Activity screen on the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-activity-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 ![The House Settings screen in the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-house-settings-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 ![The Lock Settings screen in the Yale Access app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-access-lock-settings-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 Michael Bizzaco / How-To Geek
 
 Close 
@@ -205,6 +205,10 @@ Close
  Want even more front door security? Why not add one of these [excellent video doorbells](https://screen-mirroring-recording.techidaily.com/updated-unlocking-the-secrets-of-ios-visual-data-repository-for-2024/) to your property?
 
 ![The Yale Approach Lock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/yale-approach-lock-product-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Yale Approach Lock
 
@@ -246,8 +250,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +257,22 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ethical-approaches-to-extract-mp4-from-youtube-for-2024/"><u>[New] Ethical Approaches to Extract MP4 From YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-hp-envy-27s-4k-features/"><u>[New] The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tiktok-unboxers-guide-to-enhanced-video-engagement-and-likes/"><u>[New] TikTok Unboxers Guide to Enhanced Video Engagement and Likes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-converting-images-into-harmonious-videography/"><u>[Updated] 2024 Approved Converting Images Into Harmonious Videography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cloaked-consumption-the-secret-guide-for-exploring-instagram-stories-on-multiple-platforms-free/"><u>[Updated] In 2024, Cloaked Consumption The Secret Guide for Exploring Instagram Stories on Multiple Platforms (Free)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-steady-phone-cinematography/"><u>[Updated] Mastering the Art of Steady Phone Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro/"><u>[Updated] Unlocking Creative Potential The Artful Application of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>2024 Approved The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlicensed-legal-tracks-downloads-for-gaming/"><u>2024 Approved Unlicensed Legal Tracks Downloads for Gaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photographys-new-era-smartphones-spearheading-change/"><u>In 2024, Photography's New Era Smartphones Spearheading Change</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 6</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-new-standard-how-does-av1-outperform-vp9-in-2024/"><u>The New Standard How Does AV1 Outperform VP9, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tips-lipo-power-sources-for-aerial-vehicles-for-2024/"><u>Top Tips LiPo Power Sources for Aerial Vehicles for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 3 | Dr.fone</u></a></li>
+</ul></div>
 

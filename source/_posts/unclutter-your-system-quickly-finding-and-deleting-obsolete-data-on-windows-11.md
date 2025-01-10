@@ -1,7 +1,7 @@
 ---
 title: "Unclutter Your System: Quickly Finding & Deleting Obsolete Data on Windows 11"
-date: 2024-08-30T21:22:49.775Z
-updated: 2024-08-31T21:22:49.775Z
+date: 2025-01-03T00:53:00.638Z
+updated: 2025-01-09T18:57:35.321Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 ---
 
 ## Unclutter Your System: Quickly Finding & Deleting Obsolete Data on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using Storage Sense
 
  Storage Sense is a built-in Windows 11 feature that helps automatically [clean up old files](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/). You can configure various options in the feature so it only deletes the files using the specified criteria. You can run the feature manually, or you can set it to run automatically at the specified time.
@@ -34,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 !['System' and 'Storage' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-storage-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Storage Management section, turn on the toggle next to "Storage Sense," then click "Storage Sense."
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
@@ -53,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  With Microsoft PC Manager
 
 [PC Manager is a built-in Windows 11 app](https://driver-install.techidaily.com/nvidia-graphics-driver-enhancement-gtx-1060/) that lets you analyze your storage space and remove downloaded files, large files, and duplicate files. It has a variety of filters that let you quickly find the files you want to let go of.
@@ -79,33 +89,18 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  And that’s it.
 
  Another useful option is "Duplicate Files." This option finds the duplicates on your storage and helps you remove them all at once. Use it by clicking the option, letting the feature find any duplicates, choosing the files you want to remove, and clicking "Permanently Delete."
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And you’re all set.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using Command Prompt
 
  If you prefer Command Prompt, use the **ForFiles** command to automatically find and delete [files older than the specified number of days](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-15-pro-max-by-drfone-ios/) from select locations. You can run the command each time you want to clean up your storage.
@@ -137,20 +132,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
 ---
@@ -163,8 +152,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +159,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-spotting-no-replay-in-your-chat-history/"><u>[New] 2024 Approved Spotting No Replay in Your Chat History</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>[New] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>[Updated] Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-oculus-rift-game-hits-of-the-season/"><u>[Updated] Ultimate Oculus Rift Game Hits of the Season</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-demographic-relevance-for-higher-youtube-rankings/"><u>2024 Approved Demographic Relevance for Higher YouTube Rankings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-unseen-ui-techniques-for-newcomers/"><u>2024 Approved Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-potential-with-iphone-hdr/"><u>2024 Approved Unlocking Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-viewer-insights-understanding-subscriber-feedback/"><u>2024 Approved Unveiling Viewer Insights Understanding Subscriber Feedback</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-mp3-to-ogg-converter-online-service-by-movavi/"><u>Free MP3 to Ogg Converter - Online Service by Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>In 2024, Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-drone-tech-leading-gimbals-ranked/"><u>In 2024, Top Drone Tech Leading Gimbals Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-to-leveraging-gpt-4-in-todays-chatgpt/"><u>Quick Guide to Leveraging GPT-4 in Today's ChatGPT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-e13-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto E13 Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/at-the-apex-youtube-subscribers-ranking/"><u>Who's at the Apex? YouTube Subscribers Ranking</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enable Missing Minimize/Maximize Icons for a Windows-Like Experience in Fedora OS
-date: 2024-08-30T21:19:05.954Z
-updated: 2024-08-31T21:19:05.954Z
+date: 2025-01-06T20:52:36.782Z
+updated: 2025-01-10T01:31:59.089Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Restoring the Buttons Using the Command Line](https://youtube-sure.techidaily.com/24-fifas-best-players-trendy-videos-on-youtube/)
 * [You’ve Always Got a Choice With Fedora](https://vp-tips.techidaily.com/updated-in-2024-breezy-blogging-quick-video-concept-ideas/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Fedora's GNOME desktop lacks minimize and maximize buttons, making it confusing for newcomers.
@@ -26,10 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Fedora’s GNOME desktop windows neither have minimize nor maximize buttons. It’s counterproductive because it makes the Linux desktop even more alien to newcomers. Here are two different ways to get them back.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Where Are the Standard Buttons?
 
  Let’s clear this up, right out of the gate. It isn’t Fedora's fault. Other distributions such as Ubuntu have minimize and maximize buttons on GNOME, but Fedora didn’t remove the buttons. [The GNOME developers removed them](https://mail.gnome.org/archives/gnome-shell-list/2011-February/msg00192.html), a long time ago.
@@ -52,6 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  All of these options are workable, but they’re not immediately apparent, and they’re not particularly discoverable. The good news is that if Canonical can tweak their GNOME to restore the minimize and maximize buttons, so can we. And there are two simple ways to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Restoring the Buttons Using GNOME Tweaks
 
  The GNOME Tweaks tool lets you adjust a lot of desktop settings, not just the buttons in the title bar of a window. To install it on Fedora, type:
@@ -63,22 +67,21 @@ sudo dnf install gnome-tweaks
 ![Launching GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the icon to start the program. The main screen of the application will appear. In the sidebar, click the "Windows" option.
 
 ![The main GNOME Tweaks window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll see two sliders in the "Titlebar Buttons" section labeled "Maximize" and "Minimize."
 
 ![The Windows pane of the GNOME Tweaks tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To restore each of the missing buttons, activate the sliders by clicking on them. The buttons appear or disappear as soon as the sliders are moved.
 
 ![The GNOME Tweaks tool with the maximize and minimize buttons restored to the toolbar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-9.png) 
@@ -97,9 +100,6 @@ gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:minimize,m
 
 ![The minimize and maximize buttons restored and displayed in the titlebar of a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  You can select any permutation of buttons, just include the name of the buttons you want and omit the ones you don’t want.
 
  Another trick you can do with this command is to set the buttons to appear on the left or right end of the window title bar. To have the buttons appear on the left, move the names of the buttons so that they are _before_ the “appmenu” list entry.
@@ -119,8 +119,9 @@ gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,max
 ![A terminal window with the close button outermost on the left hand end of the titlebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  You’ve Always Got a Choice With Fedora
 
  It’s rare that a Linux distribution or desktop environment exactly matches your personal preferences. There's usually some compromise somewhere along the line. Tweaking lets you adjust, work around, or remove little annoyances.
@@ -133,8 +134,6 @@ gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,max
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,22 @@ gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,max
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-reimagining-streaming-experience-beyond-manycam-for-2024/"><u>[New] Reimagining Streaming Experience Beyond ManyCam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>[New] The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-6-virtual-reality-vr-gloves-to-check-out/"><u>[New] Top 6 Virtual Reality (VR) Gloves to Check Out</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>[Updated] Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[Updated] Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-dji-phantom-3s-expert-features/"><u>[Updated] Unveiling DJI Phantom 3'S Expert Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-securing-smooth-playback-on-any-device-windows-mac-android-and-iphone/"><u>Guide: Securing Smooth Playback on Any Device - Windows, Mac, Android & iPhone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lenovo-thinkphone-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lenovo ThinkPhone Without PUK Codes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>In 2024, The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-clicker-article-titles-maker/"><u>In 2024, Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-post-windows-11-upgrade-quick-fixes-inside/"><u>No Audio Post-Windows 11 Upgrade? Quick Fixes Inside!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-narrative-on-film-for-2024/"><u>The Art of Narrative on Film for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-vision-tech-top-5-for-slow-motion-for-2024/"><u>Ultimate Vision Tech Top 5 for Slow Motion for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-s23-tactical-edition-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy S23 Tactical Edition Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

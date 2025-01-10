@@ -1,7 +1,7 @@
 ---
 title: Monthly-Free Secure Entryway Monitoring with the Eufy Security E340 Smart Video Door Bell
-date: 2024-08-30T21:17:31.279Z
-updated: 2024-08-31T21:17:31.279Z
+date: 2025-01-03T03:15:19.955Z
+updated: 2025-01-09T21:45:09.238Z
 tags:
   - product-reviews
 categories:
@@ -82,6 +82,10 @@ Expand
 
 ![The The eufy Security E340 Video Doorbell and its battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/jerome-thomas-how-to-geek-jerome-thomas-makeuseof-jerome-thomas-game-rant-jerome-thomas-android-police-jerome-thomas-xda-developers-jerome-thomas-pocket-lint-jerome-thomas-pocket-now_53511185698_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  I’ve been reviewing a lot of tiny [security cameras](https://screen-capture.techidaily.com/updated-in-2024-enhance-your-game-experience-with-these-5-screen-capture-techniques-for-minecraft-mac/) lately, so you can imagine my surprise when I first held the E340 in my hands. Weighing just over a pound, this doorbell feels way heftier than that. When it comes to cameras though, the stronger the better, so the E340’s [rugged IP65 rating](https://screen-video-capture.techidaily.com/new-in-2024-pixels-and-players-advanced-tactics-for-recording-gaming/) makes a lot of sense—it feels tough because it _is_ tough!
@@ -92,6 +96,10 @@ Jerome Thomas / How-To Geek
 
 ![The bottom of the eufy Security E340 Video Doorbell on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/jerome-thomas-how-to-geek-jerome-thomas-makeuseof-jerome-thomas-game-rant-jerome-thomas-android-police-jerome-thomas-xda-developers-jerome-thomas-pocket-lint-jerome-thomas-pocket-now_53511451110_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  I liked that Eufy thought to include a small LED light strip at the top of the bell, along with bookend spotlights for the bottom lens.
@@ -99,8 +107,9 @@ Jerome Thomas / How-To Geek
  Measuring 5.91 inches tall, 2.03 inches wide, and 1.11 inches from top to bottom, I would make sure you have about 7 inches of top-down space when mounting the doorbell.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Setup: Up and Running Quickly
 
  Everything I needed to mount the E340 was right in the box, and installing the doorbell was a simple process. You’ll be able to choose between a hardwired or battery-powered setup (I opted for the latter), and I was pleased to see how easy it was to release the battery to recharge it.
@@ -113,9 +122,6 @@ Jerome Thomas / How-To Geek
 
 ![The eufy Security E340 Video Doorbell showing an apartment building's front hall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/eufy-e340-apartment-hall-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Eufy E340 delivers bright and colorful video quality from both lenses. The front-facing 2K cam is the real star of the show, providing a wide field of view and plenty of picture detail. This isn’t to say that the second lens doesn’t show up for work though. The 1,600 x 1,200 pixel count gave me crystal-clear views of whatever was hanging out on the ground, in front of my apartment door.
 
  Neither lens can pan or tilt, and there’s no mechanized zoom either. I was satisfied with the E340’s digital zoom, but other doorbells I’ve tested have been able to zoom further, and without as much of a quality drop-off as I experienced with the E340.
@@ -125,8 +131,9 @@ Close
  By nightfall, the E340’s infrared sensors kick in, which brings me to a disappointment: turning on colorized nighttime footage can be hard to find in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Audio Quality: What I Like to Hear
 
  The E340 has a built-in microphone and speaker for two-way audio. Using the Eufy Security app, the Alexa app, and my Echo Show 5, I was able to communicate with individuals outside my apartment. For the most part, the E340 does a nice job with voice volume.
@@ -137,21 +144,12 @@ Close
 
 ![The Devices screen in the eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/eufy-security-app-devices-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Portrait mode live views in the eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/eufy-security-app-live-view-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The event log screen in the eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/eufy-security-app-event-log-1.jpeg) 
 
 ![The settings panel in the eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/eufy-security-app-settings-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 Close 
 
  I thought the Eufy Security app was easy to use, and had every feature and customization I could think of.
@@ -161,11 +159,16 @@ Close
  The Explore tab is basically a giant page of Eufy advertisements. The edge tab (a square with “AI” in the middle) is a dashboard for your E340’s AI-powered detection skills, but you’ll need the [Eufy HomeBase 3](https://www.amazon.com/eufy-Security-Expandable-Compatibility-Encryption/dp/B0BZCCB56G?source=ps-sl-shoppingads-lpcontext&ref%5F=fplfs&psc=1&smid=A1U62USFOR8NN3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002404&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Feufy-security-e340-video-doorbell-review%2F&asc%5Fcampaign=Authority) to use these capabilities.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Eufy Cloud Storage and HomeBase 3: Do you Need Them?
 
 ![The eufy Security E340 Video Doorbell and its accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/jerome-thomas-how-to-geek-jerome-thomas-makeuseof-jerome-thomas-game-rant-jerome-thomas-android-police-jerome-thomas-xda-developers-jerome-thomas-pocket-lint-jerome-thomas-pocket-now_53510128127_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -176,6 +179,10 @@ Jerome Thomas / How-To Geek
  If you want to unlock your E340’s AI-driven smart detection features, and up to 16GB of local storage, I suggest purchasing the HomeBase 3 module. In fact, with an external hard drive connected to the HomeBase, you can offload up to 16TB of local storage.
 
  Do keep in mind that neither the subscription nor the HomeBase is required to operate the E340.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Eufy Security E340 Video Doorbell?
 
@@ -203,8 +210,6 @@ With the eufy Security E340 Video Doorbell, two cameras work together to deliver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +217,26 @@ With the eufy Security E340 Video Doorbell, two cameras work together to deliver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-discover-the-leading-mobile-movie-units/"><u>[New] 2024 Approved Discover the Leading Mobile Movie Units</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-electronic-conference-logging-for-2024/"><u>[New] Electronic Conference Logging for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>[Updated] In 2024, From Still Shots to Movies Mastering Logitech Webcam Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-zooming-in-youtube-videos/"><u>2024 Approved The Art of Zooming in YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-10-text-effects-to-elevate-your-clips/"><u>2024 Approved The Ultimate List 10 Text Effects to Elevate Your Clips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-gopro-max-or-hero-11/"><u>2024 Approved Ultimate Guide to GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-13-mini-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 13 mini using itunes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-7-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 7 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-buzz-generator-prodigy/"><u>In 2024, Prime Buzz Generator Prodigy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>In 2024, Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unearthing-the-best-storytelling-channels-yearly-roundup/"><u>In 2024, Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>In 2024, Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-protection-paradigms-anticipating-top-7-predictions/"><u>Pioneering Protection Paradigms: Anticipating Top 7 Predictions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-audio-files-new-world-how-to-convert-srt-effortlessly-for-2024/"><u>The Audio Files' New World How to Convert SRT Effortlessly for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-viral-instagram-unboxing-vids-for-2024/"><u>The Ultimate Guide to Viral Instagram Unboxing Vids for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tomorrows-scrutiny-innovative-perspectives-for-2024/"><u>Tomorrow’s Scrutiny Innovative Perspectives for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-freezes-in-rocket-league-tips-and-solutions/"><u>Troubleshooting Freezes in Rocket League - Tips & Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-manipulating-windows-files-creation-timestamps/"><u>Understanding & Manipulating Windows Files' Creation Timestamps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/wi-fi-mesh-cost-vs-connectivity/"><u>Wi-Fi Mesh: Cost Vs. Connectivity?</u></a></li>
+</ul></div>
 

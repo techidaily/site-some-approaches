@@ -1,7 +1,7 @@
 ---
 title: Fixing Muted Video Issues - How to Get Your YouTubes Playing with Sound Again!
-date: 2024-08-26T16:26:54.306Z
-updated: 2024-08-27T16:26:54.306Z
+date: 2025-01-08T22:18:21.809Z
+updated: 2025-01-09T17:12:01.633Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
@@ -21,8 +21,6 @@ _Find your YouTube videos on sound? Don't panic. You're not alone and it happens
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/icon1.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) to YouTube, YouTube Problems｜Last updated on Nov 28, 2018
 
-
-
 If you cannot hear any sound when playing YouTube videos or fail to get any audio from YouTube for various unknown causes, calm down, man, here I will help you analyze why the YouTube no sound problem happens and show you a clear path to fix the issue with YouTube sound with the greatest ease. 
 
  Hot search: [Fix Facebook audio problem](https://tools.techidaily.com/macxdvd/products/); [troubleshoot sound issue when play MP4](https://tools.techidaily.com/macxdvd/products/); [iPhone no sound fixed](https://tools.techidaily.com/macxdvd/products/)
@@ -35,13 +33,18 @@ If you cannot hear any sound when playing YouTube videos or fail to get any audi
 
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/d-win.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/d-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Do YouTube Videos Have No Sound? How to Solve it?
 
 I can imagine how confused and frustrated you would be when you meet the YouTube no audio problem. And you might be very curious about the reasons. And so am I. After accessing to loads of detailed info and consulting to the technical experts, eventually I get the ultimate solution for YouTube no sound issues, along with some clues about the possible reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Case 1: Play Online YouTube Video with Video but No Audio
 
 Prior to one by one list out the possible reasons, I just want to remind you to check your sound track on your computer and make sure whether it's on or not, for some of us may forget to turn on your audio device on your computer. So, this is the primary step you need to do. Besides, chances are also that the YouTube videos you are playing belong to the copy protected ones. That's to say, they don't give you full access to enjoy the contents unless you pay for them or rent them and then you are allowed to watch YouTube videos with video and audio.
@@ -72,6 +75,10 @@ Have you ever considered the possible reason of your web browser to the YouTube 
 
 ![No sound/audio in YouTube videos fixed](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/web-browser.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For the fans of **Internet Explorer**, you have two solutions to fix no sound on YouTube videos problem.   
 **#1:** Copy the text starting from "Windows Registry Editor Version 5.00" --> Open "Notepad" --> Paste it --> save the file as fix.reg (Attention: Don't forget the file extension .reg.) --> Double-click on fix.reg file --> Click on OK.  
 **#2:** Start Menu --> Run --> Type: regedit-->In the list go to: My Computer\\ HKEY\_LOCAL\_MACHINE \\ SO FTWARE \\ Microsoft \\ Windows NT \\ CurrentVersion \\ Drivers32 --> In the right pane, right-click --> Select new > String value --->Rename it as "wavemapper" --> Double-click it (Type: msacm32.drv) ---> Close the Registry editor.
@@ -80,9 +87,6 @@ For the buffs of **Google Chrome**, you can resolve YouTube no-audio issue by ch
 
 For the junkies of **Safari**, you can have a shot on the following method (workable for the majority, if no all): Find out System Preferences > Access to Other/ Flash Player > Advanced > Delete All --> Press the "Delete All" button --> Install Adobe Flash Player --> Quit Safari --> Restart computer and relaunch Safari. Instead of passively waiting for the expert's assistance, why not stand on your own feet to fix the YouTube no sound problem? 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Case 2: Sick of Analyzing So Many Possible Reasons? Try on Once-for-All Solution!
 
 Tired of spending so much time and energy on endless trial and error? Now, don't be! Here exists an easiest way to worry-free fix your online videos no sound problem without caring any possible reason. That's the once-for-all solution - **download videos**, which keeps you from any bothering of no sound issue. 
@@ -91,9 +95,6 @@ To do that, here the highly recommended a cutting-edge tool - [**MacX YouTube Do
 
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/btn-win.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/btn-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### \[Tutorial\] How to Free Download Online Videos without Audio Issue 
 
 Step 1: [Free download MacX YouTube Downloader](https://tools.techidaily.com/macxdvd/products/) and launch it on your Mac computer. It's available on Mac OS X 10.5 and above. 
@@ -101,6 +102,10 @@ Step 1: [Free download MacX YouTube Downloader](https://tools.techidaily.com/mac
 Step 2: Navigate to youtube.com to copy your target audio/video URL, and go back to the program. Tap "Add Link" button, and click "Paste & Analyze" button to detect the URL details. 
 
 ![download youtube video without sound issue](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/youtube-down-download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Choose the video format, resolution, size etc. from the later popping up result. After you've done, click "OK" button. 
 
@@ -125,29 +130,25 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Problems with YouTube Loading and Buffering Resolved!](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to Solve YouTube Not Working Problem](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/img3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [DVD Player Troubleshooting: Fix DVD Player No Sound Issue](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/ytd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [MacX YouTube Downloader](https://tools.techidaily.com/macxdvd/products/)
 
 Free Download HD Videos for Playing without Any Sound Problems. 
@@ -155,8 +156,9 @@ Free Download HD Videos for Playing without Any Sound Problems.
 [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/article-seo/fd.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Trusted by Macworld,CNET
 
 MOST READ
@@ -167,17 +169,12 @@ MOST READ
 
 3 [Top 3 4K Video Players to Play 4K Videos Smoothly](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 ### Hot Products
@@ -202,8 +199,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Site Map](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -217,8 +212,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +219,24 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-the-perfect-facebook-video-post-pcandroid-techniques/"><u>[New] In 2024, Crafting the Perfect Facebook Video Post, PC/Android Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-facebook-launching-your-first-phenomenal-giving-post/"><u>[Updated] Facebook Launching Your First Phenomenal Giving Post</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>[Updated] Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-professional-techniques-for-coloring-gopro-videos/"><u>[Updated] Unlock Professional Techniques for Coloring GoPro Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-secret-sauce-of-successful-pixlr-editing/"><u>2024 Approved The Secret Sauce of Successful Pixlr Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-selfie-gear-rankings-8/"><u>2024 Approved The Ultimate Guide to Iphone Selfie Gear Rankings (#8)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-film-previews-collection/"><u>2024 Approved Ultimate Film Previews Collection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-6-food-diary-applications-to-monitor-eating-habits/"><u>Discover the Best 6 Food Diary Applications to Monitor Eating Habits</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-track-download-asus-monitor-drivers-get-them-now/"><u>Fast Track Download: ASUS Monitor Drivers - Get Them Now</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-f5-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco F5 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>In 2024, Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-photo-customization-exclusive-list-of-stickers-for-ios-and-android-devices/"><u>In 2024, Top Photo Customization Exclusive List of Stickers for iOS & Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>In 2024, Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-time-loop-visual-tricks-for-2024/"><u>Strategies for Time-Loop Visual Tricks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/taming-soundtracks-audio-capture-in-windows-10-for-2024/"><u>Taming Soundtracks Audio Capture in Windows 10 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-swindles-meet-the-new-meta-signature/"><u>Twitter Swindles: Meet the New Meta Signature</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cost-Efficient Techniques for Reviving Your MacBook's Battery Life - An Expert Ranking
-date: 2024-08-30T21:20:59.711Z
-updated: 2024-08-31T21:20:59.711Z
+date: 2025-01-06T03:08:52.606Z
+updated: 2025-01-10T02:10:36.060Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [$159+: Get it Repaired (Officially or Unofficially)](https://www.howtogeek.com/all-the-ways-to-fix-your-macbook-battery-from-cheapest-to-most-expensive/#159-get-it-repaired-officially-or-unofficially)
 * [$759+: Buy a New MacBook](https://media-tips.techidaily.com/ultimate-guide-to-choosing-the-best-audio-format-converter-for-pcs-windows-1187-supporting-mp3-wma-flac-wav-and-aiff/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You don't have to replace your battery as soon as the "Service Recommended" warning appears. How you use your Mac matters more.
@@ -34,9 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Service Recommended warning on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-service-recommended-warning-on-macos.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To [check your MacBook's battery level,](https://some-guidance.techidaily.com/in-2024-strengthening-your-presence-networking-techniques-for-youtubers/) go to System Settings > Battery Settings. Click the "i" alongside Battery Health and you will see both the Battery Condition and the Maximum Capacity as a percentage. If that capacity is below 80%, that's when you'll start to see warnings about your battery health.
 
  You'll notice over time that the battery life will get shorter and shorter (and charging will also be quicker as the capacity is reduced). But if you only use battery power for one or two hours a day—or less—then you can continue using it well below the 80% threshold. Just keep it plugged in and you'll be fine.
@@ -51,9 +52,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Check out [mysupport.apple.com](https://mysupport.apple.com/) to see if you're eligible.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  $50+: Use an External Power Bank
 
  If you need your MacBook to be portable and can't always use it where you can plug it in, try the compromise solution of using an external power bank. This won't be quite as mobile as an internal battery, but it does still give you the freedom to set up and work wherever you need to.
@@ -62,13 +60,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The display on the Ugreen 20,000mAh Two-Way Fast Charging Power Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/display-on-the-ugreen-100w-20000mah-power-bank-2jpg_53344896636_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  These are only short-term solutions, though. The power banks are compact but can be a little heavy, and they will tie up one of your ports as well. So, if you need your MacBook to be portable, at some stage you will have to replace the battery.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  $75+: Replace the Battery Yourself
 
  The cheapest way to replace your MacBook battery is by doing it yourself. There are a few companies that supply the parts and tools for this. Probably the most well-known is [ifixit.com](https://www.ifixit.com), which offers a battery and toolkit for the M1 MacBook Air for $130\. [OWC](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003305/https://eshop.macsales.com) is another well-regarded brand, and you would pay $75 for a replacement battery and tools for the same MacBook.
@@ -79,6 +78,10 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot showing the price of a self repair MacBook Air battery from Apple.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-showing-the-price-of-a-self-repair-macbook-air-battery-from-apple.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, these machines are not intended for self-repair, so you do need to be quite brave to do it. It might be worth trying if you're looking to resurrect an old Mac whose battery has long since expired. But on a MacBook that is still in good condition, I would personally feel more comfortable getting the job done properly.
 
 ##  $159+: Get it Repaired (Officially or Unofficially)
@@ -87,21 +90,18 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Apple Support Website to get a quote for repairs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-of-apple-support-website-to-get-a-quote-for-repairs.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  You can also get your battery replaced using an Apple-certified repair service. These can include big companies like Best Buy in the US along with smaller local repair outlets. They will also get you an official Apple battery, but the labor costs can vary and might not always be cheaper. You'll need to get a quote before you begin.
 
 ![The Best Buy Apple Repair homepage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-best-buy-apple-repair-homepage.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And if you want to save a little bit more money, you can use your local unofficial, non-certified repair service. This will get you a third-party battery that should be cheaper, and it should also cost less to install. Again, you'll need to get a quote. Remember that there are no guarantees with these types of repairs. There's even the chance it will affect Apple's ability to repair anything that goes wrong in the future.
 
  Unless you're on the tightest of budgets, the official Mac repair seems like a good balance between value and peace of mind.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ##  $759+: Buy a New MacBook
 
  The last option for fixing a bad MacBook battery is to buy a new MacBook. This is overkill in most cases, but if you're seeing other signs that it's [time to upgrade your MacBook](https://audio-editing.techidaily.com/new-in-2024-dissecting-sound-forge-an-experts-guide-to-audio-mastery/), then it may be worth doing.
@@ -115,8 +115,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![The Apple refurbished website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-apple-refurbished-website.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  Your MacBook battery will start to fail eventually. But when it does, you've got a range of options to deal with it, at a range of prices. And remember that if your [battery is draining too quickly](https://youtube-clips.techidaily.com/in-2024-engaging-local-audiences-with-social-media-videos/), it's not always a hardware problem. Sometimes, some software tweaks might fix it.
@@ -127,8 +128,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-online-meetings-with-clarity-and-precision/"><u>[New] Capturing Online Meetings with Clarity and Precision</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-high-quality-image-browser/"><u>[New] Optimal High-Quality Image Browser</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-high-quality-recording-discovering-the-best-5-slow-video-cameras/"><u>[Updated] High-Quality Recording Discovering the Best 5 Slow Video Cameras</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leading-edge-top-16-best-freeware-media-players/"><u>[Updated] Leading Edge Top 16 Best Freeware Media Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-rapid-releases-review-best-quick-gaming-selections/"><u>[Updated] Rapid Releases Review Best Quick Gaming Selections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[Updated] Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conveniently-managing-cash-transactions-with-your-iphone-and-apple-watchs-integrated-apple-pay-feature/"><u>Conveniently Managing Cash Transactions with Your iPhone and Apple Watch's Integrated Apple Pay Feature</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-new-era-of-undead-a-comprehensive-review-of-7-days-to-die/"><u>Experience the New Era of Undead - A Comprehensive Review of '7 Days to Die'</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-leveraging-youtube-for-dynamic-instagram-stories/"><u>In 2024, Leveraging YouTube for Dynamic Instagram Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-2019-evolution-of-vegaspro/"><u>In 2024, The 2019 Evolution of VegasPro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-oculus-quest-2-affordable-premium-vr-gaming-and-entertainment/"><u>Inside the Oculus Quest 2 - Affordable Premium VR Gaming and Entertainment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pro-tips-for-impressive-gopro-time-lapse-cinematography/"><u>Pro Tips for Impressive GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-merits-of-sns-hdr-vs-its-industry-contenders-for-2024/"><u>The Merits of SNS HDR Vs. Its Industry Contenders for 2024</u></a></li>
+</ul></div>
 

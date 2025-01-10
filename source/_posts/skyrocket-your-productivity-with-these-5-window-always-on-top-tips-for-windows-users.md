@@ -1,7 +1,7 @@
 ---
 title: Skyrocket Your Productivity with These 5 Window Always-On-Top Tips for Windows Users!
-date: 2024-08-30T21:23:03.796Z
-updated: 2024-08-31T21:23:03.796Z
+date: 2025-01-07T20:44:05.051Z
+updated: 2025-01-09T17:00:12.348Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [With a Keyboard Shortcut: AutoHotkey](https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-12-pro-max-the-right-way-by-drfone-ios/)
 * [Using a Mouse: DeskPins](https://extra-lessons.techidaily.com/boosting-creativity-the-most-outstanding-free-slide-show-templates/)
 * [Without Installing Anything Extra: Built-in App Options](https://twitter-videos.techidaily.com/new-2024-approved-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,21 +39,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A window made always on top with PowerToys on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/always-on-top-notepad-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can customize this behavior by launching the PowerToys Settings window. To do so, launch "PowerToys" from the Windows Start menu or click the PowerToys icon in your taskbar's notification area and click the gear-shaped Settings icon.
 
  Select "Always on Top" in the sidebar. If the keyboard shortcut didn't work, ensure the "Always on Top" PowerToy is enabled at the top here. You can use the options here to change the keyboard shortcut, control whether a colored border appears around the window and customize that border, choose whether the sound plays, and configure windows that will never be made always on top.
 
 ![The Always On Top in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/always-on-top.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We're big fans of Microsoft PowerToys. The package is [full of other useful utilities](https://extra-information.techidaily.com/the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/), and there's a good chance you'll find something else useful in it, too. 
 
  We recommend the Microsoft PowerToys method as our top choice. You can disable other PowerToys in the PowerToys Settings window if you don't like the clutter. However, we cover a variety of other simple utilities and methods for making a window always-on-top below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  With a Keyboard Shortcut: [AutoHotkey](http://www.autohotkey.com/) 
 
  Using the [excellent and useful AutoHotkey program](https://instagram-videos.techidaily.com/decoding-the-copyright-code-for-insta-musicians/), you can make a simple script that sets your currently active window to be always on top when you press a certain key combination. The resulting script is lightweight and won't use much resources or add unnecessary clutter to your system. You can even use AutoHotkey to compile the script to its own executable if you don't want to keep the full AutoHotkey program running—or if you want an easy way to carry the script with you to other PCs.
@@ -65,9 +71,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Name your script, then click 'Edit.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Notepad window, paste the following line of code at the bottom. You can then save and close the script.
 
         `^space::  
@@ -81,16 +87,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The icon turns green when the script is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  You can now press Ctrl+Space to set any currently active window to be always on top. Press Ctrl+Space again set the window to no longer be always on top.
 
  And if you don't like the Ctrl+Space combination, you can change the `^SPACE` part of the script to set a new keyboard shortcut. Consult the [Hotkeys documentation](http://www.autohotkey.com/docs/Hotkeys.htm) on AutoHotkey's website for help.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using a Mouse: [DeskPins](https://efotinis.neocities.org/deskpins/) 
 
  If you prefer using a mouse over keyboard shortcuts, DeskPins provides a super simple way to make windows always on top by just pinning them.
@@ -103,16 +103,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The pin icon visible on the titlebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove a pin from a window, move your mouse over the pin. Your pointer will show a small "X" on it to let you know you're about to remove the pin. And if you want to remove pins from all windows you've pinned at once, right-click the system tray icon, and then choose the "Remove All Pins" option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ![Right-click the icon on the Taskbar, then select 'Remove All Pins.'](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Without Installing Anything Extra: Built-in App Options
 
  Many apps have built-in options so that you can set their windows to become always on top. You often find these options in media players, system utilities, and other tools that you might want to see all the time. Programs that accept plug-ins may also have an always-on-top plugin you can install.
@@ -138,8 +140,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +147,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-videos-with-simple-inshot-techniques/"><u>[New] Transform Your Videos with Simple Inshot Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhancing-video-quality-on-youtube/"><u>2024 Approved Enhancing Video Quality on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>2024 Approved Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-5-tools-to-convert-text-to-audio-online-for-free/"><u>2024 Approved Top 5 Tools to Convert Text to Audio Online for Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitches-expert-guide-to-troubleshooting-biomutant-on-your-computer-2024-edition/"><u>Beat the Glitches: Expert Guide to Troubleshooting Biomutant on Your Computer - 2024 Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-productivity-with-split-screen-features-on-macbook-air/"><u>Boost Productivity with Split Screen Features on MacBook Air</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tools-to-replay-ps3-classics-on-pc/"><u>In 2024, Essential Tools to Replay PS3 Classics on PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-iphone-videographyphoto-expertise-with-add-ons/"><u>In 2024, Perfect Your iPhone Videography/Photo Expertise With Add-Ons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-encore-list-top-pick-for-digital-music-tones/"><u>In 2024, The Encore List Top Pick for Digital Music Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-taken-to-watch-an-example-of-a-20mb-video/"><u>In 2024, Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-language-barriers-with-ease-6-prime-offline-translation-applications-for-seamless-communication/"><u>Navigate Language Barriers with Ease: 6 Prime Offline Translation Applications for Seamless Communication</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-software-compatibility-tool/"><u>Navigating Windows 11’S Software Compatibility Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-top-picks-for-hd-video-playback-on-your-android-device-for-2024/"><u>The Top Picks for HD Video Playback on Your Android Device for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-iphone-user-manual-for-water-imagery-for-2024/"><u>The Ultimate iPhone User Manual for Water Imagery for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-wow-communication-expert-tips-on-getting-the-voice-chat-running-smoothly-again/"><u>Unstuck Your WoW Communication: Expert Tips on Getting the Voice Chat Running Smoothly Again</u></a></li>
+</ul></div>
 

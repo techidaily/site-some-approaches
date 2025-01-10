@@ -1,7 +1,7 @@
 ---
 title: "Review of the ACEFAST's Portable GaN-Based PD65W Charging Hub: Featuring High Definition Video Output and Extra Power for Devices"
-date: 2024-08-30T21:17:34.385Z
-updated: 2024-08-31T21:17:34.385Z
+date: 2025-01-06T02:39:49.882Z
+updated: 2025-01-10T00:54:13.025Z
 tags:
   - product-reviews
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 * [Design: Small Stature, Big Performance](https://extra-tips.techidaily.com/comprehensive-techniques-to-download-thousands-of-tiktok-videos-for-2024/)
 * [Performance Tests: It (Mostly) Just Works](https://www.howtogeek.com/acefast-gan-pd65w-portable-dock-review/#performance-tests-it-mostly-just-works)
 * [Should You Buy the ACEFAST GaN PD65W Portable Dock?](https://youtube-data.techidaily.com/24-elevating-engagement-strategic-use-of-youtube-titles/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -64,12 +68,13 @@ The ACEFAST GaN PD65W Portable Dock's targeted feature set and compact design ma
 
 [$34 at Amazon](https://www.amazon.com/dp/B09W5T391Z/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000616&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Facefast-gan-pd65w-portable-dock-review%2F&asc%5Fcampaign=Affiliate) [See at Acefast](https://acefast.com/catalog/wall-chargers/smart-wall-charger-hub-a19-gan-pd65w-us/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Design: Small Stature, Big Performance
 
 ![Person holding the ACEFAST GaN PD65W 3 Port Fast Charger Hub](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/person-holding-the-acefast-gan-pd65w-3-port-fast-charger-hubjpg_53187406566_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -82,8 +87,9 @@ ACEFAST GaN PD65W Portable Dock
  While you can use the ACEFAST GaN PD65W as a regular charger, if you have a device that supports power and display over USB-C, it suddenly transforms into something twice as useful. Compatible devices include Nintendo Switch, Valve Steam Deck, Samsung Galaxy phones and tablets, Apple MacBooks, Apple iPhones and iPads, Google Chromebooks, Google Pixel series, Microsoft Surface laptops, PC laptops, and more. The list of USB-C-based devices, especially those that support power and display over a single cable continues to grow.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Performance Tests: It (Mostly) Just Works
 
 ![Cables plugged into the ACEFAST GaN PD65W 3 Port Fast Charger Hub to use a Nintendo Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/cables-plugged-into-the-acefast-gan-pd65w-3-port-fast-charger-hub-to-use-a-nintendo-switch-1jpg_53187602655_o-1.jpg) 
@@ -98,20 +104,18 @@ ACEFAST GaN PD65W Portable Dock
 
  I tested across a variety of older and newer devices, including a Steam Deck, Nintendo Switch OLED, Samsung Galaxy Tab S7+, Asus Chromebook CX1, Microsoft Surface Book 3, and Apple iPad Pro 11-inch (1st gen).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Steam Deck
 
  Once connected over USB-C, the Steam Deck disabled its internal display. Although impractical for the gaming handheld's capabilities, it was able to drive the external display at 3,440 x 1,440 @ 60Hz while still charging. Of course, just about every other resolution was supported, including the Steam Deck's native 1,280 x 800 at 60Hz. The keyboard and trackpad worked perfectly, as did the Steam Deck's onboard controls and external Bluetooth game controller.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Nintendo Switch OLED
 
  Like the Steam Deck, once connected, the Switch disabled its internal display. By design, when the Switch is docked, attached Joy-Con controllers are disabled. You either need to slide the Joy-Cons off to use them as wireless controllers or use another type of external controller. The nice thing with the ACEFAST is that you can also connect a compatible controller to its USB-A port and the Switch will immediately recognize it, which is what it did in the case of the generic third-party controller I tried.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Samsung Galaxy Tab S7+
 
  Once connected over USB-C, the Galaxy Tab S7+ mirrored the display and entered its desktop-like computing mode, [DeX](https://youtube-video-recordings.techidaily.com/earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much-in-2024/). The keyboard and trackpad worked right away as well. In fact, even the USB-based controller I tried on the Switch via the dock also worked on the S7+.
@@ -125,8 +129,9 @@ ACEFAST GaN PD65W Portable Dock
  The Microsoft Surface Book 3 was able to both mirror and extend its display without issue, as well as use the external Logitech K400r. I also tested with the [AVA WirelessHD portable monitor](https://www.indiegogo.com/projects/ava-4k-wirelesshd-next-gen-touch-monitor/x/1463963#/)'s ThunderBolt 3 USB-C port for video and audio, which similarly worked well. However, the AVA's touchscreen functionality did not work when connected through the ACEFAST dock.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Apple iPad Pro 11-inch (1st gen)
 
  The Apple iPad Pro 11-inch (1st gen) was able to connect to the display, charge, and use the Logitech K400r as a mouse pointer and keyboard. However, the display connection seemed unstable after a few minutes, as the monitor would lose sync with the iPad and flash the screen every 10 to 15 seconds.
@@ -134,6 +139,10 @@ ACEFAST GaN PD65W Portable Dock
  Hot swapping the USB-C cable between devices could also sometimes cause the display to lose sync and flash. In fact, early on in testing, even without hot swapping, there was a flashing display issue across almost all devices. Even trying different cables didn't help. This issue eventually resolved on its own without further intervention and I've enjoyed stable charging, USB device, and external display usage since. Of course, testing with the Asus Chromebook CX1 and Apple iPad Pro 11-inch (1st gen) never produced better results.
 
  Finally, it's important to note that the ACEFAST GaN PD65W does tend to run quite warm. This is not unusual for a GaN charger and the ACEFAST never gets uncomfortably hot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the ACEFAST GaN PD65W Portable Dock?
 
@@ -151,9 +160,6 @@ ACEFAST GaN PD65W Portable Dock
 
 ![ACEFAST GaN PD65W Portable Dock](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/71c5dkoskxl-_ac_sl1500_.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  ACEFAST GaN PD65W Portable Dock
 
 7/ 10 
@@ -187,8 +193,6 @@ The ACEFAST GaN PD65W Portable Dock's targeted feature set and compact design ma
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +200,23 @@ The ACEFAST GaN PD65W Portable Dock's targeted feature set and compact design ma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams/"><u>[New] Streaming Supremacy Pick the Best Tool for Your Vlogs & Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions/"><u>[New] Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-and-tools-for-effective-hand-tracking/"><u>[Updated] Techniques & Tools for Effective Hand Tracking</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-guide-15-great-online-photo-editing-tools-2023-free/"><u>[Updated] Ultimate Guide 15 Great Online Photo Editing Tools 2023 (Free)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-premium-soundtracks-in-your-mp4-files-the-2024-guide/"><u>[Updated] Unleashing Premium Soundtracks in Your MP4 Files – The 2024 Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-ultimate-audio-boosters-cnet-gadget-labs/"><u>Expert Picks for Ultimate Audio Boosters | CNet Gadget Labs</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/french-delight-macaron-inspirations-and-wallpapers-digital-decor-with-yl-computing/"><u>French Delight: Macaron Inspirations & Wallpapers - Digital Decor with YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-6-plus-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 6 Plus to SIM? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intriguing-ways-to-twist-images/"><u>In 2024, Intriguing Ways to Twist Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-master-picks-for-commercial-cloud-space/"><u>In 2024, Master Picks for Commercial Cloud Space</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-display-for-your-needs-ultrawide-vs-uhd-4k-guide/"><u>In 2024, The Best Display for Your Needs UltraWide vs UHD 4K Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-battle-of-digital-universes-metaverse-vs-omniverse/"><u>In 2024, The Ultimate Battle of Digital Universes Metaverse Vs. Omniverse</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-oculus-quest-2s-mic-heres-how-you-can-fix-it/"><u>Trouble with Your Oculus Quest 2'S Mic? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-computers-sound-free-audio-drivers-for-windows-7/"><u>Upgrade Your Computer's Sound: Free Audio Drivers for Windows 7</u></a></li>
+</ul></div>
 

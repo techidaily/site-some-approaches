@@ -1,7 +1,7 @@
 ---
 title: Satechi's SM1 Slim Mechanical Keyboard - A Versatile Wireless Solution for Dual OS Users Reviewed!
-date: 2024-08-30T21:16:37.704Z
-updated: 2024-08-31T21:16:37.704Z
+date: 2025-01-08T18:48:36.691Z
+updated: 2025-01-09T16:45:30.007Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Satechi's SM1 Slim Mechanical Keyboard - A Versatile Wireless Solution for Dual OS Users Reviewed!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The [Satechi SM1 Slim Mechanical Backlit Bluetooth Keyboard](https://www.amazon.com/Satechi-Mechanical-Keyboard-Bluetooth-Wireless/dp/B0CV3G1X4P?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002206&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsatechi-sm1-mechanical-keyboard-review%2F&asc%5Fcampaign=Authority) delivers a mechanical experience in a compact and wire-free form factor for just $100\. With the ability to pair multiple devices, easily switch between Windows and macOS keyboard layouts, and a solid mechanical feel, this keyboard is a great option for minimal desk setups.
 
 ![Satechi-SM1-Wireless-Mechanical-Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/satechi-sm1-wireless-mechanical-keyboard.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -79,9 +87,17 @@ Expand
 
 [$100 at Amazon](https://www.amazon.com/Satechi-Mechanical-Keyboard-Bluetooth-Wireless/dp/B0CV3G1X4P?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002206&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsatechi-sm1-mechanical-keyboard-review%2F&asc%5Fcampaign=Authority) [$99.99 at Satechi](https://shareasale.com/r.cfm?b=1554062&u=4338022&m=98197&urllink=https%3A%2F%2Fimp.i110150.net%2Fr5bmpn&afftrack=techidaily) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Satechi SM1 Is Feature-Packed
 
 ![The box the Satechi SM1 comes in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53489531539_1b2bd33169_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -93,9 +109,6 @@ Jerome Thomas / How-To Geek
 
  Now, when you click the print screen button, you'll find that the Snipping Tool comes up which lets you choose whether to capture a whole screen image, window, or more precise capture. So, instead of having the old print screen button, there's now an icon that matches the Snipping Tool logo. It also works the same way on macOS, meaning you can just clip a smaller portion of your screen instead of copying the entire thing to the clipboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  Multi-Device Pairing Could Use Some Work Though
 
  Switching device profiles is super fast and easy. It worked flawlessly every time. Hold the “function” key and click the profile you want to use. The catch here is that the keyboard doesn’t associate an operating system profile with a pairing profile.
@@ -107,26 +120,21 @@ Jerome Thomas / How-To Geek
 ![Front of the Satechi SM1 connected wirelessly with the backlight on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53489230846_d9bf4d48fa_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  One way that Satechi delivers great battery life is that they don’t have a ton of flashy RGB lights all over the place. Instead, to keep with the minimal aesthetic, Satechi opted for a simple white backlighting profile here. This is not only more elegant than flashing colors all over the place but also doesn’t take up nearly as much battery.
 
  With the lighting turned off, you can get up to two months of use according to Satechi. However, once you turn the lights on (assuming full brightness), you’ll be looking at about 16 or so hours of usage before it’s time to plug in. With how fast the keyboard puts itself to sleep, those 16 hours could easily last you all week without having to plug it in since it shuts down between typing sessions relatively quickly. And, while I typically hate keyboards going to sleep because they always take forever to wake back up and pair to start typing again, the lag between the Satechi SM1 being asleep to typing was very minimal. So minimal that I hardly noticed it at all.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Built-In Profiles for macOS and Windows Work Fantastic
 
  A lot of wireless mechanical keyboards on the market are geared toward gamers, which means that, while they’ll function with macOS, certain keys don’t line up or work quite right. Satechi addresses this by remapping the keyboard (and including extra keycaps) that are tailored to macOS for those Apple users out there. Switching the OS profile is as fast as switching the pairing profile and shouldn’t take any time at all.
 
  Once you’re into either the Windows or macOS profile, the keyboard will work just like you’d expect any native keyboard to work on that operating system, making it a seamless transition all around. Even the screenshot key works perfectly on both operating systems, which is something that’s not always the case with wireless keyboards on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Low-Profile Brown Switches Feel Nice
 
  When it comes to keyboards, many people focus on the feel and customizability. The SM1 doesn't bring a lot of customization to the table, outside of the operating system profiles and a few lighting patterns. So, if you're looking for something you can personalize, this isn't it. The keys have to be remapped through third-party software or your native operating system and there's no software programming of the keyboard at all. While some might see this as a drawback, I've had lots of issues with different keyboard software over the years, and having something that just works every time and can't break because the software stops working is nice.
@@ -137,9 +145,6 @@ Jerome Thomas / How-To Geek
 
 ![The Satechi SM1 comes with a USB-C cable, bluetooth dongle, and spare keys for Windows users](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/53489230596_f1a99a6e04_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Satechi SM1 Slim Mechanical Backlit Bluetooth Keyboard](http://www.amazon.com/Satechi-Mechanical-Keyboard-Bluetooth-Wireless/dp/B0CV3G1X4P?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002206&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsatechi-sm1-mechanical-keyboard-review%2F&asc%5Fcampaign=Authority) has two main markets: macOS users and multi-OS users. Those with Windows computers already have a slew of keyboards to choose from, but if you’re like me and use both macOS and Windows, it’s harder to find a keyboard that _properly_ works with both operating systems. That’s exactly what the SM1 does. The switches feel great, there’s ample battery life, switching profiles is extremely easy, and you’ll love how portable the keyboard is.
@@ -148,9 +153,6 @@ Jerome Thomas / How-To Geek
 
 ![Satechi-SM1-Wireless-Mechanical-Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/satechi-sm1-wireless-mechanical-keyboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Satechi SM1 Slim Mechanical Bluetooth Wireless Keyboard
@@ -167,8 +169,6 @@ Satechi's SM1 Slim Mechanical Backlit Bluetooth Keyboard delivers up to two mont
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +176,22 @@ Satechi's SM1 Slim Mechanical Backlit Bluetooth Keyboard delivers up to two mont
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/00-safe-audio-download-techniques-from-youtube/"><u>[New] 100% Safe Audio Download Techniques From YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-secrets-to-immediate-access-of-erased-reddit-threads/"><u>[New] Secrets to Immediate Access of Erased Reddit Threads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-premium-cameras-of-2024/"><u>[New] Unveiling the Premium Cameras of 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-from-first-to-last-your-guide-to-youtube-video-looping-101/"><u>[Updated] 2024 Approved From First to Last Your Guide to YouTube Video Looping 101</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tips-for-efficient-macos-sierra-system-updates/"><u>[Updated] Top Tips for Efficient macOS Sierra System Updates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-the-essentials-of-firefox-split-screen-feature/"><u>[Updated] Understanding the Essentials of Firefox Split Screen Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-power-of-shareable-internet-humor/"><u>2024 Approved Unlocking the Power of Shareable Internet Humor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-edge-40-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Edge 40 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-phantom-v-fold-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Phantom V Fold System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-acemagics-games-validated-by-am08-pro/"><u>Are AceMagic's Games, Validated by AM08 Pro?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-art-of-kinemaster-use-top-10-alternative-online-games-ranked/"><u>In 2024, Unveiling the Art of KineMaster Use Top 10 Alternative Online Games Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/symphony-on-your-phone-best-tone-acquisition-websites-for-2024/"><u>Symphony on Your Phone Best Tone Acquisition Websites for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-latest-microsoft-surface-pro-7-consistent-excellence-and-minor-enhancements-alike/"><u>Unpacking the Latest Microsoft Surface Pro 7 - Consistent Excellence and Minor Enhancements Alike</u></a></li>
+</ul></div>
 

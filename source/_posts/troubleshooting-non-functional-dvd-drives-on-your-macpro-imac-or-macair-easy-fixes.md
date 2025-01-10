@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional DVD Drives on Your MacPro, iMac or MacAir - Easy Fixes!
-date: 2024-08-26T16:25:31.005Z
-updated: 2024-08-27T16:25:31.005Z
+date: 2025-01-06T18:21:14.942Z
+updated: 2025-01-09T20:37:04.526Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb81eaf0425c85e3bbe8a07c5a.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Play DVD](https://tools.techidaily.com/macxdvd/products/) \> DVD won't play on Mac 
 
 ## How to Solve "DVD Won't Play on Mac (MacBook Pro/Air/iMac)" 
-
-
 
 _DVDs won't play on Mac properly with different errors? Here are all the possible reasons and effective fixes to DVDs not playing on Mac issues._ 
 
@@ -31,7 +27,16 @@ _DVDs won't play on Mac properly with different errors? Here are all the possibl
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-dvd-wont-play-on-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-dvd-wont-play-on-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-go.jpg)](https://pinterest.com/pin/create/button/?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-dvd-wont-play-on-mac.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-dvd-wont-play-on-mac.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-dvd-wont-play-on-mac.htm&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple chose to abandon disk drives from Macbook in 2013 and it wants $79 for the external SuperDrive to play DVD. For many old Mac models, though able to play DVD with their built-in drives, users still suffer from the issues like **"DVD won't play on Mac"**, "supported disc not available", etc. Worse still, your extra payment for the SuperDrive doesn't make things better. Even with the release of the latest 16-inch Macbook Pro, there is no disc drive support. 
 
@@ -47,9 +52,6 @@ If you are one of the Mac users subjected to DVD won't play on MacBook Pro/Air/i
 * [2\. How to Solve Mac Won't Play DVD Issue](https://tools.techidaily.com/macxdvd/products/)
 * [3\. Top Solutions to Fix DVD Won't Play on Mac Issue](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Rip DVD to QT MP4 MOV Digital to Play on Mac without DVD Drive
 
 Use [**MacX DVD Ripper Pro**](https://tools.techidaily.com/macxdvd/products/) to copy protected DVDs on macOS, no matter 99-title DVD, Disney oversized 75GB DVD, Region Code DVD, damaged DVD or unplayable DVD and so on. You can rip any DVD to MP4, MOV, M4V, USB drive for QuickTime playback on Mac without using DVD drive, nor "DVD not playing on Mac" error. 
@@ -75,17 +77,15 @@ Generally, there are many reasons leading to DVD not playing issues on Mac. You 
 ![DVD won't play on mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-play-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5\. Check DVD region. If you have an issue with your Mac when playing DVD you insert it, check if it is region issue with your DVD. For example, a UK DVD in region 2 won't be played on a USA DVD player. See how to [remove region code from DVD](https://tools.techidaily.com/macxdvd/products/). 
 
 6\. Your are playing some unsupported discs like commercial DVDs, or store-bought DVDs etc. If so, you may get the message "supported disc not available"; and your DVD player may refuse to play DVD. See how to [remove DVD copy protections](https://tools.techidaily.com/macxdvd/products/), best DVD ripper for Mac. 
 
 7\. DVD drive issue or hardware issue related to DVD drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## How to Solve the Problem When Mac Won't Play any DVD 
 
 **1\. Resort to cleaning kits to clean DVD discs.** 
@@ -111,6 +111,10 @@ For the users with iMac, Mac Mini, Mac Pro, please follow the steps below if you
 
 ![restart your macbook](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/restart-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4\. Clean your Mac** with remnants of some software; get rid of MacKeeper (for a good scanner download "malwarebytes") and of many old stuff if macOS upgrade is the chief culprit.
 
 * Step 1\. Turn off your Mac computer completely.
@@ -134,6 +138,10 @@ For the users with iMac, Mac Mini, Mac Pro, please follow the steps below if you
 
 ![repair disk permission](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/repair-disk-permissions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7\. Update macOS.** Ensure that your Mac's operating system is up to date. Apple regularly releases updates that may include fixes for DVD playback issues. Go to the Apple menu (Apple logo in the top-left corner) > About This Mac > Software Update to check for and install any available updates. 
 
 **8\. Reset NVRAM or PRAM.** Resetting the NVRAM (non-volatile random-access memory) or PRAM (parameter RAM) can sometimes resolve hardware-related issues. To do this, restart your Mac and hold down the Option, Command, P, and R keys simultaneously until you hear the startup chime for the second time. Release the keys and check if the DVD plays.
@@ -152,16 +160,10 @@ In most cases, your DVD won't play on Mac just because the DVD you are playing i
 
  Step 1\. [Free download ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../seoimage/download-icon-step.png)](https://tools.techidaily.com/macxdvd/products/) to convert DVD disc that won't play on Mac due to protections like Disney X-project protection, Sony ARccOS, Lionsgate DRM, region code 1-6, CSS, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Step 2\. Rip DVD to USB flash drive, hard drive, MP4, MOV, MKV, MEPG-2, VOB, ISO image, AVCHD, AVI, MP3, etc. and play the DVD video on Mac.
 
 ![digitize DVD to MP4 for playback on Mac without DVD drive or player](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-to-mp4-700.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Step 3\. "Safe Mode" is available to stably rip latest protected DVD like 99-title DVD, oversized 75GB DVD, bad sector DVD, AV DVD, workout DVD, etc. without crash issue. 
 
 _Disclaimer: This post is to fix the problem on playing DVD discs on Mac computer and show users how to digitalize DVD. It does not in any way advocate ripping a DVD for any commercial or other illegal use. Please consult the law in your country before you convert any disc._
@@ -172,12 +174,7 @@ ABOUT THE AUTHOR
 
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
-
-
 
 Related Articles
 
@@ -191,35 +188,40 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [\[Fixed\] Apple DVD Player "Not Permitted" Error on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [DVD Player Error 70001 Fixed - Change Region for Unlimited Times](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 [How to Play DVD on Mac without Mac SuperDrive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Fix VLC Not Playing DVD/Blu-rays Issue](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -234,9 +236,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -244,8 +243,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -260,8 +257,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,4 +264,22 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leading-11-audio-recording-tools-guide-for-2024/"><u>[New] Leading 11 Audio Recording Tools Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-your-iphones-burst-photography/"><u>[New] Maximizing Your iPhone's Burst Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-beginners-guide-to-luts-and-downloading-tools/"><u>[New] The Beginner's Guide to LUTs and Downloading Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-mystery-writing-hooks-for-vlogger-scripts/"><u>[New] Unveiling the Mystery Writing Hooks for Vlogger Scripts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-livestreaming-tools-evaluation-which-bets-on-performance/"><u>[Updated] In 2024, Livestreaming Tools Evaluation Which Bets on Performance?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-compilation-exceptional-8k-cameras-ranked/"><u>[Updated] In 2024, Ultimate Compilation Exceptional 8K Cameras Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamsavvy-exploring-alternatives-to-dacast/"><u>[Updated] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-your-linkedin-url/"><u>2024 Approved Tailoring Your LinkedIn URL</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-shaped-by-quantum-hdr-tech/"><u>2024 Approved The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>2024 Approved Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-now-the-latest-update-of-karaoke-file-name-corrector-v1-compatible-with-popular-dj-software/"><u>Download Now: The Latest Update of Karaoke File Name Corrector (v1) - Compatible with Popular DJ Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/flawless-lenovo-z50-70-driver-improvements/"><u>Flawless Lenovo Z50-70 Driver Improvements</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-11x-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme 11X 5G FRP Locks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis/"><u>In 2024, The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premier-seminar-title-inventor-suite-for-2024/"><u>Premier Seminar Title Inventor Suite for 2024</u></a></li>
+</ul></div>
 

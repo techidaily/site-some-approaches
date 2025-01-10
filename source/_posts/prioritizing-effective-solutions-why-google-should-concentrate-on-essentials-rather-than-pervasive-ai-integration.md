@@ -1,7 +1,7 @@
 ---
 title: "Prioritizing Effective Solutions: Why Google Should Concentrate on Essentials Rather Than Pervasive AI Integration"
-date: 2024-08-30T21:18:14.646Z
-updated: 2024-08-31T21:18:14.646Z
+date: 2025-01-03T18:53:31.485Z
+updated: 2025-01-09T16:46:44.651Z
 tags:
   - mobile
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg)  
@@ -31,31 +35,30 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
 
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  Google Goes All In on Generative AI
 
  Google is racing against industry rivals like Apple, OpenAI, Microsoft, Amazon, and Anthropic to maintain its AI leadership. It has integrated Gemini’s generative functionality into its Workspace app suite, allowing the machine learning system to leverage user data (specifically from Google Docs, Slides, Gmail, Drive, and Sheets) for personalized responses. Users can generate text and images for Google Docs, create presentation slides using natural language, or produce professional-looking reports based on Sheets spreadsheets.
 
 ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  But this is just the beginning of Google’s AI ambitions. At Tuesday's event, the company announced Gemini as the replacement for Google Assistant, making it the default assistant on Android phones. This move aligns with [Apple's decision to enhance Siri with OpenAI's ChatGPT](https://mondly-stories.techidaily.com/initiate-your-french-phonetic-journey-today/). Gemini offers a more conversational and intelligent assistant capable of being interrupted without losing focus. The newly introduced [Gemini Live feature](https://fox-links.techidaily.com/updated-in-2024-powerful-book-trailer-examples/) enables real-time interactions with the AI, positioning Google to compete with [OpenAI's Advanced Voice Mode](https://instagram-videos.techidaily.com/new-the-hidden-powerhouses-in-your-instagram-toolkit/). Gemini will also eventually interpret phone screen content using an upcoming overlay feature.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Google Is Still Seeing What Sticks
 
  I wish that were the extent of what Google has been working on. Still, as has been the case since ChatGPT made its debut some 18 months ago, tech companies just won’t stop trying to shoehorn AI into any and every product they make, regardless of whether it actually adds value to the user experience.
@@ -65,8 +68,9 @@ Justin Duino / How-To Geek
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
  You could also just ask a passerby to snap a quick photo of you as people have been doing since the advent of cameras or use one of those new-fangled “tripods” that holds your camera at the appropriate height and orientation and can remotely click the shutter. At the same time, you stand with the rest of your group. Given how resource-intensive just [running basic queries using AI is compared to conventional searches](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google), I don’t understand how Google can justify developing a feature that solves what problem exactly—interacting with other people in public? Carrying a selfie stick? It's an interesting feature idea, to be sure, and a good showcase of AI's image manipulation powers, but I find it difficult to believe that "getting everybody into the group shot" is a pressing, real-world issue among many of Google's users.
@@ -80,15 +84,13 @@ Google
 ![Made by Google sign at Google I/O](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52887793038_f152af5f6d_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
 
  You’d think the industry would, given how much of your data it needs in order to operate at the levels it’s been hyped to. From the end user features themselves to the large language models that they’re built atop, today’s AI systems demand massive amounts of data, [often scraped from the public internet](https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/) without authorization, in order to perform their inference operations with a sufficiently high degree of accuracy. But the more data that hyperscalers like Google, Microsoft or AWS collect, the more likely that that data could be accessed by unauthorized users, whether they're Google employees and contractors, third-party hackers, or law enforcement personnel.
@@ -101,8 +103,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,22 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-flashy-feeds-to-fm-sounds-the-instagram-to-mp3-methodology-for-2024/"><u>[New] From Flashy Feeds to FM Sounds The Instagram-to-Mp3 Methodology for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-tailored-technology-for-video-capture-excellence/"><u>[New] In 2024, Tailored Technology for Video Capture Excellence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>[New] The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thrifty-fliers-list-best-drones-for-the-price-point/"><u>[New] Thrifty Flier's List Best Drones for the Price Point</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-picks-premium-iphone-tune-selectors/"><u>[New] Top Picks Premium iPhone Tune Selectors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-psd-transparency-tricks/"><u>2024 Approved Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728507391808-6/"><u>遇到文件不小心被删除了？6个轻松方式重新创建！</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210615835-9781612122014-dorm-room-feng-shui/"><u>Dorm Room Feng Shui | Free Book</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-overcoming-srt-transfer-issues-from-premiere/"><u>In 2024, Overcoming SRT Transfer Issues From Premiere</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/peering-beyond-numbers-facebooks-true-losses/"><u>Peering Beyond Numbers: Facebook’s True Losses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-update-your-windows-devices-battery-drivers-with-ease/"><u>Simple Steps: Update Your Windows Device's Battery Drivers with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-cutting-edge-of-cinematography-kinemasters-zoom-excellence-for-2024/"><u>The Cutting Edge of Cinematography Kinemaster’s Zoom Excellence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-mechanism-behind-imovie-trim-for-2024/"><u>The Mechanism Behind iMovie Trim for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-solo-artists-roadmap-to-auditory-fame-for-2024/"><u>The Solo Artist's Roadmap to Auditory Fame for 2024</u></a></li>
+</ul></div>
 

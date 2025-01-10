@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets Behind Electric Vehicles: An Insight Into Their Operational Principles"
-date: 2024-08-30T21:25:59.178Z
-updated: 2024-08-31T21:25:59.178Z
+date: 2025-01-06T04:33:19.139Z
+updated: 2025-01-10T04:31:22.192Z
 tags:
   - cutting-edge
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  Here we'll briefly go over what makes EVs different from gas-powered vehicles and how they work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, How Do Electric Vehicles Work?
 
  When people refer to electric vehicles, they're usually talking about entirely electric cars powered by a battery. These are sometimes called battery electric vehicles (BEVs). But there are [other types of vehicles](https://www.ucsusa.org/resources/comparing-electric-vehicles) that could be categorized as EVs, including:
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  The main types of EVs on the road today are hybrids and battery-powered vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How the Battery in an EV Works
 
  All EVs not powered by a fuel cell need some kind of battery to store the energy used to power the vehicle down the road. Most commonly, those batteries are made of lithium-ion --- basically industrial-strength versions of the battery in your cell phone.
@@ -42,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 ![Engineers working on an electric car.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1455250127.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/team-automotive-engineers-working-on-electric-1455250127)
 
  EV batteries are typically constructed from stacks of cells organized into units and laid out in a large bank along the bottom of the vehicle called a traction battery. The battery assembly is charged with electricity from the grid via a charging station or by plugging the vehicle into a home power socket. Larger vehicles like trucks and SUVs powered by a battery will have larger battery banks.
@@ -55,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
  Advances in EV battery technology are constantly being made, meaning the range of EVs will probably continue to increase as we see new iterations of their design. GM announced a [partnership with LG](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU206953/https://www.youtube.com/watch?v=jHhw6HPrNZ8) at CES 2021 that will produce smaller EV batteries that are more energy-dense.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Electric Motor vs. Gas Engine: What's the Difference?
 
  Internal combustion engines powered by gas use compressed, ignited fuel to move pistons connected to a crankshaft, which turns the vehicle's wheels. An [all-electric vehicle](https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work) uses the same principle of rotation to push a vehicle forward, just powered differently.
@@ -64,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 ![The chassis of an electric car.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1056802781.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Sergii Chernov/Shutterstock.com](https://www.shutterstock.com/image-photo/chassis-electric-hybrid-car-powertrain-maintenance-1056802781)
 
  Instead of pistons, an EV uses electromagnets to get the crankshaft moving. The electric motor in an EV has a system of magnets, some of which are stationary and some of which rotate. The magnets are made to rotate by continuously switching the polarity of the magnets that need to spin.
@@ -76,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
  This design is more efficient than an internal combustion engine because the motor is built to spin from the start, whereas a gas-powered engine has to use a crankshaft to convert its piston's up-and-down motion into a rotary motion to turn the wheels. Adjusting the frequency of the inverter's polarity switching also gives the driver finer control over an EV's speed and torque than you can get from a gasoline engine.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ##  Are EV's Really More Sustainable Than Gas Vehicles?
 
  All-electric vehicles don't burn fossil fuels, so they don't emit any harmful exhaust from their tailpipes. In hydrogen fuel cell vehicles, the only byproduct of operating one is the water you get from mixing hydrogen and oxygen. In that way, EVs are more sustainable and environmentally friendly than gas vehicles. However, the batteries they require to operate have to be built and sourced carefully in order to be sustainable in the long term.
@@ -95,8 +100,6 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +107,22 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-learn-to-convert-your-vids-into-music-on-instagram-today/"><u>[New] 2024 Approved Learn to Convert Your Vids Into Music on Instagram Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>[New] In 2024, Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-podcast-rss-feed-generation/"><u>[New] The Ultimate Checklist for Podcast RSS Feed Generation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-steadicam-choices-for-drone-cinematography-pros/"><u>[New] Top 10 Steadicam Choices for Drone Cinematography Pros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unparalleled-top-5-lightweight-cinematography-devices/"><u>[New] Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-study-hero4-black-mechanics/"><u>[Updated] Comprehensive Study Hero4 Black Mechanics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-use-of-m1-max-clip/"><u>[Updated] Mastering the Use of M1 Max Clip</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-painless-percussions-reduction-in-garageband/"><u>2024 Approved Painless Percussions Reduction in Garageband</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>2024 Approved The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-the-art-of-mobile-based-interview-and-travel-podcasts/"><u>In 2024, Mastering the Art of Mobile-Based Interview & Travel Podcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-blaze-2-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Lava Blaze 2 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ntrepreneurs-handbook-quick-channel-creation-on-the-go-with-mobile-devices-for-2024/"><u>The Entrepreneur's Handbook Quick Channel Creation on the Go with Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-s23plus-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy S23+ to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

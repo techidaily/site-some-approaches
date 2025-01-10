@@ -1,7 +1,7 @@
 ---
 title: Unlocking Efficiency with Windows 11 Explore Tab Shortcuts – Top Tips for Power Users
-date: 2024-08-30T21:20:53.559Z
-updated: 2024-08-31T21:20:53.559Z
+date: 2025-01-08T02:43:44.044Z
+updated: 2025-01-09T19:53:56.634Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unlocking Efficiency with Windows 11 Explore Tab Shortcuts – Top Tips for Power Users
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File Explorer with the new tab '+' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you know which folder you want to open in a new tab, you can right-click on said folder and select "Open In New Tab." Alternatively, if you are using a mouse with a scrolling wheel, click the scrolling wheel on the relevant folder and this will open it in a new tab. In this example, the Desktop folder will open in the new tab.
 
 ![File Explorer with the 'Open In New Tab' option open having right-clicked a folder to open in the new tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab-2.png) 
@@ -38,15 +46,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File Explorer with the 'X' to close the tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/close-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To close all tabs at the same time, simply close the File Explorer window. If you have several tabs open, you can view the other tab closing options by right-clicking on one of the tabs.
 
 ![The tab closing options viewable in File Explorer by right-clicking on an existing tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tab-closing-options.png) 
 
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  Change the Default New Tab Folder
 
  By default, Windows will open the Home folder when you launch File Explorer or open a new tab, which contains things such as your Quick Access, Favorite, and Recent items. If, like me, you rarely use these sections but tend to use OneDrive, changing the default tab can make life much easier.
@@ -55,19 +64,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The File Explorer 'Options,' accessed via the three dots on the ribbon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Open the "Home" tab in Folder Options window, and click the "Open File Explorer To" drop-down arrow. From there, you can change the default launch folder to "Home" (if this is not already selected), "This PC," or "\[Your Name\] - Personal" (your OneDrive folder). You'll see this in action next time you open a new File Explorer window or tab.
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Jump Between and Reorder Tabs
 
  Now that you have several tabs open, you can simply click between them to access the different folders. However, you can further speed up the process by using keyboard shortcuts:
@@ -78,20 +82,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
  If you want to split your tabs back into separate windows (for example, if you're working on two screens and would find it easier to see a specific folder on the second screen), drag and drop the tab away from the File Explorer window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Move or Copy Files or Folders Between Tabs
 
  One of the benefits of having more than one tab open is that you can quickly move and copy files or folders from one place to another, avoiding the need to locate different folders and use Ctrl+C or Ctrl+X.
@@ -112,8 +109,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +116,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-customizing-your-game-characters-sound-identity-free-solution-included/"><u>[New] The Complete Guide to Customizing Your Game Character's Sound Identity (Free Solution Included)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-screens-sole-contender-software-or-hardware-triumph/"><u>[New] The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-strategic-approach-to-advertising-on-spotify/"><u>[New] The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-transfer-techniques-securely-moving-data-to-desktop-for-2024/"><u>[New] Transfer Techniques Securely Moving Data to Desktop for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips/"><u>[Updated] The Art of Viral Marketing Mastering Instagram Fame Through 9 Key Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990374190-black-ops-cold-war-update-clearing-stubborn-shader-compilation-glitches-successfully/"><u>Black Ops Cold War Update - Clearing Stubborn Shader Compilation Glitches Successfully!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-anker-tactical-high-lumen-beacon-ultimate-guide-to-durable-outdoor-lighting/"><u>Evaluating the Anker Tactical High-Lumen Beacon: Ultimate Guide to Durable Outdoor Lighting</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-to-customize-your-view-and-set-preferences-a-guide-to-tweaking-control-panel-options-with-yl-computing/"><u>How to Customize Your View & Set Preferences: A Guide to Tweaking Control Panel Options with YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>In 2024, The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-image-editing-suite-for-text-overlay/"><u>In 2024, Top Image Editing Suite for Text Overlay</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transform-your-archive-with-instagrams-filters-an-easy-guide/"><u>In 2024, Transform Your Archive with Instagram’s Filters – An Easy Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/quick-fixes-to-ensure-your-tiktok-accounts-corrected-age-for-2024/"><u>Quick Fixes to Ensure Your TikTok Account's Corrected Age for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/replacing-the-turing-benchmark-unveiling-5-cutting-edge-artificial-intelligence-tests/"><u>Replacing the Turing Benchmark: Unveiling 5 Cutting-Edge Artificial Intelligence Tests</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-for-video-praise-mastery-for-2024/"><u>The Ultimate Checklist for Video Praise Mastery for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-funktionsreicher-kostenloser-mkv-player-auf-windows-nahtlose-wiedergabe-mit-einfachster-bedienung/"><u>Top Funktionsreicher Kostenloser MKV-Player Auf Windows - Nahtlose Wiedergabe Mit Einfachster Bedienung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turn-template-ideas-into-real-logo-artwork-for-2024/"><u>Turn Template Ideas Into Real Logo Artwork for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-discover-free-tools-for-dynamic-voice-alteration-for-2024/"><u>Unleash Creativity Discover Free Tools for Dynamic Voice Alteration for 2024</u></a></li>
+</ul></div>
 

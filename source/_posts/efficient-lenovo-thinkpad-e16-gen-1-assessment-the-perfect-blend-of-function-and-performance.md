@@ -1,7 +1,7 @@
 ---
 title: Efficient Lenovo ThinkPad E16 Gen 1 Assessment – The Perfect Blend of Function and Performance
-date: 2024-08-30T21:22:01.590Z
-updated: 2024-08-31T21:22:01.590Z
+date: 2025-01-02T17:24:09.115Z
+updated: 2025-01-09T17:44:44.021Z
 tags:
   - deals
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  With the [ThinkPad E16 Gen 1](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-thinkpad-e16-gen-1-16-touch-screen-laptop-intel-core-i5-with-16gb-memory-512gb-ssd-black%2F6549720.p%3FskuId%3D6549720), Lenovo aims to cater to the business audience with a sub-$1000 machine that's more substance than flash. Featuring a solid build and some well-chosen components, this laptop does a lot right on paper. Despite some of its short-comings, Lenovo has another winner for business users, and maybe even a general audience, looking for a relatively inexpensive, no-frills laptop that delivers good performance.
 
 ![Lenovo ThinkPad E16 Gen 1 promotional image of open laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/6549720cv3d.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad E16 Gen 1
 
@@ -101,6 +105,10 @@ Expand
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desk with its AC adapter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1-with-the-charger_53287490495_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  At nearly four pounds and measurements of 14 x 9.75 x 0.78 inches, this is not what would be considered a thin and light laptop. Instead, you get a [MIL-STD-810H-certified](https://systelusa.com/blog/what-is-mil-std-810h/) machine that passed rigorous environmental testing. Of course, since the design features a lot of [PC-ABS](https://www.xometry.com/resources/materials/pc-abs/) plastic to go along with the aluminum top, there's some flex to the laptop body if you push hard and a bit of wobble with its display when typing on an unstable surface. Despite this lack of overall rigidity, it's not a laptop you'd be afraid to manhandle.
@@ -108,15 +116,13 @@ Sergio Rodriguez / How-To Geek
  The all-graphite black design retains the classic ThinkPad look. The iconic red TrackPoint pointing stick in the middle of the keyboard and the red indicator light embedded in the ThinkPad logo on the back of the display are similarly unmistakable. It's a classy, unassuming laptop that's appropriate for even the most sedate business environment. On the downside, the exterior of the laptop case is a fingerprint magnet.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hardware and Battery Life: Mixed Results
 
 ![Lenovo ThinkPad E16 Gen 1 - right side of open laptop on desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/side-of-the-open-lenovo-thinkpad-e16-gen-1_53287396854_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The ThinkPad E16 Gen 1 features a snappy Intel Core i5-1335U 4.6GHz processor, which was introduced in the first quarter of 2023\. There's no discrete graphics card, but the integrated Intel Iris Xe Graphics is suitable for driving up to two external 4K displays at up to 120Hz, content creation, and light gaming. There's 16GB of RAM, with 8GB soldered and a slot populated with an additional 8GB. The second 8GB of RAM can be replaced with up to 32GB of SO-DIMM, bringing the maximum RAM to an impressive 40GB.
@@ -126,9 +132,9 @@ Sergio Rodriguez / How-To Geek
 ![Lenovo ThinkPad E16 Gen 1 closed on a desktop showing its left side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-closed-lenovo-thinkpad-e16-gen-1_53287396884_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Thanks to the ThinkPad E16 Gen 1's larger body, there are plenty of full-size ports on the left and right of the laptop. On the left, there's USB-C 3.2 Gen 2 (power-in), Thunderbolt 4, USB-A 3.2 Gen 1, HDMI 2.1 TMDS, and a 3.5mm headphone/microphone combo. On the right, there's USB-A 2.0, Ethernet (RJ45), and a Kensington Security Slot.
@@ -145,9 +151,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 open a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-open-lenovo-thinkpad-e16-gen-1_53287026391_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  One of the reasons for the larger size and weight of the laptop is the generous 16-inch WUXGA (1920x1200) IPS anti-glare touchscreen with 300 nits of brightness. The default scale in Windows is set to 125%, allowing for large, easy-to-read text on such a large display at that resolution. Of course, setting the scale to 100% is still readable and provides even more usable real estate, allowing for more productive multitasking when docking windows to the left and right. This effectively creates two large portrait displays of roughly 6.8 x 10.8 inches, even when accounting for the standard Windows taskbar.
@@ -169,12 +172,9 @@ Your browser does not support the video tag.
 ![Lenovo ThinkPad E16 Gen 1 - closeup of open laptop's left corner on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/intel-core-i5-and-intel-iris-xe-stickers-on-the-lenovo-thinkpad-e16-gen-1_53286136922_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Thanks to the laptop's generous width, the backlit keyboard feels full-size and even has a numeric keypad to the right. It was a pleasure to type on, with the laptop's weight and stability enhancing the keyboard's feel. It's an excellent typing experience and makes a good argument for laptops with some heft to them.
@@ -187,9 +187,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 open on a desktop showing a close-up of its upper right side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/power-button-and-fingerprint-reader-on-the-lenovo-thinkpad-e16-gen-1_53287490545_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  As is standard with a business-centric laptop, the ThinkPad E16 Gen 1 comes with Windows 11 Pro. There's not a lot of bloatware preinstalled outside of [McAfee](https://www.mcafee.com/en-us/antivirus.html) antivirus and some Lenovo standards like [AI Meeting Manager](https://apps.microsoft.com/detail/ai-meeting-manager/9NJ7W58DLL4N?hl=en-US&gl=US), [Lenovo Smart Appearance](https://apps.microsoft.com/detail/lenovo-smart-appearance/9NRLFDZ54PZB?hl=en-US&gl=US), and Lenovo Vantage. There's also the Lenovo Now app, which provides a portal to Lenovo Vantage, the device warranty, and various trial offers.
@@ -216,6 +213,10 @@ Sergio Rodriguez / How-To Geek
 
 ![Lenovo ThinkPad E16 Gen 1 promotional image of open laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/6549720cv3d.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Lenovo ThinkPad E16 Gen 1
 
 7/ 10 
@@ -230,8 +231,6 @@ There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +238,20 @@ There's an undeniable appeal to the ThinkPad E16 Gen 1's basic practicality and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-audiophiles-windows-companion/"><u>[New] Audiophile’s Windows Companion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-top-10-windows-camera-apps-reviewed-for-2024/"><u>[New] The Top 10 Windows Camera Apps - Reviewed for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transform-your-shots-into-art-with-top-10-grids/"><u>[New] Transform Your Shots Into Art with Top 10 Grids</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-melody-filled-visuals-the-fusion-project/"><u>[Updated] Melody-Filled Visuals The Fusion Project</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-iphone-audio-downloading-manual/"><u>[Updated] The Complete iPhone Audio Downloading Manual</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>2024 Approved How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultra-fast-picture-reader-for-windows-11/"><u>2024 Approved Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-guide-hunt-for-the-perfect-laptops-during-octobers-ultimate-sale-event-prime-day-deals-insights/"><u>Exclusive Guide: Hunt for the Perfect Laptops During October's Ultimate Sale Event - Prime Day Deals Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-and-easy-iphone-screen-capture-techniques/"><u>In 2024, Quick and Easy iPhone Screen Capture Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>In 2024, Real-Time Recording Rivals OBS & ShadowToolKit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tune-tracker-and-manager-android-companion/"><u>In 2024, Top Tune Tracker & Manager, Android Companion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-evolution-from-rgb-to-srgb-in-graphic-media-for-2024/"><u>The Evolution From RGB to Srgb in Graphic Media for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-overload-into-order-with-skillful-tiktok-saves-edits-for-2024/"><u>Transform Overload Into Order with Skillful TikTok Saves Edits for 2024</u></a></li>
+</ul></div>
 

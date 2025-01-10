@@ -1,7 +1,7 @@
 ---
 title: Essential Steps for Creating New File Systems with Mkfs on Linux Platforms
-date: 2024-08-30T21:20:00.145Z
-updated: 2024-08-31T21:20:00.145Z
+date: 2025-01-05T18:04:30.186Z
+updated: 2025-01-10T01:33:12.519Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Essential Steps for Creating New File Systems with Mkfs on Linux Platforms
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,8 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The syntax of `mkfs` has been updated, and the old format has been deprecated. Both forms will work, but we'll use the modern style in this article.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Choice of File Systems
 
  The modern way of using `mkfs` is to type "mkfs." and then the name of the file system you wish to create.
@@ -42,9 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![List of supported file systems in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/1-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  The list of available file systems is displayed in the terminal window. The screenshot is from Ubuntu 18.04 LTS. Other distributions may offer more or fewer options. We'll run through these and describe each one briefly. After a quick word about journaling.
 
  Journaling is an important concept in file systems. The file systems records the pending file writes to a journal. As each file is written to, the journal is updated, and the pending write records are updated. This allows the file system to repair broken, partially written files that have occurred due to a catastrophic event such as a power cut. Some of the older file systems do not support journaling. Those that don't, write to the disk less frequently because they don't need to update the journal. They may perform faster, but they are more prone to damage due to interrupted file writes.
@@ -60,18 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **CRAMFS**: The [Compressed ROM File System](https://en.wikipedia.org/wiki/Cramfs) is a read-only file system designed for embedded systems and specialist read-only uses, such as in the boot processes of Linux computers. It is common to have a small, transient, file system loaded first so that bootstrap processes can be launched to prepare for the "real" boot system to be mounted.
 * **MSDOS**: The file system of the [Microsoft Disk Operating System](https://en.wikipedia.org/wiki/MS-DOS). Released in 1981, it's an elementary file system that is as basic as it gets. The first version didn't even have directories. It holds a place of prominence in computing history but, beyond compatibility with legacy systems, there is little reason to use it today.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Safe Way to Experiment With File Systems
 
  Creating a file system on a partition is destructive to any data that might already reside on that partition. Using a spare hard drive—or even a spare computer—is the perfect way to experiment with creating and using different file systems. But of course, many people don't have spare hardware lying around, waiting to be experimented on.
@@ -92,6 +82,10 @@ dd if=/dev/zero of=~/howtogeek.img bs=1M count=250
 
 ![Output from the dd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/3-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We can look at our image file with `ls` :
 
 ls -hl
@@ -100,9 +94,6 @@ ls -hl
 
  It's 250 MB as expected, which is encouraging.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Creating the File System
 
  Let's pick a file system to use. We'll go back in time and use Ext2, which is the earliest version of Ext that this implementation of `mkfs` can create. This is a non-journaling file system, so don't store anything precious in it without having backups elsewhere. We use the `mkfs.ext2` variant of the `mkfs` command, and we tell it to use our image file as the target.
@@ -115,9 +106,6 @@ mkfs.ext2 ~/howtogeek.img
 
 ![Output of the mkfs.ext2 command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/6-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see from the highlighted text, `mke2fs` makes an appearance.
 
  Now we have a container for the file system—the image file—which is standing in for a hard drive in this scenario. Inside that container, we've created a file system. Now we need to mount the file system so that we can use it.
@@ -135,13 +123,18 @@ sudo mount ~/howtogeek.img /mnt/geek
 ![mkfs.ext2 ~/howtogeek.img in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/8-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We need to change the [file ownership](http://man7.org/linux/man-pages/man1/chown.1.html) of the mount point so that we have read and write access to it.
 
 sudo chown dave:users /mnt/geek/
 
 ![sudo chown dave:users /mnt/geek/  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/9-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And now we should be able to use our new file system. Let's change into the file system, and copy some files to it.
 
@@ -151,24 +144,22 @@ cp ~/Documents/Code/*.? .
 
 ![cp ~/Documents/Code/*.? . in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/10-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will copy all files with a single-letter extension from the "\~/Documents/Code" directory to our new file system. Let's check that they were copied.
 
 ls
 
 ![ls in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/11-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The files have been copied, so our file system has been created, mounted and used. Or so we think. Let's double-check. From our home directory, we'll [unmount the file system](https://tech-haven.techidaily.com/explore-ai-possibilities-educating-on-board-games-and-crafting-images-through-gpt-technology/). Note there is only one "n" in [umount](http://man7.org/linux/man-pages/man8/umount.8.html).
 
 sudo umount /mnt/geek
 
 ![sudo umount /mnt/geek  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/12-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, if we pop back to /mnt/geek and check for files, we shouldn't find any because they are inside our image file, and that has been unmounted.
 
 cd /mnt/geek
@@ -178,8 +169,9 @@ ls
 ![cd /mnt/geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/13-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Further Exploration
 
  Now we've got the process worked out, trying another file system should be easy. We'll use the MINIX file system this time. In our home directory, we can create a new file system inside our existing image file.
@@ -190,9 +182,6 @@ mkfs.minix ~/howtogeek.image
 
 ![mkfs.minix ~/howtogeek.image in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/14-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Without any hint of asking you "if you're sure," the new file system is created over the old one. We can mount our image file with exactly the same command as before:
 
 sudo mount ~/howtogeek.img /mnt/geek
@@ -222,9 +211,13 @@ sudo rmdir geek
 ![sudo rmdir geek in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/18-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Juggling With Fire
 
  With Linux, as with most things, you learn by doing. The problem with some commands is that they are potentially destructive. The dilemma is how to practice using them without putting your system or data at risk?
@@ -243,8 +236,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +243,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/rom-scratch-to-screen-video-editing-with-youtube-and-others/"><u>[New] From Scratch to Screen Video Editing with YouTube & Others</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-template-transformations-build-unique-logos-for-pennies/"><u>[New] Template Transformations Build Unique Logos for Pennies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-blending-primary-footage-with-b-roll/"><u>[New] The Art of Blending Primary Footage with B Roll</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-timeless-videos-selecting-excellent-slow-motion-cameras/"><u>[New] Timeless Videos Selecting Excellent Slow-Motion Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-visual-perfection-discover-the-best-of-9-live-stream-filters-for-2024/"><u>[New] Visual Perfection Discover the Best of 9 Live-Stream Filters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-srt-a-complete-reference-guide-for-conversion/"><u>[Updated] Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-picture-pools-the-best-10-resources/"><u>[Updated] Unlimited Picture Pools The Best 10 Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>[Updated] Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/detailed-ice-cream-snapshot-analysis-report/"><u>Detailed Ice Cream Snapshot Analysis Report</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-list-of-free-eq-tools-for-android-devices-top-5-selections/"><u>Discover the Ultimate List of Free EQ Tools for Android Devices - Top 5 Selections</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-quantum-hdr/"><u>In 2024, The Ultimate Guide to Quantum HDR</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-oneplus-8t-speed-vs-photography-is-it-a-tradeoff/"><u>In-Depth Look at the OnePlus 8T: Speed Vs. Photography - Is It a Tradeoff?</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-newsfeed-narrative-with-customization-choices/"><u>Mastering the Newsfeed Narrative with Customization Choices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/startups-guide-to-earnings-on-youtube-platform/"><u>Startups' Guide to Earnings on YouTube Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/techniques-for-more-watches-on-your-insta-vids/"><u>Techniques for More Watches on Your Insta Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly-for-2024/"><u>The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-spots-for-virtual-reality-experiences-for-2024/"><u>Top Spots for Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-hidden-gems-beyond-just-a-physical-keyboard-in-this-exceptional-iphone-case-insights-from-zdnet/"><u>Unveiling the Hidden Gems: Beyond Just a Physical Keyboard in This Exceptional iPhone Case - Insights From ZDNet</u></a></li>
+</ul></div>
 

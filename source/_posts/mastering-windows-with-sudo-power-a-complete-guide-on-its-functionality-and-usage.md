@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows with Sudo Power: A Complete Guide on Its Functionality & Usage"
-date: 2024-08-30T21:22:24.354Z
-updated: 2024-08-31T21:22:24.354Z
+date: 2025-01-08T04:26:58.145Z
+updated: 2025-01-09T21:52:45.990Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 
 ## Mastering Windows with Sudo Power: A Complete Guide on Its Functionality & Usage
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * sudo is a widely used Linux command, and is now available in Windows 11.
@@ -19,15 +23,16 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is sudo So Revered?
 
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
 
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Does sudo Bring to Windows
 
  Functionality wise, sudo doesn't bring a whole lot to Windows that wasn't possible already. Most of the excitement is about the _cachet_ it brings Windows users. Geeks love sudo, [a](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/ "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/")[nd now Windows users are part of the club](http://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/).
@@ -40,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Enable sudo in Windows 11
 
  At the moment, sudo is only available to Windows users running [an Insider Preview of Windows 11](https://tiktok-clips.techidaily.com/2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/). If you want to use sudo today, you'll need to [enroll in the Windows Insider Program](https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/), otherwise you'll need to wait until the feature trickles out in an update.
@@ -52,21 +58,20 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Microsoft
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use the Sudo Command in Windows
 
  To use the sudo command to run a command as an administrator, simply type **sudo** before the command. That's it.
@@ -85,8 +90,6 @@ sudo netstat -ab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +97,18 @@ sudo netstat -ab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-smooth-and-subtle-how-to-blur-iphone-images-for-free-and-easy/"><u>[New] Smooth and Subtle How to Blur iPhone Images for Free & Easy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-storytelling-essential-language-for-marketers/"><u>[New] Strategic Storytelling Essential Language for Marketers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-halt-autoplay-youtube-recommendations-for-2024/"><u>[Updated] Halt Autoplay YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-vr-headset-companies/"><u>[Updated] Top VR Headset Companies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>[Updated] Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-smart-note-management-via-mematic/"><u>[Updated] Unlock Smart Note Management via Mematic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-seamless-audio-transfer-youtube-videos-)-mp3-macos-2023/"><u>2024 Approved Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-on-the-performance-and-quality-of-rca-video-doorbells-cameras/"><u>Comprehensive Review on the Performance & Quality of RCA Video Doorbells Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-avi-to-wmv-conversion-guide-for-macos-mavericks-users/"><u>Effortless AVI to WMV Conversion Guide for macOS Mavericks Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>In 2024, Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-voice-techniques-enhance-your-oratory-with-these-tools-for-2024/"><u>Transformative Voice Techniques – Enhance Your Oratory with These Tools for 2024</u></a></li>
+</ul></div>
 

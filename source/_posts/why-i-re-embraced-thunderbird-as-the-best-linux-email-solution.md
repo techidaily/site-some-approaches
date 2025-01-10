@@ -1,7 +1,7 @@
 ---
 title: Why I Re-Embraced Thunderbird as the Best Linux Email Solution
-date: 2024-08-30T21:20:58.276Z
-updated: 2024-08-31T21:20:58.276Z
+date: 2025-01-06T03:55:12.642Z
+updated: 2025-01-10T02:10:09.686Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Why I Re-Embraced Thunderbird as the Best Linux Email Solution
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,17 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Thunderbird was my first desktop email client. Yet for many years, the app felt frozen in time, and we went our separate ways. Recently, I stumbled upon the new version of Thunderbird and fell back in love. After a decade-long break, it is now downloading my inbox again. This is how it found a new home on my PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  Thunderbird Now Looks Great on GNOME
 
 ![GNOME desktop with Thunderbird email client open alongside other apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gnome-desktop-with-thunderbird-email-client-open-alongside-other-apps.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Thunderbird was born in the early aughts, an era when most desktop apps displayed options in a menubar with a toolbar containing icons underneath. When I first came across Thunderbird, it felt right at home alongside the other programs I was using.
 
  When I switched to Linux, Thunderbird still felt at home on desktops running the GNOME 2 interface. Then GNOME 3 came with a whole new look, and over time, Thunderbird increasingly felt out of place.
@@ -50,9 +47,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![End-to-end encryption settings in Thunderbird on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/end-to-end-encryption-settings-in-thunderbird-on-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are multiple ways to send an encrypted email. One approach is complicated and involves [using Thunderbird in conjunction with OpenPGP](https://fox-access.techidaily.com/new-prime-sites-to-propel-youtube-content-reach/). I don't do this.
 
  Instead, I send secure email the easy way, by using a Proton Mail account. To use Proton Mail with a desktop email client, you need to [download a program known as Proton Mail Bridge](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004284/https://proton.me/mail/bridge) that decrypts mail in the background and presents it in a way your email client can understand. Unfortunately, Proton Mail Bridge doesn't play nicely with most email clients, which is why I gave up on Geary. On Linux, [Proton's instructions](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004284/https://proton.me/support/bridge-for-linux) point you toward Thunderbird.
@@ -60,8 +54,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![Proton Mail outgoing email settings in Thunderbird on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/proton-mail-outgoing-email-settings-in-thunderbird-on-linux.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Since switching back to Thunderbird, Proton Mail has worked (and worked consistently). I would forget Proton Mail Bridge were running at all if I didn't have to remember to start it up whenever I boot up my computer. To save yourself from having to do this manually, you can install GNOME Tweaks and set Proton Mail Bridge to launch as a startup application.
 
 ##  Thunderbird Is Fast and Reliable
@@ -70,19 +65,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  An email client is the type of program where such pain is often felt. It's no small thing for a computer to download thousands of email messages, search through them as you type, and open them at a moment's notice. Yet Thunderbird handles this exceptionally well. It's fast enough to again remind me how slow webmail feels by comparison, even on a relatively low-powered machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Thunderbird Is Highly Configurable
 
 ![Customizing toolbars in Thunderbird on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customizing-toolbars-in-thunderbird-on-linux.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Thunderbird is immediately familiar to anyone who has used a desktop email client, so you don't need to make any tweaks to hit the ground running. Yet you can change most aspects of the interface, which is great for office-oriented software that you're likely to interact with often and any frustrations impact how quickly and effectively you can do your job.
 
  In Thunderbird, you can fill the header bar with icons if you want, so that certain actions are always accessible in the same place. You can hide the side panel known as the Spaces Menu. You can adjust how much space sits between different lines of text, in case you prefer to see as much text on-screen as possible (personally, I prefer to have enough white space for words to breathe).
@@ -90,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Yet it's not just the deep well of settings that make Thunderbird an app you can make your own. It's the freedom to edit the CSS, fundamentally changing how the app looks. This means that even though there isn't a GNOME Thunderbird theme that you can easily install via the app, there's a [Thunderbird GNOME theme on GitHub](https://github.com/rafaelmardojai/thunderbird-gnome-theme) that modifies the appearance at a deeper level. It's so thorough that you need to pixel peep to be able to tell that Thunderbird wasn't actually designed with GNOME in mind.
 
 ![Thunderbird email client with GNOME theme installed on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/thunderbird-email-client-with-gnome-theme-installed-on-linux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I thought Thunderbird looked passable enough after its redesign, but with the GNOME theme installed, I'm even more in love.
 
@@ -99,9 +97,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Extensions available in the Thunderbird email client on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-available-in-the-thunderbird-email-client-on-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Like Firefox, you can install add-ons in Thunderbird. Why would you do this? In my case, the most tempting extension is [one that adds a Proton Calendar window](https://addons.thunderbird.net/en-US/thunderbird/addon/proton-calendar-toolbar-button/) inside of Thunderbird. This gets around the fact that Thunderbird's built-in Calendar is unable to sync with Proton Calendar.
 
  Extensions have long been a part of Firefox and Google Chrome, and the way they work is similar here. Just to highlight a few more useful examples, there is the [Quicktext](https://addons.thunderbird.net/En-Us/thunderbird/addon/quicktext/) extension that allows you to create email templates based on assorted variables or use different signatures based on who you're emailing. There's a [Send Later](https://addons.thunderbird.net/En-Us/thunderbird/addon/send-later-3/) extension that lets you schedule when mail goes out. There's [Web Translate](https://addons.thunderbird.net/En-Us/thunderbird/addon/web%5Ftranslate/), which integrates various language translation tools like Google Translator and Microsoft Translator.
@@ -118,8 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +120,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-simultaneously-stream-youtube-channels/"><u>[New] In 2024, Simultaneously Stream YouTube Channels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rapid-route-learning-the-ins-and-outs-of-insta-talks-for-2024/"><u>[New] Rapid Route Learning the Ins and Outs of Insta Talks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-perplexing-case-of-unexpected-video-aspects-in-instagram/"><u>[New] The Perplexing Case of Unexpected Video Aspects in Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-networking-grounds-grow-your-youtube-audience/"><u>[New] Top Networking Grounds Grow Your YouTube Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>[Updated] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-packet-opening-experience-hacks/"><u>2024 Approved Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210852206-9798987850008-ayni/"><u>AYNI | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-s23-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy S23 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-tapes-the-essential-5-video-booster-apps/"><u>In 2024, Transformative Tapes The Essential 5 Video Booster Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/streamlined-techniques-for-rapid-mac-screen-recording/"><u>Streamlined Techniques for Rapid Mac Screen Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamlining-video-aesthetics-blur-background-in-microsoft-teams-for-2024/"><u>Streamlining Video Aesthetics Blur Background in Microsoft Teams for 2024</u></a></li>
+</ul></div>
 

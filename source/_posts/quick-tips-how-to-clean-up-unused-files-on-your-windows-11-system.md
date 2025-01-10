@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips: How to Clean Up Unused Files on Your Windows 11 System"
-date: 2024-08-30T21:20:29.130Z
-updated: 2024-08-31T21:20:29.130Z
+date: 2025-01-04T23:58:15.885Z
+updated: 2025-01-10T02:40:20.436Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using Storage Sense
 
  Storage Sense is a built-in Windows 11 feature that helps automatically [clean up old files](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/). You can configure various options in the feature so it only deletes the files using the specified criteria. You can run the feature manually, or you can set it to run automatically at the specified time.
@@ -37,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -53,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  With Microsoft PC Manager
 
 [PC Manager is a built-in Windows 11 app](https://driver-install.techidaily.com/nvidia-graphics-driver-enhancement-gtx-1060/) that lets you analyze your storage space and remove downloaded files, large files, and duplicate files. It has a variety of filters that let you quickly find the files you want to let go of.
@@ -63,19 +65,12 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
 
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
 
  Click the option and use the "Size" drop-down menu to specify your file size.
@@ -83,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s it.
 
@@ -96,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And you’re all set.
 
 ##  Using Command Prompt
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  To use it, open Windows Search, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
 
@@ -132,12 +132,13 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -151,8 +152,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +159,21 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-honored-hubs-best-websites-to-download-snapalert-beats-for-2024/"><u>[New] Honored Hubs Best Websites to Download SnapAlert Beats for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creative-music-videos-a-list-of-15-youtube-projects/"><u>[New] In 2024, Creative Music Videos A List of 15 YouTube Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[New] Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-power-of-time-lapse-with-samsung-smartphones/"><u>[New] Unlocking the Power of Time Lapse with Samsung Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>[Updated] Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos-for-2024/"><u>[Updated] Elevate Your Tech Game Master the Craft of Screen Recordings in macOS for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-grasping-video-clarity-the-first-lessons-on-hd/"><u>[Updated] In 2024, Grasping Video Clarity The First Lessons on HD</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-combining-the-best-of-zoom-and-skype-video-calls/"><u>2024 Approved Strategies for Combining the Best of Zoom and Skype Video Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-hashtags-in-growing-your-instagram-reel-presence/"><u>2024 Approved The Power of Hashtags in Growing Your Instagram Reel Presence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-free-screen-recorders-on-windows-11-2023-update/"><u>2024 Approved Top 5 Free Screen Recorders on Windows 11-2023 Update</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/efficient-editing-for-quick-youtube-content/"><u>Efficient Editing for Quick YouTube Content</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/solving-enigmatic-app-crashes-strategies-by-yl-software-experts/"><u>Solving Enigmatic App Crashes: Strategies by YL Software Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-windows-10-users-guide-to-microphones-for-2024/"><u>The Windows 10 User's Guide to Microphones for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ultimate-top-5-mp4-video-editors-best-picks-for-mac-and-windows-users/"><u>Ultimate Top 5 MP4 Video Editors: Best Picks for Mac and Windows Users</u></a></li>
+</ul></div>
 

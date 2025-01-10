@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Job Applications: The Pros, Cons & Ethical Dilemma"
-date: 2024-08-30T21:25:02.589Z
-updated: 2024-08-31T21:25:02.589Z
+date: 2025-01-02T17:54:30.103Z
+updated: 2025-01-09T23:58:49.648Z
 tags:
   - cutting-edge
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 * [How to Use AI to Create Top-Notch Cover Letters and Resumes](https://sound-issues.techidaily.com/no-more-quiet-computers-diy-solutions-for-a-lenovo-laptop-that-wont-play-sounds/)
 * [Some Companies Use AI Detection Tools to Scan Cover Letters](https://ai-live-streaming.techidaily.com/updated-2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT can create decent resumes & cover letters from scratch and with minimal input.
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 
  If you're on a job hunt, you know how tedious and time-consuming it is to write cover letters for every single job posting. Enter ChatGPT—it can save you countless hours by tailoring your resume and cover letter for each job application in just a few seconds. However, is there a catch?
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  AI Is Shockingly Good at Creating Cover Letters and Resumes
 
  Cover letters and resumes have a general layout and style that you should follow to come across as professional. ChatGPT can perfectly emulate that standardized style because it was trained on large amounts of data, which also includes thousands of cover letters and resume examples.
@@ -44,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d685
 ![ChatGPT showing questions for needed to create a resume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-job-quesitons.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Remember, your resume is a concise summary of essential personal information, your greatest achievements, relevant skills, and not much else. Even human-written resumes sound pretty robotic, so the results are more or less in line with the norm. For instance, I told ChatGPT to create a resume and gave it very little information to work with, and here are the results:
 
 Close 
@@ -59,8 +61,9 @@ Close
  While it sounds as if a middle-schooler wrote it using a template, and you can't expect to land a half-decent job with something like this, it's a decent start. The most important information is at the top, the format is tidy, and ChatGPT even tried to establish a link between my relevant experience and the job requirements. I'll show you a few tricks and tips on how to make an outstanding resume and cover letter shortly.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is It Wrong to Use AI for Your Cover Letter and Resume?
 
  The real question here is whether it's ethical to use AI for job applications. The main argument against AI-generated cover letters and resumes is that [AI is prone to lying](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/).
@@ -71,9 +74,6 @@ Close
 
  The worst part is that some recruiters won't even read your cover letter but will instead focus on your answers to the application questions. I briefly worked as a recruiter myself, and I'd only read a cover letter when I was on the fence. In such instances, the cover letter is there merely as a supplementary document that satisfies hiring norms. Ultimately, it's up to you to decide whether it's okay to use ChatGPT for your cover letter and resume. If you opt to use it, carefully proofread everything to make sure that there are no lies or half-truths in your job application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use AI to Create Top-Notch Cover Letters and Resumes
 
  I've shown you earlier how it's pretty easy to create a basic cover letter and resume with ChatGPT, but if you want to land a half-decent job, you'll still have to do some parts yourself. You might have heard the phrase "garbage in, garbage out," and the rule applies here as well. The trick to generating a good cover letter and resume with ChatGPT is to create the first draft yourself. In the case of a resume, write as much relevant information as you can about your skills and past work experience before handing it over to ChatGPT to process the data. Here's a quick example I came up with on the spot:
@@ -85,15 +85,17 @@ Close
 ![ChatGPT providing feedback on a resume it helped generate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/feedback-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can use these same general principles to create a killer cover letter as well. You can go back and forth with ChatGPT until you land on something that you like. You can treat ChatGPT the same way you'd treat a resume consultant. Once you're done generating, first make sure there are no errors in the text. After that, add some personal flair to make sure you stand out from other applicants.
 
  Remember, other applicants also have access to ChatGPT and have likely used it to apply for the job, so you really need to make your cover letter unique and compelling to get hired. Pay particular attention to the first few paragraphs, as they can let your personality shine through the most. Also, note that some sections will probably sound robotic and "fake," so get rid of them.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Companies Use AI Detection Tools to Scan Cover Letters
 
  Companies that care about whether you use AI to write your cover letter will scan it using AI detector tools. The tool can identify and flag text that sounds robotic based on patterns AI tools use.
@@ -110,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-brand-stories-with-client-produced-testimonials/"><u>[New] Transforming Brand Stories with Client-Produced Testimonials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-speedy-pics-viewing-tool/"><u>[New] Ultimate Speedy Pics Viewing Tool</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[Updated] 2024 Approved Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-blueprint-for-srt-file-excellence/"><u>[Updated] The Ultimate Blueprint for SRT File Excellence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-rated-sony-a7s-ii-memory-accessory/"><u>2024 Approved Top-Rated Sony A7S II Memory Accessory</u></a></li>
+<li><a href="https://some-skills.techidaily.com/earning-money-by-using-microsofts-bing-a-personal-experience-of-successful-rewards/"><u>Earning Money by Using Microsoft's Bing - A Personal Experience of Successful Rewards</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-code-6-in-divekick-or-modern-warfare-pc-now-fixed-a-comprehensive-guide/"><u>Error Code #6 in Divekick or Modern Warfare (PC) Now Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-on-the-robust-and-efficient-kootek-computer-cooler-for-optimal-performance/"><u>Expert Review on the Robust and Efficient Kootek Computer Cooler for Optimal Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-10t-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 10T 5G Fingerprint Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-quick-connectivity-iphone-images-to-windows/"><u>In 2024, Quick Connectivity IPhone Images to Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-art-of-youtube-management-by-studio-techniques-for-2024/"><u>The Art of YouTube Management by Studio Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-8-preferred-mp3-grabbers-android-for-2024/"><u>Ultimate Selection 8 Preferred MP3 Grabbers (Android) for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-14-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 14 Pro Max</u></a></li>
+</ul></div>
 

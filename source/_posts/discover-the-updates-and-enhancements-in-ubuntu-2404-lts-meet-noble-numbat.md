@@ -1,7 +1,7 @@
 ---
 title: Discover the Updates and Enhancements in Ubuntu 24.04 LTS - Meet Noble Numbat!
-date: 2024-08-30T21:19:00.229Z
-updated: 2024-08-31T21:19:00.229Z
+date: 2025-01-03T21:07:29.425Z
+updated: 2025-01-09T21:57:49.915Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Discover the Updates and Enhancements in Ubuntu 24.04 LTS - Meet Noble Numbat!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ubuntu 24.04, code-named “Noble Numbat”, has a release date of April 25, 2024\. We fired up the beta build to see whether it was worth upgrading to Canonical’s newest long-term support release.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Look at Ubuntu 24.04
 
  Another April, another Ubuntu. As regular and unfailing as the changing of the seasons, twice a year we get a new release of Ubuntu. There’s the April build, and there’s the October build.
@@ -42,14 +50,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Ubuntu 24.04 Installer language selection screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbat-installation-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  It’s great to see a new Accessibility screen taking up position right behind the Choose Your Language screen, giving it the importance and prominence it deserves.
 
 ![The Ubuntu 24.04 Installer Accessibility screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbat-installation-02.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -57,16 +66,21 @@ Dave McKay/How-To Geek
 
 ![The Ubuntu 24.04 installer Internet Connection screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbat-installation-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  This release follows the trend set in Ubuntu 23.10 of selecting the option to install a minimalist (for Ubuntu) collection of applications. You can still opt to install everything Ubuntu traditionally provides, but you need to consciously make that choice.
 
 ![The Ubuntu 24.04 installer Applications screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/numbat-installation-07.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linux Kernel 6.8
 
@@ -76,9 +90,6 @@ Dave McKay/How-To Geek
 
 ![Neofetch output in an Ubuntu 24.04 terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The existing Completely Fair Scheduler (CFS) has been replaced by a new Earliest Eligible Virtual Deadline First (EEVDF) CPU scheduler. This is based on academic research from the late 1990’s and early 2000’s. The new scheduler reduces latency in certain scenarios.
@@ -97,9 +108,17 @@ Dave McKay/How-To Geek
 * More work on Rust elements of the kernel code, including network PHY drivers and bindings for work queues.
 * A sophisticated Copy On Write filesystem called Bcachefs is supported.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The New GNOME 46 Desktop
 
  We’ve [written about GNOME 46 elsewhere](https://vimeo-videos.techidaily.com/new-the-ultimate-video-editing-experience-for-vimeo-enthusiasts-for-2024/), but it’s worth mentioning some of the big-ticket items here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Files
 
@@ -107,9 +126,6 @@ Dave McKay/How-To Geek
 
 ![The Files file browser with the local search icon highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  There’s a new search function in Preferences, too.
@@ -122,9 +138,6 @@ Dave McKay/How-To Geek
 
 ![The Files file browser Copying file progress information](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
 ###  Settings
@@ -133,18 +146,12 @@ Dave McKay/How-To Geek
 
 ![The Files file browser's System option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Privacy has been renamed to Privacy & Security.
 
 ![The Files file browser's Privacy & Security option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  A new Accessibility option lets you turn on small on (I) and off (O) indicators on sliding buttons.
@@ -156,6 +163,10 @@ Dave McKay/How-To Geek
  WebDAV and Microsoft Personal account support have been added to Online Accounts. However, absent from the Ubuntu implementation of GNOME 46 is a new online account option, called Microsoft 365.
 
 ![The Files file browsers Online Accounts options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -169,34 +180,20 @@ Dave McKay/How-To Geek
 
  You must use an RDP client on the computer you’re connecting from. You can change the screen resolution once you’re connected, to cater for differences between the remote and the Ubuntu computer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  App Center
 
  Ubuntu’s Snap-centric software app has been renamed to App Center. If you prefer using [DEB](https://facebook-video-share.techidaily.com/new-2024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/) files you’ll need to use the command line. App Center _really_ wants you to use Snaps.
 
 ![The Ubuntu 24.04 App Center showing the Thunderbird screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Thunderbird is now a Snap, although there is a DEB available. But under the hood, it installs the Snap version.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Security Enhancements
 
  Ubuntu packages are now built with security-hardening features that block many security vulnerabilities, rendering them unexploitable.
@@ -219,9 +216,6 @@ Dave McKay/How-To Geek
 * **glibc**: 2.33
 * **GNU Debugger**: 15.0.50.2024040
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Is Ubuntu 24.04 Worth the Upgrade?
 
  In short, yes. Ubuntu 24.04 is definitely worth the upgrade. If you only use LTS builds, your two-year wait is over, and you'll find that Noble Numbat was worth the wait.
@@ -236,8 +230,6 @@ Dave McKay/How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +237,16 @@ Dave McKay/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-uav-connoisseurs-guide-to-essential-equipment/"><u>[New] The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-digital-image-synergy-tactics-for-2024/"><u>[Updated] Digital Image Synergy Tactics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mi-11-mini-your-gateway-to-professional-screen-recording/"><u>2024 Approved Mi 11 Mini Your Gateway to Professional Screen Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>2024 Approved Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-insight-how-to-navigate-and-optimize-your-samsung-tv-apps-experience/"><u>In-Depth Insight: How to Navigate and Optimize Your Samsung TV Apps Experience</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/resolving-software-compatibility-problems-on-your-pc-a-guide-by-yl-computing/"><u>Resolving Software Compatibility Problems on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/teaching-through-media-efficient-classroom-editing-for-2024/"><u>Teaching Through Media Efficient Classroom Editing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-20-keywords-for-stellar-marketing-strategies-for-2024/"><u>Top 20 Keywords for Stellar Marketing Strategies for 2024</u></a></li>
+</ul></div>
 

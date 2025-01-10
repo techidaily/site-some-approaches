@@ -1,7 +1,7 @@
 ---
 title: IPhoneのスクリーンショットや画像録画ができない？iOS14～iOS11で使える簡単解決策をご紹介！
-date: 2024-08-26T16:27:20.763Z
-updated: 2024-08-27T16:27:20.763Z
+date: 2025-01-04T02:43:23.570Z
+updated: 2025-01-09T21:22:51.226Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/e19f7ed8ea4947e7863a6b27aaaa0b4c70d6ab972ded390e593c80bf54aa6b43.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e19f7ed8ea4947e7863a6b27aaaa0b4c70d6ab972
 ## IPhoneのスクリーンショットや画像録画ができない？iOS14～iOS11で使える簡単解決策をご紹介！
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \>iPhone画面収録保存できない対策
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 【2024】iPhone画面録画が保存できない問題の解決策を解説！iOS11～iOS14環境！
 
@@ -21,13 +25,8 @@ iOS11～iOS14に標準搭載された「画面収録」機能は極めて便利�
 
 今回の記事では、「iPhone画面録画保存されない」、「iOS11～iOS14画面収録保存できない[](https://tools.techidaily.com/macxdvd/products/)」という問題の原因と解決方法を、それぞれに詳しく解説しましょう。 
 
-
-
 ## iPhone画面録画が保存されない原因と解決策
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### （1）「収録を停止」ボタンをタップするか 
 
 この画面収録機能は、「収録を停止」ボタンをタップすると、録画した動画は自動的にiPhoneの写真アプリ内に保存される仕組みです。「収録を停止」をタップするかどうかとちゃんと確認してください。 
@@ -38,30 +37,20 @@ iOS11～iOS14に標準搭載された「画面収録」機能は極めて便利�
 
 [【対策】iPhone画面録画音声が入らない！アイフォン画面録画内部音声のみを収録方法を紹介＞＞](https://jp.videoproc.com/record/record-iphone-screen-with-audio.htm)
 
-
-
 ### （2）「画面収録」のアクセス権限を許可するか
 
 ![iPhone画面収録保存できない](https://www.macxdvd.com/blog/img/zql-3-221.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 アクセス権限を許可しない場合、「画面収録」機能は反応せず起動もしないのに、動画が保存されないなんて当たり前です。「画面収録」のアクセス権限を許可する方法は以下の通りです。
 
 * √①.「設定」＞「おやすみモードの」＞「スクリーンタイム」を順番でタップします。
 * √②. 赤いボタン右の「コンテンツとプライバシーの制限」＞「コンテンツ制限」をタップします。
 * √③. 下にスクロールすると「画面収録」が見られます。その横側に表示される「許可しない」をタップして、「許可」に変更します。
 
-
-
 ### （3）ストレージ容量不足
 
 ![iPhone画面収録保存できない](https://www.macxdvd.com/blog/img/zql-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 「画面収録は次の理由により保存できませんでした：The operation couldn’t be completed.(Cocoa error -1.)」っ てメッセージが飛んだことがありますか。基本的に、それはストレージ容量不足と関係があります。
 
 この「画面収録」機能を使って録画したファイルは高画質で綺麗だが、ファイルサイズもかなり膨大になります。具体的に言えば、
@@ -78,8 +67,6 @@ iOS11～iOS14に標準搭載された「画面収録」機能は極めて便利�
 
 また、容量不足で収録中に勝手に中断されたり保存できない悲劇もあります。なので、iPhone画面を録画する前に、ストレージ空き容量が足りるかとしっかりと確認する必要があります。
 
-
-
 ### （4）収録に不要なプログラムを実行しないように
 
 例えば、この収録機能は電話中は録画されない仕様です。また、アプリ同士の相性が悪いことが原因で画面収録保存できないこともあるので、録画前に、バックグラウンドで開いているアプリを閉じたり、できるだけ他の操作も避けたほうがいいです。 
@@ -88,26 +75,17 @@ iOS11～iOS14に標準搭載された「画面収録」機能は極めて便利�
 
 ちなみに、録画が勝手に強制終了される場合は、終了後の部分は保存できないとご注意ください。 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### （5）録画画面は著作権で保護されるか
 
 ご存知の通りに、有料で販売・配信されている映像をこのままで録画してしまうと違法行為となります。iOS11～iOS14に搭載されたこの「画面収録」機能も、法律的な問題を起こしないように、かなり制限されています。
 
 DMM、Amazon、Huluなどによって配信する有料動画の収録と保存は一切できないのです。 
 
-
-
 ### （6）長時間録画は失敗しやすい
 
 iPhone画面収録は低スペックの機種で行うことは至難の業です。特に長時間すぎたり、処理が追いつかなかったりすると収録が保存されないようです。 
 
 だが、iPhone画面を収録するために、わざわざと新型機種を購入するわけもないし、有効的な解決策として、1回の録画は複数のファイルに分割して記録しましょう。 
-
-
 
 ### （7）iOS側かiPhone側でバグが起こったか
 
@@ -128,7 +106,9 @@ iPhone画面録画保存されない時、iPhoneを再起動・強制再起動�
 
 以上紹介した解決策を試すれば、iPhone画面録画保存されないことが解決できるはずです。でも例外もあります。それに対して、第三者の録画ソフトを利用して、PCでiPhone画面を録画するのは気楽です。 
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PCでiPhone画面を録画して保存する方法
 
@@ -137,8 +117,9 @@ iPhone画面録画保存されない時、iPhoneを再起動・強制再起動�
 ![iPhone画面収録保存できない](https://www.macxdvd.com/blog/img/zql-1-231.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * STEP.1  
 Apple純正USBケーブルでiPhoneをMacと接続します。iPhone側でロックを解除して「信頼」をタップします。
 * STEP.2  
@@ -151,18 +132,13 @@ iPhone はVideoProcは認識されたら、すぐにiPhoneの画面はパソコ�
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-win.png)](https://www.videoproc.com/download/videoproc-file.exe) [![](https://www.macxdvd.com/blog/images/ripper/buy-coupon.png)](https://secure.avangate.com/order/checkout.php?PRODS=12691143&QTY=1&CART=1&SHORT_FORM=1&COUPON=PROCOfficialPrice&ORDERSTYLE=nLWon5S5rro&LANG=ja&AFFILIATE=108875)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 「VideoProc」とiOS11～iOS14の「画面収録」を比較しましょう！
 
 「VideoProc」
@@ -179,8 +155,6 @@ iPhone はVideoProcは認識されたら、すぐにiPhoneの画面はパソコ�
 * √①.手動でUSBケーブルでiPhoneをパソコンと接続する手間が必要です。
 * √②.有料ソフトで、4,480円（税込） 1年 / PC 1台。無料で使えるものがほしい方にとって厳しいです。
 
-
-
 iOS11～iOS14の「画面収録」
 
 **メリット：**
@@ -194,8 +168,6 @@ iOS11～iOS14の「画面収録」
 * √①. iPhoneのメモリやCPUをかなり消耗する上、iPhoneのスペックも要求されます。
 * √②.2017年に初登場した新機能として、安定性の向上はまだまだです。画面収録保存できない報告はネットで頻出。
 * √③.長時間録画の失敗が多すぎます。録画が中断し、ファイルサイズが膨大し、画質も劣化してしまうことがあります。
-
-
 
 ### まとめ
 
@@ -211,25 +183,22 @@ iOS11～iOS14の「画面収録」機能は十分です。だが、この「画�
 
 [割引ライセンスコードを入手する](https://secure.avangate.com/order/checkout.php?PRODS=12691143&QTY=1&CART=1&SHORT_FORM=1&COUPON=PROCOfficialPrice&ORDERSTYLE=nLWon5S5rro&LANG=ja&AFFILIATE=108875)
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/record-iphone-screen-with-audio-b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [【対策】iPhone画面録画音声が入らない原因と対処方法](https://jp.videoproc.com/record/record-iphone-screen-with-audio.htm)
 
 ![](https://www.macxdvd.com/blog/img/iphone-screen-recording-no-time-limit-b.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [［時間制限なし］長時間でiPhone画面を録画・保存する](https://jp.videoproc.com/record/iphone-screen-recording-no-time-limit.htm)
 
 ![](https://www.macxdvd.com/blog/img/simple-dubbing-recording-video-to-dvd-b.jpg) 
@@ -238,9 +207,11 @@ iOS11～iOS14の「画面収録」機能は十分です。だが、この「画�
 
 ![](https://www.macxdvd.com/blog/img/vcp-mj-20171211-05.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Windows＆Mac動画ダウンロード無料ソフト＆アプリおすすめ](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \>iPhone画面収録保存できない対策
 
@@ -250,8 +221,6 @@ iOS11～iOS14の「画面収録」機能は十分です。だが、この「画�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,4 +228,19 @@ iOS11～iOS14の「画面収録」機能は十分です。だが、この「画�
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-perfecting-the-science-of-instagram-highlight-recovery/"><u>[New] 2024 Approved Perfecting the Science of Instagram Highlight Recovery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[New] Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creative-potential-with-luts-in-cs6cc/"><u>[New] Unlocking Creative Potential with LUTs in CS6/CC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-youtubes-monthly-monetization-rules/"><u>[New] Unveiling YouTube’s Monthly Monetization Rules</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elite-nintendo-switch-fighters-showdown-max-156/"><u>[Updated] In 2024, Elite Nintendo Switch Fighters Showdown (Max 156)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>2024 Approved The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
+<li><a href="https://win-web3.techidaily.com/chiari-risolti-strategie-per-superare-le-difficolta/"><u>Chiari Risolti: Strategie per Superare Le Difficoltà</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-identified-potential-flaw-in-windows-11s-update-mechanism-a-comprehensive-guide/"><u>Fixing the Identified Potential Flaw in Windows 11'S Update Mechanism - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-lava-yuva-3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Lava Yuva 3 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-luminaries-crafting-spectaculous-vr-journeys/"><u>In 2024, Luminaries Crafting Spectaculous VR Journeys</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-and-insights-on-ankers-high-performance-outdoor-torch-for-expeditions/"><u>Testing & Insights on Anker's High-Performance Outdoor Torch for Expeditions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-masterpieces-in-stop-motion-cinema-history-for-2024/"><u>Top 15 Masterpieces in Stop-Motion Cinema History for 2024</u></a></li>
+</ul></div>
 

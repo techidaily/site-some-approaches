@@ -1,7 +1,7 @@
 ---
 title: "Insights Into Meta Quest 3: The Latest Updates & Features Unveiled"
-date: 2024-08-30T21:25:36.513Z
-updated: 2024-08-31T21:25:36.513Z
+date: 2025-01-07T00:16:31.954Z
+updated: 2025-01-09T20:29:29.416Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 * [What Hardware Will the Meta Quest 3 Use?](https://hardware-updates.techidaily.com/free-download-latest-ricoh-printer-drivers-for-windows-pcs/)
 * [Future of the Quest VR Headset](https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-gt-5-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  The Meta Quest 3 is expected to launch later in 2023 with a starting price tag of around $450\. It will reportedly be slimmer than Quest 2 and offer MR and VR experiences. Plus, it is said to feature the Snapdragon XR2 Gen 2 chip, Pancake lenses, and five cameras.
@@ -26,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
  The Meta Quest 3, the successor of the company's popular [Quest 2 VR headset](https://youtube-sure.techidaily.com/024-approved-how-much-cash-can-you-score-for-watching-a-million-videos/), is long overdue. But even though we are probably months away from its release, several details about it have trickled down through the grapevine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Meta Quest 3 Release Date: When Is It?
 
  Meta is expected to launch the Quest 3 in mid-to-late 2023\. The company's CEO, Mark Zuckerberg, indicated this launch time frame for their "next generation consumer headset" during [Meta's Q4 2022 earnings call](https://investor.fb.com/investor-events/event-details/2023/Q4-2022-Earnings/default.aspx). While Zuckerberg didn't specifically name Quest 3, he was very likely talking about it as the 2023 launch of the Quest 3 was also reportedly teased during [an internal presentation of the Meta's Reality Labs division](https://www.theverge.com/2023/2/28/23619730/meta-vr-oculus-ar-glasses-smartwatch-plans).
@@ -41,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
  The company hopes the new features introduced in the upcoming headset will justify the pricing.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Meta Quest 3 Features: What to Expect
 
  Given that Meta has discontinued its Rift lineup in favor of the standalone Quest VR headsets, the Quest 3 is pretty much certain to be a standalone headset, like the Meta Quest 2 ([previously known as Oculus Quest 2](https://video-screen-grab.techidaily.com/new-how-to-record-edit-and-produce-high-quality-webcam-videos/)). But it will include new features and improvements, including some borrowed from its much pricier sibling---the [Quest Pro](https://facebook.techidaily.com/the-ultimate-guide-to-facebook-mini-posts-hd-edition/).
@@ -61,9 +67,6 @@ Related: [10 Quest VR Headset Features You Should Be Using](https://instagram-vi
 
 Related: [The Best VR Games for Oculus Quest, PC, and PSVR](https://youtube-help.techidaily.com/2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Hardware Will the Meta Quest 3 Use?
 
  Codenamed "Stinson," the upcoming Quest 3 is believed to include a host of hardware improvements, some of which will help power the mixed reality experiences on the device.
@@ -73,8 +76,9 @@ Related: [The Best VR Games for Oculus Quest, PC, and PSVR](https://youtube-help
 ![Alleged CAD renders of Meta Quest 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/meta-quest-3-alleged-cad-images.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  _SadlyItsBradley/ YouTube_
 
  The upcoming Meta headset is also said to include the company's [innovative Pancake lenses](https://www.meta.com/blog/quest/vr-display-optics-pancake-lenses-ppd/) that were first seen in the Quest Pro. These lenses, along with the built-in LCD panels, enable better text readability, sharper lines, and overall improved clarity in the Pro model.
@@ -86,8 +90,9 @@ Related: [What Is Inside-Out Tracking in VR?](https://tech-savvy.techidaily.com/
 ![The Quest Pro's Pancake Lenses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/52553213638_3a3846f263_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McQuilling / How-To Geek Dave McQuilling / Review Geek Dave McQuilling / LifeSavvy
 
  In terms of the processor, Lynch claims the Quest 2 successor [will use Qualcomm's Snapdragon XR2 Gen 2 chip](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU202074/https://www.youtube.com/watch?v=Mb2DwngbGWk). The chip is believed to be based on the [Snapdragon 8 Gen 2](https://extra-information.techidaily.com/top-attention-grabber-composer/) chip found in most 2023 Android flagships, just like the XR2 Gen 1 chip of the Quest 2 was based on Snapdragon 865 chip found in many 2020 Android flagships.
@@ -98,10 +103,6 @@ Dave McQuilling / How-To Geek Dave McQuilling / Review Geek Dave McQuilling / Li
 
  Finally, Lynch speculates that we could see a 12GB RAM version of Quest 3 with 512GB storage. But the base model will stick with 6 or 8GB of RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  Future of the Quest VR Headset
 
  While Quest 2 was a success for Meta, its Quest Pro has yet to see the same adoption and is already selling at a $500 discount. This has led to some spring cleaning in Meta's Reality Labs. According to The Verge, a headset codenamed "Cardiff," which was supposed to debut in 2024, [has been canceled](https://uploadvr.com/meta-cardiff-canceled/). In addition, another headset codenamed "Hermosa" has also been canned.
@@ -120,8 +121,6 @@ Dave McQuilling / How-To Geek Dave McQuilling / Review Geek Dave McQuilling / Li
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +128,17 @@ Dave McQuilling / How-To Geek Dave McQuilling / Review Geek Dave McQuilling / Li
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>[Updated] Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-strategies-for-impactful-spotify-ads/"><u>[Updated] Top 10 Strategies for Impactful Spotify Ads</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-steps-to-restore-a-deleted-spreadsheet-file-in-microsoft-excel/"><u>1. Steps to Restore a Deleted Spreadsheet File in Microsoft Excel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-palette-primer-compreenasive-guide-to-coloring/"><u>2024 Approved The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-failed-speech-recognition-startup-error-windows/"><u>Addressing 'Failed' Speech Recognition Startup Error Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-new-ai-learning-program-empowering-thousands-of-learners-and-graduates-explore-the-opportunity-on-zdnet/"><u>Apple's New AI Learning Program: Empowering Thousands of Learners & Graduates - Explore the Opportunity on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/businesses-transition-to-edge-computing-assessing-readiness-challenges-zdnet-insights/"><u>Businesses Transition to Edge Computing: Assessing Readiness Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>In 2024, Vegas Pro 2021 Unpacked Game Changer or Just Another Tool?</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-stalled-email-notifications-in-windows-environment/"><u>Reviving Stalled Email Notifications in Windows Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/usb-c-vision-the-new-standard-in-monitors-hp-envy-27-for-2024/"><u>USB-C Vision The New Standard in Monitors - HP Envy 27 for 2024</u></a></li>
+</ul></div>
 

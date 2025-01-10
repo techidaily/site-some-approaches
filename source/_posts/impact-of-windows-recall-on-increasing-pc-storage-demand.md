@@ -1,7 +1,7 @@
 ---
 title: Impact of Windows Recall on Increasing PC Storage Demand
-date: 2024-08-30T21:22:12.640Z
-updated: 2024-08-31T21:22:12.640Z
+date: 2025-01-04T01:13:57.535Z
+updated: 2025-01-09T23:18:43.140Z
 tags:
   - deals
 categories:
@@ -25,11 +25,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Microsoft Recall demonstration searching for Goat Chesse Pizza](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-recall-demonstration-searching-for-goat-chesse-pizza.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Microsoft](https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Windows Recall: An Overview of Storage Requirements
 
  Here are the minimum system requirements for running Windows Recall:
@@ -49,16 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, you need to allocate at least 25 GB to Recall if you wish to enable the feature—unless you own a 256 GB device, in which case, you can allocate just 10 GB. But wait, this is just the storage allocation for the snapshots—you’re actually losing a few more gigabytes to the systems powering Recall.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ##  The True Weight of Windows Recall on System Storage
 
  Windows Recall isn’t just about allocating space for the automatic snapshots. It also uses locally installed AI to analyze the snapshots and create a timeline of your activity. This means even if you disable Recall and don’t allocate any storage to it, you’ll still lose a chunk of your storage to the [local AI](https://eaxpv-info.techidaily.com/new-in-2024-guide-to-idevice-based-youtube-content-sharing/), including the Recall app.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Usable Storage Space on Recall-Compatible Copilot+ PCs
 
  On a 512 GB Copilot+ PC, you get 474 GB of available storage (which is standard) out of which 30 GB is allocated to the operating system and 14 GB to the system files.
@@ -74,8 +73,9 @@ Close
  The total amount of space you allocate will determine how many snapshots you can store, equating to how far back you can “recall.” I personally doubt that 10 GB of storage allocation will give you a meaningful amount of Recall history. Practically, I think people will want to have access to at least 30 days of activity. So I ran the numbers, and you’d be surprised at just how much space the snapshots can eat up.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  How Much Storage for 1 Hour of Recall
 
  A single snapshot at 1080p resolution came out to 475 KB on my system. Of course, all the snapshots won’t be the same size but, on average, we can assume it to take up around 400 KB.
@@ -100,9 +100,9 @@ Close
  Recall only saves a snapshot if the content on the screen is different from the previous snapshot. So it won’t bulk up your storage when you aren’t using your PC or if you’ve paused the feature. You can also stop Recall from taking snapshots by [following this guide](https://mondly-stories.techidaily.com/enlightening-the-future-one-language-at-a-time/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  So, How Much Storage Do You Have For Yourself?
 
  A 256 GB SSD usually has [238 GB of available space](https://www.emtec-international.com/en/faq/external-ssd/what-usable-capacity-my-ssd), whereas a 512 GB SSD has 476 GB.
@@ -124,8 +124,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Considering these numbers and how large modern apps are getting, a 256 GB Copilot+ PC is just impractical and a 512 GB model debatable—only recommended if you don’t run heavy apps or play games.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy a Higher Storage Model of a Copilot+ PC?
 
  There's no definitive answer, as it largely depends on your specific needs and the pricing structure. In some cases, you might find the price difference between a 256GB and a 512GB model is only $50, making the upgrade a no-brainer. However, when you're looking at a $200-250 jump from 512GB to 1TB, the decision becomes less clear-cut.
@@ -140,8 +141,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +148,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/lipcraft-designer-for-2024/"><u>[New] ClipCraft Designer for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-dive-deep-into-sims-4-gameplay-with-videography-for-2024/"><u>[New] Dive Deep Into Sims 4 Gameplay with Videography for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-your-videos-expert-choices-for-thumbnails/"><u>[New] In 2024, Transform Your Videos Expert Choices for Thumbnails</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/kyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>[New] Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-dos-and-donts-of-interacting-with-youtube-viewers/"><u>[New] The Do's and Don'ts of Interacting with YouTube Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-of-omnidirectional-recording-devices/"><u>[New] Ultimate Selection of Omnidirectional Recording Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>[Updated] The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-action-hunting-gear/"><u>In 2024, The Ultimate Guide to Action Hunting Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1723262357299-play-on-the-edge-nzxts-affordable-monthly-gaming-desktops-choose-core-i5-wrtx-4060-or-step-up-to-core-i7-and-rtx-4070-ti-for-superior-performance-at-169/"><u>Play on the Edge! NZXT's Affordable Monthly Gaming Desktops: Choose Core I5 W/RTX 4060 or Step Up to Core I7 & RTX 4070 Ti for Superior Performance at $169</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-imessage-user-not-found-a-step-by-step-guide/"><u>Solving 'iMessage: User Not Found' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-7-best-video-merger-software-with-no-watermarks-for-2024/"><u>The 7 Best Video Merger Software with No Watermarks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-convert-kings-playbook-youtube-to-mp4mpeg-edition-for-2024/"><u>The Convert King's Playbook YouTube to MP4/MPEG Edition for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/throughput-your-videos-8-top-android-apps-for-2024/"><u>Throughput Your Videos 8 Top Android Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-android-footage-with-stunning-time-lapse-videos-for-2024/"><u>Transform Your Android Footage with Stunning Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lost-ark-addressing-performance-dips-and-frame-drops/"><u>Troubleshooting Lost Ark: Addressing Performance Dips and Frame Drops</u></a></li>
+</ul></div>
 

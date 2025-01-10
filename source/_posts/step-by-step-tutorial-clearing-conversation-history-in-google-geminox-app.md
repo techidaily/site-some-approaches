@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Clearing Conversation History in Google Geminox App"
-date: 2024-08-30T21:24:34.059Z
-updated: 2024-08-31T21:24:34.059Z
+date: 2025-01-08T17:07:07.513Z
+updated: 2025-01-09T19:47:44.427Z
 tags:
   - cutting-edge
 categories:
@@ -27,16 +27,16 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Now, the chat will disappear from the sidebar. That's all there is to it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Delete Several or All Gemini Chats at Once
 
  If you're looking to do a spring-clean and get rid of all your Gemini history, you'll need to first head to your Gemini activity. To do this, click on the "Activity" button at the bottom-left of the chat page.
 
 ![Click the Activity button in the left-hand menu of the Gemini website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/gemini.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  On this page, you'll be met with a feature named "Gemini activity", which shows you how Google is currently saving your Gemini chats. This shows how long it takes for Google to delete your chats, and how far back in your chat history you wish to delete.
 
  To delete all chats from a set period of time, head to "Delete" and choose what period of time you want to delete your chats from.
@@ -44,20 +44,22 @@ The ultimate burning program for all your needs!</a>
 ![Google Bard chat deletion section on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bard-delete-activity.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Gemini lets you choose between the past hour, past day, always, or a custom time frame. If you want your chats to be deleted by default permanently, opt for "Always".
 
  The custom time frame allows you to set a range between two specific dates, rather than choosing your own preferred duration. For example, a month, a week, and so on.
 
 ![Bard activity custom timeframe settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bard-custom-delete.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Alternatively, simply click the drop-down arrow next to the "Gemini Apps Activity" and choose between turning off the deletion or turning it off and deleting your activity simultaneously.
 
 ![Click the drop-down menu for Gemini App Activity to choose to turn off saving activity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/gemini-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, Google will save your Gemini activity and permanently delete it after 18 months, but you can change this. Click on the "Deleting activity older than" option, and you'll be able to adjust this. You can choose between three, 18, and 36 months as your auto-deletion time frame, or you can simply opt out of having your data deleted automatically.
 
@@ -66,8 +68,9 @@ The ultimate burning program for all your needs!</a>
  On the main Gemini activity page, you can also see a list of your activity history, as you would a typical browser history. There's an "X" next to each saved activity that lets you delete manually and permanently.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Delete a Google Gemini Account
 
  If you're not longer a fan of Gemini, or have given it a quick try and now want to delete your account, things get a little more murky. Because your Google Gemini account is directly connected to your general Google account, there's no option to delete it outright.
@@ -84,14 +87,12 @@ The ultimate burning program for all your needs!</a>
 
 ![The option to don't auto-delete activity in Gemini apps settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/gemini-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  You'll find this by clicking on the arrow next to Gemini's current chat deletion time.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make Sure Your Gemini Settings Suit You
 
  If you're a frequent Gemini user, it's important to check your activity settings and ensure that Google isn't saving or deleting any data without you being aware of it. It only takes seconds to adjust your Gemini data settings, and this allows you to rest easy knowing your chat history is being handled as you'd like it to be.
@@ -102,8 +103,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +110,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-protect-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>[New] Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-football-vids-premier-insights-into-youtube-tracks/"><u>2024 Approved Football Vids Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>2024 Approved Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-strategy-guide-to-digital-video-enhancement/"><u>2024 Approved The Ultimate Strategy Guide to Digital Video Enhancement</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s24-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S24 Ultra Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/fingerprint-of-motion-tracking-systems-for-2024/"><u>Fingerprint of Motion Tracking Systems for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/gratuit-m4v-to-mpg-conversion-en-ligne-avec-movavi-un-guide-complet-et-facile-a-utiliser/"><u>Gratuit M4V-to-MPG Conversion en Ligne Avec Movavi: Un Guide Complet Et Facile À Utiliser</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-11-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme 11 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-videos-with-the-right-dimension-proportions/"><u>In 2024, Transform Your Videos with the Right Dimension Proportions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-spotify-not-responding-error-in-windows-11/"><u>Overcoming Spotify Not Responding Error in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-file-sharing-from-your-computer-to-iphone-for-2024/"><u>Streamlined File Sharing From Your Computer To iPhone for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-digital-humor-handbook-building-a-reputation-with-metaverse-memes-for-2024/"><u>The Digital Humor Handbook Building a Reputation with Metaverse Memes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-wedding-timers-on-google-play-and-apple-store-for-2024/"><u>The Ultimate Guide to Choosing Wedding Timers on Google Play and Apple Store for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-playbook-for-crafting-engaging-podcast-titles-for-2024/"><u>The Ultimate Playbook for Crafting Engaging Podcast Titles for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-choosing-the-best-stabilizing-accessories-for-2024/"><u>Ultimate Guide Choosing the Best Stabilizing Accessories for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstucking-techniques-for-red-dead-redemption-2s-persistent-startup-issue/"><u>Unstucking Techniques for Red Dead Redemption 2'S Persistent Startup Issue</u></a></li>
+</ul></div>
 

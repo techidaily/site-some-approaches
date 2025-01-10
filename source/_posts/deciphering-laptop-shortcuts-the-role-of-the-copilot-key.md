@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Laptop Shortcuts: The Role of the Copilot Key"
-date: 2024-08-30T21:19:50.811Z
-updated: 2024-08-31T21:19:50.811Z
+date: 2025-01-07T19:00:24.418Z
+updated: 2025-01-09T18:37:48.156Z
 tags:
   - desktop
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c695ea2b690d872b3356cadd5a73f8095d4e1f1e6
 
 Some Windows laptops now have a dedicated Copilot keyboard key, as part of Microsoft’s big push for AI features. Here’s how it works, and how you can remap it if you want.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What's Copilot and the Copilot Key?
 
 [Windows Copilot](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) is the AI chat assistant included with Windows 11\. You can ask for help with general knowledge questions, coding, information on the web, and other resources. It can also generate images using Microsoft Designer Copilot is based on the same GPT language model as ChatGPT, and its image generator is based on DALL-E from OpenAI.
@@ -21,15 +25,16 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
 
  The Copilot Key is a dedicated key that opens Copilot in Windows when it is pressed. It replaces the right-hand Ctrl or Menu key, depending on the keyboard layout. There’s no difference between opening Copilot with the key and opening Copilot from the taskbar or Start menu. In regions where Copilot is not available, the key opens the Windows search.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Which Laptops Have a Copilot Key?
 
  The Copilot key first appeared on laptops in early 2024, and it’s now present on models from many different manufacturers. Some examples include the [Dell Inspiron 14 Plus 7441](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2003921%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fcty%2Fpdp%2Fspd%2Finspiron-14-7441-laptop), the 7th gen [Microsoft Surface Laptop](https://android-unlock.techidaily.com/how-to-change-samsung-lock-screen-clock-in-seconds-by-drfone-android/), [HP OmniBook X](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p%3FskuId%3D6583279), [Samsung Galaxy Book4 Edge](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book4-edge-copilot-pc-14-amoled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-storage-sapphire-blue%2F6583789.p%3FskuId%3D6583789), [ASUS Vivobook S 15](https://www.amazon.com/dp/B0CWJY4YWF?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003921&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhat-does-the-copilot-key-on-my-laptop-do%2F&asc%5Fcampaign=Evergreen), and [Lenovo Slim 7x](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538).
 
  The Copilot key is present on all [“Copilot+ PC” computers](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/), as well as some other computers that don’t fit that criteria, such as the [2024 Dell XPS 13, XPS 14, and XPS 15 laptops](https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/).
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ##  Can You Remap the Copilot Key?
 
  You can use applications like [AutoHotkey](https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-12-drfone-by-drfone-virtual-android/) or [Microsoft PowerToys](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) to remap the Copilot key to perform a different action. PowerToys is the easiest solution if you have never used keyboard remapping software, but PowerToys also has other functionality. You can turn off the other features if you don’t want them.
@@ -38,45 +43,36 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
 
 ![Remaping a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Next, click the “Add key remapping” button, then click the first Select button on the left side of the window.
 
 ![Remapping a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will be prompted for a key. Press the Copilot key, then click OK to save your setting.
 
 ![Selecting a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-4.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  PowerToys gives you a few different options for remapping the key. You can select another key or action from the dropdown menu, or you can click the Select button on the right side to type a keyboard shortcut. For example, if you wanted the Copilot key to copy your selected text to the clipboard, you could click the Select button and press Ctrl+C.
 
 ![Changing a shortcut action in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you’re done, press the OK button. If you see an alert about a key not having an assignment, you can ignore it.
 
 ![Keyboard Manager in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Pressing the Copilot key should now perform the action you configured, instead of opening the Copilot web app. You can change or delete the mapped key by opening PowerToys and clicking "Remap a key" again in the Keyboard Manager section.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using the Copilot Key Without Windows
 
  The Copilot key simulates the F23 key, as confirmed by our own testing with a Lenovo Copilot+ PC. That’s a function key that isn’t used by most modern operating systems and software, so if you boot into desktop Linux or another operating system, pressing it usually won’t do anything.
@@ -89,8 +85,6 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +92,22 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-boosting-tiktok-quality-with-smart-zoom-use/"><u>[New] 2024 Approved Boosting TikTok Quality with Smart Zoom Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-explore-the-power-of-repeated-imagery-in-your-instagram-content/"><u>[New] 2024 Approved Explore the Power of Repeated Imagery in Your Instagram Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-the-art-of-transforming-social-media-videos-to-gifs/"><u>[New] Mastering the Art of Transforming Social Media Videos to GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-shooting-canons-time-lapse-techniques/"><u>[New] Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-skills-editing-blurring-and-background-removal/"><u>[New] The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-direct-match-twitchs-battle-against-youtubes-dominance/"><u>[Updated] 2024 Approved Direct Match Twitch's Battle Against YouTube's Dominance</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhance-image-edges-with-circular-smear-technique-ps/"><u>[Updated] Enhance Image Edges with Circular Smear Technique PS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-srt-conversion-websites-without-a-cost/"><u>[Updated] Top 8 SRT Conversion Websites Without a Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-text-tools-and-plugins/"><u>[Updated] Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-different-techniques-in-project-type-imports/"><u>Exploring Different Techniques in Project Type Imports</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>In 2024, The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-thought-processes-mematic-app/"><u>In 2024, Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-guide-steering-wheel-driver-for-logitech-momo-race-simulation-compatible-with-pc/"><u>Installation Guide: Steering Wheel Driver for Logitech Momo Race Simulation - Compatible with PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-unveiled-customize-and-optimize-your-iphone-control-center-with-expert-advice/"><u>IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essence-of-style-in-ae-title-design-for-2024/"><u>The Essence of Style in AE Title Design for 2024</u></a></li>
+</ul></div>
 

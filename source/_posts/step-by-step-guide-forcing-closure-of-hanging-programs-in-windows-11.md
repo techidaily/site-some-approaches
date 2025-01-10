@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Forcing Closure of Hanging Programs in Windows 11"
-date: 2024-08-30T21:19:19.620Z
-updated: 2024-08-31T21:19:19.620Z
+date: 2025-01-05T19:38:07.891Z
+updated: 2025-01-10T00:52:04.310Z
 tags:
   - desktop
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb
 
  Unresponsive apps are frustrating, but what’s even worse is those apps refusing to close. If you’ve found yourself in this situation, we have a few methods to help you force close those applications on your Windows 11 PC. Let’s find out the available solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  End a Program Using a Keyboard Shortcut
 
  The easiest way to close an unresponsive app is by using a [Windows keyboard shortcut](https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-basic-to-brilliant-elevating-your-tiktok-profile/). This hotkey closes any app in the focus—whether responsive or unresponsive.
@@ -52,6 +49,10 @@ Hannah Stryker / How-To Geek
 
 !['System' and 'For Developers' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-for-developers-settings-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the For Developers screen, turn on the "End Task" toggle. You can then close the Settings app.
 
  To remove the End Task option in the future, turn off the "End Task" toggle.
@@ -59,17 +60,15 @@ Hannah Stryker / How-To Geek
 ![The 'End Task' toggle highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-enable-end-task-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Windows taskbar, find the unresponsive app, then right-click the app’s icon and choose "End Task."
 
 !['End Task' highlighted for an app on Windows taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-close-app-with-end-task-windows-11.jpg) 
 
  Windows will force-close the selected app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  End a Task with the Task Manager
 
 [Task Manager has long offered options to manage app processes on Windows PCs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). You can use this utility to kill an unresponsive app’s process, quitting the app.
@@ -79,8 +78,9 @@ Hannah Stryker / How-To Geek
 !['Task Manager' highlighted in the Windows taskbar context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-open-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Task Manager window, from the left sidebar, select the "Processes" tab.
 
 !['Processes' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-task-manager-processes-tab.jpg) 
@@ -89,9 +89,6 @@ Hannah Stryker / How-To Geek
 
 !['End Task' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-end-process-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Task Manager will immediately close the selected app.
 
 ##  Using Settings
@@ -102,9 +99,6 @@ Hannah Stryker / How-To Geek
 
 !['Apps' and 'Installed Apps' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-installed-apps-windows-11-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find the unresponsive app on the list. Next to the app, click the three dots and choose "Advanced Options."
 
  If you don’t find Advanced Options for your app, you can’t use this method.
@@ -115,11 +109,11 @@ Hannah Stryker / How-To Geek
 
 !['Terminate' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-terminate-app-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Settings will close the chosen app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From Command Prompt
 
@@ -138,17 +132,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![The 'tasklist' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-tasklist-command-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the app list, find the unresponsive app. Then, run the following command, replacing _AppName_ with the name you noted.
 
         `taskkill /im AppName /t /f`
     
 ![The 'taskkill' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-close-app-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Here’s what each parameter does in the command:
 
 * **taskkill**: This is the command that terminates the specified process.
@@ -160,8 +152,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The command has stopped the specified app on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using PowerShell
 
  PowerShell works much like Command Prompt, but you’ll use a different command (called a [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/)) in this utility to force-close frozen apps on your PC.
@@ -170,9 +163,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 !['Run as Administrator' highlighted for PowerShell in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-open-powershell-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the User Account Control prompt, select "Yes."
 
  On the PowerShell window, type the following cmdlet and press Enter. This cmdlet retrieves a list of the running apps.
@@ -187,6 +177,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
     
 ![The 'Stop-Process' command typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-stop-process-command-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here’s what each parameter does in this cmdlet:
 
 * **Stop-Process**: This cmdlet terminates the specified process.
@@ -194,6 +188,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **App**: This is the app to be closed.
 
  PowerShell will close the specified app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If Nothing Works, Restart Your PC
 
@@ -204,9 +202,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 !['Startup Apps,' an app, and 'Disable' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/17-disable-startup-app-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once all of that is done, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) by opening the Start Menu, selecting the Power icon, and choosing "Restart."
 
 !['Restart' highlighted in the Power menu of the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/18-restart-windows-11-pc.jpg) 
@@ -225,8 +223,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +230,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-decoding-wirecast-other-broadcasting-software/"><u>[Updated] Decoding WireCast Other Broadcasting Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-catalog-of-livestreaming-cameras-review/"><u>[Updated] The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-choices-360-video-equipment-for-livestreaming-platforms/"><u>[Updated] Top Choices 360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-multiformat-manual-effortless-conversion-of-srt-files/"><u>2024 Approved Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-studio-masterclass-journey-extended-xvideoexplore/"><u>2024 Approved Studio Masterclass Journey Extended XVideoExplore</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-leave-a-lasting-impression-with-your-video-ending/"><u>How to Leave a Lasting Impression with Your Video Ending</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>In 2024, DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-google-pixel-fold-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Google Pixel Fold FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-copying-imagesvideos-between-iphones/"><u>In 2024, The Ultimate Guide to Copying Images/Videos Between iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>In 2024, Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-vivas-video-experience/"><u>In 2024, Understanding Viva's Video Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-hp-laptops-silent-problem-a-comprehensive-fix-for-lack-of-sound/"><u>Solve Your HP Laptop's Silent Problem: A Comprehensive Fix for Lack of Sound</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transforming-computing-the-comprehensive-review-of-imac-equipped-with-powerful-m1-chip/"><u>Transforming Computing: The Comprehensive Review of iMac Equipped with Powerful M1 Chip</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-cyber-companion-tone-downloads-guide-for-2024/"><u>Ultimate Cyber Companion Tone Downloads Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-pro-music-recovery-recover-deleted-music-from-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Xiaomi 14 Pro Music Recovery - Recover Deleted Music from Xiaomi 14 Pro</u></a></li>
+</ul></div>
 

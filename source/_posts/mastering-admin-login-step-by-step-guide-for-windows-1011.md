@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Login: Step-by-Step Guide for Windows 10/11"
-date: 2024-08-30T21:22:17.581Z
-updated: 2024-08-31T21:22:17.581Z
+date: 2025-01-07T03:55:26.608Z
+updated: 2025-01-10T03:01:02.529Z
 tags:
   - deals
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 * [How to Add a Password to the Administrator Account](https://screen-capture.techidaily.com/updated-2024-approved-optimize-your-workflow-streamlined-processes-for-skype-calls-recording/)
 * [How to Disable the Administrator Account](https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 10 and 11 include a disabled administrator account that can be activated if you want to run everything as an administrator.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  It is sometimes useful to run programs as administrator — but what if you want to run everything as administrator? Windows 10 and Windows 11 include an administrator account, but it is disabled by default — for good reasons. Here's how to activate it. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  What Is the Administrator Account?
 
  Windows 10 and 11 restrict access to certain files and commands behind administrative privileges. These files are essential to the operating system, and the commands tend to be the type that, if misused, could cause problems.
@@ -55,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![Click "Run as administrator."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-17_10h10_53.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type `net user administrator /active:yes` into the window. If it worked, you should see "The command completed successfully."
 
 ![Command prompt showing administrator account enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/command-prompt-success.png) 
@@ -69,21 +74,20 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![Click "Run as administrator."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Launch_PowerShell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Type `net user administrator /active:yes` in PowerShell, then hit Enter. If the account was activated, you'll see "The command completed successfully."
 
 ![PowerShell showing administrator account enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/PowerShell-Success-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If it completed successfully, you can log out or switch users to log in to the administrator account.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Add a Password to the Administrator Account
 
  If you're going to use the administrator account regularly you should set a password, especially if you don't plan to disable the account.
@@ -93,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![command prompt with administrator account password set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/AddPassword.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Disable the Administrator Account
 
  Disabling the administrator account uses the same command as enabling it — with one small tweak.
@@ -105,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![Command prompt with successful deactivation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/deacivate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  You should see "The command completed successfully" again. Log out or switch users to verify that the account has been disabled.
 
  The administrator account adds convenience, but is definitely not something you should use daily. Be sure to double check any commands that you run, and any files you move, modify, or delete. Also remember that leaving the administrator account enabled is a serious security vulnerability.
@@ -118,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,24 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-airborne-broadcasting-how-to-stream-with-dji-drones/"><u>[New] Airborne Broadcasting How to Stream with DJI Drones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-video-size-adjustments-on-igtv/"><u>[New] In 2024, Mastering Video Size Adjustments on IGTV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos/"><u>[New] In 2024, Step-by-Step Guide for Text Superimposition on Video Using Windows Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncovering-other-powerful-video-players-beyond-vlc/"><u>[New] Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-true-income-potential-in-podcasting/"><u>[New] Unveiling the True Income Potential in Podcasting</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-exploring-the-cutting-edge-of-uhd-with-lgs-27ud68-for-2024/"><u>[Updated] Exploring the Cutting-Edge of UHD with LG's 27UD68 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swiftly-switch-srt-and-text-files-with-this-easy-guide/"><u>[Updated] Swiftly Switch SRT and Text Files with This Easy Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-potential-of-phantoms-reversed-footage/"><u>[Updated] Unlocking the Potential of Phantom's Reversed Footage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-best-places-to-buy-televisions-online-our-top-picks-revealed/"><u>Explore the Best Places to Buy Televisions Online: Our Top Picks Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-contextual-menu-integration-new-folder-placement/"><u>Mastering Contextual Menu Integration: New Folder Placement</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-print-error-xfffee/"><u>Navigating Through the Maze of Print Error XFFFEE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-twitters-from-video-to-audible-format-for-2024/"><u>Streamline Twitters From Video to Audible Format for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10-for-2024/"><u>Streamlined Video Conferencing Utilizing the Power of Zoom in Win10 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharged-windows-experience-with-rtx-ti-driver/"><u>Supercharged Windows Experience with RTX Ti Driver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-compreeved-guide-to-optimizing-space-and-pc-for-vr-for-2024/"><u>The Compreeved Guide to Optimizing Space & PC for VR for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-your-content-delivery-the-power-of-onestream-for-2024/"><u>Transforming Your Content Delivery The Power of OneStream for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Test Drive of the iRobot Roomba J5 Combo Package – The Ideal Choice for Efficient Cleaning
-date: 2024-08-30T21:17:12.060Z
-updated: 2024-08-31T21:17:12.060Z
+date: 2025-01-07T17:04:11.028Z
+updated: 2025-01-09T22:15:55.019Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Comprehensive Test Drive of the iRobot Roomba J5 Combo Package – The Ideal Choice for Efficient Cleaning
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -74,6 +78,10 @@ Expand
 
 ![iRobot Roomba Combo J5+ vacuum on hardwood floor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/irobot-roomba-combo-j5-vacuum-on-hardwood-floor.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The Roomba Combo j5+ gets you an autonomous vacuum and mop, but not the most premium experience of either. Instead of dragging a dirty mopping rag around all the time, or putting it on top like the j9+, this unit needs to switch out dirt and water tanks for those individual tasks. The unit will still vacuum when the mop addition is added, so why not leave that on all the time? Because it won't perform the same direct detection with the mop attached and it won't vacuum in "no mop" zones, for starters.
@@ -89,8 +97,9 @@ Tyler Hayes / How-To Geek
  The key here is that you still get access to iRobot’s great Roomba app. You get a base station that can hold about 60 days' worth of dirt. Plus, you get fine, predictable cleaning performance.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Cleaning Performance Was Fine For a Robot
 
  The Roomba Combo j5+ is the entry model for the newest j-series that includes the j7+ and j9+. Since it is more economical, it does have paired-down cleaning capabilities. It only has standard-level suction. This manifests itself in the app by not being able to select a different power level, while the [Combo j9+](https://vp-tips.techidaily.com/new-2024-approved-examining-the-limitations-of-immersive-tech/) has three different suction choices.
@@ -113,9 +122,6 @@ Close
 
  The Combo j5+ mopping was limited, but fine. It doesn't do the same smart scrubbing that the higher-end model will do so it is ultimately a fancy wet-cloth wipe-down. You can leave the mop part attached most of the time, but the vacuum will skip parts of your floors that you label as "no mop" zones.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Battery Life and Mobile App
 
 Close 
@@ -126,9 +132,6 @@ Close
 
  The company isn’t as aggressive about cramming in every cutting-edge feature that other vacuum companies like Roborock seem to be, but I was never left wanting. I appreciated the large text and overall intuitive layout.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The iRobot Combo j5+ is available now and retails for $799.
@@ -139,16 +142,14 @@ Close
 
  The Combo j5+ is overall less featured but largely still vacuums the same way. If price is the main concern, then the Combo j5+ is the way to go. If convenience and extra performance are more critical, then Combo j9+ should be worth its higher price.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the iRobot Roomba Combo j5+?
 
 ![iRobot Roomba Combo j5+ in its Clean Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/irobot-roomba-combo-j5-in-its-clean-station.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  With a $799 retail price, I think the [iRobot Roomba Combo j5+](https://www.amazon.com/iRobot-Roomba-Combo-Self-Emptying-Vacuum/dp/B0C4151YK5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001592&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Firobot-roomba-combo-j5-review%2F&asc%5Fcampaign=Affiliate) is a little steep for its included features and performance. It’s a fine vacuum and an okay mop, but the inconvenience of storing the mop tank and then switching it back and forth was a pain.
@@ -158,8 +159,9 @@ Tyler Hayes / How-To Geek
 ![iRobot Roomba Combo j5+ Vacuum](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/irobot-roomba-combo-j5-vacuum.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  iRobot Roomba Combo j5+
 
 7/ 10 
@@ -176,8 +178,6 @@ The same powerful vacuum technology as Roomba j7+ vacuum, now with a mop. conver
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +185,19 @@ The same powerful vacuum technology as Roomba j7+ vacuum, now with a mop. conver
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-effortless-guide-to-free-melodies-in-youtube-productions/"><u>[New] 2024 Approved Effortless Guide to Free Melodies in YouTube Productions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-famous-gamers-software-choices/"><u>[New] In 2024, Famous Gamers' Software Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-reality-of-now-vrs-evolution-and-challenges/"><u>[New] The Reality of Now VR's Evolution and Challenges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-watchers-whispers-essential-websites-for-got-sound-files/"><u>[New] The Watchers' Whispers Essential Websites for GoT Sound Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-gopro-videos-the-ultimate-guide/"><u>[Updated] 2024 Approved Mastering Gopro Videos The Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-blueprint-for-transferring-large-videos-between-apple-devices/"><u>[Updated] The Ultimate Blueprint for Transferring Large Videos Between Apple Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-6-ai-applications-revolutionizing-your-note-taking-experience/"><u>Discover the Leading 6 AI Applications Revolutionizing Your Note-Taking Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/scrutinizing-nikons-bridge-camera-design/"><u>Scrutinizing Nikon's Bridge Camera Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-overcoming-windows-steam-login-hurdles/"><u>Tips for Overcoming Windows Steam Login Hurdles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-laptops-and-pcs-for-ultimate-comfort-for-2024/"><u>Top-Tier Laptops & PCs for Ultimate Comfort for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ebook-content-effective-techniques-for-drm-removal-on-pages/"><u>Unlocking eBook Content: Effective Techniques for DRM Removal on Pages</u></a></li>
+</ul></div>
 

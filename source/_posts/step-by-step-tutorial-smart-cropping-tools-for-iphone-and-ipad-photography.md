@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Smart Cropping Tools for iPhone & iPad Photography"
-date: 2024-08-30T21:18:20.912Z
-updated: 2024-08-31T21:18:20.912Z
+date: 2025-01-07T03:43:04.278Z
+updated: 2025-01-09T20:44:16.545Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 
 ## Step-by-Step Tutorial: Smart Cropping Tools for iPhone & iPad Photography
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Open the image you want to crop in the Photos app, then tap "Edit" and select "Crop" from the editing toolbar.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 * When you're finished, tap "Done" to save the cropped image. You can always revert it at a later date if you need to.
 
  Want to zoom into an image or cut an item out of view? It's easy to change the shape or proportions of a photo on iPhone or iPad by cropping using the Photos app. Here's how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Crop Images in the Photos App
 
@@ -30,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Crop Photos to a Set Aspect Ratio
 
  You can crop the image using a specific aspect ratio as well. This is useful if you need the photo to be a perfect square or another common aspect ratio. To do this, tap the Aspect Ratio button in the top toolbar after hitting the Crop button (it looks like multiple overlapping aspect ratios).
@@ -43,8 +52,9 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Undo the Crop
 
  All edits in the Photos app are non-destructive. This means that you can revert any photo to its original state if you performed the original change or edit on your device. If you want to restore the photo that you just cropped, open the photo in the Photos app again.
@@ -65,8 +75,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,4 +82,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transform-typography-in-after-effects-with-premium-plug-ins/"><u>[New] Transform Typography in After Effects With Premium Plug-Ins</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-turboinsta-video-boosting-online-and-mobile-fixes/"><u>[New] TurboInsta Video Boosting Online & Mobile Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-sculpting-shareable-online-laughter/"><u>[Updated] In 2024, Sculpting Shareable Online Laughter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-zero-to-hero-understanding-five-key-drivers-of-chatgpt/"><u>From Zero to Hero: Understanding Five Key Drivers of ChatGPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-reno-8t-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Reno 8T 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-elite-collection-top-10-sites-for-professional-icons/"><u>In 2024, The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-photo-color-correction-for-2024/"><u>Mastering the Art of Photo Color Correction for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-zoom-integration-with-gmail-messages-for-2024/"><u>Mastering Zoom Integration with Gmail Messages for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-windows-stereo-and-headset-drivers-immediate-download-available-now/"><u>Microsoft Windows Stereo and Headset Drivers: Immediate Download Available Now!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/permanently-quit-youtube-shorts-now-for-2024/"><u>Permanently Quit YouTube Shorts Now for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-image-editing-ditching-backgrounds-in-affinity-photo-for-2024/"><u>Streamline Image Editing Ditching Backgrounds in Affinity Photo for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100t-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100t Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-robloxs-close-up-mysteries-for-gamers-for-2024/"><u>Unraveling Roblox's Close-Up Mysteries for Gamers for 2024</u></a></li>
+</ul></div>
 

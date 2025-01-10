@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Keychron Q1 HE Mechanical Keyboard: How Magnetic Switch Technology Leads the Way"
-date: 2024-08-30T21:16:34.754Z
-updated: 2024-08-31T21:16:34.754Z
+date: 2025-01-06T17:07:26.471Z
+updated: 2025-01-10T03:40:14.051Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893b
 ---
 
 ## Revolutionary Keychron Q1 HE Mechanical Keyboard: How Magnetic Switch Technology Leads the Way
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893b
 ![Keychron Q1 Carbon Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keychron-q1-carbon-black.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Keychron Q1 HE
 
@@ -197,16 +205,10 @@ Expand
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Design: Sturdy, With a Premium Feel
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663109255_5c9feda0fa_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The first thing I noticed when I got this keyboard was just how heavy it was. The Keychron Q1 HE's metal body adds a fair amount of heft compared to plastic, and while I was testing it, the keyboard did not move around my desk mat like lighter keyboards would.
@@ -221,16 +223,10 @@ Jerome Thomas / How-To Geek
 
  You can't just replace the switches with any switches, however. The Keychron Q1 HE has magnetic switches, which are different from the more common switch types.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Magnetic Switches: The Future of Keyboards?
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663002984_f2992c0a1f_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The standout aspect of the Keychron Q1 HE is the use of magnetic switches as opposed to normal mechanical switches. What this boils down to is that instead of the switch sending a manual signal that it's pressed with electricity and pins, magnets will send the signals.
@@ -245,6 +241,10 @@ Jerome Thomas / How-To Geek
 
  This fancy magnetic switch tech does come with a disadvantage—the Q1 HE cannot be customized with the [VIA app](https://www.caniusevia.com/) like many keyboards are. You have to use the browser app, which is serviceable enough but not as good of an experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Great for Productivity And Gaming
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard settings switches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662647656_67083e17b3_o.jpg) 
@@ -257,22 +257,24 @@ Jerome Thomas / How-To Geek
 
  That said, if you do change the actuation point for gaming, it may be too sensitive for normal typing. If you need to use the same computer for work and gaming, you'll want to plan for this— you'll either need to balance your settings so it's not too sensitive for normal typing or keep another keyboard around to swap with as needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Keychron Q1 HE?
 
 ![53662860768_5b90521472_oThe Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with included accessories and box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662860768_5b90521472_o.jpg) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The [Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard) is a great keyboard that offers an excellent typing experience, whether you plan to use it for gaming or productivity. The magnetic switches are smooth and quiet, and the ability to adjust actuation points is a boon for hardcore gamers. Besides some minor slip-ups, this is a keyboard worth the investment.
 
 ![Keychron Q1 Carbon Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keychron-q1-carbon-black.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Keychron Q1 HE
@@ -289,8 +291,6 @@ The Q1 HE is the world's first 75% layout wireless QMK custom keyboard equipped 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,4 +298,18 @@ The Q1 HE is the world's first 75% layout wireless QMK custom keyboard equipped 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-single-platform-livestreaming-unveiling-onestream-techniques/"><u>[New] Mastering Single-Platform Livestreaming Unveiling OneStream Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-todays-virtual-realty-hardware-exploration/"><u>[New] Today’s Virtual Realty Hardware Exploration</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unleashing-voice-commands-with-top-mac-translation-programs/"><u>[Updated] In 2024, Unleashing Voice Commands with Top Mac Translation Programs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-step-by-step-aspect-ratio-guide-for-youtube-creators-for-2024/"><u>A Step-by-Step Aspect Ratio Guide for YouTube Creators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-rw2-gratuitamente-en-formatos-jpg-usando-movavi-conversor-offline/"><u>Cómo Convertir Archivos RW2 Gratuitamente en Formatos JPG Usando Movavi Conversor Offline</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-unique-online-presence-youtube-edition-for-2024/"><u>Crafting a Unique Online Presence YouTube Edition for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-edge-40-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Edge 40</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-ringtone-bazaar-navigating-online-sound-archives/"><u>In 2024, Ultimate Ringtone Bazaar Navigating Online Sound Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>In 2024, Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vrijwelgratis-omzetting-van-swf-bestandjes-de-beste-oplossingen-voor-online-converters/"><u>Vrijwelgratis Omzetting Van Swf-Bestandjes: De Beste Oplossingen Voor Online Converters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/watch-9-festive-feasts-of-film-with-zero-charges-online-for-2024/"><u>Watch 9 Festive Feasts of Film with Zero Charges Online for 2024</u></a></li>
+</ul></div>
 

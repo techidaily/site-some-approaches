@@ -1,7 +1,7 @@
 ---
 title: Do You Have to Share Private Details with Smart Machines?
-date: 2024-08-30T21:26:05.789Z
-updated: 2024-08-31T21:26:05.789Z
+date: 2025-01-03T16:09:37.468Z
+updated: 2025-01-09T23:33:05.251Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Do You Have to Share Private Details with Smart Machines?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI lacks sentience and only mimics human understanding, relying on data sets for training.
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  As AI becomes more common and concerns grow about how user data is protected, it's important to understand why this is different than old internet security concerns of the last 20 years. Surprisingly, the solution might be to use the same old internet safety rules we've always used.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Personal Data?
 
  We assume that security technology has developed enough by now that AI developers will keep our personal information like names, email, and payment information secure. However, more and more companies with at least some generative AI features are adding free use of user prompts and AI responses to their terms and conditions.
@@ -26,15 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This means that a human might be reviewing that data. If you're using [ChatGPT to do some vacation planning](https://vp-tips.techidaily.com/updated-in-2024-visual-impact-seamlessly-add-photos-to-your-instagram-account/), that may not be a problem. If you are asking GPT to debug some proprietary code or edit confidential contracts on Adobe, it could be a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Generative AI Is Trained
 
  As an AI trainer, hundreds of other trainers and I wrote AI prompts and the corresponding responses to contribute to a massive data set that would train LLMs how to respond. Most AI are trained with data sets like the ones I work on, and they contribute to the model differently than the natural language processing algorithms that form the framework of most generative AI models. How data sets are created is proprietary because data sets are another way to make an AI model unique.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Why Developers Need User Data
 
  While AI tech in some form has [existed since 1955](https://buynow-info.techidaily.com/the-best-google-wireless-nest-doorbell-battery-version-on-the-market-expert-review/), the technology in its current form is new. Companies are trying to monetize this new technology by ordering a new AI or a custom AI for their software. There is little to no data on how ordinary people use AI, especially when many ordinary people [don't use it at all](https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-12plus-5g-drfone-by-drfone-virtual-android/). How can AI improve computer programs and apps? How can it make things easier? One common complaint about AI is that it gets shoved into everyday apps or websites where it isn't wanted or needed. This can result in confusion or a drop in efficiency for users of those apps and sites. The old adage, "If it ain't broke, don't fix it" springs to mind!
@@ -42,15 +48,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  One way developers and their clients can resolve this issue is by employing humans to read end-user prompts, categorize how the AI was used, and evaluate how well the AI performed. Developers, marketing experts, and social scientists need to know how we use AI because that will tell them how AI can help people instead of irritating them. The only way forward is for them to study end-user prompts. That is, the information you've provided to the AI service while using it. The good news is that most AI apps allow you to opt out of data collection. They need user data, and quality matters, but most of the time one user's data is just as useful as another.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Developers Might Protect Our Privacy
 
  Most developers claim that to improve AI while protecting user privacy, prompts are always separated from the accounts that wrote them. If that's true, there would be no way for humans to evaluate the data to tie the prompt to a specific person. So far, no major AI company has announced any kind of security breach regarding user data, but the potential is there. Unfortunately, unless a company gets hacked, we won't know how safe they are being with our data. Another option commonly available on AI apps like Google Gemini, [Facebook/Instagram](https://youtube-data.techidaily.com/ed-2024-approved-cementing-climactic-conclusions/), [and even Adobe](https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-video-editing-apps-for-kids-a-comprehensive-list/) are allowing users to opt out of sharing their data. Again, this requires the end user to trust that the developer isn't going to use the data anyway. Since there is no way for us to know how secure our data is with these companies, we should do what we can to act responsibly with our data.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How We Can Protect Ourselves?
 
  In a way, end-user prompts are our feedback to the developer about AI. Any AI that no one uses will reveal itself to be unnecessary with this kind of data. However, until some level of trust has been established, it's best to follow standard internet safety rules when writing prompts. Do not enter any personal details into an AI like your name, address, or ID numbers. Assume that everything you type into ChatGPT, chatbot, or image generator is going to be on the open internet for all time. Until developers have earned our trust, the practice should be to manage our data ourselves as much as possible.
@@ -61,8 +69,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,4 +76,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleashing-your-creativity-advanced-techniques-for-boomers/"><u>[New] In 2024, Unleashing Your Creativity Advanced Techniques for Boomers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-champion-of-open-source-media-playback-vlc-vs-mpc/"><u>[New] Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[New] Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-apex-legends-gameplay-reimagined-for-solo-devotees-without-cross-play-for-2024/"><u>[Updated] Apex Legends Gameplay Reimagined for Solo Devotees without Cross-Play for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-leveraging-azure-ai-for-audio-to-text-translation/"><u>[Updated] In 2024, Leveraging Azure AI for Audio to Text Translation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-perfect-your-visuals-on-insta-with-these-borders/"><u>[Updated] In 2024, Perfect Your Visuals on Insta with These Borders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-low-volume-playback-system-guide/"><u>[Updated] The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-dark-side-of-digital-escapism/"><u>[Updated] The Dark Side of Digital Escapism</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>In 2024, The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/trasforma-i-tuoi-video-wtv-in-mkv-gratuitamente-utilizzando-il-servizio-web-di-movavi/"><u>Trasforma I Tuoi Video WTV in MKV Gratuitamente Utilizzando Il Servizio Web Di Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-solving-the-humankind-app-launch-issues/"><u>Troubleshooting Guide: Solving the 'Humankind' App Launch Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Motorola Edge 40? | Dr.fone</u></a></li>
+</ul></div>
 

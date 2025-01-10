@@ -1,7 +1,7 @@
 ---
 title: "Exceptional Addon Interface Examination: A Tech Fanatic's Clever Dwelling Command Center"
-date: 2024-08-30T21:17:14.875Z
-updated: 2024-08-31T21:17:14.875Z
+date: 2025-01-05T21:53:42.416Z
+updated: 2025-01-09T22:07:39.863Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 ---
 
 ## Exceptional Addon Interface Examination: A Tech Fanatic's Clever Dwelling Command Center
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -76,13 +80,14 @@ Tyler Hayes / How-To Geek
 
  Beyond the motion sensor, there's also a camera integrated into the unit above the touch strips. It's intended to be used from one control panel to another and is a compelling reason to get more than one. But I was able to test it from the Brilliant app. The video from the tiny camera was dark and grainy. It really needs a lot of light in the room. Talking from my phone to the Plug-In Panel was also delayed enough that it was annoying to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Plenty of Products Connect, But Not Everything Is Covered
 
 ![close view of the Brilliant Plug-In Panel installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/close-view-of-the-brilliant-plug-in-panel-installed-on-a-wall.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It might not be immediately clear to everyone, but Brilliant is playing the intermediary here, working with dozens of companies, and harnessing their APIs to get as many smart home devices as possible integrated into their system. You’ll need to jump out to different company sites and sign in to authorize access, but otherwise, the process is seamless and fairly invisible.
@@ -98,8 +103,9 @@ Tyler Hayes / How-To Geek
  This often made me question why I was trying to juggle the mental load of remembering what was connected where instead of just pulling out my phone for everything and tapping on the folder with all my smart home apps.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Access to Sonos and Other Smart Home Products Is a Mixed Bag
 
 Close 
@@ -128,10 +134,6 @@ Close
 
  The part I really struggle with is introducing another middleman into the fickle smart home. Brilliant has proven to me over several weeks that it’s mostly up to the task of wrangling a host of connected devices. (Though my Nest doorbell was constantly laggy.) And still, those connected devices have a mind of their own and operate irrationally, which means there is yet another thing to troubleshoot in the chain of whether something works or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Brilliant App Is Stuffed But Manageable
 
 Close 
@@ -143,19 +145,20 @@ Close
  Once all my devices were configured, I used the app sparingly. I mostly return to it to change what a sliding strip does or use the app to change the photos shown on the Plug-In Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Brilliant Plug-In Panel retails for $449, the same price as the wired version. The wired control panel with three touch strips [retails for $499](https://www.amazon.com/Brilliant-Control-Lighting-Switch-Version/dp/B07C6PPCCH?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2001503&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbrilliant-plug-in-panel-review%2F&asc%5Fcampaign=Affiliate), and the four-strip version costs $549.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Brilliant Plug-in Panel?
 
 ![farther back view of the Brilliant Plug-In Panel installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/farther-back-view-of-the-brilliant-plug-in-panel-installed-on-a-wall.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -165,9 +168,6 @@ Tyler Hayes / How-To Geek
 
 ![Brilliant Smart Home Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/brilliant-smart-home-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Brilliant Plug-In Panel
 
 7/ 10 
@@ -200,8 +200,6 @@ This Brilliant Plug-in Panel flush mounts to any wall and plugs into any outlet.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +207,19 @@ This Brilliant Plug-in Panel flush mounts to any wall and plugs into any outlet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-synchronize-and-schedule-mastering-zoom-on-your-android-phone/"><u>[New] 2024 Approved Synchronize & Schedule Mastering Zoom on Your Android Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-deep-dive-into-freenocam-software-features-for-2024/"><u>[New] A Deep Dive Into FreenoCam Software Features for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-tools-for-enhancing-web-videos/"><u>[New] Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>[Updated] Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-photo-and-video-transfer-from-android/"><u>[Updated] Streamlining Photo & Video Transfer From Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-crafting-winning-giveaway-posts-on-facebook/"><u>[Updated] The Art of Crafting Winning Giveaway Posts on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>2024 Approved Innovative Immersions Analyzing Google and Samsung RVR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-15-android-emulators-unveiled-for-mac-pc-enthusiasts/"><u>In 2024, 15 Android Emulators Unveiled for Mac, PC Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-podcast-logo-design-for-maximum-impact-for-2024/"><u>The Art of Podcast Logo Design for Maximum Impact for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unshackle-yourebooks-master-the-art-of-drm-removal-for-epub-pdf-and-azw-files/"><u>Unshackle YoureBooks: Master the Art of DRM Removal for ePUB, PDF & AZW Files</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Did GM's Initial EV Venture Fall Short? An In-Depth Look
-date: 2024-08-30T21:23:53.065Z
-updated: 2024-08-31T21:23:53.065Z
+date: 2025-01-04T23:02:04.464Z
+updated: 2025-01-09T17:07:44.233Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Why Did GM's Initial EV Venture Fall Short? An In-Depth Look
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,9 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  The modern electric car revolution is still in its early stages, but it could have started much earlier if history had gone a little differently. This is the story of the EV1, the first modern electric car from General Motors.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  The Need for Electric Speed
 
  In January 1990, [General Motors showed off a concept car at that year's LA Auto Show](https://www.nytimes.com/1990/01/04/business/gm-displays-the-impact-an-advanced-electric-car.html), called the "Impact." It was an all-electric two-seat vehicle, designed from the ground up as an EV, instead of using an existing frame from a gas car. GM said it could go from zero to 60 miles per hour in 8 seconds. For comparison, the Tesla Model 3 Performance can do that in [about 3 seconds](https://electrek.co/2019/11/14/tesla-model-3-performance-0-60-mph-acceleration-dips-below-3-sec-software-update/), while the [2023 Chevy Bolt EV](https://www.chevrolet.com/electric/bolt-ev) is advertised at 6.5 seconds.
@@ -40,13 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  The law applied to any manufacturer selling 35,000 or more cars per year in California, which at the time included Chrysler, Ford, Honda, Mazda, Nissan, Toyota, and General Motors. New York and Massachusetts also pledged to follow California's lead. Suddenly, GM had a market for the Impact.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  From Concept to Reality
 
  Even though the Impact was an impressive concept car, and regulators wanted car companies to sell EVs, some at General Electric continued to insist that no one wanted an electric car. A production version of the Impact would cost too much, and the limited range wouldn't be enough for anyone to be interested. State governments alleged that automakers just didn't want to make their decades-long investments in gas engines obsolete.
@@ -62,15 +59,17 @@ Related: [How Long Do Electric Car Batteries Actually Last?](https://win-howtos.
 ![General Motors EV-1 diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/EV1_poster.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[Smithsonian](https://americanhistory.si.edu/exhibitions/ev1-electric-car)_
 
  Despite the limited range and availability, the car was [relatively popular with drivers](https://www.nytimes.com/1997/05/07/business/gm-is-trying-to-make-a-go-of-its-electric-car.html). A [1996 review from Autocar](https://www.autocar.co.uk/car-news/throwback-thursday-1996-general-motors-ev1-first-drive) said, "you can't help but be impressed by the overall driving experience. The EV1 is impressively quick, comfortable, and maneuverable and boasts all the normal amenities. Furthermore, it is bursting with cleverly engineered features." The [March 1997 issue of Car and Driver](https://www.caranddriver.com/reviews/a32944084/tested-1997-general-motors-ev1-proves-to-be-the-start-of-something-big/) stated, "we can observe that the EV1 has limited appeal right now. It is quiet, it performs well, and it emits no pollution, but the range problems, the recharging time, and the high purchase cost (see sidebar) are obstacles that will have to be overlooked or overcome before the EV1 presents a viable alternative to gas-powered cars. Still, it's a start."
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Star Trek Crossover
 
  Early drivers were excited about the EV1, or at least willing to accept the compromises of the early technology, but General Motors still wasn't completely onboard. Advertising was mostly limited to direct mail and some magazines. General Motors had only leased 176 EV1 cars by May 1997, and only 300 by the end of 1997\. One GM employee later told The New York Times, "We launched the car in December of 1996, and by about April, I figured we'd been duped. They weren't marketing the vehicle."
@@ -88,8 +87,9 @@ _[Smithsonian](https://americanhistory.si.edu/exhibitions/ev1-electric-car)_
  Four radio ads were aired on KFI AM 640 in Los Angeles in May 1998, and at least five more were recorded by Rush. General Motors later decided to [reimburse Rush and continue using the radio commercials](https://web.archive.org/web/20210308040842/https://www.latimes.com/archives/la-xpm-1998-may-22-fi-52566-story.html).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Saying Goodbye to the EV1
 
  General Motors [updated the EV1 for the 1999 model year](https://www.nytimes.com/1998/12/18/automobiles/gm-tries-to-increase-appeal-of-electric-car.html), dubbing it the "Gen 2," available in two versions. The first used the same lead-acid batteries as the original, with a range of 80-100 miles. The other option had nickel metal hydride batteries, with an estimated range of 100-140 miles. General Motors also cut the cost of installing home chargers in half to $500.
@@ -104,9 +104,6 @@ Related: [How Far Can an Electric Car Go on One Charge?](https://fox-hovers.tech
 
 ![Photo of several EV1s parked in a cemetery, with flowers and a drape covering one of the cars](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/2.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 _[Bob Sexton / EV1 Club](https://www.eanet.com/ev1-club/archive/030724/photos.htm)_
 
 [General Motors crushed most EV1 cars](https://www.nytimes.com/2003/10/22/automobiles/california-motor-city-leased-and-abandoned-revolt-of-the-ev-1-lovers.html) after they were returned, alleging that selling the cars (or allowing people to salvage them) would cost too much money in warranty claims and parts overhead. However, some cars were saved for donation to universities and museums.
@@ -131,8 +128,6 @@ Related: [California Plans to Block Sales of New Gas Cars by 2035](https://artic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +135,26 @@ Related: [California Plans to Block Sales of New Gas Cars by 2035](https://artic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-analyzing-aurora-hdr-quality/"><u>[New] In 2024, Analyzing Aurora HDR Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>[New] The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>[New] Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-market-dominance-keyphrases-for-successful-advertising-for-2024/"><u>[Updated] Market Dominance Keyphrases for Successful Advertising for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quest-for-the-ultimate-cinematography-experts/"><u>[Updated] The Quest for the Ultimate Cinematography Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>[Updated] The Ultimate Guide Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastermakers-in-av-production-top-5-list/"><u>2024 Approved Mastermakers in AV Production Top 5 List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-scriptwriting-for-soundtracks/"><u>2024 Approved Superior Scriptwriting for Soundtracks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-your-videos-ultimate-shape/"><u>Choosing Your Video's Ultimate Shape</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-visual-communication-video-creation-techniques-in-windows-10/"><u>In 2024, The Art of Visual Communication Video Creation Techniques in Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>In 2024, The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-rated-components-for-smooth-live-transmissions/"><u>In 2024, Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>In 2024, Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterful-approaches-to-repair-your-unsuccessful-attempts-at-accessing-remote-server-resources/"><u>Masterful Approaches to Repair Your Unsuccessful Attempts at Accessing Remote Server Resources</u></a></li>
+<li><a href="https://article-posts.techidaily.com/streamlining-your-subtitle-workflow-with-leading-online-tools-for-2024/"><u>Streamlining Your Subtitle Workflow with Leading Online Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-upgrade-or-not-weighing-the-benefits-of-ipados-17/"><u>To Upgrade or Not - Weighing the Benefits of iPadOS 17</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-recorder-efficiency-essential-keyboard-shortcuts-in-windows-11/"><u>Voice Recorder Efficiency: Essential Keyboard Shortcuts in Windows 11</u></a></li>
+</ul></div>
 

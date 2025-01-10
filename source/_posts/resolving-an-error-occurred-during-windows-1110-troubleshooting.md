@@ -1,7 +1,7 @@
 ---
 title: Resolving 'An Error Occurred' During Windows 11/10 Troubleshooting
-date: 2024-08-30T21:20:32.090Z
-updated: 2024-08-31T21:20:32.090Z
+date: 2025-01-05T00:24:36.326Z
+updated: 2025-01-09T17:49:05.405Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run' highlighted for multiple troubleshooters in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-troubleshooter-windows-11-settings-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10, click the troubleshooter and choose "Run the Troubleshooter."
 
 !['Run the Troubleshooter' highlighted for a troubleshooter in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-troubleshooter-windows-10-settings.jpg) 
@@ -49,18 +53,20 @@ services.msc
 
 !['Restart' highlighted for the 'Background Intelligent Transfer Service' service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-restart-bits-service.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly, right-click the "Cryptographic Services" service and select "Restart."
 
 !['Restart' highlighted for the 'Cryptographic Services' service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-restart-cryptographic-services-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Close the Services window.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fix Broken Troubleshooters
 
  It’s possible Windows’ system files are corrupted, causing the troubleshooters to malfunction. In this case, you must [repair the damaged core files](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/) using the built-in System File Checker (SFC) tool.
@@ -70,8 +76,9 @@ services.msc
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-cmd-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the User Account Control"(UAC) prompt, select "Yes."
 
  In Command Prompt, type the following command and press Enter. This command will download the files required to fix the broken system files.
@@ -95,16 +102,13 @@ sfc /scannow
 !['Restart Now' highlighted for 'Advanced Startup' in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-advanced-restart-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To [boot your Windows 10 PC in safe mode](https://screen-recording.techidaily.com/updated-leveraging-obs-establishing-an-efficient-countdown-clock/), head into Settings > Update & Security > Recovery. In the "Advanced Startup" section, click "Get Started."
 
 !['Get Started' highlighted for 'Advanced Startup' in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-advanced-restart-windows-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When your PC reboots, navigate to Troubleshoot > Advanced Options > Startup Settings and select "Restart." Then, choose the number for safe mode to boot into that mode. When your PC enters safe mode, launch the troubleshooter you wanted to use.
 
  If the tool works, a third-party app is likely the culprit. Review the list of your installed apps and remove any suspicious ones. It’s quick and easy to [uninstall apps on Windows 11](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/) and [Windows 10](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/).
@@ -119,19 +123,14 @@ sfc /scannow
 
 !['Reset PC' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-windows-11-pc.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To [reset a Windows 10 PC](https://instagram-videos.techidaily.com/fast-and-free-strategies-for-authenticity-in-insta-circles-for-2024/), go to Settings > Update & Security > Recovery. In the "Reset This PC" section, click "Get Started."
 
 !['Get Started' highlighted in the 'Reset This PC' section of Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-restart-windows-10-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  On the open window, select "Keep My Files" so Windows doesn’t delete your personal files. Then, follow the on-screen instructions to finish resetting your computer.
 
  Your troubleshooting tool should work once your machine is back to the default settings.
@@ -142,8 +141,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +148,26 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>[New] Understanding Video Formats Which Is More Effective, AV1 or VP9?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-hidden-features-funimate-guide/"><u>[New] Unleashing Hidden Features - Funimate Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-copyright-strategy-for-online-video-creators/"><u>[Updated] In 2024, The Ultimate Copyright Strategy for Online Video Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-step-in-stride-guide-sharing-personalized-youtube-videos-with-google/"><u>[Updated] Step-in-Stride Guide Sharing Personalized YouTube Videos with Google</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-subtlety-in-sound-decreasing-decibels-in-logic-pro-projects/"><u>[Updated] Subtlety in Sound Decreasing Decibels in Logic Pro Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-vhs-80s-effects-to-use-in-video-editing/"><u>[Updated] Top VHS 80S Effects to Use in Video Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-process-of-batched-tiktok-content-extraction/"><u>[Updated] Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-sony-xperia-10-v-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Sony Xperia 10 V</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unboxing-the-hottest-youtube-music-playback-vids-2023/"><u>2024 Approved Unboxing the Hottest YouTube Music Playback Vids, 2023</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-v30-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo V30 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-remedies-for-when-the-msi-mystic-light-wont-work-on-pcs-running-windows/"><u>Effective Remedies for When the MSI Mystic Light Won't Work on PCs Running Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-samsung-galaxy-a20-best-android-device-on-a-budget/"><u>Exploring the Features of the Samsung Galaxy A20 - Best Android Device on a Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/global-gamers-guide-alter-your-console-regions-on-switch/"><u>Global Gamer’s Guide: Alter Your Console Regions on Switch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-strategies-for-capturing-lol-matches/"><u>In 2024, Top Strategies for Capturing LOL Matches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-and-utilizing-phantoms-time-dilation/"><u>In 2024, Understanding and Utilizing Phantom’s Time-Dilation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-avidemux-essentials-how-to-crop-cut-and-enhance-your-videos/"><u>New In 2024, Avidemux Essentials How to Crop, Cut, and Enhance Your Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-comprehensive-guide-to-crafting-great-documentary-narratives-for-2024/"><u>The Comprehensive Guide to Crafting Great Documentary Narratives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-cropping-and-editing-music-in-canva-for-2024/"><u>The Ultimate Guide Cropping & Editing Music in Canva for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-zoom-calls-enhance-your-visuals-here-for-2024/"><u>Transforming Zoom Calls Enhance Your Visuals Here for 2024</u></a></li>
+</ul></div>
 

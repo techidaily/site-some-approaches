@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Evaluation of the RayNeo Air 2S Smart Spectacles: Your Own Portable Imaging Solution"
-date: 2024-08-30T21:24:18.010Z
-updated: 2024-08-31T21:24:18.010Z
+date: 2025-01-06T17:00:21.067Z
+updated: 2025-01-10T01:08:14.872Z
 tags:
   - cutting-edge
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  More than anything, the [RayNeo Air 2S](https://www.rayneo.com/pages/air-2s) glasses are great for watching movies, spatial videos, and Google TV wherever you want. The glasses aren’t virtual reality and don't really have any augmenting skills, but that doesn’t mean they aren’t still worth wearing.
 
 ![RayNeo Air 2S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-31-pjkzu0dd-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  RayNeo Air 2S
 
@@ -103,8 +107,9 @@ Smart projection glasses capable of producing a 201-inch equivalent screen. The 
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What’s New in the Latest Model?
 
 ![RayNeo Air 2S sitting upside down showing bridge of RayNeo Air 2S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/rayneo-air-2s-sitting-upside-down-showing-bridge-of-rayneo-air-2s.jpg) 
@@ -126,12 +131,9 @@ Tyler Hayes / How-To Geek
 ![looking into the RayNeo Air 2S seeing content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/looking-into-the-rayneo-air-2s-seeing-content.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The technical aspects are one thing, but what can these glasses really do? Well, if you connect the RayNeo Air 2S glasses to a USB-C iPhone you’ll see your phone inside the lenses. If you start a Netflix movie, it will become widescreen, consuming your entire field of view, kind of like sitting in a movie theater—because the exterior glossy lens blocks out most of the light.
@@ -150,25 +152,10 @@ Close
 
  I didn't get to use the glasses with a console because I didn't have the [Joydock](https://www.amazon.com/RAYNEO-Suitable-Included-Compatible-Rechargeable/dp/B0CNP65NTB?dib=eyJ2IjoiMSJ9.veMHATZjTgnm1ocD0HAPFEtpNSVUNZU6kvBZsVExlfLGjHj071QN20LucGBJIEps.yKiOkI-UhVFoTOc5Q%5FFSDlyMJMeqmw1UxKvnbi%5FEu4k&dib%5Ftag=se&keywords=rayneo+joydock&qid=1722467647&sr=8-1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004553&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frayneo-air-2s-glasses-review%2F&asc%5Fcampaign=Authority) ($99) for the Nintendo Switch, but I think that could have been a fun use. If you do have a portable gaming device like a Steam Deck, that should work directly without a need for an adapter.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  RayNeo Pocket TV Is (Probably) A Must-Have Accessory
 
 ![RayNeo Air 2S with the Pocket TV device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/rayneo-air-2s-with-the-pocket-tv-device.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The experience of connecting the Air 2S to my iPhone 15 Pro was fine. I had no issues doing so, but it was not my preferred use. Instead, I liked using the glasses with the [RayNeo Pocket TV](https://www.rayneo.com/products/pocket-tv?variant=48727513628959). It’s a small, fat remote control-looking device that the glasses plug into to access Google TV.
@@ -179,16 +166,14 @@ Tyler Hayes / How-To Geek
 
  Even though the Pocket TV adds a roughly $180 additional cost, the accessory still felt essential during my use. I didn’t have to worry about the glasses draining my phone’s battery or if I had all the streaming apps available on my phone. Google TV is a good enough streaming interface, with an abundance of content, that it makes the glasses feel like an entertainment machine.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the RayNeo Air 2S XR Glasses?
 
 ![front cover on the RayNeo Air 2S glasses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/front-cover-on-the-rayneo-air-2s-glasses.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The [RayNeo Air 2S](https://www.rayneo.com/pages/air-2s) glasses are a bit of a complicated product. The projection technology is a marvel, even if the frames aren’t the sleekest thing to wear ever. They were comfortable enough though. Plus, they’re easy to connect to a phone or laptop with a single USB-C cable. They’re always ready because they don’t have a battery that needs to be charged.
@@ -198,6 +183,10 @@ Tyler Hayes / How-To Geek
  Right now, in 2024, these are a product made for travelers or portable gamers. The glasses can be used at home, but it will feel like you’re getting the most value out of them, using them on a plane, in a hotel, or somewhere else out and bout where privacy might be needed. But if you are doing any streaming, be sure to consider the Pocket TV too, because it makes these glasses even more compelling.
 
 ![RayNeo Air 2S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-31-pjkzu0dd-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  RayNeo Air 2S
 
@@ -213,8 +202,6 @@ Smart projection glasses capable of producing a 201-inch equivalent screen. The 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +209,26 @@ Smart projection glasses capable of producing a 201-inch equivalent screen. The 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-tackling-challenges-head-on-essentials-for-onestream-livestreamers/"><u>[New] Tackling Challenges Head-On Essentials for OneStream Livestreamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-text-memes-made-simple-utilize-meme-creator-tools/"><u>[New] Text Memes Made Simple Utilize Meme Creator Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-transferring-tunes-across-platforms/"><u>[New] The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-gameye-expertise-a-compreeher-guide-to-quality-capture-for-2024/"><u>[Updated] GamEye Expertise A Compreeher Guide to Quality Capture for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mp3-mastery-in-motion-prime-10-youtube-to-mp3-transformers/"><u>[Updated] MP3 Mastery in Motion Prime 10 YouTube to Mp3 Transformers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-studio-streamlining-your-professional-skype-broadcasts-for-2024/"><u>[Updated] OBS Studio Streamlining Your Professional Skype Broadcasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>[Updated] The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-undercover-upscalers-guide-to-clear-visuals/"><u>[Updated] The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-gametime-with-9-platforms/"><u>2024 Approved Streamline Your Gametime with #9 Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-hues-handbook-theory-meets-technique/"><u>2024 Approved Ultimate Hues Handbook Theory Meets Technique</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Pova 6 Pro 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-pcs-for-serious-workers/"><u>In 2024, Superior PCs for Serious Workers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-modern-wlan-networking-driver-update-for-enhanced-performance-on-various-windows-editions/"><u>Install Modern WLAN Networking Driver Update for Enhanced Performance on Various Windows Editions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharper-images-richer-minescapes-zoom-techniques-revealed/"><u>Sharper Images, Richer Minescapes Zoom Techniques Revealed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thorough-investigation-dji-inspire-1-reviewed-for-2024/"><u>Thorough Investigation DJI Inspire 1 Reviewed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-8-affordable-industry-standard-open-videoconference-platforms-for-2024/"><u>Top 8 Affordable, Industry-Standard Open Videoconference Platforms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-file-dpx-in-formato-png-senza-costi-usando-movavi/"><u>Trasforma File DPX in Formato PNG Senza Costi Usando Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974411432-zero-tolerance-for-zoom-cameras-gone-wrong-weve-got-the-fixes/"><u>Zero Tolerance for Zoom Cameras Gone Wrong? We've Got the Fixes</u></a></li>
+</ul></div>
 

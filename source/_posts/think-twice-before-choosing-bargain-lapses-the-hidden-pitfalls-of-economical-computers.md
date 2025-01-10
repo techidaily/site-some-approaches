@@ -1,7 +1,7 @@
 ---
 title: "Think Twice Before Choosing Bargain Lapses: The Hidden Pitfalls of Economical Computers"
-date: 2024-08-30T21:21:41.152Z
-updated: 2024-08-31T21:21:41.152Z
+date: 2025-01-08T00:03:29.444Z
+updated: 2025-01-10T01:20:15.865Z
 tags:
   - deals
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 
 Are you looking for a cheap laptop? Make sure your pursuit of a deal doesn’t end up costing you more than you bargained for. Here are some drawbacks you may encounter when you opt for the cheapest of the cheap.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Chips Don’t Lie
 
  It might sound obvious, but cut-price laptops often use the cheapest and most underwhelming hardware. This means that they can struggle to do even the most basic of tasks, like running a web browser or watching a video. Take the Intel Celeron N4120 found in the [$250 HP 14-inch Ultra Light](https://www.amazon.com/HP-Students-Business-Quad-Core-Storage/dp/B0CHHYVGJN/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000638&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fread-this-before-you-buy-the-cheapest-laptop%2F&asc%5Fcampaign=Evergreen), for example.
@@ -20,6 +24,10 @@ Are you looking for a cheap laptop? Make sure your pursuit of a deal doesn’t e
  This chip scores poorly in [UserBenchmark tests](https://cpu.userbenchmark.com/SpeedTest/1020723/IntelR-CeleronR-N4120-CPU---110GHz), which you’d probably expect. It’s limited to four cores and four threads, and these are relatively slow, ranging from 1.10GHz to 2.5GHz turbo on all cores. Though it’s designed for fanless, passively cooled systems, the fact that it’s produced on an older 14-nanometer process negatively affects its power efficiency.
 
 ![The Intel Core i5-14600K CPU on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/intel-core-i5-14600k-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -51,9 +59,6 @@ Joe Robinson / How-To Geek
 
 ![Y'all got any more them pixels meme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/a5f.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Modern smartphones typically have very high pixel densities, but you’re also likely to hold them closer to your face. Laptops don’t need to hit such heady heights. A 15.6-inch laptop with a full HD display (1980x1080) has a pixel density of 141.2 pixels-per-inch (PPI), while the $250 14-inch HP laptop we mentioned earlier only hits 111.9 PPI (1366x768 at 14-inches).
 
  While pixel density doesn’t affect performance, it can negatively affect user experience. On top of this, some laptops skimp even on backlighting by opting for Pulse Width Modulation, or PWM for short. This is a method of controlling brightness by flickering the LED backlight (shorter bursts mean less light). This can cause eye strain and even headaches in some users, especially at low brightness settings.
@@ -61,8 +66,9 @@ Joe Robinson / How-To Geek
  Lastly, the display will probably have a built-in webcam. It should come as no surprise that the cheapest laptops have the cheapest webcams (and microphones too). If you intend to do any sort of video conferencing it’s a good idea to buy a webcam that doesn’t make you look like a potato. There's only so much you can do to [improve how you look on a video call](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/).
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don’t Forget the Keyboard and Trackpad
 
  Your laptop’s keyboard and trackpad are important because they are the primary method of interacting with your laptop. These inputs can have a massive impact on the user experience. Small frustrations add up over the lifetime of the laptop and can mar the overall experience.
@@ -71,16 +77,10 @@ Joe Robinson / How-To Geek
 
 ![Speakers on Lenovo X1 Carbon (Gen 11) laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52938420859_c43965a677_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  And then there’s the trackpad. While you can easily [replace your trackpad with a quality mouse](https://snapchat-videos.techidaily.com/directly-send-snaps-from-your-phone-a-tutorial-for-2024/), you may still be stuck with it in some instances. Don’t expect multi-touch on the cheapest laptops, and it’s not uncommon to find a spot on the keyboard where applying pressure will actuate both the left and right mouse buttons at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Cheap Laptops Can Be Flexible (in a Bad Way)
 
  Most of us don’t expect the highest possible build quality from the cheapest gadgets, but just how much flex you’re willing to accept is up for debate. Not only are cheap laptops made of cheap plastic, but they can feel and sound cheap too. Many will creak and flex even during normal use (like when typing, for example).
@@ -94,9 +94,9 @@ Joe Robinson / How-To Geek
  Don’t even dream of doing the one-finger-open, since many budget laptops lack enough weight in the base to keep the unit on the desk while you lift the lid. The one silver lining to this is that these laptops can be very light to carry around.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make Sure the Ports Are Useful
 
  A lack of ports is not a problem that is exclusive to cheap laptops, as many Apple users can attest. The MacBook Air still only ships with a MagSafe charging port, 3.5mm stereo output, and two USB-C ports, and it is far from cheap. With that in mind, cheap laptops can suffer from poor I/O too.
@@ -105,13 +105,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![HDMI and USB c ports on the side of the Lenovo Slim Pro 7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/hdmi-and-usb-c-ports-on-the-side-of-the-lenovo-slim-pro-7-5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Not everyone is going to have issues with a limited port selection, but some will. If you intend to rely on an external monitor, make sure your laptop is suitable (preferably with DisplayPort over USB-C or at least a full-sized HDMI connector). The same is true if you want to use removable storage like SD and microSD.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Spend More Today, Save More Tomorrow
 
  Your cheap laptop can end up costing you. Sub-par performance out of the gate is only going to get worse over time. You might find yourself needing to replace your laptop sooner than if you’d spent marginally more in the first place.
@@ -128,8 +129,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +136,16 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-workflow-fixes-for-adobe-premiere-srt-freeze/"><u>[New] Streamlining Workflow Fixes for Adobe Premiere SRT Freeze</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-book-trailers-that-will-captivate-you/"><u>[New] Top 5 Book Trailers That Will Captivate You</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-basics-of-fading-effects-for-clearer-audio-output/"><u>[Updated] Basics of Fading Effects for Clearer Audio Output</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-streaming-platforms-for-authors/"><u>[Updated] Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mobile-audio-speed-the-fastest-app-list/"><u>Mobile Audio Speed The Fastest App List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-nier-replicant-remaster-not-starting-quickly-effective-troubleshooting-techniques/"><u>Solve NieR Replicant ReMASTER Not Starting Quickly: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-for-top-tier-hdr-cameras-for-2024/"><u>Ultimate Selection for Top-Tier HDR Cameras for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/viral-visionaries-twitters-10-hotest-content-threads-today-for-2024/"><u>Viral Visionaries Twitter's 10 Hotest Content Threads Today for 2024</u></a></li>
+</ul></div>
 

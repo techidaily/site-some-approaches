@@ -1,7 +1,7 @@
 ---
 title: "Why I Came Full Circle: My One-Year Break Up with Linux That Led Me Back"
-date: 2024-08-30T21:20:56.621Z
-updated: 2024-08-31T21:20:56.621Z
+date: 2025-01-04T00:04:53.103Z
+updated: 2025-01-10T02:00:59.206Z
 tags:
   - desktop
 categories:
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 
  For most of the past year, I took a break from Linux to experiment with using other form factors as my primary work device. First it was a BOOX Tab Ultra. Then it was a Moto Edge+ with Motorola's desktop mode. Then it was a Galaxy Z Fold 5 with DeX. Here's what draws me back to Linux time and time again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Being Forced to Replace Things Sucks
 
 ![Samsung Galaxy Z Fold 5 in DeX dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/samsung-galaxy-z-fold-5-dex-dock-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -43,13 +51,9 @@ Bertel King / How-To Geek
  You can use a conventional Windows PC or MacBook for years, but Linux manages to outdo both. In the Linux world, if your hardware is powerful enough to run the latest software, then you can install it. You only need to buy a new device when your machine breaks or is too slow to keep up. That's the way I like it.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Don't Want to Deal With All the Tracking
 
 ![Android Security & Privacy screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/android-security-privacy.jpg) 
@@ -62,9 +66,6 @@ Bertel King / How-To Geek
 
  Linux, by contrast, gives me peace of mind. I can open my computer knowing that until I open a web browser or another telemetry-collecting app, no one knows what I'm doing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  Software I Like Keeps Changing
 
  Software can change at any time. I felt most burned by this back when I used Chromebooks. I actually bought a 2013 Chromebook Pixel and loved how minimal Chrome OS was back then. Then Google moved the app icons to the center of the panel, and it irked me to no end. It's one thing to change the defaults, but there was no option to move things back to where they used to be.
@@ -73,29 +74,28 @@ Bertel King / How-To Geek
 
  The point is that I'm empowered to use my computer in the way that I want, and when I sit down to start my workday, I can trust that everything didn't change out from under me overnight.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I Can Tweak or Fix Virtually Anything on Linux
 
 ![Firefox GNOME theme GitHub page in Firefox on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-from-2024-07-31-14-30-27.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sometimes the issue isn't a sudden, unexpected change. Often a program has simply always has things about it that I wish were slightly different. My preferences differ from that of the developers or other users, and that's understandable.
 
  To pick on two programs in particular, both Mozilla Firefox and Thunderbird have interfaces that look okay but don't fully vibe with the other apps on my desktop. I can change this by installing community-created themes that modify each app's code (it's less scary than it sounds). There's a GNOME theme for both [Firefox](https://github.com/rafaelmardojai/firefox-gnome-theme) and [Thunderbird](https://github.com/rafaelmardojai/thunderbird-gnome-theme).
 
  I can make changes to the system font by installing GNOME Tweaks. I can typically remove unwanted buttons from the interface by searching for the correct line of text to remove from a file buried somewhere on my PC. On Linux, where there's a will, there's a way, and I don't have to worry about breaking terms of service in the process.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Linux Encourages Me to Own My Data
 
 ![The Settings screen to connect online accounts on Fedora Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-from-2024-07-31-15-13-15.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you buy a laptop or a phone, you're not just getting a piece of hardware. The setup process will typically prompt you to create an account and sign up for a bunch of online services. Whether it's Google, Microsoft, or Apple, the big tech companies want you to give them your data.
 
  Linux doesn't require any online accounts. Not only that, most of the apps are designed to work with offline files saved to your own machine. For tasks that work best online, the Linux ethos is to encourage you to self-host your own software, [such as using Nextcloud](https://fox-http.techidaily.com/apex-artistry-best-portable-machines-for-uhd-filmmaking-for-2024/) (as pictured above), so that you remain in control of your data. There are also many apps that send or sync files directly from one machine to another, with nothing stored online, as is the case with [Syncthing](https://flathub.org/apps/me.kozec.syncthingtk) and [Warp](https://flathub.org/apps/app.drey.Warp).
@@ -112,9 +112,6 @@ Bertel King / How-To Geek
 
  This is the opposite of most consumer tech, which tends to be at its fastest the moment it comes out of the box. With Linux, instead of watching things go downhill, you get to observe as things slowly improve.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  AI Features Are Slipping into Everything
 
  When I got my Galaxy Z Fold 5, I was surprised by the quality of the first-party apps. I think [many of Samsung's apps are superior to Google's](https://extra-hints.techidaily.com/new-an-examination-of-photoshops-anti-shake-capabilities/). Yet since 2024 has been the year of AI, I've watched AI features appear in several of the apps. Both of Samsung's major new hardware events focused more on [introducing Galaxy AI features](https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-content-game-with-these-instagram-story-tips/) than gadgets. This was the case in events by Apple and Google as well.
@@ -135,8 +132,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +139,24 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>[New] Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-visionary-5-android-backdrop-modification-apps-for-iphone/"><u>[New] Visionary 5 Android Backdrop Modification Apps for iPhone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-highest-rated-panoramic-video-capture-systems/"><u>[Updated] 2024 Approved Highest Rated Panoramic Video Capture Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-teleportation-effects-techniques/"><u>[Updated] Transformative Teleportation Effects Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-noise-free-audiovisual-links/"><u>2024 Approved Navigating Noise-Free Audiovisual Links</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-economical-virtual-reality-solutions/"><u>2024 Approved Unveiling Economical Virtual Reality Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-youtubes-hidden-feature-stop-snippet-viewing/"><u>2024 Approved Unveiling YouTube's Hidden Feature Stop Snippet Viewing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>In 2024, No Fuss, Full Fun Exploring iFunny's Meme Treasure</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toppest-ios-video-capture-aids/"><u>In 2024, Toppest iOS Video Capture Aids</u></a></li>
+<li><a href="https://fox-info.techidaily.com/journeying-together-on-the-big-screen-top-10-family-movies/"><u>Journeying Together on the Big Screen Top 10 Family Movies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-unbreakable-approach-to-tiktok-bio-hyperlinks-for-2024/"><u>The Unbreakable Approach to TikTok Bio Hyperlinks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/toggle-picture-in-picture-feature-for-youtube-app-for-2024/"><u>Toggle Picture-in-Picture Feature for Youtube App for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-benefits-why-choose-microsoft-copilot-over-chatgpt-for-ai-assistance/"><u>Top 4 Benefits: Why Choose Microsoft Copilot Over ChatGPT for AI Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-writing-process-with-these-ai-tools/"><u>Transform Your Writing Process with These AI Tools</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-realme-10t-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Realme 10T 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-art-of-sideways-iphone-photography-for-2024/"><u>Unveiling the Art of Sideways iPhone Photography for 2024</u></a></li>
+</ul></div>
 

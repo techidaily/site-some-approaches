@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Sudo Command Not Found' Error in Linux with This Quick Trick
-date: 2024-08-30T21:19:17.609Z
-updated: 2024-08-31T21:19:17.609Z
+date: 2025-01-04T22:37:50.910Z
+updated: 2025-01-09T21:07:09.179Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Why Are You Getting This Error?](https://youtube-videos.techidaily.com/mute-auto-generated-youtube-content-trails/)
 * [Here's How to Fix the "sudo: command not found" Error](https://data-wizards.techidaily.com/how-to-handle-advanced-video-technology-failure/)
 * [Try Adding sudo to the PATH Variable](https://win-dash.techidaily.com/get-your-ultimate-gaming-experience-free-download-steelseries-engine-on-windows-10/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,8 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The way to use sudo is to begin another command with the word "sudo". This allows you to run the command with elevated privileges. So the sudo command lets you have the required permissions of a different user and run a sensitive command. You can learn more about the sudo command from its [manual page](https://man7.org/linux/man-pages/man8/sudo.8.html).
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Are You Getting This Error?
 
  There are usually two possible reasons for the "sudo: command not found" error on Linux. It's either because sudo is not installed or the sudo directory is not present in your system's PATH variable.
@@ -45,16 +50,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An example of the error sudo command not found on Debian Linux being displayed on the terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  The second reason is that sudo is installed, but its directory is not included in the PATH variable. PATH is an environment variable the Linux system uses to locate a command without specifying its full path.
 
  When you type a command in the terminal, the system searches through the directories listed in the PATH variable and tries to find the correct executable file. If the sudo command is not in that PATH variable, the system will not find it and won't be able to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Here's How to Fix the "sudo: command not found" Error
 
  If you don't have sudo installed, installing it and adding your user to the sudo/wheel group should be enough to fix the problem. To ensure whether you have sudo installed, run:
@@ -63,7 +62,15 @@ sudo -V
 
 ![An example of checking the version of sudo installed on Debian using the sudo -V command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/0.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't have sudo installed, you should see a similar output, in which case proceed to the following method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Install sudo on Linux
 
@@ -105,9 +112,6 @@ usermod -aG sudo username
 
 ![The Linux terminal displaying the command to add a user to the sudoer group on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're using Arch Linux, Fedora, or other RHEL-based distros, then use the following command:
 
 usermod -aG wheel username
@@ -118,23 +122,14 @@ su username
 
 ![The Linux terminal demonstrating the process of switching between users on Debian using commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Now you can try a command beginning with sudo to test whether it's working. For example, let's try to update the packages on the system. To do that, use:
 
 sudo apt update
 
 ![An example of updating the packages on Debian Linux using the sudo apt update command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-1.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  It works as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Try Adding sudo to the PATH Variable
 
  If you already have sudo installed, but it's still not working, then you need to add sudo to the PATH variable. Let's first determine the location of the sudo command.
@@ -143,14 +138,15 @@ which sudo
 
 ![An example of using the which command on Linux to display the location of a certain command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  As you can see, it's in the "/usr/bin/" directory. Now let's check if the directory is in the PATH variable or not. Run this command:
 
 echo $PATH
 
 ![The Linux terminal displaying the PATH variable content on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In my case, the location of the sudo command is present in the PATH variable. In case it's not, you can add it with this command:
 
@@ -166,6 +162,10 @@ nano /etc/profile
 
 ![The /etc/profile file opened in the Nano text editor with its content displayed on the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Save the file using Ctrl+O and then exit from the editor using Ctrl+X. Now try to use the sudo command to see if it's working.
 
 ---
@@ -178,8 +178,6 @@ nano /etc/profile
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +185,23 @@ nano /etc/profile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-exclusive-places-for-next-gen-vr-content/"><u>[New] Exclusive Places for Next-Gen VR Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-hdr-sky-experience-online-resource-listing/"><u>[New] The HDR Sky Experience Online Resource Listing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos/"><u>[Updated] Top 8 iOS & PC Tools for Effortlessly Altering Your Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-seconds-for-a-20mb-movie/"><u>2024 Approved Understanding Seconds for a 20MB Movie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>2024 Approved Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-integrated-graphics-drivers-for-windows-11-free-downloads-available-now/"><u>Latest Intel Integrated Graphics Drivers for Windows 11 – Free Downloads Available Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/navigating-facebooks-medical-and-wellness-campaigning-for-2024/"><u>Navigating Facebook's Medical and Wellness Campaigning for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-audio-fade-ins-and-outs-made-easy-2-fcp-techniques/"><u>New In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-a-step-by-step-guide-to-repairing-a-nonfunctional-corsair-hs70-headset-microphone/"><u>Solving the Dilemma: A Step-by-Step Guide to Repairing a Nonfunctional Corsair HS70 Headset Microphone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-your-projects-with-voice-over-integration-for-2024/"><u>Streamlining Your Projects with Voice Over Integration for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr-for-2024/"><u>Tech Triad Analysis Understanding the Intersection of VR, AR & MR for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-definitive-guide-to-overcoming-frequent-video-problems/"><u>The Definitive Guide to Overcoming Frequent Video Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-lost-files-with-windows-new-remind-me-feature-compatible-with-select-devices/"><u>Unlocking Lost Files with Windows' New Remind Me Feature - Compatible with Select Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/watching-ustvnow-on-kodi-a-step-by-step-guide-with-the-kodi-setup-wizard/"><u>Watching USTVNow on Kodi: A Step-by-Step Guide with the Kodi Setup Wizard</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-vintage-conversion-the-98-experience/"><u>Windows 11 Vintage Conversion: The ’98 Experience</u></a></li>
+</ul></div>
 

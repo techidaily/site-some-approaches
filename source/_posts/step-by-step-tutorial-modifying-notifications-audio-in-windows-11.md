@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Modifying Notifications Audio in Windows 11"
-date: 2024-08-30T21:23:05.216Z
-updated: 2024-08-31T21:23:05.216Z
+date: 2025-01-03T01:44:36.124Z
+updated: 2025-01-10T02:44:00.483Z
 tags:
   - deals
 categories:
@@ -24,8 +24,9 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
  Notifications can help you stay up-to-date on what's happening on your computer. If you're bored of the default notification sound on Windows 11, and want something different, you can easily change the notification sound to something more attention-grabbing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Change the Notification Sound Using Control Panel
 
 [Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/) is where you go to manage necessary Windows settings. You can use it to change your computer's appearance, manage hardware devices, [uninstall programs](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/), and more, including changing the notification sound on your Windows 11 PC.
@@ -38,14 +39,15 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![Notification option in the Sound window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/notification-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Then, click the drop-down icon under the "Sounds" option and choose a sound effect of your choice. You can select a sound and then click "Test" to hear it.
 
 ![Test button in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/test-button.jpg) 
 
  Once you have finalized a sound for your notifications, click "Apply" and "OK" to save the changes. Now, you will hear the sound you selected whenever you receive a notification.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Change the Notification Sound Using the Registry Editor
 
@@ -71,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![Value data field in the Registry Editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/value-data-field-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect.
 
 ##  How to Set a Custom Notification Sound
@@ -87,23 +86,25 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 ![Sound option in the Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/sound-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Sound window, switch to the "Sounds" tab and select "Windows Default (modified)" from the "Sound Scheme" drop-down menu.
 
 ![Windows Default (modified) option in the Sound window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/windows-default-modified.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, select "Notifications" in the Program Events section and click "Browse."
 
 ![Browse option in Sound window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/browse-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the downloaded sound effect and click "Open." Then, click "Apply" and "OK" to save the changes.
 
 ![Open option in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/open-option.jpg) 
@@ -118,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +126,21 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-infusing-homes-with-suns-invisible-light/"><u>[New] 2024 Approved Infusing Homes with Sun's Invisible Light</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enthralling-aesthetics-logo-techniques-for-podcasts-for-2024/"><u>[New] Enthralling Aesthetics Logo Techniques for Podcasts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-fastest-8-tech-to-grab-screen-frames-for-2024/"><u>[New] Fastest 8 Tech to Grab Screen Frames for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-e-identity-evolution-crafting-an-animated-persona/"><u>[Updated] In 2024, E-Identity Evolution Crafting an Animated Persona</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-azures-transcription-service/"><u>[Updated] Mastering Azure's Transcription Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-facetune-walkthrough-for-stunning-photos/"><u>[Updated] The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-sites-to-download-stylish-text-files/"><u>[Updated] Ultimate List of Sites to Download Stylish Text Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>2024 Approved Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unified-tint-harmonizer/"><u>2024 Approved Unified Tint Harmonizer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/az-capture-tool-full-app-testing-and-options-guide-for-2024/"><u>AZ Capture Tool Full App Testing & Options Guide for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultivating-global-understanding-pathways-to-successful-communication/"><u>Cultivating Global Understanding: Pathways to Successful Communication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-strategies-to-end-windows-10s-unstable-photo-viewing-for-2024/"><u>Swift Strategies to End Windows 10'S Unstable Photo Viewing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android-for-2024/"><u>The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/uniting-voices-for-virtual-fame-on-tiktok-for-2024/"><u>Uniting Voices for Virtual Fame on TikTok for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Connectivity Issues with a Wireless Mouse in Windows 11"
-date: 2024-08-30T21:19:31.350Z
-updated: 2024-08-31T21:19:31.350Z
+date: 2025-01-07T17:03:34.635Z
+updated: 2025-01-09T18:25:40.752Z
 tags:
   - desktop
 categories:
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 
  Has your wireless Windows mouse suddenly stopped responding? It's a frustrating issue that's tricky to diagnose; the fault could lie with the hardware itself (like the mouse or the USB receiver) or with your computer software. But don't worry—follow our advice to get your mouse working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Undertake Basic Device Diagnosis
 
  Before doing anything else, you should determine whether [your mouse is connected to your PC](https://some-skills.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown-for-2024/). So, perform some basic hardware diagnosis, like ensuring the mouse is switched on (the power switch is usually on the bottom of the mouse) and that the USB receiver is connected to the computer.
 
  If the mouse still doesn't work after these basic checks, try these other hardware-orientated fixes:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Reconnect the USB Receiver
 
@@ -52,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
  Your mouse or USB receiver may be defective, especially if you accidentally dropped them recently. Examine your USB port, receiver, and mouse for physical damage. Check for dirt or dust in the USB ports and clean them if required.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Connect to Another PC
 
  Connect the receiver to a different Windows device and see if the mouse works there. If not, the mouse or receiver is probably defective. To determine which is to blame, you could get another receiver—most manufacturers sell them standalone or will send you one under warranty. If this doesn't work, you then know the fault lies with the mouse itself (so buy a new one or claim under warranty).
@@ -68,30 +77,16 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
 ![Windows 11 Device Manager highlighting the USB controller right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In the Properties window, select the "Power Management" tab and uncheck "Allow the Computer to Turn Off This Device to Save Power." Click "OK".
 
 ![Windows 11 USB Hub Properties highlighting power management tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-usb-hub-properties-highlighting-power-management-tab.jpg) 
 
  Finally, remove and reconnect the USB receiver.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Disable Fast Start-up
 
  Windows' Fast Start-up feature launches your computer quickly, but [Fast Start-up has drawbacks](https://youtube-help.techidaily.com/in-2024-exploring-the-best-youtube-extractors-for-android-devices/), including connection issues with USB devices. Therefore, it's worth disabling it.
@@ -100,16 +95,10 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 
 ![Windows 11 Power Options window highlighting 'Choose what the power button do' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-control-panel-power-options-window-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "Change Settings That Are Currently Unavailable."
 
 ![Windows 11 System Settings window highlighting 'Change settings that are currently unavailable' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-power-options-system-settings-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Now, uncheck "Turn On Fast Start-up" and click "Save Changes."
 
 ![Windows 11 System Settings window highlighting 'Turn on fast startup' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-power-options-system-settings-window-1.jpg) 
@@ -127,8 +116,9 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 ![Optional Updates in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/install_optional_updates.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
 
 ###  How to Roll Back the Mouse Drivers
@@ -137,19 +127,15 @@ thumbnail: https://thmb.techidaily.com/33028f93fa14d69bbcfce2acf14136a66954cb281
 
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
 
 ![Windows 11 mouse Properties window highlighting 'Roll Back Driver' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-mouse-properties-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Click "Yes" on the warning pop-up and wait until Windows automatically restores to the previous version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Reset the USB Ports 
 
@@ -159,29 +145,23 @@ The powerful video editing program for your Windows PC</a>
 
 ![Windows 11 Device Manager window highlighting 'USB Root Hub' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Select "Uninstall" in the pop-up window.
 
 ![Windows 11 Uninstall Pop-Up Warning window highlighting Uninstall button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-uninstall-pop-up-warning-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Repeat the above steps for each USB Root Hub on the list.
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  6\. Update Windows 11
 
 [Install all available Windows 11 updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) (Windows+i > Windows Update > Check for Updates) and restart your computer. Keeping Windows up-to-date can resolve many issues.
 
 ![Click "Check for updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/win11_click_check_for_updates.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the other hand, sometimes Windows updates can be buggy and be the root of the problem. If you recently updated Windows and your mouse stopped working afterward, [uninstall the recent Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) (Windows+i > Windows Update > Update History > Uninstall Updates).
 
@@ -189,9 +169,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If your system is infected with malware, it can interfere with external devices like mice. This is why you should run a malware scan to detect and remove harmful threats, either [using Microsoft Defender](https://howto.techidaily.com/restore-missing-app-icon-on-lava-yuva-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) or any [reliable third-party antivirus software](https://facebook-video-recording.techidaily.com/in-2024-access-high-res-fb-media-files/).
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ##  8\. Connect the Mouse With Bluetooth
 
  The majority of wireless mice also connect to your computer via Bluetooth, bypassing the need to insert a USB receiver. However, your PC must also support Bluetooth.
@@ -203,17 +180,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Windows 11 Settings window highlighting 'Bluetooth & devices' and Bluetooth toggle switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After turning on Bluetooth, select "Add Device" and then select "Bluetooth" from the list.
 
 ![Windows 11 Add a device window highlighting Bluetooth option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your PC will start searching for Bluetooth devices. Choose your wireless mouse from the list.
 
 ![Windows 11 Add a device window highlighting Bluetooth mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the connection is established. After a few seconds, your mouse is ready to use via Bluetooth.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Perform a System Restore
 
@@ -231,8 +221,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +228,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-integrating-creative-filters-into-your-mobile-and-pc-videos/"><u>[New] Integrating Creative Filters Into Your Mobile and PC Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photography-toolkit-a-comprehensive-app-analysis/"><u>[Updated] Photography Toolkit A Comprehensive App Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>[Updated] Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-business-with-metaverse-ideas/"><u>2024 Approved Transforming Business with Metaverse Ideas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>In 2024, Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
+<li><a href="https://win-web.techidaily.com/1728464856300-ssdwindows-11/"><u>SSDをWindows 11で安全にリセットする方法：簡単な手順と注意点</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud-for-2024/"><u>The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-face-off-assessing-whether-notion-or-chatgpt-leads-as-your-go-to-generative-ai-tool/"><u>The Ultimate Face-Off: Assessing Whether Notion or ChatGPT Leads as Your Go-To Generative AI Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-action-cam-battle-max-360-vs-hero-11-review-for-2024/"><u>Top Action Cam Battle Max 360 vs Hero 11 Review for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ae-scripting-tools-and-plug-ins-for-2024/"><u>Top AE Scripting Tools & Plug-Ins for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-flip-and-spin-16-top-rated-free-avi-video-rotation-tools-you-need-to-know/"><u>Updated In 2024, Flip and Spin 16 Top-Rated Free AVI Video Rotation Tools You Need to Know</u></a></li>
+</ul></div>
 

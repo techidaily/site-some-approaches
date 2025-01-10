@@ -1,7 +1,7 @@
 ---
 title: "Trip Down Memory Lane with Obsolete Gems: A Look at MSN, GameSpy, and Winamp"
-date: 2024-08-30T21:19:29.633Z
-updated: 2024-08-31T21:19:29.633Z
+date: 2025-01-02T22:56:09.188Z
+updated: 2025-01-09T17:44:20.982Z
 tags:
   - desktop
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
 
 A lot of your favorite old software has been lost to the sands of time, much of it made defunct by newer systems, faster internet connections, and the next big thing. Let’s catch up with some classic software and its modern equivalents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Nero Burning ROM](https://tools.techidaily.com/nero/products/) 
 
 **You might also remember:** [ImgBurn](https://www.imgburn.com) 
@@ -22,6 +26,10 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  Nero could do almost everything. It was used extensively to make “backups” of audio CDs, complete with a connection to the Gracenote song database to label tracks. It could even etch labels directly onto compatible media using LightScribe. Back in the day, Nero was one of the best backup solutions for important files, particularly given the slow internet connections of the time.
 
  Nero is still around today, with new versions still being developed. You’ll need a CD burner in your Windows PC, which might be the biggest barrier to entry for most people in 2024 and beyond. Disciples of the CD-burning era may also recall [ImgBurn](https://www.imgburn.com), a similar application that was last updated in 2013\. ImgBurn was particularly proficient at burning image files (like BIN, ISO, MDS, and Nero’s own NRG format).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  GameSpy
 
@@ -38,9 +46,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  These days you don’t need middleware like GameSpy, with matchmaking integrated into platforms like Xbox Live and Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  MSN, [AIM](https://my.screenname.aol.com/), [ICQ](https://www.icq.com) 
 
 **You might also remember:** iChat, Gaim (Pidgin), Jabber
@@ -51,9 +59,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -65,8 +70,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Adobe purchased Flash in 2005, but it was clear that the web would eventually move away from browser plugins in favor of native technologies. Apple’s refusal to allow Flash on the iPhone and the increasing threat of Flash-based malware confirmed that the end was nigh. You can still [enjoy a huge library of Flash games using Flashpoint](https://vimeo-videos.techidaily.com/updated-rhythmic-revelations-adding-audio-to-your-vimeo-videos-for-2024/) (which now includes support for other plugins too).
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Centralized P2P Software: [Napster](https://www.napster.com/us), KaZaA, WinMX and Others
 
 **You might also remember:** Shareaza, edonkey2000, Morpheus, Grokster, LimeWire, iMesh, WireShare, Gnutella
@@ -119,9 +125,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Though dial-up has largely been replaced in the US, [a very small percentage of users still connect to the internet using dial-up](https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Defunct Browsers: Internet Explorer, Netscape Navigator
 
 **You might also remember:** Mozilla, Internet Explorer for Mac
@@ -132,9 +135,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -144,8 +144,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Amazingly, eJay still exists and you can buy old versions that promise to work on versions of Windows up to Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Desktop Pets: Dogz, Catz, Bonzi Buddy
 
 **You might also remember:** GoPets, MOPy fish
@@ -166,8 +167,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +174,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-adventurers-anthology-the-finest-10-affordable-mmos/"><u>[New] Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-peeking-behind-the-screen-instagram-audience-explorer/"><u>[Updated] In 2024, Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-blueprint-for-on-screen-dialogues/"><u>[Updated] The Blueprint for On-Screen Dialogues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cultivating-excellence-the-top-7-stardew-mods-ranked-7-14/"><u>2024 Approved Cultivating Excellence - The Top 7 Stardew Mods (Ranked #7-14)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-tech-upgrade-go-big-sur-on-your-mac/"><u>2024 Approved Streamlining Tech Upgrade Go Big Sur! On Your Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pinnacle-of-iphone-photography-finding-ultimate-angles/"><u>2024 Approved The Pinnacle of iPhone Photography Finding Ultimate Angles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-in-action-a-screen-recorders-journey/"><u>Capturing in Action A Screen Recorder's Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-experts-choice-in-4k-capture-top-camera-list/"><u>In 2024, Expert's Choice in 4K Capture Top Camera List</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-70-lite-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 70 Lite 5G Lock Screen Password?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>In 2024, Transform Your Gaming Experience KineMaster Pros & 10 Online Counterparts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-at-gaming-screen-capture-tools/"><u>In-Depth Look at Gaming Screen Capture Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974440340-speedy-setup-find-and-download-the-perfect-wireless-card-drivers-now/"><u>Speedy Setup: Find and Download the Perfect Wireless Card Drivers Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tomorrows-critique-varied-solutions-for-2024/"><u>Tomorrow’s Critique Varied Solutions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-30-metaverse-gems-diy-meme-ideas-unleashed-for-2024/"><u>Top 30 Metaverse Gems DIY Meme Ideas Unleashed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-installs-minecraft-flawlessly-on-your-windows-11-pc/"><u>Troubleshooting Tips: Installs Minecraft Flawlessly on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-power-of-product-placements-a-comprehensive-guide-for-youtubers-for-2024/"><u>Unlock the Power of Product Placements A Comprehensive Guide for YouTubers for 2024</u></a></li>
+</ul></div>
 

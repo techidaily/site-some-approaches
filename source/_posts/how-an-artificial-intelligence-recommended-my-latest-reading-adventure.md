@@ -1,7 +1,7 @@
 ---
 title: How an Artificial Intelligence Recommended My Latest Reading Adventure
-date: 2024-08-30T21:23:27.462Z
-updated: 2024-08-31T21:23:27.462Z
+date: 2025-01-08T18:19:32.324Z
+updated: 2025-01-09T19:52:47.219Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you're a book lover like me, you probably have a massive TBR list but still struggle to find your next read. Why not put the decision out of your hands entirely and ask an AI chatbot to choose your next book? I did, and the results were pretty interesting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can AI Chatbots Help Me Discover My New Favorite Book?
 
  My current strategy for finding new books involves browsing recommended reading lists, scanning reviews on [Goodreads](https://www.goodreads.com/), and checking out what’s trending on [BookTok](https://www.tiktok.com/tag/BookTok). However, the problem with these methods is that they are often hit or miss. Wouldn't it be great if you could guarantee that you’d love every book you read from now on? That’s where AI comes in.
@@ -28,8 +32,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, without further ado, let's find out!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Setting the Baseline With Traditional Book Recommendation Pathways
 
  We need something to compare the AI recommendations against, so, I went looking for books the old-fashioned way.
@@ -42,26 +47,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Now that that’s settled, it’s time to explore the AI recommendations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Exploring Romance Book Picks With ChatGPT
 
  I asked ChatGPT to find me a romance book with a fake dating trope that was lighthearted and fun but that still had emotional depth. For guidance, I included similar books that I'd enjoyed in the past in my prompt and sent it off. ChatGPT responded with [_The Plus One_](https://www.amazon.com/Plus-One-Novel-Mazey-Eddings-ebook/dp/B09Y45P45Z?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003288&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-asked-ai-to-pick-my-next-read-heres-how-it-went%2F&asc%5Fcampaign=Evergreen)by Mazey Eddings**,** a synopsis of the book, and a couple of reasons why it recommended this particular book.
 
 ![A ChatGPT prompt requesting a book recommendation and its accompanying response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-23_13h36_32.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I loved ChatGPT’s recommendation. It fit my criteria perfectly and the book seems interesting enough from the synopsis. However, I noticed that it was published in April 2023—not exactly a new release. In hindsight, this makes sense since I'm using the free version of ChatGPT, and it's been trained on data only up to that date. Aside from that, it was a solid pick.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Gemini Has Some “Interesting” Murder Mystery Book Suggestions
 
  When I asked Gemini for a newly released murder mystery book that would get my adrenaline pumping, it returned some Chinese text and an Amazon link to the book [_The 24th Hour: Is This The End?_](https://www.amazon.com/24th-Hour-Womens-Murder-Thriller/dp/0316403083?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003288&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-asked-ai-to-pick-my-next-read-heres-how-it-went%2F&asc%5Fcampaign=Evergreen) by James Patterson and Maxine Paetro. (What's up with that Google?)
 
 ![A prompt asking Gemini to suggest a mystery book and the accompanying response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-22_19h02_23.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I wasn’t quite satisfied with this first result, and just in case my first query triggered some weird glitch, I gave Gemini a second chance.
 
@@ -69,9 +79,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![A Prompt asking Gemini to suggest a murder mystery book and the response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-22_19h21_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  In fact, it's a young adult fantasy novel. Even Gemini acknowledged this in its response, where it said “This young adult fantasy novel is not your typical murder mystery.”
 
  Poor showing, Gemini.
@@ -82,16 +89,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Copilot's response to a prompt asking for fantasy book recommendations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-23_14h20_12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  Additionally, Copilot seemed to favor urban fantasy, although the reference books I provided were closer to high fantasy. Fortunately, when I asked it to choose one book, Copilot selected [_The Rage of Dragons_](https://www.amazon.com/Rage-Dragons-Burning-Book-ebook/dp/B07L2VKFP5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003288&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-asked-ai-to-pick-my-next-read-heres-how-it-went%2F&asc%5Fcampaign=Evergreen) by Evan Winter, which was one of the two titles that met my criteria.
 
 ![A prompt asking Copilot to pick one book from a list and its accompanying response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-23_14h18_40-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Who Gave The Best Book Recommendation?
 
  I loved ChatGPT’s romance recommendation more than the book I found on Goodreads. Copilot’s suggestion was decent, but I was more excited about the book from Barnes & Noble. [As for Gemini, its recommendations were inconsistent](https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/), so Amazon took the win in that category.
@@ -114,8 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +122,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-12-top-tier-cameras-that-will-transform-your-vlogging-experience/"><u>[Updated] 2024 Approved 12 Top-Tier Cameras That Will Transform Your Vlogging Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-strategies-for-podcast-rankings-and-visibility/"><u>[Updated] Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>2024 Approved 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-construct-humor-memes-via-adobe/"><u>2024 Approved Construct Humor Memes via Adobe</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-art-of-kinemaster-use-top-10-alternative-online-games-ranked/"><u>2024 Approved Unveiling the Art of KineMaster Use Top 10 Alternative Online Games Ranked</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725286635646-dvd/"><u>初心者にもわかりやすいジャニーズDVDの高品質コピー技術</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-your-google-chrome-up-and-running-again-after-failure-to-open/"><u>How To Get Your Google Chrome Up And Running Again After Failure To Open</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-infinix-note-30-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Infinix Note 30 Pro.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed-for-2024/"><u>Transform Valorant Gameplay Top-Ranked, Costless Voice Alterer Revealed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-to-building-trust-with-fb-giveaways-for-2024/"><u>Unlocking the Secrets to Building Trust with FB Giveaways for 2024</u></a></li>
+</ul></div>
 

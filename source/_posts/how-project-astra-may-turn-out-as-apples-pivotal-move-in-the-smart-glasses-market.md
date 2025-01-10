@@ -1,7 +1,7 @@
 ---
 title: How Project Astra May Turn Out as Apple's Pivotal Move in the Smart Glasses Market
-date: 2024-08-30T21:23:30.225Z
-updated: 2024-08-31T21:23:30.225Z
+date: 2025-01-02T16:16:17.444Z
+updated: 2025-01-09T16:55:47.995Z
 tags:
   - cutting-edge
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How Project Astra May Turn Out as Apple's Pivotal Move in the Smart Glasses Market
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [With Project Astra, the Time Is Right for the Next Generation of Google Glass](https://extra-guidance.techidaily.com/photo-twisting-with-professional-tools-for-2024/)
 * [Smart Glasses Could One Day Be the Only Tech You Need](https://video-screen-grab.techidaily.com/updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/)
 * [Google Should Equip Future Smart Glasses With Certain Privacy Features](https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-with-toms-insider-knowledge/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,8 +34,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Google recently shared its Project Astra, an early demo of what a future AI-powered universal assistant could look like. Near the end of the demo, the Google employee puts on a pair of glasses and seamlessly continues to converse with the assistant. I think smart glasses have just found their killer feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  With Project Astra, the Time Is Right for the Next Generation of Google Glass
 
  By now, [Google Glass](https://facebook-videos.techidaily.com/new-2024-approved-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/) is an old piece of tech, but we can all say that [it was ahead of its time](https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/). The thing is, back in 2013, the tech that could make smart glasses actually useful just wasn’t there. But with Project Astra, Google Glass could finally have its iPhone moment.
@@ -39,8 +48,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Just imagine wearing smart glasses equipped with a HUD advanced enough to show you messages, appointments, Google search results in textual form, the song you're listening to as well as the rest of the playlist, and other text-based information. This could be a shakeup the world of personal computing needs. Smartphones have turned into commodities anyway, so why not put them in our pockets and let them stay there?
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Smart Glasses Could One Day Be the Only Tech You Need
 
  While the Project Astra demo is indeed impressive, Google and DeepMind [have many issues to solve](https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/)—whether those issues are solvable at all is still an open question—and there are numerous advancements to make before releasing the next generation of the Gemini AI assistant to the public. But, the end result could finally free us from our phones. For real this time. Five years from now, everyone could be wearing glasses instead of always checking their phones.
@@ -60,8 +70,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Our phones could transform into a sort of “computing station” with our glasses taking the center stage. Smartphones will still be the engines powering all that computing, but they will do that behind the scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Google Should Equip Future Smart Glasses With Certain Privacy Features
 
  One of the most talked-about issues with the original Google Glass back in the day was just how [privacy invasive](https://www.adweek.com/performance-marketing/74-americans-wont-wear-google-glass-because-privacy-worries-156830/) they were. Back in 2013, people weren’t accustomed to other people wearing cameras on their heads and constantly recording with them. But a lot has changed since then—for better or worse.
@@ -82,8 +93,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-troubleshoot-black-screen-woes-in-youtube-playback/"><u>[New] 2024 Approved Troubleshoot Black Screen Woes in Youtube Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024s-prime-cameras-for-first-timers/"><u>[New] 2024'S Prime Cameras for First Timers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-victory-tackling-video-tribulations-head-on/"><u>[New] Instagram Victory Tackling Video Tribulations Head-On</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-access-the-journey-through-free-visual-resources/"><u>[New] Mastering Access The Journey Through Free Visual Resources</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-redmi-note-13-pro-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Redmi Note 13 Pro 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-compatible-bluetooth-controller-software/"><u>Free Download: Compatible Bluetooth Controller Software</u></a></li>
+<li><a href="https://discover-community.techidaily.com/optimizing-tiktok-content-understanding-format-options-and-video-duration-rules/"><u>Optimizing TikTok Content: Understanding Format Options and Video Duration Rules</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera-for-2024/"><u>The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives-for-2024/"><u>The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart-for-2024/"><u>Unlocking Realistic Movement Motion Blur in Facial Images with Picsart for 2024</u></a></li>
+</ul></div>
 

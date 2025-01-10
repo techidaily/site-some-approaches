@@ -1,7 +1,7 @@
 ---
 title: "Transforming Linux Into Windows 10: The Ultimate Tutorial for Seamless User Experience Transition"
-date: 2024-08-30T21:19:28.233Z
-updated: 2024-08-31T21:19:28.233Z
+date: 2025-01-07T16:48:08.353Z
+updated: 2025-01-09T23:29:41.645Z
 tags:
   - desktop
 categories:
@@ -24,17 +24,14 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
  Want to use a Linux desktop but don't want to lose Windows 10's familiar look and vibe? Most desktop environments come with unique layouts and themes by default, but with a bit of effort, you can convert it to a spitting image of the Windows 10 desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Method 1: Get a Windows 10 GTK Theme
 
  The method that works on many desktop environments is to simply download a Windows 10 theme pack and icon pack designed for GTK desktops and drop them into the proper folders. We'll demonstrate this with Cinnamon (on Linux Mint 23.3, specifically), but it'll also work on [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/), Xfce, LXDE, and MATE.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 1: Download and Install the Theme
 
  The best source for Windows 10 GTK theming files is [the B00merang Project's GitHub release page](https://github.com/B00merang-Project/Windows-10/releases). That is the light version, and though we'll use it as an example in this guide, you can grab [the Windows 10 dark variant](https://github.com/B00merang-Project/Windows-10-Dark/releases) if you prefer.
@@ -65,27 +62,26 @@ unzip Downloads/Windows-10-3.2.1.zip -d ~/.themes
 
 ![The Show Hidden Files option in the Nemo file manager for Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_14h53_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  You should now see several folders that weren't there before and whose names start with a period like ".local". You need the ".themes" folder, but in our version of Linux it didn't exist yet, so we just made one.
 
 ![Creating a folder named .themes in a Linux home directory using a file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_14h57_55.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After creating the .themes folder, open it and paste your theme folder there by either right-clicking and selecting "Paste" or using the keyboard shortcut Ctrl+V.
 
 ![Windows 10 theme pasted into the .themes folder on a Linux system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h05_13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 2: Download and Install the Icon Pack
 
  The basic theme package contains what you need to get the overall design of Windows 10, but if you want those illustrious icons, you need to get and install those separately.
@@ -95,32 +91,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Windows 10 icon folder in the icons folder in a Linux home directory](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h22_21.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 3: Enable Your Windows 10 Theme
 
  With your theme and icons in place, it's time to paint the town Windows. Open your DE's settings and look for its theming preferences, likely called "Appearance" or, in the case of Cinnamon, "Themes."
 
 ![The Themes menu available in the Cinnamon desktop environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h26_20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then we need to choose the Windows 10 theme for every category available. To get this ability in Cinnamon, I needed to click "Advanced Settings."
 
 ![If you're using the Cinnamon desktop environment, click "Advanced Settings" in your Themes menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-10_15h26_22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, the interface will look different depending on precisely your distro and DE. But in Cinnamon, there are three categories you can change to Windows: Applications, Icons, and Desktop. Click the button in each category to open the options.
 
 ![Cinnamon breaks theming down into applications, icons, and desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-10_15h29_17.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You might need to scroll to reveal it, but there will be an option named Windows-10-1.2.3 (or whatever theme or icon version you downloaded is named).
 
 ![The Windows 10 theme selection in the Cinnamon Theme settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h36_04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The finishing touch is of course [the classic Windows 10 background](https://video-screen-grab.techidaily.com/updated-in-2024-dynamic-public-speaker-review-v8/). There's a large collection of the older ones [on Imgur](https://imgur.com/a/3lEQM). I wanted the lighter blue version of the glass pane one, which I found [at 4K Wallpapers](https://4kwallpapers.com/technology/windows-10-windows-logo-glossy-blue-background-2733.html).
 
 ![Cinnamon desktop environment with Windows 10 theme applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h46_04.png) 
@@ -143,9 +146,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Cinnamon desktop with additional Windows 10 tweaks applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-12_15h50_56.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 2: Use a Community Theme Pack
 
  Some desktop environments have a built-in tool for finding and installing themes built and shared by community members. In my experience, these tend to be hit-and-miss. They may not be as perfect a reproduction as you hope for, so you may end up needing manual tweaks anyway. Icons may be missing. Updates to the desktop environment itself can break the theme, too, forcing you to further tweak or undo the theming altogether.
@@ -156,12 +156,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![In Cinnamon's theme manager, click the download button next to the theme you want to download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h32_57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Once you've downloaded the theme, you've then got to go back to the Themes tab and activate it. You may have to scroll to find it.
 
 ![Select the Windows 10 theme you downloaded.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-11_15h41_53.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select it and, if all went well, you've got your Windows 10 theme.
 
@@ -181,8 +182,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +189,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/mprove-video-clarity-with-simplified-caption-steps/"><u>[New] Improve Video Clarity with Simplified Caption Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>[New] In 2024, Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-of-videos-assessing-av1s-edge-over-vp9/"><u>[New] The Future of Videos Assessing AV1's Edge over VP9</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-toolwiz-evaluation-the-top-choice-in-mobile-editing/"><u>[New] Toolwiz Evaluation The Top Choice in Mobile Editing?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-creativity-with-iphone-shadow-photography/"><u>[New] Unleashing Creativity with iPhone Shadow Photography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tips-for-sharing-content-on-instagram/"><u>[Updated] In 2024, Tips for Sharing Content on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dell-xps-16-powerhouse-takes-on-apples-macbook-pro-a-comprehensive-reveiw-by-zdnet/"><u>Dell XPS 16 Powerhouse Takes on Apple's MacBook Pro - A Comprehensive Reveiw by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-collaboration-redefined-with-6-chatgpt-techniques/"><u>Digital Collaboration Redefined with 6 ChatGPT Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-full-guide-to-perfecting-photos-with-facetune-for-2024/"><u>The Full Guide to Perfecting Photos with Facetune for 2024</u></a></li>
+</ul></div>
 

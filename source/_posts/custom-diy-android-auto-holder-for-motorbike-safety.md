@@ -1,7 +1,7 @@
 ---
 title: Custom DIY Android Auto Holder for Motorbike Safety
-date: 2024-08-30T21:18:32.831Z
-updated: 2024-08-31T21:18:32.831Z
+date: 2025-01-08T19:27:32.747Z
+updated: 2025-01-10T00:42:45.996Z
 tags:
   - mobile
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Custom DIY Android Auto Holder for Motorbike Safety
 
 Putting a phone in a mount on your bike works fine, but it's not great. The biggest problem is you run the risk of damaging the phone's camera. I wanted a map and media controls easily accessible without strapping my phone to my bike. A wild idea became a reality: What if my bike had an Android Auto display?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Not Just Mount Your Phone?
 
@@ -27,9 +31,17 @@ Bone
 
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Idea: Android Auto...But For a Bike
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -39,16 +51,14 @@ Joe Fedewa / How-To Geek
 
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How It Works and What You Need
 
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  The first thing I did was look for small portable head units on Amazon. The smallest I could find was 5-inches, which is still pretty big for a bike. Plus, it would need to be plugged into a power source. That's no good. So what about that old phone idea again?
@@ -58,8 +68,9 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  I was honestly amazed at how well this all worked. I had an old phone with a cracked screen, perfect for the job. It really is exactly the same as using Android Auto in a car. Now, I've got a simplified interface with Google Maps navigation and music controls front and center. To complete the setup, I 3D printed a Quad Lock mounting system for the bike and phone, but any bike mount would work.
@@ -74,8 +85,6 @@ Joe Fedewa / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +92,20 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-mobile-media-apps-for-high-quality-photographyvideography-for-2024/"><u>[New] Essential Mobile Media Apps for High-Quality Photography/Videography for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigating-the-ins-and-outs-of-youtube-premium/"><u>[New] In 2024, Navigating the Ins and Outs of YouTube Premium</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creativity-try-these-14-text-animation-wonders/"><u>[New] Unlock Creativity Try These 14 Text Animation Wonders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-your-creative-potential-with-picsart-2024-edition/"><u>[New] Unlocking Your Creative Potential with PicsArt 2024 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-potential-with-the-q500-drone/"><u>2024 Approved Unleashing Potential with the Q500 Drone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-blockers-fixing-amd-installation-woes/"><u>Bypassing Error Blockers: Fixing AMD Installation Woes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-find-n3-flip-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo Find N3 Flip Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-premier-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Premier 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-elegant-appearance/"><u>In 2024, The Art of Elegant Appearance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>In 2024, The Full Picture A Comprehensive Review of Android Lightroom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-the-secrets-of-instagrams-saved-content/"><u>In 2024, Unlocking the Secrets of Instagram's Saved Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-for-win-11s-stubborn-photos-app-for-2024/"><u>Troubleshooting Tips for Win 11'S Stubborn Photos App for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-connection-pairing-your-samsung-earbuds-with-your-pc/"><u>Wireless Connection: Pairing Your Samsung Earbuds with Your PC</u></a></li>
+</ul></div>
 

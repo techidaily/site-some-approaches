@@ -1,7 +1,7 @@
 ---
 title: "Guide to Attending the 202Er WWDC Event Remotely: Insights & Anticipated Announcements"
-date: 2024-08-30T21:23:25.947Z
-updated: 2024-08-31T21:23:25.947Z
+date: 2025-01-08T03:28:47.658Z
+updated: 2025-01-10T02:01:18.239Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
 ## Guide to Attending the 202Er WWDC Event Remotely: Insights & Anticipated Announcements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [When Is WWDC 2023?](https://facebook-clips.techidaily.com/in-2024-crafting-an-irresistible-brand-image-on-your-fb-page/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  Apple holds a Worldwide Developers Conference each year, or WWDC for short, and it's coming back for 2023\. Here's when it's happening, how to watch it, and what Apple might reveal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Is WWDC 2023?
 
 [WWDC 2023](https://www.apple.com/newsroom/2023/03/apples-worldwide-developers-conference-returns-june-5/) will take place from **June 5-9, 2023**. The main keynote presentation, where Apple always announces new software and (possibly) hardware, will take place on June 5\. Apple hasn't confirmed the exact timing for the keynote, but last year the event started at 10 AM Pacific Time, or 1 PM Eastern Time.
@@ -26,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  Just like last year, WWDC will primarily take place online, and the keynote will probably be another pre-recorded presentation. However, Apple is also holding a special all-day experience at its Apple Park headquarters on June 5 for a select group of attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do I Watch WWDC Live?
 
  If last year's WWDC is any indication, the event will be available on [Apple's YouTube channel](https://www.youtube.com/watch?v=GYkq9Rgoj8E) and the [Apple Events site](https://www.apple.com/apple-events/). The livestream will likely also be available in the [Apple Developer app](https://apps.apple.com/us/app/apple-developer/id640199958?at=1010l392g&ct=htg808733) for iPhone and iPad (you don't need to be a registered developer to watch the stream), and the TV app on Apple TV.
@@ -35,17 +44,15 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  It's nice to have so many options, but YouTube is probably the easiest way to watch the event. You can also click the reminder button on the YouTube link (or the above embed) to receive a notification through YouTube when the presentation is about to start.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Will Be at WWDC?
 
  Apple isn't saying what it will talk about at this year's WWDC event, except that it will cover "the latest iOS, iPadOS, macOS, watchOS, and tvOS advancements." It's almost guaranteed that we'll get our first peek at iOS 17, iPadOS 17, watchOS 10, tvOS 17, and macOS 14 at the event -- Apple typically announces new major software updates at WWDC, and releases them later in the fall. The iOS 17 update is rumored to include [new Lock Screen and Control Center changes](https://www.macrumors.com/2023/04/25/ios-17-lock-screen-apple-music-rumors/), while watchOS 10 is expected to have [an increased focus on widgets](https://www.bloomberg.com/news/newsletters/2023-04-30/watchos-10-details-apple-watch-to-gain-widgets-as-part-of-new-software-at-wwdc-lh3f71uv).
 
 ![Person wearing the Apple Watch Ultra with the Alpine Band watch band](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52508640769_ee14eea75a_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  There has also been speculation about a possible augmented reality and/or virtual reality headset that Apple might reveal at WWDC. The project has reportedly been in development for years, but it's expected to arrive sometime this year, and Apple might use WWDC as an opportunity to show it off for the first time. Bloomberg [reported in January](https://www.bloomberg.com/news/articles/2023-01-23/apple-reality-pro-details-eye-hand-tracking-app-store-3d-ios-like-interface#xj4y7vzkg) that the device will have "several external cameras that can analyze a user's hands, as well as sensors within the gadget's housing to read eyes," allowing the headset to function as an independent device, an external display for a Mac, or an advanced FaceTime system. The same report estimates the price will be around $3,000.
@@ -55,8 +62,9 @@ Justin Duino / How-To Geek
 ![Apple iMac 2021 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Apple-iMac-2021-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple
 
  The most interesting Mac that could make an appearance at WWDC might be a new Mac Pro. The current Mac Pro is Apple's last computer in production still using Intel processors, instead of the Apple Silicon chips that now power every other Mac. The [Mac Studio was released in 2022](https://extra-skills.techidaily.com/updated-masterclass-in-virtual-reality-critical-oculus-player-insights/) as a stop-gap machine, with Apple promising that a true Silicon-powered Mac Pro would arrive in the future. [According to Bloomberg](https://www.bloomberg.com/news/newsletters/2023-03-05/when-is-apple-aapl-releasing-new-mac-pro-15-inch-macbook-air-new-imac-m3-levgn4yc), the machine is expected to use an Apple M2 Ultra chip with up to 24 CPU cores, 76 GPU cores, and up to 196 GB of unified memory. Apple was reportedly working on an "M2 Extreme" chip that would set the Pro apart from the Mac Studio, but that [may have been cancelled](https://www.macrumors.com/2022/12/18/mac-pro-m2-extreme-chip-likely-scrapped/).
@@ -69,8 +77,6 @@ Apple
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,4 +84,20 @@ Apple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unique-14-motion-graphics-showcasing-text/"><u>[New] Unique 14 Motion Graphics Showcasing Text</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-deciphering-the-mechanics-of-whatsapp-calls/"><u>[Updated] 2024 Approved Deciphering the Mechanics of WhatsApp Calls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ensuring-profit-tracking-on-your-channel-for-2024/"><u>[Updated] Ensuring Profit Tracking on Your Channel for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[Updated] In 2024, Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-your-way-through-youtubes-comment-forum/"><u>2024 Approved Streamlining Your Way Through YouTube's Comment Forum</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unshakable-imagery-techniques/"><u>2024 Approved Unshakable Imagery Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-p55plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Itel P55+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-ars-capabilities-and-limits/"><u>In 2024, Understanding AR's Capabilities and Limits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphones-ring-expert-advice-on-restoring-call-sounds/"><u>Reviving Your iPhones Ring: Expert Advice on Restoring Call Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncovering-top-tiktok-backdrops-quickly-for-2024/"><u>Uncovering Top TikTok Backdrops Quickly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-with-android-and-iphones-top-free-layering-apps-for-2024/"><u>Unleash Creativity with Android & iPhone's Top FREE Layering Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-movie-magic-with-cg-centrals-look-up-tables-luts-for-2024/"><u>Unlock Movie Magic with CG Central's Look-Up Tables (Luts) for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-take-your-video-creations-to-the-next-level-with-64-bit-editing/"><u>Updated 2024 Approved Take Your Video Creations to the Next Level with 64-Bit Editing</u></a></li>
+</ul></div>
 

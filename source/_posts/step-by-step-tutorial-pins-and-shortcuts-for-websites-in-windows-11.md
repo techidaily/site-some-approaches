@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Pins and Shortcuts for Websites in Windows 11"
-date: 2024-08-30T21:22:38.712Z
-updated: 2024-08-31T21:22:38.712Z
+date: 2025-01-04T16:32:50.646Z
+updated: 2025-01-09T21:57:07.662Z
 tags:
   - deals
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ## Step-by-Step Tutorial: Pins and Shortcuts for Websites in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Pin a Website from Google Chrome](https://win-answers.techidaily.com/overcoming-common-among-us-voice-call-problems-for-pc-users-a-step-by-step-guide/)
 * [Pin a Website from Firefox](https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6s-by-drfone-ios/)
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,18 +43,12 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
  If you set the website to open as a window, it will open immediately as its own window. You can then right-click its shortcut on your taskbar and select "Pin to Taskbar" without using the desktop shortcut.
@@ -54,16 +56,9 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
@@ -71,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
 ![Create a Firefox Browser Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff2.png) 
@@ -89,15 +85,16 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Microsoft Edge Website
 
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
 ##
@@ -108,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +112,19 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-life-in-motion-on-your-ipad-for-2024/"><u>[New] Capture Life in Motion on Your iPad for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-joke-junction-ultimate-free-comic-templates/"><u>[New] Joke Junction Ultimate Free Comic Templates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unparalleled-top-5-agile-camcorders-guide/"><u>[Updated] Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-streaming-services-for-musicians/"><u>2024 Approved Superior Streaming Services for Musicians</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>2024 Approved The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-android-3d-viewer-experience/"><u>2024 Approved Top Android 3D Viewer Experience</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-user-privacy-with-cookiebots-advanced-tracking-solutions/"><u>Enhancing User Privacy with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-13t-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi 13T Face Lock?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-pro-tips-uncovering-12-prime-websites-for-affordable-images/"><u>In 2024, Pro Tips Uncovering 12 Prime Websites for Affordable Images</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-lava-blaze-2-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Lava Blaze 2 5G Device</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-7-free-conversion-techniques-transforming-avi-files-into-mov-format/"><u>Top 7 Free Conversion Techniques: Transforming AVI Files Into MOV Format</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x100-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
 

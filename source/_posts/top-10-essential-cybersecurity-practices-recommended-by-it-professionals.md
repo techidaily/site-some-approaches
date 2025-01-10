@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Recommended by IT Professionals
-date: 2024-08-30T21:22:41.887Z
-updated: 2024-08-31T21:22:41.887Z
+date: 2025-01-03T02:27:46.976Z
+updated: 2025-01-10T03:40:57.274Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 10 Essential Cybersecurity Practices Recommended by IT Professionals
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Learn How to use Windows and Your Other Software And Devices](https://digital-screen-recording.techidaily.com/new-in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/)
 * [Don't Panic!](https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To keep your accounts and devices secure, do not open links in suspicious emails and pay attention to security warnings.
@@ -32,9 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
@@ -54,22 +59,17 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Keep Your Work and Private Life Separate
 
  You don't want your employer to know all the details about your personal life, and your employer doesn't want you to be accidentally leaking company information through your social media profiles. Keep your work and private lives separate by using different email accounts and profiles for each. This helps prevent information from leaking, for example, by making it more difficult for you to accidentally put your dating schedule in the work calendar, or email a sensitive financial report to your yoga class.
@@ -77,8 +77,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  The most effective way to do this is to create [separate user accounts](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) on your computer. You can also use [Firefox Containers](https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/) or Safari Profiles, or isolate different activities by using a different browser for each.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Set a Passcode On All Of Your Devices
 
  Your phone, tablet, and laptop all contain sensitive information, and they provide access to your bank accounts, credit cards, and other financial tools. If one of them is lost or stolen, whoever gets hold of it can do a lot of damage in a short amount of time.
@@ -93,6 +94,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  The best way to do this is to contact them via another communication method. If you receive a suspicious email from a known address, give that person a call directly to confirm that they've asked. If you receive an odd phone call claiming to be from someone you know, hang up and drop them a WhatsApp to check if they made the call before calling them back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Download Strange Software or Attachments, and never Run Macros
 
  Viruses masquerading as legitimate downloads are everywhere on the Internet, just waiting for someone to click on them. Avoid unknown sources of apps and stick to Apple, Android, and Windows App stores whenever you can.
@@ -100,8 +105,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
@@ -110,9 +116,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  Learn How to use Windows and Your Other Software And Devices
 
  Your life will be easier if you know how to use your phone, tablet, and laptop properly. It might take a bit of a time investment, but it'll pay off: you'll be able to do things faster, make less mistakes, and you'll know when something isn't working properly. When you can tell that something isn't quite working as it should, you can investigate by running a virus scan, or seek expert help to resolve the problem.
@@ -135,8 +138,6 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +145,22 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-premiere-plans-free-for-pros/"><u>[New] Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-studio-technique-breakdown-comprehensive-xvideooverview/"><u>[Updated] Studio Technique Breakdown Comprehensive XVideoOverview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-multiframe-view-an-in-depth-look-at-edges-pip/"><u>[Updated] Utilizing Multiframe View An In-Depth Look at Edge’s PIP</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1-modify-your-sound-and-display-preferences-via-the-windows-control-panel-tutorial-by-yl-computing/"><u>1. Modify Your Sound and Display Preferences via the Windows Control Panel - Tutorial by YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-commercial-cloud-vaulting-services/"><u>2024 Approved Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-itunes-podcast-enrollment/"><u>2024 Approved Tips for iTunes Podcast Enrollment</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-voice-capture-device-analysis/"><u>2024 Approved Voice Capture Device Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/download-delight-making-funimate-simple-to-use/"><u>Download Delight Making Funimate Simple to Use</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y100a-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y100A? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-technique-for-scrapping-multi-video-tiktok-archives/"><u>In 2024, The Ultimate Technique for Scrapping Multi-Video TikTok Archives</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-google-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Google Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>In 2024, Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-seamless-sound-moves-in-premiere-pro/"><u>In 2024, Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/slow-it-down-a-comprehen/"><u>Slow It Down A Comprehen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-unexpected-errors-in-windows-11-what-to-do-when-plans-dont-pan-out/"><u>Troubleshooting Unexpected Errors in Windows 11 - What To Do When Plans Don't Pan Out?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: DJI Mini 4S Advanced Camera Features & Ease of Use for New Flyers"
-date: 2024-08-30T21:17:06.482Z
-updated: 2024-08-31T21:17:06.482Z
+date: 2025-01-04T23:26:20.075Z
+updated: 2025-01-10T01:08:29.298Z
 tags:
   - product-reviews
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ![DJI Mini 4 Pro and RC 2 remote control on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/617rfzwf0fl-_ac_sl1500_.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  DJI Mini 4 Pro
 
@@ -81,9 +85,17 @@ Expand
 
 [$1159 at Amazon](https://www.amazon.com/DJI-Controller-Mini-Drone-Intelligent-Batteries/dp/B0CFLKK7QS/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000738&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdji-mini-4-pro-review%2F&asc%5Fcampaign=Affiliate) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design and Features: Size Matters
 
 ![DJI Mini 4 Pro and Controller Laid in the Grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-dji-mini-4-pro-and-its-controller-laid-in-the-grass-2jpg_53204101908_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -107,6 +119,10 @@ The DJI Mini 4 Pro, RC 2 remote controller, and all of its accessories fit in th
 
 ![The DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2) components without the storage bag laid out on a wood tabletop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-dji-mini-4-pro-with-its-accessoriesjpg_53204221485_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
 The DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2). The storage bag is not shown.
@@ -119,14 +135,6 @@ The DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2). The storage bag is not shown.
 
  When a battery is inserted in the drone, it can be charged via its own USB-C port, with the same type of indicator lights and power button found on the charging station. The RC 2 remote controller charges and works the same and has up to three hours of battery life.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Setting Up: Beginner Friendly
 
 ![DJI Mini 4 Pro on a wood tabletop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-dji-mini-4-pro-open-on-a-workbench-1jpg_53204222520_o.jpg) 
@@ -147,14 +155,14 @@ Hannah Stryker / How-To Geek
 
  As with the drone, I found the build quality of the RC 2 to be solid, ergonomic, and intuitively designed. Although the chance of a crash landing is low, I was never concerned that the drone wouldn't hold up to the occasional accident nor the RC 2 to the occasional drop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Apps: Multiple Options
 
 ![Woman's hands holding the RC 2 remote controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-10-15-45-33-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Three apps, which work with either iOS 11.0 or above, or Android 7.0 or above, devices, are recommended by DJI: [DJI Fly](https://www.dji.com/downloads/djiapp/dji-fly), [DJI Store](https://store.dji.com/pages/app), and [LightCut](https://www.dji.com/downloads/djiapp/lightcut).
@@ -169,9 +177,6 @@ Bill Loguidice / How-To Geek
 
 ![DJI Mini 4 Pro in flight at a park](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-13-17-24-44-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  I tested the DJI Mini 4 Pro in New Jersey's cool fall weather with no stability issues in both sunny and overcast conditions with light winds. Of course, you shouldn't fly in snow, rain, or fog, and wind speeds need to be below 23 mph, but under most normal conditions the lightweight drone only exhibits minor vibrations.
@@ -194,16 +199,10 @@ Bill Loguidice / How-To Geek
 
  As expected from any high-performance device with a battery, after even 10 minutes of flight, the drone does get warm to the touch. It's the same for the RC 2 remote controller, although neither ever becomes uncomfortably hot.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Video Performance: A 4K Powerhouse
 
 ![DJI Mini 4 Pro in flight from side above a park path](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-13-17-24-24.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Taking video and photos is as simple as pressing the respective buttons on the RC 2 remote control. The RC 2 has a microSD card slot and 32GB of internal storage, of which 21GB is available. While the remote controller can do 720p screen recordings and photos, you'll want to use the drone for direct footage captures at its native resolution.
@@ -228,6 +227,10 @@ DJI Mini 4 Pro ND Filters Set (ND16/64/256)
 
 ![DJI Mini 4 Pro Wide-Angle Lens open on a wood tabletop with its manual](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/wide-lens-for-the-dji-mini-4-pro-2jpg_53204221260_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
 DJI Mini 4 Pro Wide-Angle Lens
@@ -236,9 +239,6 @@ DJI Mini 4 Pro Wide-Angle Lens
 
 ![Photo from the DJI Mini 4 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/dji_20231010155403_0008_d.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
 A photo from the DJI Mini 4 Pro.
@@ -247,13 +247,13 @@ A photo from the DJI Mini 4 Pro.
 
  Each shooting mode was similarly fun to experiment with, and, combined with good photo and video editing software, opened up a lot of creative possibilities. While this size drone with these types of capabilities would work great for professional use cases, such as capturing real estate listings or doing site surveys, it's just as at home as a YouTube content creation or pure recreational device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ##  Should You Buy The DJI Mini 4 Pro?
 
 ![DJI Mini 4 Pro in flight above grass](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/2023-10-10-15-46-54-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bill Loguidice / How-To Geek
 
@@ -280,8 +280,6 @@ The DJI Mini 4 Pro does just about everything you would want out of a drone in a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +287,21 @@ The DJI Mini 4 Pro does just about everything you would want out of a drone in a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-gigglegenius-funniest-memes-await/"><u>[New] 2024 Approved GiggleGenius Funniest Memes Await</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-video-capturing-across-devices-and-platforms-for-2024/"><u>[New] Mastering Video Capturing Across Devices and Platforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tv-live-streams-with-regional-content-2024-edition/"><u>[New] Top TV Live Streams with Regional Content, 2024 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-captivation-rally-more-likes-for-your-tiktok-unpacks/"><u>[Updated] The Art of Captivation Rally More Likes for Your TikTok Unpacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-premium-and-gratis-mobile-video-mosaic-tools-for-android/"><u>[Updated] Top 8 Premium & Gratis Mobile Video Mosaic Tools for Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-6-easy-free-youtube-closers-for-your-videos-top-picks/"><u>2024 Approved 6 Easy, Free YouTube Closers for Your Videos (Top Picks)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-edit-youtube-videos-in-sony-vegas/"><u>How to Edit YouTube Videos in Sony Vegas</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-find-the-deleted-items-folder-in-microsoft-onedrive/"><u>How to Find the Deleted Items Folder in Microsoft OneDrive</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-15-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 15 with 3 Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thriving-on-the-grid-maximizing-your-telegram-impact-for-2024/"><u>Thriving on the Grid Maximizing Your Telegram Impact for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-streaming-issues-on-mac-with-mixer-for-2024/"><u>Troubleshooting Streaming Issues on Mac with Mixer for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/twitch-replay-magic-stream-control-secrets/"><u>Twitch Replay Magic Stream Control Secrets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-a-million-token-context-in-gemini-15-is-redefining-digital-asset-management/"><u>Why a Million Token Context in Gemini 1.5 Is Redefining Digital Asset Management</u></a></li>
+</ul></div>
 

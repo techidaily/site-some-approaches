@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 10 Essential Google TV Capabilities
-date: 2024-08-30T21:18:39.377Z
-updated: 2024-08-31T21:18:39.377Z
+date: 2025-01-04T00:42:35.137Z
+updated: 2025-01-10T03:30:29.876Z
 tags:
   - mobile
 categories:
@@ -26,19 +26,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google TV packs a punch, but are you using it to its full potential? From hidden gems to time-saving tricks, there are probably some features you didn't know about. We've got ten tips and tricks to help improve your Google TV experience and get the most out of your precious couch time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Add a Quick Settings Shortcut for the Remote
 
 ![Google TV remote quick settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-165910.png) 
 
  One of the best things about an internet-connected streaming device is the ability to [use your phone as a remote](https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-audiovisual-transmitters/). If you have a Google TV device and an Android phone, you can make it super quick and easy to pull up the virtual remote. Once you install the official Google TV app (and open it and sign in), you'll have [a new Quick Settings toggle available](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) called "Remote." Tapping it instantly opens up the remote on top of whatever you're doing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install Apps on the TV From Your Phone
 
 ![Play Store remote app install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-165959.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Thanks to Google hiding the Play Store on Google TV devices, it's not as easy as it could be to [install apps directly on your TV](https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/). The good news is you can do it from your phone or a web browser. The Play Store's web version allows you to [install apps on any device connected to your account remotely](https://win-howtos.techidaily.com/resolving-device-detection-issues-with-bluetooth-on-microsofts-latest-os-windows-n11/), and the Play Store on Android phones can [install apps to multiple devices at once](https://instagram-video-files.techidaily.com/updated-in-2024-keeping-content-copyright-compliant-with-instra-watermarking/).
 
 ##  Remap the Buttons on Your Remote
@@ -50,37 +55,33 @@ Justin Duino / How-To Geek
  Your Google TV device almost certainly came with a remote that features shortcuts to streaming services. If you don't use those services, the buttons are completely useless. So, why not remap them to something else? Thanks to a handy app called "Button Mapper," [you can do exactly that](https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-displaying-your-screen-in-google-meet-for-2024/). Reprogram any button to launch apps or perform various actions.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Add Content to Your Watchlist From Your Phone
 
 ![Google TV watchlist on web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240806-170020.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another useful integration for Google TV and your phone is the "Watchlist." As the name implies, this is essentially a list of content you'd like to watch. Titles on your Watchlist show up in the "Library" tab on your Google TV, but you can add movies and shows to the Watchlist from your phone. Simply do a Google Search for a title and tap the "Want to Watch" button under the result. It's a handy way to keep track of stuff you haven't watched yet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Create a Kids Profile
 
 ![kids profile home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/PXL_20210401_142818270.jpg) 
 
  Google TV devices offer [multiple profiles](https://facebook.techidaily.com/customizing-profile-information-emailphone-switch/), including a [dedicated Kids profile with parental controls](https://facebook-videos.techidaily.com/new-in-2024-top-facebook-video-mp4-downloaders/). This profile (which will add your child to your [Google Family](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/)) doesn't require a separate Gmail account. By setting up a Kid's profile, you can easily manage bedtimes and screen time limits, monitor app usage, and restrict content, ensuring a safe viewing experience for your children on your Google TV device.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  Put the Home Screen in Apps Only Mode
 
 ![Google TV apps only home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240725-081803.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google TV's home screen can be overwhelming with recommendations. Fortunately, ["Apps Only Mode" simplifies the interface by focusing solely on installed apps](https://hardware-help.techidaily.com/inside-look-at-the-asus-rog-swift-pg3nce-oled-monitor-a-game-changer-reviewed/). This hidden feature eliminates distracting content like "Top Picks For You" and "Continue Watching," replacing them with a clean grid of app icons. The only part of the home screen recommendations that can't be removed is the big "Highlights" carousel at the top, but everything else is wiped clean.
 
 ##  Get Recommendations for the Services You Use
@@ -89,13 +90,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you don't mind the home screen recommendations, [you should take a minute to improve them](https://extra-hints.techidaily.com/a-beginners-guide-to-adding-depth-with-text-in-photoshop-for-2024/). While some recommendations are just ads, many of them are based on the streaming services you actually use. Make sure you've enabled all the services you're currently subscribed to—and remove the ones you no longer have. There's nothing more annoying than seeing a recommendation for something you can't actually watch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Turn off Autoplaying Trailers
 
  One of the annoying things about recommendations is when videos start auto-playing on the home screen and in apps. Thankfully, there's an easy way to prevent this from happening. Simply go to Settings > Accounts and Sign-in > Your account > Auto-play Trailers. Toggle the switch off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Reorder the Apps
 
  You probably have a few apps that you use more than others, so why not move them to the front of the list? [To rearrange your favorite apps and games](https://extra-guidance.techidaily.com/leading-the-charge-in-online-healthcare-promotions-and-ads-for-2024/) on the "For You" and "Apps" tabs, go to "Your Apps," highlight the app you want to move, and select "See All." Then, hold down the "Select" or "Enter" button on your remote, choose "Move," and use the D-pad to reposition the app to the desired location.
@@ -110,8 +112,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-your-status-with-a-track/"><u>[New] Harmonize Your Status with a Track</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-memetic-innovations-ideas-that-delight-any-audience/"><u>[New] Memetic Innovations Ideas That Delight Any Audience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-essential-guide-to-mastering-asmr-experience/"><u>[Updated] 2024 Approved Essential Guide to Mastering ASMR Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-optimal-video-player-for-avi-files-on-devices/"><u>[Updated] Optimal Video Player for Avi Files on Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-audio-processing-in-windows-media-player/"><u>2024 Approved Streamlined Audio Processing in Windows Media Player</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-intricacies-of-crafting-a-virtual-experience/"><u>2024 Approved The Intricacies of Crafting a Virtual Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-for-converting-mp4-files-to-jpeg-pictures-in-windows-operating-systems-1011/"><u>Easy Methods for Converting MP4 Files to JPEG Pictures in Windows Operating Systems (10/11)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-dialogue-maker-land-for-2024/"><u>Excellence in Dialogue Maker Land for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g34-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G34 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-x5-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco X5 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-significance-of-reducing-camera-shake-with-software-tools/"><u>In 2024, The Significance of Reducing Camera Shake with Software Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-smartphone-selection-for-superior-video-recording/"><u>In 2024, Ultimate Smartphone Selection for Superior Video Recording</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultrawide-vs-uhd-4k-monitors-the-experts-advice-for-2024/"><u>UltraWide VS UHD 4K Monitors The Expert's Advice for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Build and Use a Cost-Effective Version of Facebook's Intelligent Chat Assistant at Home
-date: 2024-08-30T21:23:13.480Z
-updated: 2024-08-31T21:23:13.480Z
+date: 2025-01-07T01:10:35.868Z
+updated: 2025-01-10T01:50:24.947Z
 tags:
   - cutting-edge
 categories:
@@ -27,14 +27,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Meta AI uses the cloud to provide users access to Llama 3's AI features. With the Meta AI website, you get an easy-to-use, OpenAI-like interface with fast performance that, in my experience, some top-of-the-line Nvidia gaming graphics cards have a hard time providing.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  A Quick Start Guide to Meta AI
 
  Using Meta AI is quite easy. To start, head over to the [page](http://meta.ai). Once you're there, you'll find a ChatGPT-like chat interface. You don't need an account to interact with Meta AI and Llama 3\. However, you should consider logging into your Facebook account, as it'll better integrate with Meta's other services (Instagram, Facebook, Whatsapp, etc.)
 
 ![Logging in to meta ai.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/meta-ai-login.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After logging into your account, you'll see two options on the left-hand sidebar. There's the "New conversation" button, which you can select to start a new conversation with Meta AI. Here, you can ask it various questions like any LLM (ChatGPT, Gemini, Copilot, etc.)
 
@@ -42,35 +43,30 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Asking Meta AI questions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/meta-ai-ask-anything.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Additionally, Meta AI has an "Imagine" feature. This feature is a lot like OpenAI's [DALL-E 3](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/) or Google Gemini's image creation feature. You can ask it to create AI-generated images, and it does it quite well. To generate an image with Meta AI, click on the "Ask Meta AI anything..." box and describe your image.
 
 ![Meta AI creating an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/meta-ai-create-image.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Personalize Your AI Experience
 
  Meta's new AI tool is new, so there aren't a lot of personalization options compared to other commercial offerings. However, you can make your AI experience your own. For example, you can use either a "Dark" or "Light" theme by accessing the "Settings" area.
 
 ![Meta AI settings options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/meta-ai-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition to these settings, you can also personalize your experience by providing feedback on Meta's responses. If you're not getting the responses you like, you can click "thumbs down", which will help the Meta engineers improve. It's also possible to give a "thumbs up" if you're happy with the response.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Explore Meta AI's Coolest Features
 
  Meta AI has a lot of cool features that make it a powerful tool for projects you may be working on. Here are some of its most notable features.
@@ -105,8 +101,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Self-hosting Llama3 allows for greater customization and flexibility, giving more control over your AI setup.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Making the Choice
 
  It all comes down to what you value most:
@@ -126,8 +123,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +130,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-pc-sound-capturing-software-x-recorder-version/"><u>[New] 2024 Approved Free Pc Sound Capturing Software - X-Recorder Version</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sleek-60-second-fades/"><u>[New] In 2024, Sleek 60-Second Fades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>[New] Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syma-x5c-an-in-depth-beginners-guide-for-future-pilots/"><u>[New] Syma X5C An In-Depth Beginner’s Guide for Future Pilots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>[Updated] In 2024, Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-websites-for-rhythmic-alerts-unique-sounds/"><u>[Updated] Top Websites for Rhythmic Alerts Unique Sounds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-crafting-a-viral-path-best-hashtags-for-youtube-riches/"><u>2024 Approved Crafting a Viral Path Best Hashtags for YouTube Riches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essentials-for-a-powerful-metaverse-experience-top-7/"><u>2024 Approved The Essentials for a Powerful Metaverse Experience (Top 7)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/yl-computinguyl-software/"><u>最高水平的技艺展示：YL Computing解锁《亿万孤独之旅》U兄式专家秘方——YL Software</u></a></li>
+<li><a href="https://win-web3.techidaily.com/guide-complet-pour-sauvegarder-et-proteger-votre-disque-dur-sous-windows-11-des-conseils-pratiques/"><u>Guide Complet Pour Sauvegarder Et Protéger Votre Disque Dur Sous Windows 11 - Des Conseils Pratiques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-12-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 12 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>In 2024, The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/learn-video-editing-online-a-comprehensive-guide-to-downloading-and-editing/"><u>Learn Video Editing Online A Comprehensive Guide to Downloading and Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tune-into-the-beats-with-these-free-online-scanners-for-2024/"><u>Tune Into the Beats with These Free Online Scanners for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-masterful-techniques-for-editing-podcasts-in-garageband-for-2024/"><u>Unleash Creativity Masterful Techniques for Editing Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide-for-2024/"><u>Unlocking the Secrets of Premium Insta Tunes A Complete Guide for 2024</u></a></li>
+</ul></div>
 

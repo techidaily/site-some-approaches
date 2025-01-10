@@ -1,7 +1,7 @@
 ---
 title: "Kubuntu Focus IR16 Generation II Assessment: The Ultimate No-Fuss Linux Notebook"
-date: 2024-08-30T21:19:08.753Z
-updated: 2024-08-31T21:19:08.753Z
+date: 2025-01-04T04:01:16.963Z
+updated: 2025-01-09T23:12:34.878Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 ---
 
 ## Kubuntu Focus IR16 Generation II Assessment: The Ultimate No-Fuss Linux Notebook
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
  Sorting through the niche and varied world of pre-built Linux computers is a challenge. If you just need to get some work done, one notebook-class laptop making your choice a bit simpler is the [Kubuntu Focus Ir16 Gen 2](https://kfocus.org/order/order-ir16.html). Its name doesn't lie; giving it a try I found myself pretty focused.
 
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -42,6 +50,10 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -121,28 +133,23 @@ Jerome Thomas / How-To Geek
 
  The 2W speakers were nothing to write home about. They're located on either side of the laptop and point downward, which meant I needed to be set on a flat surface to sound decent; shifting to the couch would muffle the sound. I typically needed the volume set between 70 and 90 just to hear comfortably, and that was in a quiet environment. At 100%, I could hear distortion. Of course, the Focus lineup is meant for development and productivity rather than entertainment. So the speakers work a pinch, but most of the time I far preferred my headphones or external speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Display: A Sensible WQXGA Experience
 
 ![The panel on the Kubuntu Focus Ir16 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784317311_d61fb74229_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Ir16 Gen 2 sports a 16-inch LED IPS panel capable of a 90Hz refresh rate. I was able to comfortably multitask on the 16:10, WQXGA 2,560 x 1,600 screen, with my notes app on one side and a video conference on the other. While [the IPS glow](https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-moto-e13-drfone-by-drfone-virtual-android/) was present, I never found it all that noticeable in the environments I was working. Most of the time, things looked crisp. I also had no trouble connecting and using an external display via the [HDMI 2.1](https://some-knowledge.techidaily.com/updated-full-length-video-view-remove-youtube-preview/) port, so for my purposes, I was overall happy with the display hardware and capabilities.
 
  If you have many meetings to attend, plan on investing in a ring light or another [good camera lighting solution](https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-12-mini-by-drfone-ios/) to go with the Ir 16's built-in FHD webcam. Unless I was in a room with already stellar lighting, the quality just didn't compare to that of my [Pixel 6's](https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic5-ultimate-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/) front camera or the 2020 MacBook Air's webcam. The privacy shutter is a welcome addition, though.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Ports: The Basics Are Covered
 
 ![Ports on the right side of the Kubuntu Focus Ir16 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784641824_f77d540df8_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -152,26 +159,26 @@ Jerome Thomas / How-To Geek
 
 ![Ports on the left side of the Kubuntu Focus Ir16 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784531143_01e8db16a3_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Notably, there's no [Ethernet](https://facebook-clips.techidaily.com/updated-extract-and-save-fb-videos-the-cutting-edge-of-top-5/) port. In the same room as my Wi-Fi 6 router, I was able to get download speeds of 270Mbps and upload 710Mbps. Pretty respectable, considering my connection maxes out at 1Gbps. Connecting a USB-A-to-Ethernet adapter, I had no trouble verging on that 1Gbps ceiling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Software: Linux Productivity to the Max
 
 ![Closeup of some keyboard shortcuts listed on the desktop of a Kubuntu Focus Ir16 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53783375862_f416a9638b_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  You can't write about Linux laptops without talking about the [operating system](https://hardware-updates.techidaily.com/mastering-tech-choices-trustworthy-tips-from-toms-hardware-hub/). It's not Windows or macOS, so if you've not used Linux before you'll need to get used to it. That can be more or less difficult, depending on the distribution (in other words, the version of Linux you're using). Kubuntu has a bevy of customization and optimization features that are great for a tinkerer like me, but you might find it overwhelming if your needs are simpler. [I've found other distributions like elementary OS](https://youtube-help.techidaily.com/in-2024-managing-a-day-job-and-your-thriving-youtube-channel/) to be a lot less intimidating. The Focus edition of Kubuntu, for its part, goes out of its way to try to guide you through. There's a setup wizard, as I covered in [my Ir14 Gen 1 review](https://article-posts.techidaily.com/2024-approved-embrace-xps-film-editor-installation-guide/), does a lot to help you hit the ground running. The curated apps make choosing software more manageable, and I already prefer the [KDE suite of software](https://apps.kde.org/) you get by default, so I felt at home with the Ir16.
@@ -182,9 +189,6 @@ Jerome Thomas / How-To Geek
 
 ![The Kubuntu Focus Ir16 Gen 2 laptop open and on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/53784740415_02303a7d27_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While the Focus Ir 16 Gen 2 launched in spring 2024, it packs a 13th-generation chip that debuted in early 2023, the Intel Core i5-13500H. So it's not exactly cutting-edge, and we're in fact gearing up to see Intel's 15th generation later in 2024\. Still, it's a respectable processor in the mobile market. Putting it to the test with [Geekbench 6](https://www.geekbench.com/) using the "Normal" frequency profile, the Ir16 Gen 2 performed a smidge better than average by [scoring](http://browser.geekbench.com/v6/cpu/6693812) 2,590 on a single-core performance and 10,490 multi-core.
@@ -201,9 +205,6 @@ Jerome Thomas / How-To Geek
 
  The only serious competition for the Ir16 I could find in the US is the [System76 Pangolin](https://system76.com/laptops/pangolin). It's a notebook that comes with Pop!\_OS or Ubuntu instead of Kubuntu and an AMD chip that boasts somewhat better benchmarks for close to the same price.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Kubuntu Focus Ir16 Gen 2?
 
  I felt right at home with the [Kubuntu Focus Ir16 Gen 2](https://kfocus.org/order/order-ir16.html), being something of a Linux enthusiast with decent productivity needs and limited gaming habits. That said, I think the better portability of the Ir14 would fit slightly better into my daily life. I'd save a few bucks and feel even more mobile.
@@ -214,9 +215,6 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Kubuntu Focus Ir16 (Gen 2)
 
 8/ 10 
@@ -231,8 +229,6 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +236,19 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-techniques-unveiled-mastering-screen-recordings-with-showmore-for-2024/"><u>[New] Efficient Techniques Unveiled Mastering Screen Recordings with ShowMore for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/use-melodies-into-your-youtube-digital-realm-for-2024/"><u>[New] Fuse Melodies Into Your Youtube Digital Realm for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-youtube-tips-and-tricks-halt-the-snippet-views-effectively/"><u>[New] In 2024, YouTube Tips & Tricks Halt the Snippet Views Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-podcast-with-these-google-upload-insights/"><u>[New] Transform Your Podcast with These Google Upload Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-revolutionize-your-harvest-stardews-top-7-upgrades/"><u>[Updated] In 2024, Revolutionize Your Harvest Stardew's Top 7 Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essence-of-crossfading-soundtracks/"><u>[Updated] The Essence of Crossfading Soundtracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-composition-crafting-memorable-podcast-covers/"><u>[Updated] The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>2024 Approved Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/calming-the-currents-of-pro-7s-display/"><u>Calming the Currents of Pro 7'S Display</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-best-of-360-cams-pros-choice-roundup-2023/"><u>In 2024, Discovering the Best of 360° Cams Pros Choice Roundup, 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-x8b-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor X8b Pattern Lock Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-full-potential-of-googles-podcast-tools-for-2024/"><u>Unlocking the Full Potential of Google's Podcast Tools for 2024</u></a></li>
+</ul></div>
 

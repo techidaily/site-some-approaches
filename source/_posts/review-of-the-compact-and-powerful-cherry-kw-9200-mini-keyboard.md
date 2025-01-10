@@ -1,7 +1,7 @@
 ---
 title: Review of the Compact & Powerful Cherry KW 9200 Mini Keyboard
-date: 2024-08-30T21:17:36.008Z
-updated: 2024-08-31T21:17:36.008Z
+date: 2025-01-03T23:22:41.229Z
+updated: 2025-01-09T18:05:54.835Z
 tags:
   - product-reviews
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * However, it lacks backlit keys, is not compatible with Macs, and there are cheaper alternatives available, but overall, it is a solid wireless keyboard option.
 
  If you have ever wished for a compact, travel-friendly keyboard that supports every possible connectivity option without compromising the typing experience or features, rejoice![Cherry's KW 9200 MINI keyboard](https://www.amazon.com/dp/B0BXBC95X5?tag=hotoge-20&ascsubtag=UUhtgUeUpU228098&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-9200-mini-keyboard-review%2F&asc%5Fcampaign=Affiliate) seems to have answered your call.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This compact, rechargeable keyboard boasts a trifecta of connectivity options, including 2.4 GHz wireless, Bluetooth 5.0, and cable connection, making it a versatile companion for your on-the-go lifestyle and/or cramped workspaces. However, some shortcomings exist, such as the lack of backlit keys and its incompatibility with Macs. In this review, we'll take a closer look at the Cherry KW 9200 MINI Keyboard to help you determine if it's the right keyboard for you.
 
@@ -113,9 +117,6 @@ Close
 
  Overall, the Cherry KW9200 MINI has a sleek and minimalist design that is both functional and aesthetically pleasing.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Setup and Software: Simplicity at Its Best
 
 ![Cherry KW 9200 Mini Keyboard with cable and Bluetooth dongle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/cherry-kw-9200-mini-keyboard-with-cable-and-bluetooth-donglejpg_52760598195_o.jpg) 
@@ -131,8 +132,9 @@ Related: [Which Hollywood Blockbuster Does NASA Show To Potential Hires?](https:
 ![Cherry Keys Windows App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/cherry-keys.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Rushil Agrawal_
 
  Cherry also offers its [Cherry Keys software](https://www.cherry-world.com/service/software/keys) (available only for Windows) for customizing your keyboard experience. The KW 9200 MINI offers the ability to program each of its 12 function keys to perform a wide range of tasks, from basic media control and page scrolling to more advanced functions such as app launching and text block insertion, all at the simple press of a button.
@@ -142,15 +144,17 @@ _Rushil Agrawal_
  However, it's worth noting that there's no accurate way of determining the battery's exact level, and the only indication provided is a flashing LED that signals the need for a recharge.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Typing and Usage Experience: Exceeds Expectations
 
 ![Person typing on the Cherry KW 9200 Mini Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/person-typing-on-the-cherry-kw-9200-mini-keyboardjpg_52759651092_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Hannah Stryker / How-To Geek_
 
  The keyboard boasts scissor-switch keys using the Cherry SX scissor mechanism, known for its flat keys and precise typing feel. Despite being a compact keyboard, the Cherry KW 9200 MINI maintains the familiar layout of a full-size keyboard. The only differences are the missing numeric keypad and the relocated arrow keys, now at the keyboard's bottom right. The FN key is fully utilized, allowing you to access typical features like Page Up/Down, Print Screen, Volume controls, and even multimedia playback without needing dedicated keys. Super effective.
@@ -162,15 +166,13 @@ Related: [Gaming Keyboards vs. Keyboards: What's the Difference?](https://win11.
  Although it is not explicitly marketed as a [gaming keyboard](https://win11.techidaily.com/essential-tips-for-lowering-wlanext-cpu-usage/), I found it sufficiently responsive for playing FIFA on my PC. I didn't face problems with the keyboard registering multiple keys simultaneously, and there was no perceivable input lag either. While the 9200 MINI lacks backlit keys and could benefit from a more ergonomic typing position, it's important to remember that this keyboard was not designed to be a permanent fixture on a desk. It's designed to be conveniently transported, so you can easily take it out during a flight, while in a cab, or sitting in a cafe, connect it to your laptop or smartphone, and enjoy a seamless and efficient typing experience. And that, it does very well.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Cherry KW 9200 MINI Keyboard?
 
 ![Person typing on the Cherry KW 9200 Mini Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/person-typing-on-the-cherry-kw-9200-mini-keyboard-4jpg_52760678568_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 _Hannah Stryker / How-To Geek_
 
  Without a doubt, the [Cherry KW 9200 MINI keyboard](https://www.amazon.com/dp/B0BXBC95X5?tag=hotoge-20&ascsubtag=UUhtgUeUpU228098&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-kw-9200-mini-keyboard-review%2F&asc%5Fcampaign=Affiliate) is an exceptional option for anyone seeking a high-quality wireless keyboard that boasts both portability and functionality. Its compact and sleek design makes it the perfect companion for those who frequently travel with their devices, while the Cherry SX switches provide unparalleled tactile feedback, making it an excellent choice for both typing and gaming.
@@ -182,6 +184,10 @@ _Hannah Stryker / How-To Geek_
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/jk-9250-2_imageview_us-1.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Cherry KW 9200 MINI Keyboard
 
@@ -197,8 +203,6 @@ Rechargeable multi-device compact keyboard with 2.4 GHz wireless, Bluetooth 5.0 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +210,22 @@ Rechargeable multi-device compact keyboard with 2.4 GHz wireless, Bluetooth 5.0 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-background-watching-of-youtube-on-mobile/"><u>[New] In 2024, Effortless Background Watching of YouTube on Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[New] The Best of the Best YT's Premier Unboxing Sites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-end-video-refresher-resolution-renaissance/"><u>[New] Top-End Video Refresher Resolution Renaissance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-image-processing-auto-smart-hdr-3-and-4-insights/"><u>[Updated] Transformative Image Processing Auto, Smart HDR 3 & 4 Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sharing-wisdom-the-art-of-insta-duplication/"><u>2024 Approved Sharing Wisdom The Art of Insta Duplication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-content-best-12-html5-video-tools/"><u>2024 Approved Streamline Your Content Best 12 HTML5 Video Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-saving-your-favorite-screened-events/"><u>Expert Tips for Saving Your Favorite Screened Events</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-zero-to-hero-making-your-instagram-videos-go-wild/"><u>In 2024, From Zero to Hero Making Your Instagram Videos Go Wild</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-gopro-feature-list-matchup/"><u>In 2024, The Ultimate Gopro Feature List Matchup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-chatgpt-as-a-windows-app/"><u>Installing ChatGPT as a Windows App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-hp-officejet-5740-driver-downloads/"><u>Instant Access to HP OfficeJet 5740 Driver Downloads!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/synchronisez-le-miroir-strategies-pour-une-transmission-de-donnees-parfaite/"><u>Synchronisez Le Miroir: Stratégies Pour Une Transmission De Données Parfaite</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-gt-neo-5-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme GT Neo 5 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-hue-harmonizer-tool-for-2024/"><u>Ultimate Hue Harmonizer Tool for 2024</u></a></li>
+</ul></div>
 

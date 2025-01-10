@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Configuring Parent-Friendly Settings in Windows 11"
-date: 2024-08-30T21:21:59.924Z
-updated: 2024-08-31T21:21:59.924Z
+date: 2025-01-05T01:24:59.711Z
+updated: 2025-01-10T02:03:36.422Z
 tags:
   - deals
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
  Parental controls help you monitor or limit your child's activity on their Windows PC. That way, you can stop them from gaming too much or visiting harmful websites. You can set these limits in the Family app on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Set Up a Child Account
 
  To limit a child's device, you need to add their Microsoft account to your Microsoft Family group in the Settings app. If the child doesn't have a Microsoft account, you can create one for them.
@@ -39,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![Adding someone to "Your Family" in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/add-family-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the window that appears, click the "Create One for Child" link.
 
 ![Add someone to Microsoft Families.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/add-someone-to-family.png) 
@@ -46,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  Then, follow the instructions to set up a new Microsoft account for your child. You will create an Outlook email and password for them during these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Link a Child's Account to a Windows Device
 
  To make the Family app to show the child's device, link their Microsoft account to their Windows user profile. They shouldn't be using a local account.
@@ -57,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![The link to sign in with Microsoft account in Windows 11's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, enter the child's Microsoft account details to sign in and link it with their Windows device.
 
  If the child uses another PC with a local account, you'll need to sign in with their Microsoft account there, too. If they don't have an account on that PC, you can easily create one and then link the Microsoft account to it.
@@ -66,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  To do that, head to Settings > Account > Other Users and click "Add Account."
 
 ![Adding a new user account on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-user-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, follow the instructions to sign in to the child's Microsoft account.
 
@@ -80,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
  In your Windows account, open the Family app and select the child's account. From there, you can control their screen time, app usage, and the websites they visit.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Limiting Screen Time
 
  First, scroll down to the "Devices" section and click the "Turn Limits On" button on the child's Windows device. This will be the one you linked the Microsoft account to.
@@ -93,8 +101,9 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![The screen time schedule for a Windows device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/child-account-screentime-limits-windows-family-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The "Time Limit" column is the number of hours the child can use the computer once they log into their account. For instance, if you set it to five hours, the computer will automatically lock once the child exceeds those hours.
 
  The "Available Hours" column is the number of hours a child can log into their account. For instance, if the "Time Limit" is set from 7:00 AM to 10:00 PM, your child won't be able to log in from 10:01 PM to 06:59 AM.
@@ -103,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![Setting screen time limits on a device in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/setting-limit-windows-devices-family-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can use the dropdown in this window to control days individually. Alternatively, you can set it to "Every Day" and adjust the screen times for all the days simultaneously. When finished, click "Done" to apply the limits to the child's Windows device.
 
 ###  Limiting Apps and Games
@@ -114,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![Turning on limits for apps and games in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-app-game-limits-family-app-windows-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, click the three-dot icon next to the app or game and select "Set a Limit" or "Block App."
 
 ![Setting limits on an app on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-app-windows-family-app-2.jpg) 
@@ -125,14 +128,12 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![Setting app and game limits on Windows 11 in the Family app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot_110.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  And when you're finished, click "Done" to apply the changes and limit the app.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Blocking Websites
 
  When you block websites in the Family app, the only browser these restrictions apply to is Microsoft Edge. However, that is not a problem since enabling the limits blocks access to all other browsers. 
@@ -141,9 +142,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![Turning on activity reporting for Microsoft Edge in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-activity-reporting.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Then, scroll down and turn on the "Filter Inappropriate Websites and Searches" toggle.
 
 ![Turning on the toggle to filter websites in the Family app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/turn-on-edge-filter-settings-family-app-windows.jpg) 
@@ -154,11 +152,16 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ![Adding websites to block in the Family app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/block-websites-family-app-windows-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The child won't be able to access that website now. You can repeat these steps to add as many sites as you want.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Managing Account Settings
 
  You can also apply more restrictions to the child's device by managing their account settings. To access them, click "Settings" in the top right.
@@ -181,8 +184,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +191,26 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>[New] The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-path-to-professional-looking-colors-in-gopro-editing/"><u>[New] The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-exclusive-windows-11s-media-importers/"><u>[New] The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-no-cost-treasures-aplus-ae-template-collections/"><u>[Updated] No-Cost Treasures A+ AE Template Collections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-10-free-recording-apps-for-slack-chats/"><u>2024 Approved Best 10 Free Recording Apps for Slack Chats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-elegant-appearance/"><u>2024 Approved The Art of Elegant Appearance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>2024 Approved Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-13-mini-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 13 mini to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-extra-footage-a-guide-to-b-roll-utilization/"><u>In 2024, Leveraging Extra Footage A Guide to B Roll Utilization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-taming-figmas-backgrounds-a-comprehensive-guide/"><u>In 2024, Taming Figma's Backgrounds A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/invisible-broadcasts-anonymous-instagram-live-tips-for-2024/"><u>Invisible Broadcasts Anonymous Instagram Live Tips for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kodak-pixpro-friendly-zoom-fz53-review-a-great-point-and-shoot-camera-for-the-budget-conscious/"><u>Kodak PIXPRO Friendly Zoom FZ53 Review: A Great Point and Shoot Camera for the Budget Conscious</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pinnacle-picture-enhancer-resolution-rise/"><u>Pinnacle Picture Enhancer Resolution Rise</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-installation-guide-downloading-zexmte-bluetooth-adapter-driver-windows-compatible/"><u>Quick Installation Guide: Downloading Zexmtē Bluetooth Adapter Driver (Windows Compatible)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tickle-treasure-trove-uncovering-best-apps-for-memes-for-2024/"><u>Tickle Treasure Trove Uncovering Best Apps for Memes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/toggle-picture-in-picture-youtube-viewing-tips-for-ios-users-for-2024/"><u>Toggle Picture In Picture YouTube Viewing Tips for iOS Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-exe-files-on-your-pc-no-more-issues/"><u>Unlock EXE Files on Your PC, No More Issues!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-firefoxs-pip-mode-for-2024/"><u>Unlocking the Secrets of Firefox's PIP Mode for 2024</u></a></li>
+</ul></div>
 

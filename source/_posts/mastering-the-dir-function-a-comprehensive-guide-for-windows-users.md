@@ -1,7 +1,7 @@
 ---
 title: "Mastering the DIR Function: A Comprehensive Guide for Windows Users"
-date: 2024-08-30T21:21:28.766Z
-updated: 2024-08-31T21:21:28.766Z
+date: 2025-01-04T18:15:17.284Z
+updated: 2025-01-10T01:13:10.588Z
 tags:
   - deals
 categories:
@@ -41,20 +41,13 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
  Run “dir” in Command Prompt to list all of the files and folders in the current directory. Dir also take special arguments to sort and select what kinds of files and folders are displayed. For example, “dir /h” will display hidden files.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What is DIR?
 
  The DIR command is a powerful Windows Command Prompt function that lists all files and subdirectories contained in a specific directory. The DIR command also offers some switches that unlock some powerful functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  DIR Command Switches
 
  You can use the `DIR` command by itself (just type "dir" at the Command Prompt) to list the files and folders in the current directory. To extend that functionality, you need to use the various switches, or options, associated with the command. We've compiled a list of some of the most useful dir switches, with examples.
@@ -98,8 +91,9 @@ dir /a:d
 dir /b
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Display Using Thousands Separator
 
  In modern versions of Windows, the Command Prompt shows large numbers separated by commas (so: 25,000 instead of 25000). This wasn't always the case. In older versions, you had to use the `/c` switch to show those commas.
@@ -122,20 +116,18 @@ dir /D
 
 dir /L
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Display Filename Results on the Far Right
 
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  By default, the Command Prompt displays the names of files to the far right. The `/N` switch used to be used to achieve this effect. Now, you can use it along with a "-" (minus) to have filenames displayed on the far left instead.
 
 dir /-N
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Display Results in Sorted Order
 
  You can use the `/O` switch followed by a letter code to display directory results sorted in various ways. Those letter codes include:
@@ -159,27 +151,29 @@ dir /O-D
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Some directories have hundreds or thousands of files. You can use the `/P` switch to have the Command Prompt pause the results after it displays each screen. You have to press a key to continue viewing the next page of results.
 
 dir /P
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Display File Metadata with DIR
 
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using the `/Q` switch on the DIR command displays metadata tied to files and directories, along with ownership details.
 
 dir /Q
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Display Alternate Data Streams (ADS)
 
  The `/R` switch displays any alternate data streams (ADS) that files might contain. ADS are a feature of the NTFS file system that let files contain additional metadata for locating files by author and title.
@@ -205,13 +199,18 @@ dir /S
 dir /TC
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Display DIR's Results in Wide Format
 
  The `/W` switch is similar to `/D` (which shows columns), but instead, it sorts the results in wide format horizontally.
 
 dir /W
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display Short Name Filenames
 
@@ -219,9 +218,6 @@ dir /W
 
 dir /X
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Display Help Pages For DIR
 
  Using the `/?` switch displays helpful information regarding the DIR command, including a brief description of all the switches we've talked about.
@@ -229,8 +225,9 @@ dir /X
 ![The help page for the dir command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-23_15h28_08.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  DIR Command Examples
 
  All right, now you know about the switches and options associated with the DIR command. Let's take a look at a few real-world examples to gain a better understanding as to how you can start putting them to use.
@@ -239,18 +236,12 @@ dir /X
 
 ![Command Prompt with dir run in the C:\ directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-24_11h26_03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Running the following command shows all system files inside your current path by utilizing the "s" attribute:
 
 dir /a:s
 
 ![Command prompt with dir /a:s run in C:\ displaying the system files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-24_12h54_12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  But what if you want to view all files of a certain type within all subsequent folders of your current path. That's easy, just run this extremely fast and useful command:
 
 dir \*.mp3 /s
@@ -260,8 +251,9 @@ dir \*.mp3 /s
 ![Command Prompt with dir \*.mp3 /s run to display only MP3 files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-24_12h01_41.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [The asterisk acts as a wildcard](https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-password-without-factory-reset-by-drfone-android/), saying "find anything with .mp3 file format at the end" while the "/s" recursively looks through all folders within your current path.
 
  Now, you may have noticed that returned a LOT of results. Almost too many to be able to read before they scrolled off the screen. This is where we can use the pause switch to give you a chance to read them. To do that, modify the command like this:
@@ -286,8 +278,6 @@ dir \*.mp3 /s /b > filename.txt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +285,20 @@ dir \*.mp3 /s /b > filename.txt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/deal-screen-capture-device-for-effective-video-sharing/"><u>[New] Ideal Screen Capture Device for Effective Video Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-youtube-short-content-techniques-unveiled/"><u>[New] In 2024, Essential YouTube Short Content Techniques Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-blueprint-for-bolstering-youtube-believers/"><u>[Updated] A Beginner's Blueprint for Bolstering YouTube Believers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-role-of-extras-in-creating-dynamic-storytelling/"><u>[Updated] The Role of Extras in Creating Dynamic Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>2024 Approved Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-futures-in-your-hands-with-powerdirector-24-unleashed/"><u>2024 Approved The Future's in Your Hands with PowerDirector '24 Unleashed</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728481467412-tpm-20-windows-11/"><u>完成 TPM 2.0 驗證並開始 Windows 11 更新流程</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/frei-kopieren-von-einer-dvd-auf-einen-usb-stick-eine-schritt-fur-schritt-anleitung/"><u>Frei Kopieren Von Einer DVD Auf Einen USB-Stick: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-shot-upgrade-no-money-needed/"><u>In 2024, Ultimate Shot Upgrade - No Money Needed</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-a-comprehensive-guide-for-steam-play-on-meta-quest-xbox-series-s/"><u>Transform Your Gaming Experience: A Comprehensive Guide for Steam Play on Meta Quest Xbox Series S</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visualvertexzoomerx7-enhance-and-expand-with-ease/"><u>VisualVertexZoomerX7 Enhance & Expand with Ease</u></a></li>
+</ul></div>
 
