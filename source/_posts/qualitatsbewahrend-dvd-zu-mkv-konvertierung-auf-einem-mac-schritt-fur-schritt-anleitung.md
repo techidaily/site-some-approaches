@@ -1,7 +1,7 @@
 ---
 title: Qualitätsbewahrend DVD-Zu-MKV Konvertierung Auf Einem Mac - Schritt-Für-Schritt-Anleitung
-date: 2024-08-26T16:28:11.925Z
-updated: 2024-08-27T16:28:11.925Z
+date: 2025-01-12T18:52:38.727Z
+updated: 2025-01-15T18:28:21.882Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70fd1186bee34b5c05700af6e2.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Kostenlos Testen](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon7.png) [Startseite](https://tools.techidaily.com/macxdvd/products/) \> [Anleitungen](https://tools.techidaily.com/macxdvd/products/) \> DVD in MKV Mac
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## DVD in MKV umwandeln auf Mac ohne Qualitätsverlust
-
-
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon6.png) By [Bella Brown](https://www.linkedin.com/in/bella-brown-920145104/) ｜Updated am 27\. September 2023
 
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/tutorial-de/dvd-in-mkv-umwandeln-mac.htm&text=)
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/tutorial-de/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/tutorial-de/dvd-in-mkv-umwandeln-mac.htm)
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/tutorial-de/dvd-in-mkv-umwandeln-mac.htm&title=&summary=&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MKV (Matroska Video), ist ein Containerformat für Audio- und Videodaten. Es kann sich also sagen lassen, dass die Erscheinung des MKV-Formats eine glänzende und frohe Botschaft für jemanden ist, wer große Vorliebe für DVD Filme hat. Da MKV als Open-Source mit hoher Flexibilität erlaubt, Dateien in Kapitel einzuteilen, mehrere Tonspuren zu verwenden, sogar externe Untertiteln zu unterstützen und so weiter.
 
@@ -43,9 +47,6 @@ Was MacX an der Spitze der großen Dinge hält, ist, dass es das DVD-zu-MKV-Ripp
 
 [Download für Mac](https://tools.techidaily.com/macxdvd/products/) [Download für PC](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Teil 1\. So rippen Sie ausgewählte DVD-Kapitel in einzelne MKV-Dateien
 
 **Schritt 1\. DVD/ISO Datei loaden.**
@@ -60,9 +61,6 @@ Gehen Sie zu "DVD Backup" und wählen Sie hier "Backup full title to MKV", näml
 
 ![rip DVD to MKV](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/video-ts-to-mkv-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Optional:  
 1\. Mehrere Audiospuren auswählen: Manchmal möchten Sie vielleicht mehrere Audiospuren in Ihren Ausgabedateien behalten. Zum Beispiel brauchen Sie einen Französisch-Track, um Ihr Französisch-Hörvermögen zu üben, während Ihre Kinder nur die Muttersprache Englisch verstehen. In diesem Fall können Sie erwägen, mehrere Audiospuren für unterschiedliche Zielgruppen auszuwählen. Öffnen Sie die Audiotrackliste, um ac3 Englisch 6ch, ac3 Französisch 6ch, ac3 Spanisch 6ch usw. frei auszuwählen.
 
@@ -76,9 +74,6 @@ Stellen Sie ein Ordner fest, wo Sie Ihre MKV Datei speichern wollen.
 
 Zum Schluss klicken Sie auf "RUN". So können Sie kopiergeschützte DVD in MKV umwandeln auf Mac ohne Qualitätsverlust.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Teil 2\. So erstellen Sie eine 1:1-Sicherung des vollständigen DVD-Titels auf MKV mit allen Details
 
 **Schritt 1.** Der erste Schritt ist derselbe wie in Teil 1\. Es ist unnötig, ihn zu wiederholen.
@@ -86,6 +81,10 @@ Zum Schluss klicken Sie auf "RUN". So können Sie kopiergeschützte DVD in MKV u
 **Schritt 2.** Tippen Sie unten auf der Benutzeroberfläche auf "Zielformat" und suchen Sie das Profil "DVD-Sicherung", wo Sie "Vollständigen Titel in MKV kopieren" oder "Vollständige Titelsicherung" auswählen.
 
 ![rip DVD to MKV](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/video-ts-to-mkv-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Vollständigen Titel in MKV kopieren:** Der vollständige Titel wird mit allen Kapiteln, Audiospuren und Untertiteln im MKV-Format gesichert. Der verwendete Codec ist MPEG2, der die exakte 1:1-Original-DVD-Qualität beibehalten würde. Die Dateigröße wäre jedoch entsprechend größer und der gesamte Prozess ist langsamer, isoliert von der GPU-HW-Beschleunigung.
 
@@ -111,10 +110,6 @@ Schritt 3\. Starten Sie MakeMKV aus Ihrem Anwendungsordner > Wählen Sie die DVD
 
 ![rip DVD to MKV using makemkv](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/makemkv-rip.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Schritt 4\. Wählen Sie die Titel zum Rippen aus. MakeMKV scannt die DVD und zeigt eine Liste der Titel an. Titel repräsentieren verschiedene Teile der DVD, z. B. den Hauptfilm, Bonusfunktionen und Menüs. Wählen Sie die Titel aus, die Sie rippen möchten, indem Sie die Kontrollkästchen daneben aktivieren. 
 
 Normalerweise ist der Hauptfilm der größte Titel mit der längsten Dauer. 
@@ -123,22 +118,25 @@ Schritt 5\. Wählen Sie aus, wo Sie das resultierende MKV speichern möchten, in
 
 Schritt 6\. Klicken Sie auf die Schaltfläche "MKV erstellen", um den Kopiervorgang zu starten. MakeMKV beginnt mit der Konvertierung der ausgewählten Titel in das MKV-Format. Warten Sie auf den Abschluss. Die Zeit, die zum Rippen der DVD benötigt wird, hängt von der Größe der DVD und der Leistung Ihres Computers ab. Sobald der Vorgang abgeschlossen ist, befindet sich im angegebenen Ausgabeordner eine MKV-Datei.
 
-
-
 Weitere Artikel & Tipps:
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 [Wie kann man DVD in iTunes importieren](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [DVD in MP4 auf Mac kostenlos umwandeln](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [DVD in AVI umwandeln mit DVD to AVI Converter](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -149,22 +147,26 @@ Weitere Artikel & Tipps:
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [DVD ISO auf USB brennen, um HD DVD Filme](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 [DVD Shrink Kopierschutz umgehen Alternative](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/tutorial-de/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet innovative Multimedia-Lösungen für Anwender auf der ganzen Welt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Produkte
 
@@ -172,9 +174,6 @@ MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet 
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Support
 
 * [FAQ >>](https://tools.techidaily.com/macxdvd/products/)
@@ -182,14 +181,13 @@ MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet 
 * [Anleitung >>](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Unternehmen
 
 * [Über uns >>](https://tools.techidaily.com/macxdvd/products/)
 * [Kontakt >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [Über uns](https://tools.techidaily.com/macxdvd/products/) | [Datenschutz](https://tools.techidaily.com/macxdvd/products/) | [Nutzungsbedingungen](https://tools.techidaily.com/macxdvd/products/) | [Lizenzvereinbarung](https://tools.techidaily.com/macxdvd/products/) | [Anleitung](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Kontakt](https://tools.techidaily.com/macxdvd/products/)
 
@@ -204,8 +202,6 @@ Digiarty Software wurde nicht von Apple Inc. entwickelt oder ist mit Apple Inc. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +209,18 @@ Digiarty Software wurde nicht von Apple Inc. entwickelt oder ist mit Apple Inc. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-effortless-streaming-to-facebook-audiences-using-zoom/"><u>[New] In 2024, Effortless Streaming to Facebook Audiences Using Zoom</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-profit-strategies-for-vimeo-content-creators/"><u>[Updated] 2024 Approved Mastering Profit Strategies for Vimeo Content Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-and-adhering-to-soundtracks-legal-requirements-on-instagram/"><u>[Updated] Understanding and Adhering to Soundtracks' Legal Requirements on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-for-effective-periscope-use/"><u>2024 Approved The Ultimate Guide for Effective Periscope Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-interest-with-budget-friendly-youtube-video-intros/"><u>Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-xs-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone XS? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-instantaneous-window-imaging-technique/"><u>In 2024, Instantaneous Window Imaging Technique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-sunlit-scenes-android-brighten-tips/"><u>In 2024, Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-text-transitions-reels/"><u>In 2024, Top-Tier Text Transitions Reels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-zoom-to-elevate-your-facebook-lives-for-2024/"><u>Navigating Zoom to Elevate Your Facebook Lives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-encyclopedia-of-hand-centered-interaction-systems-for-2024/"><u>The Encyclopedia of Hand-Centered Interaction Systems for 2024</u></a></li>
+</ul></div>
 

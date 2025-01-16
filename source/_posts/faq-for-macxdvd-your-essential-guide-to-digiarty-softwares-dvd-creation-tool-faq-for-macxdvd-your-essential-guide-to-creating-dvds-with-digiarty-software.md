@@ -1,7 +1,7 @@
 ---
 title: "FAQ for MacXDVD: Your Essential Guide to Digiarty Software's DVD Creation Tool (FAQ for MacXDVD - Your Essential Guide to Creating DVDs with Digiarty Software)"
-date: 2024-08-26T16:33:18.094Z
-updated: 2024-08-27T16:33:18.094Z
+date: 2025-01-12T21:39:48.785Z
+updated: 2025-01-15T22:48:40.663Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79a361dfc0ab65e3b0afbaf26.jpg
@@ -30,9 +30,11 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
  なお、お客様からの入力ミスにより、「回答が来ない」という苦情を申し立てることも多いですが、このような場合で回答のメールが返信できない場合は、お使いのメール設定をご確認ください。  
  ※特に多いメールアドレスの設定ミスの例：@hotmail.com→@homail.comと入力(脱字)ミスがある。 @yahoo.co.jp→@yahoo.ne.jpとドメイン名の入力ミス。
 
-
-
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon2.png)購入とお支払い方法
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### お支払いはどうしたらよいですか？
 
@@ -73,8 +75,6 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 #### 注文したプログラムは何時、どのように受け取りますか？
 
 * 注文が完了すると、customer@2checkout.comから電子メールを三通受け取ります。一つはオンライン注文確認、一つは支払い領収書、もう一つはご注文の製品情報、自動的に生成したライセンスコード及びソフトのダウンロード先です。 メールが届く時間はお支払い方式によって異なります： クレジットカードでは一営業日以内、コンビニ決済は一日から三日ぐらい、銀行振込は一週間ぐらいかかります。
-
-
 
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon3.png)ライセンスコード
 
@@ -124,17 +124,12 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
  4．ソフトをご注文された際に間違ったアドレスが書かれてしまった可能性があります。
 * もし最後の1点の場合は、[sales@macxdvd.com](https://tools.techidaily.com/macxdvd/products/)までご連絡お願いいたします。
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon4.png)Backup CD(バックアップ CD)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### バックアップCDについて
 
 * お客様がショッピングカートに追加したダウンロード商品にはバックアップ CD（Backup CD）を一緒にご購入できるオプションサービスがあります。バックアップCDの購入をご希望の場合はカートの「追加」をチェックしてください。
@@ -161,30 +156,12 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 * バックアップCDは決済プラットフォーム（2Checkout）から提供されます。開発者として、我々はお客様に弊社製品のダウンロード版しか提供いたしません。[2Checkoutのポリシー](http://www.avangate.com/shopper-support/shopper-faq.php?lang=ja)に従って、料金の払い戻しはできません。
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon5.png)ダウンロード、インストール、登録、アップグレード、ログアウト
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 #### 製品ダウンロード
 
 * MacXDVDのすべての製品は、無料試用を提供しています。ご購入前、是非無料ダウンロードして体験してみてください。「無料体験」または「無料ダウンロード」からソフトをフリーダウンロードして頂くことができます。
@@ -222,6 +199,10 @@ Key features:
 
 ![WinX DVD Ripper Platinum](https://www.macxdvd.com/support/../image-jp/mdrp02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * 【ご注意】  
  ※ ライセンスコードのご入力は小文字でも大文字でも可能ですので、直接テキストボックスに登録情報を貼り付けるほうがいいです。  
  ※ 登録情報の入力の際に、情報の前および末尾ににスペース（空白）が入らないようにご入力ください。
@@ -249,16 +230,12 @@ Key features:
 
 ![WinX DVD Ripper Platinum](https://www.macxdvd.com/support/../image-jp/mdrp03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 * 万が一、、PCリカバリー、OSクラッシュなど突然発生して、ログアウトができなくなった場合、弊社の[お問い合わせ](https://tools.techidaily.com/macxdvd/products/)までご連絡お願いいたします。
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon6.png)Digiarty Softwareの返金ポリシーと他の問題
 
 #### 返金ポリシーについて
@@ -282,8 +259,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -291,4 +266,18 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-enhance-tv-audiences-with-fb-live-content-for-2024/"><u>[New] How to Enhance TV Audiences with FB Live Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hands-of-honour-versus-followers-faith/"><u>[Updated] Hands of Honour Versus Followers’ Faith</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubes-secret-to-success-a-compre-ffive-essential-keyword-tools/"><u>[Updated] In 2024, YouTube's Secret to Success A Compre FFive Essential Keyword Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-2024-cloud-offerings-price-and-efficacy-showdown/"><u>[Updated] Top 2024 Cloud Offerings Price & Efficacy Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-clearer-images-in-videoleap-videos/"><u>[Updated] Unlocking Clearer Images in Videoleap Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>2024 Approved Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-brainiac-challenge-gk-quizzes/"><u>2024 Approved Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/identifying-your-systems-hardware-devices-a-comprehensive-guide-by-yl-computing/"><u>Identifying Your System's Hardware Devices: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/no-fuss-strategies-recording-your-google-voice-calls/"><u>No-Fuss Strategies Recording Your Google Voice Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-ungrouping-taskbar-elements/"><u>Techniques for Ungrouping Taskbar Elements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-the-power-of-zoom-your-win10-journey-begins-here-for-2024/"><u>Unleash the Power of Zoom Your Win10 Journey Begins Here for 2024</u></a></li>
+</ul></div>
 

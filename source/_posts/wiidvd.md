@@ -1,7 +1,7 @@
 ---
 title: Wiiの特殊操作でDVD鑑賞可能！新ハード無しで楽しむ方法
-date: 2024-08-26T16:30:02.064Z
-updated: 2024-08-27T16:30:02.064Z
+date: 2025-01-14T17:55:37.358Z
+updated: 2025-01-15T23:39:52.177Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4dc9b662f4833af51354f1cda.jpg
@@ -13,29 +13,37 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
 ## 【Wii活用裏技】WiiでDVD見れる方法！新機種を待つことはいらない！
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## DVD見れるWii新機種がほしい？Wii DVD再生したい？
 
 WiiでDVD見れると望んでいる人が多くいる。任天堂側も「DVDビデオ再生機能を搭載したモデルの発売を予定しています。」といったが、後に「現行の単一機種を製造することで生産効率を高め、日米欧の需要にできるかぎりお応えすることを優先するべきとの判断」と回復した。これでたぶん、DVD見れるWii新機種はしばらく発売されない。ではWii DVD再生することは到底望みしかないか？Wii DVD視聴できないと、テレビでDVD再生したいならほかの機器を買うしかないか？いいえ！Wii活用裏技は今公開する！機種変換しなくても今のWii DVD再生する方法が公開された！
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Wii活用裏技:2ステップでWiiでDVD見れる
 
 普通の映画DVDが認識されないWii DVD視聴はもちろんできない。が、Wiiにメモリカードが認識されている。また、パソコンもメモリカードが認識できる。ではステップ1、Wiiに利用されるメモリカードをパソコンに連続して、再生できる映画DVDから動画データを取り出してメモリカードに保存する。そうするとステップ2、メモリカードをWiiに入れて、Wiiで動作できる動画プレーヤー「MPlayer」をインストールする。これでWiiでDVD見れるようになる。
 
 この方法で肝心なものは「映画DVDから動画データを取り出す」ことと「MPlayerをインストールする」ことである。「MPlayer」をインストールできる方法は検索したら多くある。DVDから動画データを取り出す方法も多い。が、どんなファイルにリッピングすればWii DVD再生できるかわからない。Wiiまで変換するという記事も少ない。苦労して見つけても、何かのソフトを紹介するような記事だけで、Wii DVD見る方法は全然紹介してくれない。ではWiiでDVD見れるためにどうすればいいか？
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Wii DVD見る方法：4ステップだけでWii DVD再生できるようになる
 
 まずWii DVD見れるソフトMacX DVD Ripper Proソフトを[ダウンロード](https://tools.techidaily.com/macxdvd/products/)する。起動して、界面言語が日本語でない場合に、「HELP」をクリックし、日本語を指定できる。そうしたら以下のステップで操作すればWiiでDVD見れる。
 
 ![wii DVD見る方法](https://www.macxdvd.com/blog/img/how-to-play-dvd-on-wii-052901.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ステップ1： DVDを読み込む。
 
@@ -43,13 +51,8 @@ WiiでDVD見れると望んでいる人が多くいる。任天堂側も「DVD�
 
 MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォルダとISOイメージがある。入力形式はDVDでない場合に、相応なボタンを押すことで読み込んでください。このWii活用裏技でDVDをISOイメージにリッピングしたら、再び変換するとISOイメージから変換することができるので、ディスクはもういらない。
 
-
-
 ![wii DVD見る方法](https://www.macxdvd.com/blog/img/drp-zld-0118-01.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### ステップ２：出力フォーマットを選択する。
 
 「General Profiles」をクリックして、「MOV動画」を出力プロファイルとして選んでください。また、AVIファイルもWiiに再生できるので、出力プロファイルをAVIにするのもいい。
@@ -59,13 +62,8 @@ MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォ�
   
 [![](https://www.macxdvd.com/blog/new-fourteen/mpro.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/wpro.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![wii DVD見る方法](https://www.macxdvd.com/blog/img/drp-zld-0806-04.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ステップ３：保存先を選ぶ。
 
 保存先フォルダを選び、確認する。
@@ -77,8 +75,6 @@ MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォ�
 最後に「RUN」というボタンを押して変換を始める。
 
 「高品質エンジンを使用する」にチェックをいれて出力ビデオの映像品質を大きく向上することができる。変換時間を短縮するに「CPUコア使用」を多くする。が、使用されるCPUコアの数はパソコンにあるCPUコアの数を超えることはできない。
-
-
 
 ## Wii DVD見る方法：トワイライトハック済みのWiiでDVDを再生しよう
 
@@ -102,13 +98,12 @@ MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォ�
 
 **Step8：**「Normal Install」を選択するとインストールが始まる。少々お待ちください。
 
-
-
 ![wii DVD見る方法](https://www.macxdvd.com/blog/img/play-dvd-on-wii-0529-02.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step9：**「Installation succsessful!」が表示されたら、「Exit」を押す。
 
 **Step10：**「The Homebrew Channel」に戻ったら「MPlayer」を起動する。
@@ -125,52 +120,43 @@ MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォ�
 
 この方法は、WiiをDVDプレーヤーとして使いたい人におすすめ。使い方は簡単で、初心者でもすぐに使いこなせる。ただし、市販/レンタルDVDディスクには対応していない。
 
-
-
 ![](https://www.macxdvd.com/blog/../seoimage/dvd-ripperu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
+
 ###  WiiでDVD見るに必要なソフト-MacX DVD Ripper Pro
 
 プロなDVDコピーソフトだけど、使い方が超簡単！初心者もすぐ上手にDVDを変換できる！ISOイメージ、MP4、MOVなど何百種類の出力形式を用意している。そして、DVD動画編集機能も搭載している。DVDコピーしたい人とウィーでDVDをみたい素人にとっては、とても役に立つツール！
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/)[![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/midi-20170518-02.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 [無料音楽ダウンロードmp3で保存する方法及びサイト一覧のご紹介](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/mv-zld-180621-04.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [動画編集フリーソフトランキング10選！window＆Mac版](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/mp3-edit-free-1212.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [MP3編集フリーソフト！MP3カット・変換・分割・抽出！](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/suteki-tokyo-loader-user-guide-zld.jpg) 
 
 [TokyoLoader使い方：TokyoLoaderダウンロード方法、使えない時の対策まとめ](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \> 機種変換しないままに Wii DVD再生できる方法
 
@@ -180,8 +166,6 @@ MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォ�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +173,20 @@ MacX DVD Ripper Proがサポートする入力フォーマットにはDVDフォ�
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-design-youtube-introductory-videos-two-pathways/"><u>[New] 2024 Approved How to Design YouTube Introductory Videos Two Pathways</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-a-complete-overview-of-vsco-photo-editor-for-2024/"><u>[New] A Complete Overview of VSCO Photo Editor for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-visual-strategy-for-podcast-branding/"><u>[New] The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-stream-control-tactics-10-ways-to-unwind-live-play/"><u>[Updated] Stream Control Tactics 10 Ways to Unwind Live Play</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-smart-strategies-achieving-advertising-excellence/"><u>2024 Approved Smart Strategies Achieving Advertising Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-digital-boutiques-unique-personalized-present-boxes/"><u>2024 Approved Ultimate Digital Boutiques Unique, Personalized Present Boxes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-cost-effective-video-enhancement-vimeo-edition/"><u>In 2024, Cost-Effective Video Enhancement Vimeo Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>In 2024, Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://win-news.techidaily.com/sichere-ihre-daten-mit-aomei-backupper-uberprufen-sie-die-datenintegritat-schnell-und-einfach/"><u>Sichere Ihre Daten Mit AOMEI Backupper – Überprüfen Sie Die Datenintegrität Schnell Und Einfach!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smiles-to-text-where-to-find-amusing-tones-in-2024/"><u>Smiles to Text Where to Find Amusing Tones, In 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/spark-the-motivation-top-inspirational-youtube-videos/"><u>Spark the Motivation Top Inspirational YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-damaged-registry-and-system-files-in-windows-1011/"><u>Ultimate Guide: Repairing Damaged Registry and System Files in Windows 10/11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-video-editing-tools-for-young-creators-free-and-paid-options/"><u>Updated Top 10 Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
+</ul></div>
 

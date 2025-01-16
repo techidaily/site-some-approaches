@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Mac's YouTube Problems for Smooth Downloads and Streaming | Fix Your Errors Now!
-date: 2024-08-26T16:33:23.558Z
-updated: 2024-08-27T16:33:23.558Z
+date: 2025-01-12T20:14:04.379Z
+updated: 2025-01-15T19:54:33.513Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45bb38823ea9696084a32865c.jpg
@@ -16,20 +16,24 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [YouTube](https://tools.techidaily.com/macxdvd/products/) \> YouTube not working on Mac
 
 ## \[Updated\] YouTube Error: YouTube Not Downloading/Working on Mac Fixed
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) ｜Last updated on May 31, 2021
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-youtube-not-working-on-mac-error.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-youtube-not-working-on-mac-error.htm&text=)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-youtube-not-working-on-mac-error.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/fix-youtube-not-working-on-mac-error.htm&title=&summary=&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Q: - Last night I updated Yosemite to 10.10.1 and now all of a sudden Safari Version 8.0 won't play any YouTube videos. All I get is a black screen with a little audio clipping. When using Firefox (v32.1.1) or Chrome (v38.0.2125.122) everything works ok. Any thoughts?_   
 _\- I have a MacBook and recently the YouTube audio has stopped working. I can still see the video, but I can't hear it. iTunes and everything else works perfectly with audio._ 
@@ -44,14 +48,12 @@ Resorting to the internet for the answers can be one way to solve the single You
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Learn More](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Top 5 YouTube Not Working Errors among Mac Users 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Adobe Flash Player Is Required for Video Playback
 
 This is one of the most common problems among Mac users when playing YouTube videos. As long as they click for a video on YouTube, their Mac screen comes up with a dreaded suggestion - "The Adobe Flash Player is required for video playback, so get the latest flash player." How to ease the YouTube error with no splotchy color, black box, unplayable video, etc ? Below is the easy fix for the problem. 
@@ -59,8 +61,9 @@ This is one of the most common problems among Mac users when playing YouTube vid
 ![YouTube Adobe Flash player not working on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/youtube-adobe.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Troubleshooting:**
 
 Option 1\. Check if you are opted into HTML5 trial using Safari. If so, Opt out of HTML5 to bring it back again on Mac with your Safari.   
@@ -79,6 +82,10 @@ From time to time, you may run into a YouTube playback issue on macOS, like vide
 
 ![YouTube videos not playing on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/youtube-video-playing.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Troubleshooting:**
 
 Option 1\. Clear your cache and cookies as well as your browsing history.   
@@ -90,14 +97,15 @@ Option 1\. Clear your cache and cookies as well as your browsing history.
  Select Allow sites to run JavaScript in the JavaScript section;  
  Click OK to close the window and then refresh the browser.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. YouTube on Mac Not Working with Safari
 
 Most often the site does not work with Mac Safari all the sudden. The typical case is videos are not loading up or [YouTube videos keep lagging](https://tools.techidaily.com/macxdvd/products/) when upgrading to Yosemite 10.10.1, confirmed by MacRumors. Whether you want to comment on a video or "Like" a video, you can do nothing but leaving the YouTube videos unplayable on your Mac. If you've tried various troubleshooting like clearing cookies/cache/ history, reinstall Adobe Flash but no luck, follow the tips to get through the problem. 
 
 ![YouTube not working on Mac Safari](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/youtube-safari.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Troubleshooting:**
 
@@ -113,8 +121,9 @@ Very often, Mac users receive the message "YouTube video won't play now" with bl
 ![YouTube black screen on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/black-screen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Troubleshooting:**
 
 Option 1\. Navigate Finder-Applications to find Safari icon;  
@@ -135,9 +144,6 @@ It is cat-and-mouse for Mac owners obsessed with YouTube videos but hear nothing
 
 ![YouTube no sound on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/sound-no-youtube.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **Troubleshooting:**
 
 Option 1\. Go System Preferences -> Other/Flash Player -> Advanced -> Delete All. Reinstall Abode Flash Player.   
@@ -156,11 +162,13 @@ You can even convert the downloaded YouTube videos to iPhone, iPad, Samsung, HTC
 
 _Notice: MacXDVD Software doesn't advocate any reproduce, distribute, transmit, broadcast or sell any content for any other purposes without prior written permission of YouTube or the respective licensors of the content. Please refer to YouTube terms of service before doing so._ 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Issues of Spotify Not Working on iPhone iPad Android Fixed!
 
@@ -170,16 +178,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 [\[Solved\] Fix MovieTube Not/Stopped Working Errors on iPad iPhone Android](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 [How to Fix Instagram Videos Not Working/Playing](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
@@ -188,22 +190,25 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Solve Apple TV YouTube Not Working Problem](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -213,9 +218,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -223,8 +225,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -239,8 +239,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +246,20 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-best-signature-background-remover-online-6-incredible-tools/"><u>[New] Best Signature Background Remover Online - 6 Incredible Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>[New] The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily-for-2024/"><u>[Updated] Confirmed Age Adjustment Editing Your Profile on TikTok Easily for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-movavi-video-editor-plus-update-2024/"><u>[Updated] The Ultimate Guide to Movavi Video Editor Plus Update 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-through-the-lens-sage-advice-for-improving-your-edits/"><u>[Updated] Through the Lens Sage Advice for Improving Your Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[Updated] Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>2024 Approved Navigating Best Options Expert Picks From Top 9 Free Logomakers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>2024 Approved Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/easy-and-safe-techniques-full-wipe-and-factory-restore-on-iphone-devices/"><u>Easy & Safe Techniques: Full Wipe & Factory Restore on iPhone Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-a58-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo A58 4G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-c55-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Poco C55 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-the-art-of-visual-task-management-convert-google-tasks-to-kanban-boards-with-ease-on-tasksboard-insights-by-zdnet/"><u>Master the Art of Visual Task Management: Convert Google Tasks to Kanban Boards With Ease on TasksBoard | Insights by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-directors-eye-15-essential-camera-shots-explained-for-2024/"><u>The Director's Eye 15 Essential Camera Shots Explained for 2024</u></a></li>
+</ul></div>
 

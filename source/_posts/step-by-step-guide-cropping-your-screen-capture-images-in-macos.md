@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Cropping Your Screen Capture Images in macOS"
-date: 2024-08-26T16:28:04.828Z
-updated: 2024-08-27T16:28:04.828Z
+date: 2025-01-08T20:40:26.768Z
+updated: 2025-01-15T20:07:37.071Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/bae0b31bcf0f834a2cb8a8745d5e2bc7c01fc184bad894f3a2d80e9f7aedc125.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/bae0b31bcf0f834a2cb8a8745d5e2bc7c01fc184b
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Video Editing](https://tools.techidaily.com/macxdvd/products/) \> How to Crop a Screenshot on Mac
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Crop a Screenshot on Mac?
-
-
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/icon6.png) By [Candice Liu](https://tools.techidaily.com/macxdvd/products/) ｜Last updated onDecember 07, 2022 
 
@@ -50,8 +50,9 @@ Anybody who needs video screenshots and cropping the recording on Mac can use [M
 Actually, the Mac computer has many built-in tools to allow you to crop a screenshot and even edit the screenshot. So, we will find them out and show you the detailed steps to help you keep a portion of an image and discard the unwanted areas. BTW, if you are interested in a third-party Mac screenshot cropper, we will also introduce one to you.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1\. Crop a Screenshot on Mac with Hotkeys
 
 \* Screenshot types: Image screenshot (entire screenshot or cropped screenshot).
@@ -81,10 +82,6 @@ To take screenshots and crop the size on Mac as soon as possible, using a set of
 
 ![Crop Screenshot on Mac with Hotkeys](https://www.macxdvd.com/mac-video-converter-pro/article-image/mac-take-screenshot-keys.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 2\. Screenshot on Mac and Crop with Built-in Grab or Screenshot App
 
 \* Screenshot types: Image screenshots (entire screen, specific window, or cropped screenshot).
@@ -119,12 +116,6 @@ If you are using Screenshot app on the newer macOS, you need to click the screen
 
 ![Crop Screenshot on Mac with Grab](https://www.macxdvd.com/mac-video-converter-pro/article-image/grab-crop-screenshot-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Method 3\. Crop a Screenshot on Mac with Preview 
 
 \* Crop and edit screenshots.
@@ -152,12 +143,6 @@ On Mac computer, we usually view images with Preview and it can also be used to 
 
 ![Crop Screenshot on Mac with Preview](https://www.macxdvd.com/mac-video-converter-pro/article-image/crop-screenshot-with-preview.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4\. Crop a Screenshot on Mac with Photos App
 
 \* Take, crop and edit screenshots.
@@ -193,6 +178,10 @@ BTW, Photos app also lets you take screenshots of your Mac screen. Just press th
 
 ![Crop Screenshot on Mac with Photos App](https://www.macxdvd.com/mac-video-converter-pro/article-image/crop-screenshot-with-photos-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### In conclusion:
 
 The built-in apps on Mac are enough to anybody who want to crop a screenshot on Mac. By grasping these methods, you can preserve what you are seeing on screen and crop out the unwanted or sensitive sections of a screenshot. You even don’t need to pay for an image editor as some of the built-in apps like Photos allow you to make more advanced changes to your screenshot.
@@ -214,8 +203,9 @@ Cropping screenshots on Mac is not a difficult thing, but you need some help if 
 ![Mac Screen Recorder](https://www.macxdvd.com/mac-video-converter-pro/article-image/macx-video-record-crop.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3\. Frequently Asked Questions
 
 ### 1\. Why can’t I crop screenshots on Mac?
@@ -226,9 +216,17 @@ This happens when you use the built-in Screenshot app to crop a screenshot. Afte
 
 To use the snipping tool on Mac, you can use the hotkey combinations to activate. Simply press the Shift+Command+5 keys. Then, you can capture the entire screen, a particular window, or just a portion of the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. How to crop a screenshot on MacBook Pro?
 
 MacBook Pro lets users to use the Touch Bar itself to take screenshots with a single tap and crop. This only works on newer MacBook Pro models, but older Macs don't have the same functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. How to take screenshots on Mac?
 
@@ -239,9 +237,6 @@ Before cropping, you need to take screenshots first. So, you need to grasp the f
 * Command-Shift-4-the Space bar: Captures a window or menu.
 * Command-Shift-5: Open the screenshot toolbar to take screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 5\. How to edit a screenshot on Mac?
 
 To edit a screenshot on Mac, like changing angle, rotation and changing color, you can use Preview or Photos app on Mac.
@@ -250,14 +245,9 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/candice.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Candice Liu ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
-
-
 
 Related Articles
 
@@ -267,50 +257,45 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [4K Screen Recorder Mac: Capture 4K UHD at 60fps/30fps](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Screen Record Mac/Streaming Video with QuickTime Player](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Top 3 Free Online Screen Recorder - Record Screen with No Time Length Limit](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Top 16 Free Screen Recorder for Mac to Capture Screen](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [\[Tutorial\] How to Record Screen on Mac with Audio - Several Easiest Ways Shared](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-video-converter-pro/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -320,6 +305,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -327,8 +316,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -343,8 +330,6 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -352,4 +337,21 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-designing-engaging-podcast-teasers-for-2024/"><u>[New] Designing Engaging Podcast Teasers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-bitevideo-innovator/"><u>[Updated] 2024 Approved BiteVideo Innovator</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-capture-clarity-with-irecorder-tech/"><u>[Updated] In 2024, Screen Capture Clarity with iRecorder Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-photo-editing-processes-a-guide/"><u>[Updated] Streamlining Photo Editing Processes A Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-blending-primary-footage-with-b-roll/"><u>[Updated] The Art of Blending Primary Footage with B Roll</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-no-cost-voice-modifier-transform-your-valorant-gameplay/"><u>[Updated] Ultimate No-Cost Voice Modifier Transform Your Valorant Gameplay</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-decoding-durecorder-features-and-user-guide-review/"><u>2024 Approved Decoding DuRecorder Features and User Guide Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-for-personalizing-mbp-screens-with-skins/"><u>2024 Approved Top Picks for Personalizing MBP Screens with Skins</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 Pro After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-every-moment-top-tasks-to-master-while-immersing-in-your-favorite-podcasts/"><u>In 2024, Transform Every Moment Top Tasks to Master While Immersing in Your Favorite Podcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/step-into-mobile-entertainment-funimates-apk-pathway/"><u>Step Into Mobile Entertainment Funimate's APK Pathway</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-potential-in-your-photography-with-gopro-time-lapses-for-2024/"><u>Unlocking Potential in Your Photography with GoPro Time-Lapses for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/upgrading-twitter-video-fidelity-to-4k-for-2024/"><u>Upgrading Twitter Video Fidelity to 4K for 2024</u></a></li>
+</ul></div>
 

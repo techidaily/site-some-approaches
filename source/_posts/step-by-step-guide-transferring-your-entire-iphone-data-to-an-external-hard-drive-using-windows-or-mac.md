@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring Your Entire iPhone Data to an External Hard Drive Using Windows or Mac"
-date: 2024-08-26T16:27:29.341Z
-updated: 2024-08-27T16:27:29.341Z
+date: 2025-01-14T22:47:31.284Z
+updated: 2025-01-15T23:10:45.934Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc9941bc7a8515fe1dd62e1cd32c.jpg
@@ -20,8 +20,6 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 _Whether you want to free up space on the computer or keep another safe backup of your iPhone data, if you don't know how to save an iPhone backup on an external hard drive, this post will help. It will show you how to backup iPhone to USB drive directly or using iTunes._
 
 ![](https://www.macxdvd.com/mobile/../image-style/article-seo/icon1.png) By [Rico Rodriguez](https://www.linkedin.com/in/rico-rodriguez-06815a104/) to iPhone Tips, iTunes | Last Updated on Sep 13, 2023
-
-
 
 While iPhone storage goes up to 512GB, the iOS backups users create become larger. This leads to a heavier burden on the disk space of computers, especially Macs, most of which have very limited storage like 250GB or so. For example, users may have seen the message saying "iPhone restore cannot be saved because of not enough space on the computer". Besides, a full storage will result in slow performance on the computer. To protect iPhone data and avoid any lags on the computer at the same time, we will need to backup iPhone to a USB drive. Today this post will show you how to backup iPhone to an external hard drive on Windows & Mac.
 
@@ -48,11 +46,16 @@ Find the iTunes backup folder on your computer:
 ![locate iTunes backup](https://www.macxdvd.com/mobile/article-image/find-itunes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Copy iPhone backup to external hard drive
 
 After you find the Backup folder, copy it to the new folder you just created on the USB drive and wait for the transfer to complete. After the Backup folder is moved to the external drive, now back to the original location of the Backup folder on the computer and rename the Backup to Backup-Old or delete it (we suggest you delete it after Step 3).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Change iTunes backup location to the USB drive 
 
@@ -65,17 +68,14 @@ In this step, we'll create a symlink or symbolic link to make a new location for
 
 ![transfer iTunes backup to external drive](https://www.macxdvd.com/mobile/article-image/symlink.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Hit return and quit Terminal. Go back to \~/Library/Application Support/MobileSync/ folder in Finder (or the path on Windows) and you can see the Backup folder is now a blank icon with an arrow on it. It means you have changed the iTunes backup location and further iPhone will be backed up to the external drive via iTunes. 
 
 ![change iTunes backup location](https://www.macxdvd.com/mobile/article-image/back-external1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 4 (Optional): Backup iPhone to External USB Drive
 
  Now you can start to back up iPhone via iTunes as usual to check if it will save iPhone backup to external drive. If you don't know how, we also share you a simple guide: (Then you can delete the Backup-Old folder from the computer)
@@ -93,15 +93,24 @@ Check detailed guide on[how to backup iPhone to iTunes](https://tools.techidaily
 [![](https://www.macxdvd.com/mobile/../mobile/article-image/down-icon.png) Free download Mac version](https://tools.techidaily.com/macxdvd/products/)  
 [![](https://www.macxdvd.com/mobile/../mobile/article-image/down-icon.png) Free download Windows version](https://tools.techidaily.com/winxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Set iPhone backup location
 
 Before we start, you also need to connect your iPhone and external hard drive to the computer, then run the software. On Mac, click MediaTrans on the top toolbar of the desktop and click Preferences to bring the Settings page. On windows, simply find the settings button with a gear icon ne the right top corner of the main interface. In the Settings window, select the Export default path and navigate to the connected external drive.
 
 ![save iPhone backups to external drive](https://www.macxdvd.com/mobile/article-image/settings-path-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Save iPhone backup to external hard drive
 
 Click the data category you want to back up, like Photo Transfer, Music Manager, Video from the main interface. Below we will show you how to backup iPhone photos to external hard drive as an example. 
@@ -113,8 +122,9 @@ Check detailed guide on [how to backup iPhone without iTunes](https://tools.tech
 ![backup iPhone photos to external hard drive](https://www.macxdvd.com/mobile/article-image/photo-month-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Still have any problem to save iPhone backup to external hard drive, just [email us >>](https://tools.techidaily.com/macxdvd/products/) 
 
  Tags: [iPhone](https://tools.techidaily.com/macxdvd/products/) [Apple Related Tips](https://tools.techidaily.com/macxdvd/products/) [iTunes](https://tools.techidaily.com/macxdvd/products/) 
@@ -124,29 +134,25 @@ Related Articles
 ![](https://www.macxdvd.com/mobile/../image-style/article-seo/img1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Transfer Pictures from iPhone to a USB Flash Drive](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/article-seo/img2.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 [How to Backup iPhone Camera Roll Photos in a Faster Way](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mobile/../image-style/article-seo/img3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Simple Methods to Backup Old Phone Files Without iCloud](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mobile/../image-style/article-seo/mt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
 One-click to backup videos, photos, music, iTunes items, books, other data from iPhone to an external hard drive. 
@@ -165,29 +171,16 @@ MOST READ
 
 4 [Real Fixes to Photos Not Uploading to iCloud Photo Library](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mobile/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -204,8 +197,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Site Map](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -219,8 +210,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +217,22 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-high-quality-fullscreen-recorders-for-desktops-for-2024/"><u>[New] High-Quality Fullscreen Recorders for Desktops for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-click-reward-spectrum/"><u>[New] The Ultimate Click Reward Spectrum</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-methods-to-archive-lol-dueling-for-2024/"><u>[Updated] Innovative Methods to Archive LOL Dueling for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-textual-transformations-the-photographers-guide-to-image-edits/"><u>[Updated] Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>[Updated] The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-full-potential-of-streaming-with-dual-display-on-netflix/"><u>[Updated] Unlock Full Potential of Streaming with Dual Display on Netflix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>2024 Approved Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 13</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-to-facebook-video-streams-on-your-apple-tv/"><u>In 2024, Navigating to Facebook Video Streams on Your Apple TV</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-twilight-tones-adobe-premiere-blackouts/"><u>In 2024, Twilight Tones Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/recover-adb-related-errors-in-winnt-4-server/"><u>Recover ADB-Related Errors in WinNT 4 Server</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-process-for-upgrading-macos-sierra-for-2024/"><u>Streamlined Process for Upgrading macOS Sierra for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/timeless-telephony-a-compilation-of-calls/"><u>Timeless Telephony A Compilation of Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-full-potential-of-media-player-through-subtitles-for-2024/"><u>Unlock the Full Potential of Media Player Through Subtitles for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/watermark-wisdom-for-every-photographers-toolkit/"><u>Watermark Wisdom for Every Photographer's Toolkit</u></a></li>
+</ul></div>
 

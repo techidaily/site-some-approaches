@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Eliminating Black Frames and Boxing From Videos"
-date: 2024-08-26T16:27:32.299Z
-updated: 2024-08-27T16:27:32.299Z
+date: 2025-01-11T22:03:57.088Z
+updated: 2025-01-15T22:39:58.595Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee1664031b51ad4dc762eeccdfd025.jpg
@@ -16,13 +16,13 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Video Editing](https://tools.techidaily.com/macxdvd/products/) \> Remove Black Bars/Letterbox from Video
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video Processing: How to Free Remove Black Bars/Letterbox from Video
-
-
 
 _In this article we'll show you how to remove black bars (letterbox) from video with free macXvideo and VLC media player._
 
@@ -43,17 +43,15 @@ If the video you get is downloaded from YouTube and you don't know the aspect ra
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Learn More](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Table of Contents
 
 * [Part 1: How to Free Remove Black Bars from Video?](https://tools.techidaily.com/macxdvd/products/)
 * [Part 2: How to Get Rid of Black Borders from Video in VLC](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Free Remove Black Bars from Video?
 
 To get rid of black bars or letterbox from your YouTube video or 4K/8K video, the video cropper software is a must have. The current market is filled to brim with varied video editor tools, uneven in quality. You can choose to spend 1-2 hours to single out a reliable video editor, or instead, have a try on the 5-star highly recommended [**macXvideo**](https://tools.techidaily.com/macxdvd/products/), which is a perfect combination of simplicity and professionality, enabling you to 100% Free yet easily crop and remove black bars from video, as well as trim video duration, add special effects (16+) to video, [add external subtitles to video](https://tools.techidaily.com/macxdvd/products/), transcode video format, convert audio and more. 
@@ -82,9 +80,6 @@ Click **Codec** icon to enter the video parameter adjustment interface, where yo
 
 **Step 3:** Hit **RUN** button and this freeware's editing engine will go into action to begin to [crop video on Mac](https://tools.techidaily.com/macxdvd/products/). If your MacBook/MacBook Pro/Air or iMac supports GPU hardware acceleration (the **hardware accelerate engine** will be automatically ticked), the whole video letterbox removal processing will be executed at **Intel/Nvidia/AMD** accelerated speed, up to 5-8X faster than normal [Mac video editor](https://tools.techidaily.com/macxdvd/products/). 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get Rid of Black Borders from Video in VLC
 
 As is known to all, [VLC](https://tools.techidaily.com/macxdvd/products/) is a powerful yet all-round media player. Yet, it has another identification - free video editor. So when it comes to crop video and remove letterbox from video, VLC fans are particularly loud in their support for VLC ability to remove video black bars. However, some users still have no idea about how to use VLC to crop and adjust video width and height. If you're one of them, the below guide is helpful. 
@@ -96,19 +91,22 @@ As is known to all, [VLC](https://tools.techidaily.com/macxdvd/products/) is a p
 ![VLC video player](https://www.macxdvd.com/video-editing/article-image/vlc-crop-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 3:**  Open the scale options, which covers auto, 1, 0.25, 0.5, 0.75, 1.25, 1.5, 1.75 and 2\. You can choose the one you need from 9 options or manually set the width and height in the "Frame Size" zone.
 
 ![get rid of letterbox in VLC](https://www.macxdvd.com/video-editing/article-image/vlc-crop-2.jpg)
 
 **Step 4:**  Tap "Save" button and VLC media player will start to change video aspect ratio for you. Since VLC only supports [DXVA hardware decoding](https://en.wikipedia.org/wiki/DirectX%5FVideo%5FAcceleration) for Windows version, the whole video processing speed is comparatively much slower than macXvideo and it consumes more CPU usage, up to 96% during the procedure. 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Flip and Rotate MP4 Video in 90/180/270 Degrees](https://tools.techidaily.com/macxdvd/products/)
 
@@ -118,53 +116,42 @@ Related Articles
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Compress GoPro Video for YouTube Facebook](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Full Guide on How to Edit A Video on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Cut Video on Mac Easily, Quickly and No Quality Loss](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [4K Video Editor: Trim, Crop, Rotate, Merge, Effects](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/video-editing/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -173,6 +160,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -180,8 +171,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -196,8 +185,6 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +192,23 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-movie-magic-tiktok-effects-techniques/"><u>[New] 2024 Approved Mastering Movie Magic TikTok Effects Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-spring-screens-a-deep-dive-into-desktop-capturing-pro/"><u>[New] Spring Screens A Deep Dive Into Desktop Capturing Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos/"><u>[New] Time Warp Techniques Harnessing Classic 80S Visual Flair in Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-collection-10-excellent-photo-background-alternators/"><u>[New] Ultimate Collection 10 Excellent Photo-Background Alternators</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-end-your-active-discord-association-for-2024/"><u>[Updated] End Your Active Discord Association for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>[Updated] Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-the-secrets-to-effective-podcast-scriptwriting-and-practical-examples/"><u>[Updated] Unlock the Secrets to Effective Podcast Scriptwriting & Practical Examples</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-windows-media-seamless-cd-extraction/"><u>[Updated] Unveiling Windows Media Seamless CD Extraction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-secure-your-free-green-screen-assets-with-these-top-8-sites/"><u>2024 Approved Secure Your FREE Green Screen Assets with These Top 8 Sites</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/como-desconectar-onedrive-de-tu-sistema-operativo-windows-11-un-guia-detallada/"><u>Cómo Desconectar OneDrive De Tu Sistema Operativo Windows 11: Un Guía Detallada</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/critical-essentials-top-10-terraria-upgrades/"><u>Critical Essentials Top 10 Terraria Upgrades</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elite-systems-unveiled-the-best-of-the-bunch/"><u>Elite Systems Unveiled - The Best of the Bunch</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-m14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy M14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/silence-unwanted-post-suggestions-on-insta/"><u>Silence Unwanted Post Suggestions on Insta</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-impact-and-innovations-in-vegaspro-a-2019-review-for-2024/"><u>The Impact and Innovations in VegasPro A 2019 Review for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-uplifting-films-for-momentum-and-motivation-for-2024/"><u>Top 10 Uplifting Films for Momentum & Motivation for 2024</u></a></li>
+</ul></div>
 

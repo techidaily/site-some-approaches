@@ -1,7 +1,7 @@
 ---
 title: フラック形式の高画質音楽ファイルをMac/Windows iTunes互換に変換・再生方法
-date: 2024-08-24 21:12:26
-updated: 2024-08-27 11:15:58
+date: 2025-01-13T19:35:07.205Z
+updated: 2025-01-15T23:18:57.781Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1628ff4b17b2024d943bf02d.jpg
@@ -30,7 +30,9 @@ flac itunes変換方法に悩んでいる人も、新しいMacコンピュータ
    5. [2.1 （Macの場合）flac itunes変換方法（操作手順付き）](https://tools.techidaily.com/macxdvd/products/)  
    6. [2.2 （Windowsの場合）flac itunes変換方法（操作手順付き）](https://tools.techidaily.com/macxdvd/products/)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## （一）Flac iTunes取り込みできない原因
 
@@ -50,6 +52,10 @@ Flacの汎用性が高くても、.mp3よりやや低い。だから、Flacを�
 
 * [【iTunes iPhone認識しない】その原因と対処法をまとめ！MacとWindows環境で！![](https://www.macxdvd.com/blog/../image-style/new-seo/dotarrow.gif)](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iTunesでサポートされるオーディオフォーマット** 
 
 上記に述べたように、Flacに対応するメディアプレーヤーは少なく、iTunesでもFlac音楽ファイルを直接に再生することはできない。
@@ -66,8 +72,6 @@ AIFC
 だから、e-onkyoやmoraでハイレゾとして販売している音源ファイルFlacはiTunesで入れなくて、再生することもダメ。
 
 そこで以下では、音質劣化なしでFlac音楽ファイルをiTunesに入れる方法を詳しくご紹介する。
-
-
 
 ## 2\. 音質劣化なしでFlac音楽ファイルをiTunesに入れる方法
 
@@ -95,11 +99,18 @@ FLAC2iTunesを起動して、「.flac」ファイルをFLAC2iTunesにドラッ�
 後は「iTunesへのアクセス許可を求められるか」といった画面が表示され、「OK」をクリックしてください。そして、FLAC2iTunesがiTunesと連携され、FLACファイルをiTunesで再生できるオーディオ形式Apple Losslessファイルに変換する作業が始まる。Statusが「Done」になったらFlacからAppleロスレスへの変換作業が完了。  
 ![FLAC2iTunesで.flacを変換](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-03.jpg)
 * Step4  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 お使いのコンピューターからiTunesアプリケーションを起動する。iTunesのメニューから「環境設定」とクリックし、一般環境設定画面の下部にある「読み込み設定」をクリックして、「読み込み方法」のプルダウンの中から「Apple Losslessエンコーダー」と選択してください。  
 先ほど変換されたApple LosslessファイルがiTunesに表示されている。それで、FlacファイルをiTunesで聴くことが可能。  
 ![Flac iTunes取り込み](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-04.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 VideoProc――多機能な音楽ファイル変換ソフト（有料）
 
@@ -115,6 +126,11 @@ VideoProc――多機能な音楽ファイル変換ソフト（有料）
 VideoProc公式サイトにアクセスして、ソフトウェアをダウンロードしてインストールしてください。  
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-mac.png)](https://www.videoproc.com/download/videoproc-file.dmg) [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-win.png)](https://www.videoproc.com/download/videoproc-file.exe)  
 無事にインストールされた後、起動する。そして、メイン画面が表示され、「ビデオ」と書かれたボタンをクリックしてください。  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![VideoProcインストール](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-05.jpg)
 * Step2  
 音楽変換画面に切り替え、一番上にある「＋音楽」ボタンをクリックして、「.flac」音源ファイルをソフトウェアに読み込ませる。  
@@ -135,8 +151,6 @@ iTunesを起動して、iTunesのメニューバー⇒「ファイル」⇒「�
 
 [『VideoProc』の使い方](https://jp.videoproc.com/guide/index-windows.htm)
 
-
-
 （Windowsの場合）flac itunes変換方法（操作手順付き）
 
 MediaHuman Audio Converter――無料オーディオ変換ソフト
@@ -151,9 +165,19 @@ MediaHuman Audio Converter――無料オーディオ変換ソフト
 MediaHuman Audio Converterの公式サイト（<https://www.mediahuman.com/ja/audio-converter/> ）にアクセスして、ソフトウェアをダウンロード・インストールしてください。無事にインストールされた後、ソフトウェアを起動する。変換したい.flac音楽ファイルをMediaHuman Audio Converterにドラッグ＆ドロップしてください。  
 ![MediaHuman Audio Converterに.flac音楽ファイルを読み込み](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-10.jpg)
 * Step2  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 取り込んだ後、「CUE files found for 1 added tracks. Do you want to split them now？」（.flacファイルの画像とキューを分割すること）といった画面が表示され、こちらは「No」とクリックする。場合によって「Yes」とクリックするのもいい。  
 ![MediaHuman Audio Converter設定](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-11.jpg)
 * Step3  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 .flac音楽ファイルがソフトウェアに追加された後、ツールバーのドロップダウンメニューから「形式選択」をクリックして、出力形式を選択できる画面が表示される。  
 こちらはiTunesでサポートされている.alacファイル形式を選択する。品質を「stereo,48000Hz」と選択する。場合によって、自由に選べる。完了したら、「Close」ボタンをクリックすればOK。  
 ![MediaHuman Audio Converter品質調整](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-12.jpg)
@@ -162,7 +186,9 @@ MediaHuman Audio Converterメイン画面に戻り、一番上にある「変換
 パソコンのスペックやファイルのサイズによって、少し時間がかかり、少々お待ちください。  
 ![MediaHuman Audio Converter音楽変換](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-13.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 WinX MediaTrans――音楽管理ソフト（有料）
 
@@ -177,6 +203,11 @@ WinX MediaTrans――音楽管理ソフト（有料）
 WinX MediaTrans公式サイトにアクセスして、ソフトウェアをダウンロード・インストールしてください。  
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-win.png)](https://tools.techidaily.com/winxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-mac.png)](https://tools.techidaily.com/macxdvd/products/)  
 無事にダウンロードした後、お使いのiPhoneをUSBケーブルでPCに接続してください。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Step2  
 WinX MediaTransのメイン画面にある「音楽管理」ボタンをクリックしてください。  
 ![WinX MediaTransインストール](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-14.jpg)
@@ -189,8 +220,6 @@ iTunesで再生する場合は、先ほどiPhoneに転送された.flac音楽フ
 ![.flac音楽ファイルを.mp3に変換](https://www.macxdvd.com/blog/img/convert-flac-to-play-in-itunes-yrq-16.jpg)
 
 [『WinX MediaTrans』の使い方](https://tools.techidaily.com/winxdvd/products/)
-
-
 
 ## あなたへのおすすめ
 
@@ -210,8 +239,6 @@ iTunesで再生する場合は、先ほどiPhoneに転送された.flac音楽フ
 
 [無料でスマホに音楽をダウンロード＆音楽ダウンロードアプリ！](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \> Flac iTunes取り込み方法
 
 <ins class="adsbygoogle"
@@ -220,11 +247,30 @@ iTunesで再生する場合は、先ほどiPhoneに転送された.flac音楽フ
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>[New] Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-livestream-tactics-best-practices-for-cricket-viewers/"><u>[New] Top Livestream Tactics Best Practices for Cricket Viewers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-bypass-the-hidden-shadowban-on-tiktok/"><u>[Updated] Bypass the Hidden Shadowban on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-editing-software-tailored-to-dji-filmmaking/"><u>[Updated] Superior Editing Software Tailored to DJi Filmmaking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synchronizing-sound-to-pixels-online/"><u>[Updated] Synchronizing Sound to Pixels Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-church-streaming-services-for-the-digital-age/"><u>2024 Approved Top Church Streaming Services for the Digital Age</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-enhance-your-artistry-mastering-clear-edges-in-photos/"><u>In 2024, Enhance Your Artistry Mastering Clear Edges in Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>In 2024, The Art of Blending Audio and Visuals in a Trailer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-smartest-podcast-renaming-options-through-ai-technology/"><u>In 2024, The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-alternative-to-samsungs-360-vr-camera/"><u>In 2024, Top Alternative to Samsung’s 360 VR Camera</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-retire-your-current-ipad-model/"><u>Is It Time to Retire Your Current iPad Model?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-download-of-enhanced-amd-ryzen-3-2200g-gpu-and-cpu-drivers/"><u>Secure Download of Enhanced AMD Ryzen 3 2200G GPU and CPU Drivers</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-tweaking-your-mouse-configuration-via-windows-control-panel-yl-software-tips/"><u>Step-by-Step Guide: Tweaking Your Mouse Configuration via Windows Control Panel - YL Software Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/syncing-up-with-friends-on-spotify-is-concurrent-listening-an-option/"><u>Syncing Up with Friends on Spotify: Is Concurrent Listening an Option?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sh-potential-deciding-between-studio-and-beta-version-for-2024/"><u>Unleash Potential Deciding Between Studio and Beta Version for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-srt-to-sub-transition-for-2024/"><u>Unlocking the Secrets of SRT-to-SUB Transition for 2024</u></a></li>
+</ul></div>
+

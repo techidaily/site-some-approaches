@@ -1,13 +1,17 @@
 ---
 title: "[公式] Digiarty Software, Inc のユーザーデータ取り扱い基準:プライバシーポリシー解説 - 信頼できるソフトウェア会社からの保護策"
-date: 2024-08-26T16:32:00.454Z
-updated: 2024-08-27T16:32:00.454Z
+date: 2025-01-12T19:05:05.315Z
+updated: 2025-01-15T18:20:51.699Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## [公式] Digiarty Software, Inc のユーザーデータ取り扱い基準:プライバシーポリシー解説 - 信頼できるソフトウェア会社からの保護策
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **弊社が収集する情報**
 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 **3\. Cookieおよびその他同等の技術**  
  Digiarty Software Inc.はCookieおよびWebビーコンなどのその他同等の技術を使用して、Webサイトおよびオンラインサービスを提供し、データ収集を行います。Webビーコンは、Cookieの提供、アクセスカウント、および弊社がお客様に送信した電子メールを開いたり、それに伴い操作したかどうかなどを調べるための使用率やキャンペーンの効果を理解するために、弊社のウェブサイトまたは電子メールで使用することがある電子画像です。
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **弊社が収集した情報の使用方法**
 
 弊社は、以下の目的でWebサイトを使用する際にお客様の情報を使用します。このプライバシーポリシーで記述されている以外の目的で情報を使用する場合、それについてお客様に尋ねます。
@@ -53,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 • ビジネスパートナーとのプロモーションのコラボレーション目的。  
 • 製品情報にお客様を接続し、コンテスト、オファー、またはプロモーションへのお客様の参加を管理する目的。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **情報セキュリティ**
 
 弊社では、お客様が弊社のサービスを利用する際に、不正アクセス、不正改ざん、弊社が保持する情報の開示または破壊などからお客様を保護するために全力を尽くしています。特に
@@ -65,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 • Digiarty Software Inc.の社員、請負業者、およびエージェントが弊社に代わって処理するために使用する個人情報へのアクセスは制限してます。また、厳格な契約の機密保持の対象となるこれらの人物は、これらの義務を果たせない場合に懲戒処分または契約破棄となることがあります。
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **弊社が共有する情報**
 
  以下の状況を除き、弊社は個人情報をDigiarty Software Inc.以外の会社、組織、および個人と共有することはありません:
@@ -81,35 +87,30 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 * ◎法律で必要必須の、または許可されている、Digiarty Software Inc.弊社のユーザー、または公衆の権利、知的財産、または安全に危害が及ぶことを防ぐため。
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **このプライバシーポリシーが適用されるとき**
 
 弊社のプライバシーポリシーは、その他の会社または個人によって提供されるサービスには適用されません。これには、弊社のサービスを使用する際に表示される可能性のある製品またはWebサイトが含まれます。弊社のプライバシーポリシーは、弊社のサービスを宣伝するその他企業や組織、Cookieおよびその他のテクノロジーを使用して関連の広告を提供する、その他の企業および組織の情報処理方法にまでは至りません。
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### **子供のガイドライン**
 
 Digiarty Software Inc.は、子供のプライバシーニーズの保護に徹底しています。また、弊社では、両親および保護者が子供のオンラインアクティビティについて積極的に関与することをお勧めしています。本サイトは、13歳未満のお子様を対象としていません。本サイトのサービス規約により、ユーザーは、満13歳であることを断言するものとします。弊社は、親の許可なく、ある子供についてのオンライン連絡先情報または個人を特定できるオフライン連絡先情報を故意に収集することはありません。弊社は、親の許可なく、子供についての個人を特定できる情報を故意に配布することはありません。弊社は、親の許可なく、個人情報を投稿または配布する権限を故意に子供に与えることはありません。弊社は、個人情報を開示することを助長するような子供を対象としたゲームまたはコンテストを誘うことはしません。
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **変更**
 
 弊社のプライバシーポリシーは時折変更されることがあります。弊社は、明確な同意なしに、このプライバシーポリシー下のお客様の権利を低減させるようなことはしません。弊社は、このページにプライバシーポリシーの変更を投稿します。また、変更が重要である場合、弊社は、より明確な通知を行います（特定のサービスのプライバシーポリシーの電子メール通知を含む）。
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +119,23 @@ Digiarty Software Inc.は、子供のプライバシーニーズの保護に徹�
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-step-by-step-approach-to-professional-chromatic-control/"><u>[New] 2024 Approved A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synopsis-of-vllo-consumer-voices/"><u>[New] Synopsis of VLLO Consumer Voices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>[New] Unveiling the Power of Photos A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-add-fade-inout-premiere-pro-for-2024/"><u>[Updated] Add Fade In/Out Premiere Pro for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-engage-enlighten-and-enthrall-with-immersive-facebook-sharing/"><u>[Updated] In 2024, Engage, Enlighten and Enthrall with Immersive Facebook Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-efficient-path-to-time-stamped-image-documentation/"><u>[Updated] The Efficient Path to Time-Stamped Image Documentation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtubes-monetization-potential-for-2024/"><u>[Updated] Unlocking YouTube's Monetization Potential for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-to-bypass-edgenuity-videos-with-minimal-hassle/"><u>2024 Approved Strategies to Bypass Edgenuity Videos with Minimal Hassle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-reel-game-on-insta-with-tiktoks-best-practices/"><u>Elevate Your Reel Game on Insta with TikTok's Best Practices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-k11x-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo K11x Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-thrifty-shopping-for-cameras-the-most-economical-lists-under-100/"><u>In 2024, Thrifty Shopping for Cameras The Most Economical Lists Under $100</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-ideas-into-impactful-scenes-through-dialogue-for-2024/"><u>Transforming Ideas Into Impactful Scenes Through Dialogue for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/trouble-with-dvds-in-windows-11-discover-the-easy-no-cost-ways-to-get-them-working-again/"><u>Trouble with DVDs in Windows 11? Discover the Easy, No-Cost Ways to Get Them Working Again!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/variations-in-windows-movie-maker-clones-for-2024/"><u>Variations in Windows Movie Maker Clones for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/44kv44oq44ki44gq55s76loq44gn44oa44kk44ok44oi44oz44oj5yuv55s744ks5pku44kk44gplus44gp44kl5pa55rov/"><u>クリアな画質でダイヤモンド動画を撮りまくる方法</u></a></li>
+</ul></div>
 

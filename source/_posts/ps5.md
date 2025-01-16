@@ -1,7 +1,7 @@
 ---
 title: PS5リリース決定! 高性能ゲームコンソールの最新価格と特長について学ぶ
-date: 2024-08-26T16:30:52.560Z
-updated: 2024-08-27T16:30:52.560Z
+date: 2025-01-08T17:13:12.893Z
+updated: 2025-01-15T19:16:40.709Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7ef77a5fdd8ceeee3dcb3523.jpg
@@ -11,7 +11,15 @@ thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \> PS5 最新情報おそろい
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PS5発売日、PS5性能、価格、最新情報おそろい！プレステ5スペック更新、新機能追加！
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PS5 発売予定は確実、次期のプレステ5お楽しみ
 
@@ -29,18 +37,10 @@ PS4とPS4 Proの次に、PS5は姿を現れた。PS5発売日は早くとも2018
 
 [![](https://tools.techidaily.com/macxdvd/products/)![](https://www.macxdvd.com/blog/img/amazon-ps5.png) 【公式】Amazon PlayStation購入 PlayStationをお得に買うなら、デジタル家電通販サイト「ノジマオンライン」で！！](https://www.macxdvd.com//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3252768&pid=885783166) [![](https://tools.techidaily.com/macxdvd/products/)![](https://www.macxdvd.com/blog/../apple-iphone-transfer/images/seomodel/r_arrow.png)](https://www.macxdvd.com//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3252768&pid=885783166) 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## PS5 発売予定情報：PS5発売日はまもなく、価格上がり？
 
 **リリース** 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 公式から発表されたPS5発売日情報：2020年年末商戦
 
 PlayStation 5の発売日はいよいよ公式発表されます。具体的な時間はわかりませんが、2020年の年末商戦で発売されることになります。
@@ -48,8 +48,9 @@ PlayStation 5の発売日はいよいよ公式発表されます。具体的な�
 ![PS5 発売日](https://www.macxdvd.com/blog/img/ps5-zld-0515-02.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PS5発売日情報：2018年後半か、2019年年末か、2020年か
 
 「PS4でPlaystationシリーズを終了するつもりはなく、次世代のPlaystationも考えている。」と、PS4開発責任者である伊藤雅康氏が述べている。が、Playstation 4 Proの後に次世代機種としてプレステ 5の存在が認められた今は、発売情報は全然公開されていない。今はこのような三つの時点が予測されている。
@@ -72,11 +73,6 @@ PlayStation 5の発売日はいよいよ公式発表されます。具体的な�
 
 が、PS5最新情報によって**2020年にPlaystation 5は発売される**のは一番有力である。これにより東京オリンピックの開催年でPS5発売予定だとも予測されている。ソニー側としてはいつものペースに乗って、新機能が不安定といった問題を解決した後に後ろ押したほうがいいと思われている。もう一つの理由は今PS4もPS4 Proもよく売っているので、ソニーとしてこのいい状況をPS5発売で終わらせるわけがない。
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### PS5発売予定情報：PS5の値段は上がり？
 
 ![PS5価格高める](https://www.macxdvd.com/blog/img/ps5-zld-0515-01.jpg) 
@@ -85,8 +81,6 @@ PS5発売日はいつになっても、今PS5 発売予定だと確実なこと�
 
 Playstation4もPlaystation4 Proも発売された時に399ドルで発売されたが、その後継機のPS5の値段は上がり、**450ドル～500ドル**になる。ストレージによってもう100ドルから150ドル上がる機種がある。ゲーム機としてはPS5の値段は高いが、そのライバルの価格、または新機能を考えると合理的な価格だと思われる。
 
-
-
 ## PS5性能、スペック情報：一段的な進化にご期待を！
 
 PS5価格は上がり、それなりにスペックと性能も一段的に進化される。画面も演算性能もフィードバックも、またストレージも、PS5性能は面々にも向上される。PS4よりも、PS4 Proよりもよい体験が得られて、PS5価格があがってもコストパフォーマンスがよくなる。
@@ -94,8 +88,9 @@ PS5価格は上がり、それなりにスペックと性能も一段的に進�
 PS5スペック最新情報
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PlayStation 5コンソールゲーム機本体
 
 * 超高速アクセスが可能なカスタムSSD搭載
@@ -112,9 +107,6 @@ GPU: AMD Radeon RDNA (Radeon DNA) -based graphics engine
 * ハプティック技術搭載
 * L2・R2ボタンに抵抗力を感じさせるアダプティブトリガーを採用
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### 物理メディア
 
 * Ultra HD Blu-ray
@@ -129,13 +121,9 @@ GPU: AMD Radeon RDNA (Radeon DNA) -based graphics engine
 
   
 
-
 ![PS5性能 スペック](https://www.macxdvd.com/blog/img/ps5-zld-0515-09.jpg) 
 
   
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### PS5性能、スペック情報：ストレージはカスタムSSDに！
 
 PlayStation 5にストレージはHDDになる噂がありますが、残念なことに実現できなかった。が、PS5最新情報によって、カスタムSSDを搭載することによって超高速のアクセスが可能となり、ゲームのロード時間は格段に速くなるそうだ。読み込みも書き込みもより早く完成でき、PS5発売日になったらよりスムーズな表現が期待できる。
@@ -145,9 +133,6 @@ PS5もストレージによって複数の機種を提供する予定で、容�
 ![PS5性能 スペック](https://www.macxdvd.com/blog/img/ps5-zld-0515-10.jpg) 
 
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### PS5性能、スペック情報：バッテリーの向上に消費電力の削減
 
 PlayStation 5に搭載されるバッテリーは従来より大容量になる予定である。また、USB-Cへの接続が対応でき、ゲーム中に充電できるようになる。
@@ -157,8 +142,9 @@ PlayStation 5に搭載されるバッテリーは従来より大容量になる�
 ![](https://www.macxdvd.com/blog/img/PS5-zld-190418.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **プレステ5でニコ動画が見れるようなソフト** \- 100% 安全 
 
 **[MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)** \- プロな動画変換ソフトで、高性能な動画変換機能とダウンロード機能が提供している。無劣化でニコ動など動画サイトからウェブ動画をダウンロードしたり、PlayStation 5で再生できるファイルに変換したりすることが手軽に完成できる。絶えず更新中、PS5発売日になった以上すぐ対応できる。
@@ -167,9 +153,6 @@ PlayStation 5に搭載されるバッテリーは従来より大容量になる�
 
 [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PS5新機能情報：VR、8K、Blu-rayに対応！
 
 ![PS5 VR](https://www.macxdvd.com/blog/img/ps5-zld-0515-07.jpg) 
@@ -177,9 +160,6 @@ PlayStation 5に搭載されるバッテリーは従来より大容量になる�
 PS5性能の向上で従来の機能はよりよく動作できるが、それより新機能への対応がPS5性能向上に一番の理由である。VRも4Kもなにも、PS4とPS4 Proに残念なものはすべてPS5に果たすと期待できる。
 
   
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### PS5新機能情報：VRへの対応
 
 VRゲームは今大人気になった。ゲーム機としてPlaystationもそのライバルもVRに力を入れる。が、PlayStation4は処理能力の制限で60fpsが表示可能上限なので、VR対応が不可能。でもプレステ5の場合に90fps～120fpsのVRが対応可能となった。PS5最新情報にも、公式としてPS VRに対応可能である。プレステ5の進化された処理能力により、VRゲームも滑らかに動きを表現してくれると期待されている。これはPS5の発売予定情報を期待する一番の理由とも言える。
@@ -193,8 +173,9 @@ PlayStation5の注目された新機能で、簡単にいえば光線の屈折�
 ![PS5 4K](https://www.macxdvd.com/blog/img/ps5-zld-0515-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PS5新機能情報：最大8K解像度とBlu-rayへの対応
 
 4Kに対応するPS4 Proが公開したら、果たして本物の4Kではなくて「擬似4K表示」というものだった。画質は確かによくなるがそれだけで満足できない。PS5性能の向上により最大8K解像度の出力に対応できるようになる。これで720Pから8Kまで寛幅に対応できるように、やれるゲームも多くなる。しかもどんな解像度でもPS4 Proよりの体験が得られる。が、4Kテレビがないと4Kの表示ができないので、テレビは4Kに対応できないと期待しないほうがいいと思います。
@@ -213,10 +194,6 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
 
 この二つの新機能はプレステ5專門のコントローラーでなければ利用できないということで、專門のコントローラーをオススメ。
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## PS5ソフト情報：プレステ5は下位互換性？
 
 プレステ5の新機能が期待で、どんなゲームが遊べるかとも肝心な問題である。実にソニーは今回下位互換性を持つゲーム機を開発するそうで、海外ニュースが報道している。PS4のゲームは一部対応でき、PS4 Pro向きに開発されたゲームにPS5が対応できる可能性が高い。従来のゲームだけでなく、今ゲーム開発者がPS5に対応するバージョンを開発すると公開されて、その中に新作もあれば大人気の続作もある。
@@ -235,15 +212,15 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
 * NBA 2K14
 * 龍が如く 維新!
 * KILLZONE SHADOW FALL
-
-
 
 ![PS5性能 スペック](https://www.macxdvd.com/blog/img/ps5-zld-0515-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PS5性能、スペック情報：バッテリーの向上に消費電力の削減
 
 PlayStation 5に搭載されるバッテリーは従来より大容量になる予定である。また、USB-Cへの接続が対応でき、ゲーム中に充電できるようになる。
@@ -252,9 +229,6 @@ PlayStation 5に搭載されるバッテリーは従来より大容量になる�
 
 ![](https://www.macxdvd.com/blog/img/PS5-zld-190418.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **プレステ5でニコ動画が見れるようなソフト** \- 100% 安全 
 
 **[MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)** \- プロな動画変換ソフトで、高性能な動画変換機能とダウンロード機能が提供している。無劣化でニコ動など動画サイトからウェブ動画をダウンロードしたり、PlayStation 5で再生できるファイルに変換したりすることが手軽に完成できる。絶えず更新中、PS5発売日になった以上すぐ対応できる。
@@ -264,24 +238,21 @@ PlayStation 5に搭載されるバッテリーは従来より大容量になる�
 [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
+
 ## PS5新機能情報：VR、8K、Blu-rayに対応！
 
 ![PS5 VR](https://www.macxdvd.com/blog/img/ps5-zld-0515-07.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 PS5性能の向上で従来の機能はよりよく動作できるが、それより新機能への対応がPS5性能向上に一番の理由である。VRも4Kもなにも、PS4とPS4 Proに残念なものはすべてPS5に果たすと期待できる。
 
   
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PS5新機能情報：VRへの対応
 
 VRゲームは今大人気になった。ゲーム機としてPlaystationもそのライバルもVRに力を入れる。が、PlayStation4は処理能力の制限で60fpsが表示可能上限なので、VR対応が不可能。でもプレステ5の場合に90fps～120fpsのVRが対応可能となった。PS5最新情報にも、公式としてPS VRに対応可能である。プレステ5の進化された処理能力により、VRゲームも滑らかに動きを表現してくれると期待されている。これはPS5の発売予定情報を期待する一番の理由とも言える。
@@ -292,8 +263,6 @@ VRゲームは今大人気になった。ゲーム機としてPlaystationもそ�
 
 PlayStation5の注目された新機能で、簡単にいえば光線の屈折や反射を追跡するように描画する機能である。今までのゲームはより精細に映すのはもちろん、これからもよりリアルで、画面に要求がより高いゲームがPlayStation5に対応できるようになることこそ一番期待されることである。
 
-
-
 ## PS5新機能情報：VR、8K、Blu-rayに対応！
 
 ![PS5 VR](https://www.macxdvd.com/blog/img/ps5-zld-0515-07.jpg) 
@@ -305,29 +274,20 @@ PS5性能の向上で従来の機能はよりよく動作できるが、それ�
 
 VRゲームは今大人気になった。ゲーム機としてPlaystationもそのライバルもVRに力を入れる。が、PlayStation4は処理能力の制限で60fpsが表示可能上限なので、VR対応が不可能。でもプレステ5の場合に90fps～120fpsのVRが対応可能となった。PS5最新情報にも、公式としてPS VRに対応可能である。プレステ5の進化された処理能力により、VRゲームも滑らかに動きを表現してくれると期待されている。これはPS5の発売予定情報を期待する一番の理由とも言える。
 
-
-
 ![PS5 4K](https://www.macxdvd.com/blog/img/ps5-zld-0515-08.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### PS5新機能情報：最大8K解像度とBlu-rayへの対応
 
 4Kに対応するPS4 Proが公開したら、果たして本物の4Kではなくて「擬似4K表示」というものだった。画質は確かによくなるがそれだけで満足できない。PS5性能の向上により最大8K解像度の出力に対応できるようになる。これで720Pから8Kまで寛幅に対応できるように、やれるゲームも多くなる。しかもどんな解像度でもPS4 Proよりの体験が得られる。が、4Kテレビがないと4Kの表示ができないので、テレビは4Kに対応できないと期待しないほうがいいと思います。
 
 物理メディア規格のほうは、Ultra HD Blu-rayディスクが対応できるようになる。
 
-
-
 ![PS5 4K](https://www.macxdvd.com/blog/img/ps5-zld-0515-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PS5新機能情報：向上されたハプティック技術
 
 PlayStation 5最新情報だが、本機ではなくコントローラーの新機能情報である。触感フィードバック(ハプティック技術)の向上によって、より迫真の感じが作られる。
@@ -338,25 +298,12 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
 
 この二つの新機能はプレステ5專門のコントローラーでなければ利用できないということで、專門のコントローラーをオススメ。
 
-
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PS5ソフト情報：プレステ5は下位互換性？
 
 プレステ5の新機能が期待で、どんなゲームが遊べるかとも肝心な問題である。実にソニーは今回下位互換性を持つゲーム機を開発するそうで、海外ニュースが報道している。PS4のゲームは一部対応でき、PS4 Pro向きに開発されたゲームにPS5が対応できる可能性が高い。従来のゲームだけでなく、今ゲーム開発者がPS5に対応するバージョンを開発すると公開されて、その中に新作もあれば大人気の続作もある。
 
 ![PS5 ゲーム](https://www.macxdvd.com/blog/img/ps5-zld-0515-06.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * パラッパラッパー
 * ニード・フォー・スピード ライバルズ
 * バトルフィールド4
@@ -369,16 +316,11 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
 * NBA 2K14
 * 龍が如く 維新!
 * KILLZONE SHADOW FALL
-
-
 
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/mv-zld-180621-04.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [動画編集フリーソフトランキング10選！window＆Mac版](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/xbox-one-x-vs-ps4-pro-20170724-07.jpg) 
@@ -393,8 +335,6 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
 
 [【wii活用裏技】wiiでDVD見れる方法！新機種を待つ必要なし](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \> PS5発売日、性能など最新情報おそろい
 
 <ins class="adsbygoogle"
@@ -403,8 +343,6 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -412,4 +350,22 @@ PlayStation 5最新情報だが、本機ではなくコントローラーの新�
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-srt-revisited-direct-conversion-to-subcap/"><u>[Updated] 2024 Approved SRT Revisited Direct Conversion to SUBCAP</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unlocking-vsco-photo-editing-tips-and-tricks/"><u>[Updated] 2024 Approved Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-revolutionize-your-workflow-best-free-3d-text-files/"><u>[Updated] Revolutionize Your Workflow Best FREE 3D Text Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>[Updated] Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/"><u>2024 Approved The Definitive 10 Screenshot Boosters with Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-graphics-bug-your-complete-guide-to-tackling-redd-2s-errgfxstate-error/"><u>Beat the Graphics Bug: Your Complete Guide to Tackling REDD 2'S ERR_GFX_State Error</u></a></li>
+<li><a href="https://win-bits.techidaily.com/cute-catgirls-in-animation-style-for-desktop-backgrounds-and-visual-inspiration/"><u>Cute Catgirls in Animation Style for Desktop Backgrounds and Visual Inspiration</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-6-hdmi-21-monitor/"><u>In 2024, Top 6 HDMI 2.1 Monitor</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/prompt-acquisition-universe-visual-cleanup/"><u>Prompt Acquisition: Universe Visual Cleanup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quality-monitors-showdown-best-4k-edition-ranked-1-10-for-2024/"><u>Quality Monitors Showdown Best 4K Edition, Ranked #1-10 for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-smart-8-by-fonelab-android-recover-data/"><u>Undelete lost data from Smart 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide-for-2024/"><u>Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-historys-fabric-with-open-source-canvases-for-2024/"><u>Unraveling History's Fabric with Open-Source Canvases for 2024</u></a></li>
+</ul></div>
 

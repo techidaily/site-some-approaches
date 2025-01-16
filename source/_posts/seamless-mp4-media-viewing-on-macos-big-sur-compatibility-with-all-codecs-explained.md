@@ -1,7 +1,7 @@
 ---
 title: "Seamless MP4 Media Viewing on macOS Big Sur: Compatibility with All Codecs Explained"
-date: 2024-08-26T16:33:06.980Z
-updated: 2024-08-27T16:33:06.980Z
+date: 2025-01-13T18:01:34.305Z
+updated: 2025-01-15T18:53:32.421Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf244f3f3d4ecee0cf92b0349.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Play Video](https://tools.techidaily.com/macxdvd/products/) \> MP4 Player for macOS
 
 ## \[Fixed\] Can't Play MP4 Videos on Mac Solved Now 
-
-
 
 _MP4 won't play on Mac? What should you do to play MP4 video files on macOS smoothly? Follow this article to get easy solutions to fix QuickTime Player can't open MP4 error._
 
@@ -30,12 +26,25 @@ _MP4 won't play on Mac? What should you do to play MP4 video files on macOS smoo
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/how-to-play-mp4-on-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/how-to-play-mp4-on-mac.htm&text=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-go.jpg)](https://pinterest.com/pin/create/button/?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/how-to-play-mp4-on-mac.htm&media=&description=)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/how-to-play-mp4-on-mac.htm&title=&summary=&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _"I paid for and downloaded a YouTube video in an .mp4 file but was told that my QuickTime can't play MP4 on Mac. I never have this problem before, and QuickTime Player has listed .MP4 at the top of its playable formats. Why?"_
 
 Some users may have no clue when QuickTime player refuses to open MP4 files. What should you do if mp4 not playing on Mac with QuickTime? Below we have our detailed problem analysis and step-by-step guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of Contents
 
@@ -43,6 +52,10 @@ Some users may have no clue when QuickTime player refuses to open MP4 files. Wha
 * [Part 2: How to Convert MP4 to QuickTime Supported Codec](https://tools.techidaily.com/macxdvd/products/)
 * [Part 3: How to Watch MP4 with 3rd-party MP4 Player for Mac](https://tools.techidaily.com/macxdvd/products/)
 * [Part 4: How to Install Perian for QuickTime](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why QuickTime Won't Play MP4 on Mac & Common Ways to Fix It
 
@@ -54,6 +67,10 @@ As the user mentioned in his question, as MP4 is one of the formats supported by
 * Damaged or corrupt MP4 files cause the MP4 playback error on Mac. This happens more often to MP4 files downloaded from web and received from email;
 * Incomplete conversion or compression of MP4 video files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ways to Ensure Smooth MP4 Video Playback on Mac Computer 
 
 First, if you run into QuickTime won't recognize MP4 from iMovie, select a .mov extension as the output to solve the problem;  
@@ -64,11 +81,6 @@ Third, update QuickTime Player to the latest version. If you still can't play MP
 2. Switch from QuickTime Player to other Mac players;
 3. Some MP4 videos captured by GoPro action cam, for example, are encoded in HEVC codec, which older Mac computer won't support, unless you update it to the latest macOS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Convert MP4 to QuickTime Supported Codec 
 
 You can convert unplayable videos in any format (any video/audio codecs) to the files perfectly for Mac. With a MP4 video converter, opening MP4 on macOS is just a snap. This fits those who want to stick with Mac video player and don't want to handle with complicated codec thing. The video converter applied in the method is [**MacX Video Converter Pro**](https://tools.techidaily.com/macxdvd/products/), which will handle everything you throw at it and output to a HQ MP4 file playable on Mac.
@@ -86,17 +98,10 @@ You can convert unplayable videos in any format (any video/audio codecs) to the 
 
 ![How to play mp4/all formats on Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/mp4player7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3:** Click "Browse" button to select a destination folder to save the output MP4 video. Check the Intel box on the interface to enable the hardware acceleration tech to boost the mp4 conversion on Mac. 
 
 **Step 4:** Click "RUN" button to start converting videos to MP4\. Then you can play output MP4 videos on Mac with QuickTime Player or other MP4 video players on Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Tips: Know More about QuickTime Player Supported Formats
 
 Supposing you're using QuickTime Player to play MP4 on MacBook Pro/Air, iMac etc. Check the formats and codecs supported by QuickTime Player to convert unplayable videos clearly with any [MP4 video converter](https://tools.techidaily.com/macxdvd/products/).
@@ -105,9 +110,6 @@ Supposing you're using QuickTime Player to play MP4 on MacBook Pro/Air, iMac etc
 * It fully supports 3D, 8K/5K/4K UHD videos playback, with untouched image quality;
 * It's an combo of media streamer, online video downloader, and MP4 video player for Mac;
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Part 3: How to Watch MP4 with 3rd-party MP4 Player for Mac 
 
 In the above formats section, we can see that QuickTime Player is limited in supported formats. If QuickTime can't play MP4 on Mac smoothly, you can turn to another MP4 player for Mac. They may come with wider formats support and better playback experience. This method is the easiest for those who have no preference to QuickTime. 
@@ -120,8 +122,9 @@ There are many video player for Mac that works well with MP4 files, for example 
 * It works with latest macOS Sierra, El Capitan, Yosemite and earlier version.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Install Perian for QuickTime
 
 As the main reason that QuickTime can't play MP4 on Mac is the lack of certain codecs, you can manually add the codec pack. The free add-on called **Perian** is a perfect mate for QuickTime. With Perian installed, QuickTime Player will support a much wider range of codecs, including MP4, AVI or[playing MKV on Mac](https://tools.techidaily.com/macxdvd/products/). Check the detailed formats supported (Perian is no longer under development and does not work with QuickTime 10 or above):
@@ -136,14 +139,13 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/candice.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
-
-
 
 Related Articles
 
@@ -165,28 +167,21 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 [\[Solved\] Play MP4 Video with No Sound Issue](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Best Free MKV Video Player for macOS](https://www.macxdvd.com/mac-dvd-video-converter-how-to/best-free-mkv-player-for-mac.htm 
 ) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
@@ -202,8 +197,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -211,8 +207,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -227,8 +221,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +228,26 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-framelight-free-elevate-mobile-photography-today-for-2024/"><u>[New] Framelight Free Elevate Mobile Photography Today for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-10-superior-image-replacement-for-videos/"><u>[New] The Ultimate Guide 10 Superior Image Replacement for Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>[New] Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-every-moment-top-tasks-to-master-while-immersing-in-your-favorite-podcasts/"><u>[New] Transform Every Moment Top Tasks to Master While Immersing in Your Favorite Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr/"><u>[New] Unveiling the Dynamics An In-Depth Look at Luminance's HDR</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-techniques-perfecting-live-sports-broadcast-recording/"><u>[Updated] 2024 Approved Prime Techniques Perfecting Live Sports Broadcast Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-tones-where-to-find-classical-callouts/"><u>[Updated] Top 30 Tones Where to Find Classical Callouts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-of-ice-artistry-2022-edition/"><u>2024 Approved The Best of Ice Artistry 2022 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-tablets-a-comprehensive-guide-to-amazon-fire-and-ipad-find-yours-perfect-match/"><u>Decoding Tablets: A Comprehensive Guide to Amazon Fire and iPad – Find Yours Perfect Match!</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/effortless-guide-turning-videos-into-mp3-files-with-simple-steps/"><u>Effortless Guide: Turning Videos Into MP3 Files with Simple Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-interactive-web-summit-title-for-2024/"><u>Elite Interactive Web Summit Title for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726028435417-fc2/"><u>FC2で動画投稿の手順: 落ち着いて、ただ見ればわかります!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-s18e-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo S18e Phone Hassle-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-of-7-exceptional-vids-on-mac/"><u>In 2024, Ultimate List of 7 Exceptional Vids on Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-vr-game-experts-you-cant-miss/"><u>Leading VR Game Experts You Can't Miss</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-the-art-of-recording-live-tv-shows-and-events-on-fubotv-withwithout-dvr-feature/"><u>Mastering the Art of Recording Live TV Shows and Events on FuboTV, With/Without DVR Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/subtle-sound-level-lowering-in-fl-studio-for-2024/"><u>Subtle Sound Level Lowering in FL Studio for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-control-over-sound-dampening-in-audacity-for-2024/"><u>Understanding Control over Sound Dampening in Audacity for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-stream-your-favorite-games-online/"><u>Updated In 2024, How To Stream Your Favorite Games Online</u></a></li>
+</ul></div>
 

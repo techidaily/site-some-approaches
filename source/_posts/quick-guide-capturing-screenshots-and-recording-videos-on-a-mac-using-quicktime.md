@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Capturing Screenshots and Recording Videos on a Mac Using QuickTime"
-date: 2024-08-25 10:49:56
-updated: 2024-08-27 11:29:40
+date: 2025-01-09T18:10:10.611Z
+updated: 2025-01-15T23:32:42.680Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1348792ff9e2250cf6de872e.jpg
@@ -16,24 +16,33 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Video Editing](https://tools.techidaily.com/macxdvd/products/) \> QuickTime Record Screen
 
 ## How to Record Mac Screen/Streaming Video  with QuickTime Player & Audio
-
-
 
 _Summary: how do you record screen and audio on Mac QuickTime player? How to capture streaming video on MacBook Pro with QuickTime player? Read on please..._
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/icon6.png) By [Candice Liu](https://tools.techidaily.com/macxdvd/products/) ｜Last updated onNovember 16, 2021 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-video-converter-pro/quicktime-record-screen-mac-with-audio.htm)
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-video-converter-pro/quicktime-record-screen-mac-with-audio.htm)
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-video-converter-pro/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-video-converter-pro/quicktime-record-screen-mac-with-audio.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-video-converter-pro/quicktime-record-screen-mac-with-audio.htm&title=&summary=https://www.macxdvd.com/mac-video-converter-pro/quicktime-record-screen-mac-with-audio.htm&source=)
 
 QuickTime player - the Mac native media player, is also an inherent [Mac screen recorder software](https://tools.techidaily.com/macxdvd/products/) for your MacBook Pro, MacBook Air, iMac or Mac Mini. Follow the below guide to record screen and audio on Mac QuickTime player if you're not familiar with QT record feature. Plus, the troubleshooting tips also stand you in a good stead when QuickTime screen recording no sound occurs on your MacBook/iMac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## QuickTime Won't Record Screen with System Audio? 
 
@@ -80,6 +89,10 @@ Note: to stop QuickTime screen recording, click the "Stop" button (nex to the Wi
 
 If unfortunately, your QuickTime screen recording has no sound, don't feel frustrated. Read the below reasons and solutions to make things right: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Part 2\. QuickTime Screen Recording No Sound? Why and How to Fix?
 
 QuickTime is far from perfect when you adopt it to [record Mac screen](https://tools.techidaily.com/macxdvd/products/) with computer audio, even when you raise the volume on your speakers. Why is there no sound on QuickTime screen recording Mac? Generally, the wrong microphone settings or sound input settings are the major culprit.
@@ -95,6 +108,10 @@ How to recover sound from screen recording on Mac? Follow the instructions below
  Microphone settings have no problem but still no sound in your Mac screen recording? Go and check sound input settings. Still under System Preferences, hit Sound from the latter window > Input > opt for a microphone from the menu list and 2 key factors show up, too: Input volume and input level.
 
 Input volume is easy to understand, and you'd better move the slide bar to crank up the volume so that your MacBook Pro or iMac can record screen with sound at comparatively louder volume (or hearable level). As for input level, it reflects the real-time sound volume, higher or lower. If there is no response on input level (when input volume is okay), probably your Microphone gets broken and needs to be repaired or changed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Solution 3\. Screen Capture Content is Copyright Protected
 
@@ -124,6 +141,10 @@ Download soundflower to record audio on mac
 
 ![record screen with audio on mac using soundflower](https://www.macxdvd.com/mac-video-converter-pro/article-image/select-soundflower.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 record screen with audio on mac using soundflower
 
 **Step 6:** Go back to System preferences > sound settings > set Internal Speakers as destination to get back your audio on speakers after the Mac screen recording is done.
@@ -137,6 +158,10 @@ No matter you're prone to [record streaming video](https://tools.techidaily.com/
 **Step 1:** [Free download](https://tools.techidaily.com/macxdvd/products/) this Mac screen capture software. Fire it up and click Screen Recorder on the UI.
 
 ![record screen video and audio on Mac](https://www.macxdvd.com/mac-video-converter-pro/step-image/record-screen-audio.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 record screen video and audio on Mac
 
@@ -160,9 +185,11 @@ ABOUT THE AUTHOR
 
 [Candice Liu ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
-
-
 
 Related Articles
 
@@ -171,6 +198,10 @@ Related Articles
 [Free Online Screen Recorder with No Time Length Limit](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Crop a Screenshot on Mac?](https://tools.techidaily.com/macxdvd/products/)
 
@@ -190,8 +221,6 @@ Related Articles
 
 [How to Record HD Video with a Webcam on macOS](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-video-converter-pro/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
@@ -210,6 +239,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -217,8 +250,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -233,11 +264,25 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-access-your-fb-links-easily-download-8-best-online-utilities/"><u>[New] Access Your FB Links Easily Download 8 Best Online Utilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-and-store-screen-content-free/"><u>[New] Capture and Store Screen Content, FREE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-thrifty-shoppers-best-bargains-in-cams/"><u>[Updated] Thrifty Shopper's Best Bargains in Cams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-phone-filters-and-camera-cases/"><u>[Updated] Ultimate Phone Filters & Camera Cases</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-harmonizing-music-posting-with-legal-standards/"><u>2024 Approved Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording-for-2024/"><u>Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-various-iphone-dysfunctions-by-refreshing-its-network-preferences/"><u>Fix Various iPhone Dysfunctions by Refreshing Its Network Preferences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-10-vfx-tools-for-final-cut/"><u>In 2024, Best 10 VFX Tools for Final Cut</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-in-viewing-10-preeminent-iphoneipad-videos/"><u>In 2024, Excellence in Viewing 10 Preeminent iPhone/iPad Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-movie-watching-process-add-subtitles-to-wmp-for-2024/"><u>Streamline Your Movie-Watching Process Add Subtitles to WMP for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-to-develop-engaging-vlogger-conversations-for-2024/"><u>Techniques to Develop Engaging Vlogger Conversations for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Adapting MP4 Footage Easily and Without Cost: Tips for Varied Screen Dimensions"
-date: 2024-08-26T16:32:56.902Z
-updated: 2024-08-27T16:32:56.902Z
+date: 2025-01-13T20:22:59.089Z
+updated: 2025-01-15T16:44:41.687Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c8336694d98304c7450ff8c427.png
@@ -16,22 +16,31 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [convert MP4](https://tools.techidaily.com/macxdvd/products/) \> Crop mp4
 
 ## Video Processing: How to Crop MP4 Free on Mac and Windows Easily
-
-
 
 _Can I crop a vertical MP4 video into a square one? I need to basically cut off the top and bottom of my mp4 video to create a square in the middle without stretching or pulling image in the middle. What can I do to change the dimensions with the original quality of center image?_
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/icon6.png) By [Candice Liu](https://www.linkedin.com/in/candice-liu-444483a3/) ｜Last updated on Mar 02, 2021
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/video-editing/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/video-editing/how-to-crop-mp4-free.htm)
 * [![](https://www.macxdvd.com/video-editing/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/video-editing/how-to-crop-mp4-free.htm)
 * [![](https://www.macxdvd.com/video-editing/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/video-editing/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/video-editing/how-to-crop-mp4-free.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/video-editing/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/video-editing/how-to-crop-mp4-free.htm&title=&summary=https://www.macxdvd.com/video-editing/how-to-crop-mp4-free.htm&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Without a doubt, you need crop your MP4 video. As you know, MP4 enjoys a great popularity for videos for its good quality and wide compatibility, resulting a majority of digital devices, streaming media websites, social media support this format. But the fact is that different devices and platforms require different dimensions of MP4 video, leading annoying black edges to the end.
 
@@ -55,6 +64,10 @@ Yes, you read that right: cropping MP4 could [reduce your video to smaller size]
 **4\. To change the aspect ratio.**   
 Changing the aspect ratio is also a main cause for MP4 cropping. What we do most is to [change 4:3 aspect ratio to 16:9](https://tools.techidaily.com/macxdvd/products/) meet the screens of high-definition LCD monitors and TVs. But there are also some other norms of height-to-width ratio, such as vertical video (formats 4:5, 2:3, 16:9) can be most engaging for Facebook videos in mobile, Instagram accepts 1.91:1 Landscape, 1:1 Square and 4:5 Vertical videos and YouTube's built-in video editor allows you to crop YouTube video to 4:3, 16:9, and 24:10\. Thus, if you'd like upload your iPhone recorded video in 4:3 aspect ratio to Facebook and Instagram, crop iPhone MP4 video according to your need. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Free MP4 Cropper Could Make Things Easier Than Ever 
 
 No matter what induced you to crop MP4 video files, a solid yet free MP4 cropper will ease your cropping trustworthily. You of course can remove the outer parts of the MP4 video with VLC, but the unique Record mode for video cropping may make you depressed with the long time wait. Perhaps, FFmpeg and iMovie could help you with MP4 cropping as well, but that's only for advanced users. As a rookie like me, I absolutely have no idea about the FFmpeg video crop commands and feel at loss on cropping MP4 with so many editing features enabled on iMovie. 
@@ -65,9 +78,6 @@ But fortunately, [**macXvideo**](https://tools.techidaily.com/macxdvd/products/)
 
 At the initial, [![](https://www.macxdvd.com/video-editing/../seoimage/download-icon-step.png) free download the free MP4 video cropper](https://tools.techidaily.com/macxdvd/products/) on your Mac computer. Then launch it. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 1: Import your MP4 video file.**   
  Click on **\+ Video** button, or simply drag and drop to add the MP4 video file you desired to crop. 
 
@@ -84,8 +94,9 @@ Yes, this tool also allows you to transcode video codec and format before crop M
 ![Crop Video on Mac for Free](https://www.macxdvd.com/video-editing/../macxvideo/step-image/crop-700.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Crop Video on Mac for Free
 
 **Step 4: Save the cropped MP4 video file.**   
@@ -97,23 +108,26 @@ Still have any problem on how to stabilize 4K shaky video recorded by GoPro or o
 
 Tags: [Video](https://tools.techidaily.com/macxdvd/products/) [convert MP4](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Crop YouTube Video Published by Other Subscribers?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Find A Way to Edit GoPro HD 4K UHD Videos](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 [Can You Split Video into Clips? Yes, with This Video Splitter](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic4.jpg)
@@ -126,33 +140,18 @@ Related Articles
 
 ![](https://www.macxdvd.com/video-editing/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to split and cut MP4 videos with ease](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/video-editing/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -161,6 +160,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -168,8 +171,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -184,8 +185,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +192,21 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-vision-into-stunning-hdr-portraits/"><u>[New] Transforming Your Vision Into Stunning HDR Portraits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchats-own-creativity-lab-inspire-over-a-hundred-private-stories-with-original-titles/"><u>[Updated] 2024 Approved Snapchat's Own Creativity Lab Inspire over a Hundred Private Stories with Original Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-list-of-accessories-to-enhance-your-sj4000/"><u>[Updated] In 2024, The Ultimate List of Accessories to Enhance Your SJ4000</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>[Updated] Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-sync-your-world-with-these-free-beat-detectors/"><u>[Updated] Sync Your World with These Free Beat Detectors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-collaborative-marketing-on-youtube/"><u>2024 Approved The Art of Collaborative Marketing on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-toolwiz-photos-app-complete-review/"><u>2024 Approved Toolwiz Photos App – Complete Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-flawless-printing-on-your-pc-download-epson-workforce-ds-30-drivers-for-win-11-8-and-7/"><u>Ensure Flawless Printing on Your PC: Download Epson WorkForce DS-30 Drivers for Win 11, 8 & 7</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-collabs-for-youtube-channel-expansion/"><u>In 2024, Crafting Collabs for YouTube Channel Expansion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-evolution-of-dynamic-range-control-in-digital-photography/"><u>In 2024, The Evolution of Dynamic Range Control in Digital Photography</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-correcting-http-401-authentication-errors/"><u>Step-by-Step Tutorial on Correcting HTTP 401 Authentication Errors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-the-full-potential-of-free-countdown-tools-for-2024/"><u>Unleashing the Full Potential of Free Countdown Tools for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-where-can-i-find-moan-sound-effect-in-2024/"><u>Updated Where Can I Find Moan Sound Effect, In 2024</u></a></li>
+</ul></div>
 
