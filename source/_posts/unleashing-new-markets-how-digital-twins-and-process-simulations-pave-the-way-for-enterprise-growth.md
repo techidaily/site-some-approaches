@@ -1,7 +1,7 @@
 ---
 title: "Unleashing New Markets: How Digital Twins & Process Simulations Pave the Way for Enterprise Growth"
-date: 2024-08-22T00:01:31.890Z
-updated: 2024-08-23T00:01:31.890Z
+date: 2025-01-15T21:55:07.674Z
+updated: 2025-01-22T03:03:51.523Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad507615fc36a561cee9ad50600.png
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/02ef47e4fa1bec9703102ec97417713d4516fad50
 ## Unleashing New Markets: How Digital Twins & Process Simulations Pave the Way for Enterprise Growth
 
 [Zurück zu ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nutzung des Potenzials digitaler Zwillinge mit Prozesssimulation
 
@@ -33,6 +37,10 @@ Denken Sie einmal an die komplizierte Welt der technischen Entwicklung – jedes
 
 Angesichts der Begeisterung für digitale Zwillinge in der heutigen Geschäftsprozesslandschaft ist es wichtig, dieses reiche Erbe zu erkennen und zu nutzen. Das Versprechen ist verlockend: Wenn Ingenieure die Dynamik eines Düsentriebwerks simulieren können, warum können Unternehmen dann nicht auch ihre Prozesse simulieren und „auf die Probe stellen“, um Kosten zu senken und Risiken zu minimieren? Genau wie ein statischer Entwurf eines Düsentriebwerks ohne Simulationen nur von begrenztem Nutzen ist, so schöpft auch ein digitaler Zwilling eines Geschäftsprozesses ohne integrierte Simulationsfunktionen sein Potenzial nicht voll aus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Warum Prozesssimulation für die Verbesserung von Geschäftsprozessen wichtig ist 
 
 ##### Kosteneffizienz 
@@ -50,8 +58,13 @@ Digitale Zwillinge beschleunigen Innovationen in der Technik, indem sie die zeit
 ![process-simulation-image](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/realizing-promise-of-digital-twins-with-process-simulation/process-simulation-image-2024-03-05-23-51-33-401.png?h=477&w=848)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Beispiele aus verschiedenen Branchen 
 
 ##### Gesundheitswesen 
@@ -71,10 +84,9 @@ Eine Bank möchte ihr Kreditgenehmigungsverfahren beschleunigen. Nachdem der akt
 Ein Online-Händler möchte seinen Produktrückgabeprozess optimieren, um die Kundenzufriedenheit zu erhöhen. Durch die Simulation von Änderungen wie die Einführung von Sofortrückerstattungen, die Vereinfachung von Rücksendeetiketten oder die Bereitstellung von Abholservices lassen sich die Auswirkungen auf Kundenbindung, Betriebskosten und Bestandsverwaltung beurteilen. 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Prozesse auf dem Prüfstand 
 
 Die Entwicklung von statischen Konstruktionsplänen hin zu dynamischen digitalen Zwillingen im Ingenieurwesen war ein entscheidender Schritt. Im Bereich der Geschäftsprozesse befinden wir uns an einem ähnlichen Wendepunkt. [Prozesserkennung](https://tools.techidaily.com/abbyy/products/) liefert eine Blaupause, aber ohne Simulation ist es wie bei einem Düsentriebwerk, das nie unter realen Flugbedingungen getestet wurde. 
@@ -133,8 +145,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +152,24 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-the-essence-of-xiaomis-latest-smartphones-for-2024/"><u>[New] Capture the Essence of Xiaomi's Latest Smartphones for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-maximizing-viewership-live-stream-optimization-techniques/"><u>[New] In 2024, Maximizing Viewership Live Stream Optimization Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>[New] Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed/"><u>[New] Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-animationpros-complete-guide-24/"><u>[Updated] 2024 Approved AnimationPros Complete Guide '24</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[Updated] In 2024, The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-jest-jar-imgur-meme-tool/"><u>[Updated] Jest Jar Imgur Meme Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>[Updated] The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>[Updated] Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-text-techniques-top-10-video-enhancers/"><u>2024 Approved Text Techniques Top 10 Video Enhancers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-choice-android-sky-dumps-and-safes/"><u>2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-two-titans-clash-in-the-vr-arena/"><u>2024 Approved Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-c55-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme C55 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-gt-lock-screen-password-by-drfone-android/"><u>How To Change Honor 90 GT Lock Screen Password?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>In 2024, Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-streets-no-more-eliminating-sound-problems-in-forza-horizon-4-with-ease/"><u>Silent Streets No More: Eliminating Sound Problems in Forza Horizon 4 with Ease</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-caption-insertion-photos-app-tutorials-for-win-11-for-2024/"><u>Streamline Caption Insertion Photos App Tutorials for WIN 11 for 2024</u></a></li>
+</ul></div>
 

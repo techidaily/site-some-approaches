@@ -1,7 +1,7 @@
 ---
 title: "Article: Unveiling the Role of Digital Surveillance in Monitoring COVID-19 Immunization Efforts"
-date: 2024-08-22T00:01:47.408Z
-updated: 2024-08-23T00:01:47.408Z
+date: 2025-01-20T16:19:01.616Z
+updated: 2025-01-22T03:20:56.760Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Digital Intelligence Is Being Used to Track and Report the COVID-19 Vaccines
 
 ###### Kenya Smith
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 May 12, 2021
 
 ![](https://static1.abbyy.com/abbyycommedia/33507/healthcare-5-new.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _This blog post is an excerpt from an interview produced by [HIMSS](https://www.himss.org/) with Kenya Smith, Healthcare lead at ABBYY._
 
@@ -38,17 +46,13 @@ At the same time, analytic software solutions that provide vaccination distribut
 ![healthcare ai solutions](https://static1.abbyy.com/abbyycommedia/32882/healthcare-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using Content Intelligence to simplify vaccine distribution reporting
 
 Whether reporting completed vaccinations, adverse reactions or active COVID-19 variants to the CDC, HCOs need to find the right information quickly and easily. The same holds true for patient follow-up to schedule second doses.
@@ -60,8 +64,9 @@ With collaboration at this scale, there are hundreds and hundreds of application
 _Kenya Smith, Healthcare Solution Marketing Manager, ABBYY_
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Complexities will continue to shape healthcare solutions
 
 Tracking vaccines from multiple pharmaceutical companies and the emergence of COVID-19 variants are expected to further complicate distribution tracking and reporting challenges. Like the pharmaceutical rivals working together to stop the spread of the coronavirus, technology companies are collaborating to rise to the occasion. For instance, [ABBYY is partnering with Alteryx](https://tools.techidaily.com/abbyy/products/), an automated analytics provider, to offer specific solutions and use cases that help HCOs quickly load, transform and analyze critical vaccine data that enables them to get the vaccine out to patients faster. Moving forward, there will be more technology platforms introduced with this kind of public and private sector collaboration in mind. There will be some basic must-haves like transparency and engagement. Platforms that deliver these kinds of features will become the norm.
@@ -74,14 +79,8 @@ Tracking vaccines from multiple pharmaceutical companies and the emergence of CO
 
 ![](https://static4.abbyy.com/abbyycommedia/31997/kenyasmith-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 Kenya Smith
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -136,8 +135,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +142,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb-for-2024/"><u>[New] Rhythm Renders Infusing Sound Into Your Visual Storytelling (FB) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/trategies-for-watching-multiple-youtube-videos/"><u>[New] Strategies for Watching Multiple YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-subtle-sound-decline-using-logic-pro-for-fading-effects/"><u>[New] Subtle Sound Decline Using Logic Pro for Fading Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-key-to-immersive-roleplay-zooming-into-roblox-worlds/"><u>[New] The Key to Immersive Roleplay Zooming Into Roblox Worlds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-power-of-zoom-in-kinemaster-editing/"><u>[New] Unveiling the Power of Zoom in Kinemaster Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-fix-for-quick-signature-bg-disposal/"><u>[Updated] 2024 Approved Ultimate Fix for Quick Signature BG Disposal</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-achieving-precise-youtube-content-extraction/"><u>[Updated] In 2024, Achieving Precise YouTube Content Extraction</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ranked-comedic-image-editor/"><u>[Updated] Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>2024 Approved Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-best-picture-quality-crystal-uhd-vs-qled-in-samsung-tvs-detailed-review-by-techsavvy/"><u>Choosing the Best Picture Quality: Crystal UHD Vs. QLED in Samsung TVs - Detailed Review by TechSavvy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013246628-expert-tips-for-fixing-crashes-in-football-manager-201-grove-your-game-with-these-solutions/"><u>Expert Tips for Fixing Crashes in Football Manager 201 Grove Your Game with These Solutions!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-zoom-video-enhancement-playbook/"><u>In 2024, The Ultimate Zoom Video Enhancement Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-mobiles-for-cutting-and-enhancing-dji-media-for-2024/"><u>Ultimate Mobiles for Cutting & Enhancing DJi Media for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-potential-key-tips-for-hospitals-fb-ad-reach-for-2024/"><u>Unleashing Potential Key Tips for Hospitals' FB Ad Reach for 2024</u></a></li>
+</ul></div>
 

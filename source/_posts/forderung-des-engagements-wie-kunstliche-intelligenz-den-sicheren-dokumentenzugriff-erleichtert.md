@@ -1,7 +1,7 @@
 ---
 title: "Förderung Des Engagements: Wie Künstliche Intelligenz Den Sicheren Dokumentenzugriff Erleichtert"
-date: 2024-08-22T00:00:36.971Z
-updated: 2024-08-23T00:00:36.971Z
+date: 2025-01-14T17:16:00.901Z
+updated: 2025-01-22T01:41:25.890Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d0725cd39b0f3a07fbfec69fabd.jpeg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ddbe93c1f383d863e063fbca9f6400fefa603d072
 ## Förderung Des Engagements: Wie Künstliche Intelligenz Den Sicheren Dokumentenzugriff Erleichtert
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## In Zeiten großer Resignation: Laut ABBYY-Studie glauben 56% der deutschen Arbeitnehmer, dass KI-Lösungen ihre Arbeit erleichtern würden
 
@@ -31,6 +35,10 @@ Die Studie zeigt, dass Unternehmen, die in KI-basierte Lösungen für die Dokume
 
 ![](https://static1.abbyy.com/abbyycommedia/34733/infographics-de.jpg?width=1182&height=620)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _"Auch im heutigen digitalen Zeitalter kommt man an der Verwendung von Dokumenten in keinem Unternehmen vorbei. Gerade in Zeiten, in denen Angestellte zunehmend mit dem Gedanken spielen, Arbeitgeber zu verlassen, die ihnen nicht die Möglichkeiten, Tools und Unterstützung bieten, die sie benötigen, ist es wichtig, Mitarbeiter mit Lösungen wie KI-Technologien zu fördern, insbesondere wenn es sich um dokumentenzentrierte Aufgaben handelt“,_ sagt **Weronika Niemczyk, Chief People Officer bei ABBYY**_. „Der Einsatz von KI-Skills für die Bearbeitung von Dokumenten führt zu erheblichen Vorteilen – nicht nur in Bezug auf die Geschwindigkeit von Prozessen und die Reduzierung von Fehlern, sondern er verringert auch den Bedarf an zusätzlichem Personal. Das Ergebnis sind zufriedenere und engagiertere Mitarbeiter, die mehr Zeit haben, um sich den Aufgaben zu widmen, auf die es ankommt - nämlich hervorragende Kundenerlebnisse zu bieten und kreative Problemlösungen zu finden."_
 
 Erfahren Sie mehr darüber, wie ABBYY dokumentenzentrierte Herausforderungen mit seiner No-Code-Plattform und dem Marktplatz für KI-Skills löst: [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/).
@@ -39,6 +47,10 @@ Erfahren Sie mehr darüber, wie ABBYY dokumentenzentrierte Herausforderungen mit
 
 Diese Studie über Herausforderungen beim Zugriff auf Daten in Dokumenten, den weiteren damit verbundenen Auswirkungen und der Rolle, die Software und Automatisierungstechnologien dabei spielen, wurde von ABBYY in Auftrag gegeben und von Sapio Research im September/Oktober 2021 mit 5.025 Büroangestellten aus den USA, Großbritannien, Frankreich, Deutschland and Japan in Unternehmen mit über 500 Mitarbeitern durchgeführt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://www.abbyy.com/company/news/everest-group-recognizes-abbyy-as-a-leader-in-intelligent-document-processing-products-peak-matrix-assessment-for-second-consecutive-year-2020/ "Everest Group Recognizes ABBYY as a Leader in Intelligent Document Processing Products") und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
@@ -46,15 +58,17 @@ ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Ges
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pressekontakt:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 **ABBYY**
@@ -69,8 +83,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,4 +90,21 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-arctic-accolades-top-athletes-and-events/"><u>[New] Arctic Accolades Top Athletes & Events</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-video-reach-the-role-of-smart-backlinking-techniques/"><u>[New] Elevating Video Reach The Role of Smart Backlinking Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-mastering-windows-10/"><u>[New] The Insider's Guide to Mastering WINDOWS 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>[New] The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>[New] Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>[Updated] Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-leading-lines-in-iphone-visual-storytelling/"><u>[Updated] The Art of Leading Lines in iPhone Visual Storytelling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-downloads-for-epson-printers-on-windows-systems/"><u>Effortless Driver Downloads for Epson Printers on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-4-innovative-ai-techniques-for-storytelling/"><u>Explore These 4 Innovative AI Techniques for Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-virtual-exploration-a-tactical-approach/"><u>In 2024, The Art of Virtual Exploration A Tactical Approach</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/maxitouch-all-in-one-4k-screen-plus-desk-for-2024/"><u>MaxiTouch All-in-One 4K, Screen Plus Desk for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-glitches-ensuring-your-mic-works-with-counter-strike-2/"><u>Overcome Audio Glitches: Ensuring Your Mic Works with Counter-Strike 2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-chorus-conductor-android-edition-for-2024/"><u>Ultimate Chorus Conductor, Android Edition for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-y100i-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y100i Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

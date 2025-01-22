@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enhanced Site Performance & Analytics
-date: 2024-08-22T00:01:51.692Z
-updated: 2024-08-23T00:01:51.692Z
+date: 2025-01-18T18:51:48.746Z
+updated: 2025-01-21T20:40:58.224Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d15fc2d7499285fee5808af2.jpg
@@ -12,8 +12,6 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 1/ 1100%实际尺寸适合宽度适合高度适合页面自动
 
 What is procure-to-pay? [Procure-to-pay](https://tools.techidaily.com/abbyy/products/) (P2P) is a system covering the entire process of acquiring goods and services, from product selection all the way to payment. The P2P process SOURCES: [Building a Foundation for Digital Transformation in Accounts Payable](https://tools.techidaily.com/abbyy/products/), Levvel Research [5 Proven Strategies to Reduce Costs and Accelerate Cycle Times in P2P](https://vdocuments.mx/reader/full/5-proven-strategies-to-reduce-costs-and-accelerate-cycle-times-per-week-per-business), IOFM [Taking the Pulse on Digital Transformation in Supply Chain](https://www.abbyy.com/media/34942/infographic-transportation-digitaltransformationsurvey-en.pdf?itm%5Fsource=corpblog-en?utm%5Fsource=asset&utm%5Fmedium=pdf&utm%5Fcampaign=infographic-accounting-ap-procuretopay-p2p-processes&utm%5Fcontent=en), ABBYY [Reimagine Your Accounts Payable Department](https://tools.techidaily.com/abbyy/products/), ABBYY Most organizations have recognized that handling P2P manually… © ABBYY 2023\. ABBYY is a registered trademark or a trademark of ABBYY Development Inc. and/or its affiliates. This designation can also be logo, product, or company name (or part of any of the above) of ABBYY Development Inc. and/or its affiliates and may not be used without consent of their respective owners. All other product names and trademarks mentioned herein are the property of their respective owners. #15310 How to (Finally) Achieve Procure-to-Pay Product Selection Requisition Quotation Payment Request for Quote Purchase Order Receipt of Goods Invoice Processing …is slow, inefficient, and prone to errors. …requires frequent handoffs between departments. …prevents visibility into the cash flow process. of AP organizations still function on paper-based processes, even when invoices arrive electronically 65% average hours each U.S. business wastes on P2P issues per week 125 average annual cost per U.S. business to deal with P2P friction issues $171,340 But attempts at P2P automation often fail because businesses are taking a data-driven approach to a document-driven problem. Requisitions Invoices Quotes Purchase orders Receipts The P2P process runs on the data contained within many different documents: That’s why attempting to automate P2P with a data-based approach has historically failed. of Supply Chain professionals we surveyed said the technology didn’t work as intended or was never used Technologies such as artificial intelligence, business intelligence, and optical character recognition applied without visibility and insight into the way data from documents are forwarding the process. Understanding document data and how it fuels the process to finally enable the real-time processing of payments and cash required for P2P: Intelligent Document Processing (IDP). DATA-DRIVEN APPROACH TO P2P DOCUMENT-DRIVEN APPROACH TO P2P Intelligent Document Processing (IDP): the holy grail of P2P automation Documents are both records and decision points, which require more than simple data extraction. They also require skilled understanding, decision-making, and more importantly, decisions made in context. Essential skills of Intelligent Document Processing: Skilled reading of documents Understanding of document content Extracting insights to make smart decisions Real-life results of intelligent accounts payable automation: 400% increase in employee productivity 12% fewer late payments 30% less time responding to inquiries 81% faster invoice processing time 91% lower invoice processing costs Make P2P a reality with ABBYY Vantage ABBYY introduced the industry’s first low-code / no-code Intelligent Document Processing platform, ABBYY Vantage. With pre-trained “Document Skills” available in the ABBYY Marketplace for essential AP documents, shipping and logistics documents, and more, Vantage makes IDP accessible within minutes. Low-code / no-code Pluggable AI Pre-trained Adapt on the fly FAST Achieving P2P is within your reach! Learn how you can get started today with [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) 62% 
-
-
 
 0/0
 
@@ -31,8 +29,6 @@ What is procure-to-pay? [Procure-to-pay](https://tools.techidaily.com/abbyy/prod
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,8 +36,20 @@ What is procure-to-pay? [Procure-to-pay](https://tools.techidaily.com/abbyy/prod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-influencer-innovation-the-top-5-instagram-tactics-for-maximum-impact/"><u>[New] 2024 Approved Influencer Innovation The Top 5 Instagram Tactics for Maximum Impact</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-macs-preview-app-an-in-depth-tutorial-for-users/"><u>[Updated] In 2024, Mastering Mac's Preview App An In-Depth Tutorial for Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-revolutionary-guide-to-iphone-x-animoji-mastery/"><u>[Updated] Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/building-personalized-actions-with-net-an-intuitive-guide/"><u>Building Personalized Actions with .NET - An Intuitive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-sound-transition-in-logic-pro-x/"><u>In 2024, The Art of Sound Transition in Logic Pro X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-total-zen-closing-virtual-horizons/"><u>In 2024, Total Zen Closing Virtual Horizons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-full-potential-in-the-metaverse-for-2024/"><u>Unleash Your Full Potential in the Metaverse for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

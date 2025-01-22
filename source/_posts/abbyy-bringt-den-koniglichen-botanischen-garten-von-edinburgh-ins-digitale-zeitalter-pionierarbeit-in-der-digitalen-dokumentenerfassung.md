@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Bringt Den Königlichen Botanischen Garten Von Edinburgh Ins Digitale Zeitalter: Pionierarbeit in Der Digitalen Dokumentenerfassung"
-date: 2024-08-21T23:59:19.389Z
-updated: 2024-08-22T23:59:19.389Z
+date: 2025-01-14T19:08:02.755Z
+updated: 2025-01-21T19:11:33.042Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a1e8fe269369af735ad826d0f64961c6d5b364117f9a410f704fd68a5566fdfc.jpg
@@ -18,6 +18,10 @@ Government | Document Management/Compliance | Digital Archiving
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/71612.png?h=40&iar=0&w=120)
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Das Herbarium des königlichen botanischen Gartens von Edinburgh wird durch ABBYY revolutioniert
 
@@ -79,13 +83,25 @@ Der RBGE ist außerdem sehr zufrieden mit dem erweiterten Zugang zu seinen Samml
 
 [![ABBYY Recognition Server wird jetzt ABBYY FineReader Server genannt](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (jetzt FineReader Server genannt)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![11-government](https://static2.abbyy.com/abbyycommedia/14361/11-government.jpg)](https://tools.techidaily.com/abbyy/products/) [Behörden und Verwaltung](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![kipo-pic2](https://static1.abbyy.com/abbyycommedia/15527/kipo-pic2.jpg)](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") [PDF-Version](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static5.abbyy.com/abbyycommedia/6163/cs-rbge-rs-d-email.pdf "PDF-Version") 
 
@@ -94,8 +110,9 @@ Der RBGE ist außerdem sehr zufrieden mit dem erweiterten Zugang zu seinen Samml
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -108,8 +125,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +132,16 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-color-grading-utilizing-luts-in-ae/"><u>[New] The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-typhoon-h-unveiled-yuneecs-aerial-marvel/"><u>[New] Typhoon H Unveiled Yuneec's Aerial Marvel</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-skald-rage-new-age-of-might/"><u>[Updated] In 2024, Skald Rage New Age of Might</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-android-footage-with-stunning-time-lapse-videos/"><u>[Updated] Transform Your Android Footage with Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-selecting-audioscapes-for-unveiling-videos/"><u>2024 Approved Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-comprehensive-look-at-ffpm-your-pip-guide/"><u>A Comprehensive Look at FFPM Your PIP Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-stories-the-ultimate-youtube-channel-list/"><u>Crafting Stories - The Ultimate YouTube Channel List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-sound-speeds-in-spotify-without-compromise/"><u>In 2024, Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs/"><u>Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs</u></a></li>
+</ul></div>
 

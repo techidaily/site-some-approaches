@@ -1,7 +1,7 @@
 ---
 title: "Évolution Majeure : Augmentation Prévue De 50 %% Du Personnel Digital Au Sein Des Entreprises (Étude Complète ABBYY Pour 2021)"
-date: 2024-08-22T00:04:19.293Z
-updated: 2024-08-23T00:04:19.293Z
+date: 2025-01-17T01:06:13.746Z
+updated: 2025-01-21T17:51:27.594Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Étude ABBYY : la part de « main d’œuvre digitale » en entreprise augmentera de plus de 50 % à l’horizon 2021
 
 25 novembre 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _• Le marché des technologies de RPA et IPA pèsera 20,7 milliards en 2023._
 
@@ -38,6 +46,10 @@ L’étude prévoit que le poids du marché des technologies de « robotic proce
 Les technologies d’automatisation et la nouvelle « main d’œuvre digitale » n’assistent pas uniquement les collaborateurs dans l’exécution de tâches répétitives telles que la saisie des données. Avec l’émergence du Machine Learning agrémenté d’intelligences artificielles, ces nouvelles technologies permettront d’aider les collaborateurs dans la prise de décisions stratégiques à l’entreprise. Malgré les craintes persistantes de voir les emplois remplacés par les robots, ces technologies permettent d’améliorer les compétences des employés. L’enquête révèle, à titre d’exemple, que la proportion de traitement des données réalisés par les technologies d’automatisation augmentera de 28 % sur les deux prochaines années et celle de la prise de décision de 18 %.
 
 ![](https://static1.abbyy.com/abbyycommedia/23930/french-pr.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 Les décideurs sondés dans le cadre de l’étude indiquent que le déploiement de technologies de Content Intelligence sert leurs objectifs business liés à la stratégie de transformation digitale de leur entreprise. Plus de 40 % des entreprises interrogées constatent une nette amélioration de la satisfaction de leurs clients et de la productivité de leurs employés. L’étude révèle également que pour plus d’un tiers des répondants la mise en place de ces technologies améliore la réactivité de leurs services aux besoins des clients, crée de nouvelles opportunités de revenus et de développement produit et améliore l’engagement de leurs clients.
@@ -69,8 +81,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +88,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-pro-gif-makers-roundup-online-vs-desktop-platforms/"><u>[New] In 2024, Pro-Gif Makers Roundup Online vs Desktop Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-toolwiz-app-reviewed-the-ultimate-photo-editor/"><u>[Updated] Toolwiz App Reviewed The Ultimate Photo Editor?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-mma-games-for-virtual-fight-enthusiasts-for-2024/"><u>[Updated] Top 5 MMA Games for Virtual Fight Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-vrs-elite-accessories-top-10/"><u>[Updated] Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-easy-peasy-guide-to-using-ifunnys-meme-app/"><u>2024 Approved The Easy-Peasy Guide to Using iFunny's Meme App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-real-time-webcast-applications/"><u>2024 Approved Top Real-Time Webcast Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-srt-to-sub-transition/"><u>2024 Approved Unlocking the Secrets of SRT-to-SUB Transition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-guide-to-vlc-for-networked-webcasting/"><u>Expert Guide to VLC for Networked Webcasting</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-proper-mouse-drivers-on-windows-7-a-comprehensive-walkthrough/"><u>Find & Install Proper Mouse Drivers on Windows 7 - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-key-online-repositories-for-rich-text-visualization/"><u>In 2024, Key Online Repositories for Rich Text Visualization</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quickvid-simplified-w11-screen-capture-software/"><u>In 2024, QuickVid Simplified W11 Screen Capture Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-on-the-go-youtube-via-mobile-for-understaffed-creators/"><u>In 2024, Stream on the Go YouTube via Mobile for Understaffed Creators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-undisclosed-terrain-of-youtube-archives/"><u>Navigating the Undisclosed Terrain of YouTube Archives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-digital-domains-star-clusters-for-2024/"><u>The Digital Domain's Star Clusters for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-pinnacle-of-smartphone-innovation-comprehensive-review-of-the-superior-samsung-galaxy-s10/"><u>The Pinnacle of Smartphone Innovation: Comprehensive Review of the Superior Samsung Galaxy S10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-strategies-for-effective-use-of-zoom-on-win11-for-2024/"><u>Transformative Strategies for Effective Use of Zoom on Win11 for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-4k-video-conversion-mastery-how-to-download-in-mp4-format/"><u>Updated 2024 Approved 4K Video Conversion Mastery How to Download in MP4 Format</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->

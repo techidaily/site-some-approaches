@@ -1,7 +1,7 @@
 ---
 title: "Adapting to Uncertainty: Strategies for Mitigating Evolving Risks in Global Supply Networks After COVID-19"
-date: 2024-08-22T00:00:55.085Z
-updated: 2024-08-23T00:00:55.085Z
+date: 2025-01-17T03:03:04.169Z
+updated: 2025-01-21T17:56:49.119Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170de1cb456669c5929df51dc2a.jpg
@@ -30,30 +30,37 @@ Vice President and Principal Analyst, **Forrester Research**
 ![20 Andrewpery 198X198](https://static4.abbyy.com/abbyycommedia/25498/20-andrewpery-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Andrew Pery
 
 Digital Intelligence Consultant, **ABBYY**
 
 ![Marko Kovacevic 198X198](https://static4.abbyy.com/abbyycommedia/30088/dsci-logo-forspeakers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Marko Kovacevic 198X198](https://static4.abbyy.com/abbyycommedia/30085/marko-kovacevic-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Forrester Research
 
 Executive Director Membership and Engagement, **DSCI**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Overview
 
 The first wave of digital disruption enabled brands to sell directly to online consumers — and even allowed manufacturers to engage directly with industrial customers. But many existing supply chains lack transparency and resilience and have proved brittle in the face of increasing customer expectations, disruptions, and new levels of trade uncertainty.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Watch this webinar to learn about:
 
 * How European companies digitize manual and paper-intensive processes to accelerate and scale their response to fluctuations in demand and supply.
@@ -64,30 +71,25 @@ The first wave of digital disruption enabled brands to sell directly to online c
 
 ### Watch now
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you, enjoy your webinar!
 
 [![ABBYY Expert Talks Forrester Webinar 750X421 2](https://static5.abbyy.com/abbyycommedia/30230/abbyy-expert-talks-forrester-webinar-750x421-2.jpg)](https://www.youtube.com/watch?v=bhPVZZUXjFA) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -144,8 +146,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +153,16 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-clearing-up-confusion-addressing-youtube-short-concerns/"><u>[New] In 2024, Clearing Up Confusion Addressing YouTube Short Concerns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tips-for-zoom-on-chrome-devices/"><u>[New] Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-an-illustration-maestro-best-mac-free-tools/"><u>[Updated] In 2024, Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-10-secrets-for-successful-youtube-music-reaction-videos/"><u>[Updated] In 2024, Top 10 Secrets for Successful YouTube Music Reaction Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-snap-smart-the-best-iphone-and-android-apps-for-photo-stickers/"><u>[Updated] Snap Smart - The Best iPhone and Android Apps for Photo Stickers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-engaging-crafting-compelling-reddit-content/"><u>[Updated] The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-revolutionary-modifications-elevate-your-computer-experience/"><u>2024 Approved Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crucial-6-platforms-propelling-corporate-engagement-strategies-for-2024/"><u>Crucial 6 Platforms Propelling Corporate Engagement Strategies for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-100-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor 100 | Dr.fone</u></a></li>
+</ul></div>
 

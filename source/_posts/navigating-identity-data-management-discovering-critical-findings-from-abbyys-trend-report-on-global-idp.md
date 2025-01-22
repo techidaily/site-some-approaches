@@ -1,7 +1,7 @@
 ---
 title: "Navigating Identity Data Management: Discovering Critical Findings From ABBYY's Trend Report on Global IDP"
-date: 2024-08-22T00:02:17.579Z
-updated: 2024-08-23T00:02:17.579Z
+date: 2025-01-19T23:50:39.615Z
+updated: 2025-01-21T18:08:46.359Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a802e442be2008c2b3992f0d.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Releases Global Intelligent Document Processing (IDP) Trends & Outcomes Report with Insights into Organizations’ Priorities for Improving Operational Excellence
 
 June 06, 2023
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Colleagues2](https://static1.abbyy.com/abbyycommedia/33744/news-colleagues2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY today released its Intelligent Document Processing (IDP) Global Trends & Outcomes Report highlighting document challenges and opportunities driving enterprise intelligent automation initiatives. The report provides innovation leaders with key insights into how businesses are optimizing document-centric processes to achieve operational excellence, improve the customer experience, and accelerate business value.
 
@@ -50,6 +62,10 @@ Despite their varying priorities, all three regions are focused on streamlining 
 
 ![](https://static1.abbyy.com/abbyycommedia/37320/idptrendsoutcomes_infographic_may-22_2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Enterprises in all regions also had similar priorities to augment their intelligent automation platforms with connectors for more advanced IDP capabilities that have better accuracy in reading, extracting, and classifying unstructured and semi-structured data. Connecting to high-end IDP solutions with their existing platforms enables organizations to cost effectively scale their technology investments. ABBYY data notes the most requested connectors are for the following platforms:
 
 * Microsoft Power Automate
@@ -63,22 +79,20 @@ The data included in this report are from October through December 2022 and were
 
 To learn more about ABBYY IDP adoption and personalization, download the full report and infographic at [www.abbyy.com/resources/report/global-intelligent-document-processing-trends-outcomes-report/](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. We help more than 10,000 companies globally, including many of the Fortune 500, to drive significant impact where it matters most: customer experience, profitability, and competitive advantage. ABBYY is a US-based global company with offices in 14 countries. For more information, visit [www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/) and follow us on [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware) and [Facebook](https://www.facebook.com/ABBYYsoft).
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY Development, Inc. and/or its affiliates and may not be used without consent of its respective owners.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Gina Ray
 
 _ABBYY_
@@ -93,8 +107,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +114,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-enable-monetization-on-youtube-for-mobile-devices-a-2024-guide/"><u>[New] How to Enable Monetization on YouTube for Mobile Devices A 2024 Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tiny-tale-telling-framework/"><u>[New] Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-single-shots-into-a-spectacular-tile-symphony/"><u>[New] Transforming Single Shots Into a Spectacular Tile Symphony</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>[Updated] A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>[Updated] Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-journey-of-personalized-instagram-notification-creation/"><u>[Updated] The Journey of Personalized Instagram Notification Creation</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essence-of-depth-crafting-3d-text-art/"><u>2024 Approved The Essence of Depth Crafting 3D Text Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-asmr-equipment-for-thoughtful-shoppers-seeking-performance/"><u>2024 Approved Top ASMR Equipment for Thoughtful Shoppers Seeking Performance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-and-assessment-of-rcas-powerful-doorbell-surveillance-device/"><u>Comprehensive Guide & Assessment of RCA's Powerful Doorbell Surveillance Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-the-oneplus-8t-experience-exceptional-speed-overshadowed-by-mediocre-camera-quality/"><u>Decoding the OnePlus 8T Experience: Exceptional Speed Overshadowed by Mediocre Camera Quality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-tips-for-precise-control-with-xbox-zoom-for-2024/"><u>Expert Tips for Precise Control with Xbox Zoom for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-visual-enhancements-via-luts-in-pro/"><u>In 2024, Streamlining Visual Enhancements via LUTs in Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quest-for-ultimate-clarity-with-the-z32x-monitor/"><u>In 2024, The Quest for Ultimate Clarity with the Z32X Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-science-behind-whatsapp-voice-talks/"><u>In 2024, The Science Behind WhatsApp Voice Talks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed-for-2024/"><u>Paving Pathways in Pixels The Leading VR Treadmills Reviewed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-video-workflows-selecting-the-best-players-for-2024/"><u>Streamline Your Video Workflows Selecting the Best Players for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-character-creation-with-ai-11-chatbot-prompts-for-authors/"><u>Ultimate Guide: Character Creation with AI - 11 Chatbot Prompts for Authors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Automated Data Collection: Solutions Enabled with Cookiebot Technology"
-date: 2024-08-22T00:01:48.665Z
-updated: 2024-08-23T00:01:48.665Z
+date: 2025-01-18T18:33:14.250Z
+updated: 2025-01-21T23:11:19.945Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f080f0e1330c1b328f3cf15bd0.jpg
@@ -20,6 +20,10 @@ Over the last few decades, financial crime has ballooned into its own multi-tril
 KYC refers to the steps a business, typically a financial institution, takes to establish a customer’s identity, investment understanding, and risk profile. For example, KYC checks are mandatory when a customer opens a new account, and obligated entities follow stringent protocol to adhere to international KYC/AML regulations.
 
 ![KYC-compliance-process-1](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/kyc-compliance-a-comprehensive-guide/kyc-compliance-process-1.jpg?h=444&w=848)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this article, we’ll explain what KYC is, the KYC process, why it’s important, and how you can leverage technology to manage the risk of financial crime and ensure regulatory compliance.
 
@@ -45,11 +49,12 @@ There are three key components of KYC:
 * **Customer Due Diligence (CDD):** CDD is the next stage of KYC. It involves understanding the customer's financial behavior and transaction patterns to create a risk profile. High-risk customers must undergo Enhanced Due Diligence (EDD), with more thorough background checks and continuous monitoring.
 * **On-going monitoring:** Continuous monitoring involves overseeing financial transactions and accounts based on the customer’s risk profile. Institutions may look at activities such as spikes in transaction activity or unexpected cross-border activities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## KYC compliance laws
 
 The rules around KYC are governed by several national and international laws. Most KYC laws fall under AML regimes. These regimes are based on the recommendations of the Financial Action Task Force (FATF), a pan-government organization formed to fight money laundering, terrorism, and proliferation financing. 
@@ -66,6 +71,10 @@ Some of the other key international KYC laws include:
 * **The European Union’s Anti-Money Laundering Directives (AMLD)**, which outlines comprehensive KYC and AML requirements for EU member states.
 * **The Money Laundering Act – 2017 (MLA)** governs the UK, defining customer verification rules for reporting entities.
 * **Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)** of Canada sets the KYC requirements and rules for reporting entities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -124,8 +133,9 @@ A critical, lesser discussed component of the KYC process is ongoing monitoring,
 Institutions will train employees and use technology to streamline and improve their KYC procedures, ensuring compliance with regulations and minimizing the risk of financial crimes.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Develop a KYC policy
 
 Developing a robust KYC policy is essential to ensure compliance with international regulations against fraud, money laundering, and terrorist financing. Having clear measures for implementing KYC also helps to foster more secure financial transactions.
@@ -139,9 +149,6 @@ Financial institutions usually base their KYC policies on four key elements:
 
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conduct employee training
 
 Employee training is critical for communicating, controlling, and safeguarding knowledge of Anti-Money Laundering / Countering the Financing of Terrorism (AML/CFT) and KYC requirements within an organization. At a minimum, training in these areas should cover:
@@ -152,9 +159,14 @@ Employee training is critical for communicating, controlling, and safeguarding k
 * How to identify and report transactions to a regulator or authority
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Implement a robust Customer Identification Program (CIP)
 
@@ -168,16 +180,8 @@ To create a CIP that’s robust and tailored to your institution's risk-based ap
 * The size of your institution
 * Your institution’s location and customer diversity across different geographic areas
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Leverage advanced KYC technology
 
 Financial services institutions face a unique set of challenges. Crimes, such as fraud, terrorist activity, and money laundering, are committed by bypassing banking processes or using suspicious documents, resulting in billions of dollars in fines and legal risks. Although evolving regulations aim to solve these problems, these institutions often find themselves with fractured processes and repetitive due diligence requests, causing further problems, including:
@@ -196,9 +200,6 @@ Financial services institutions face a unique set of challenges. Crimes, such as
 
 [Request a demo](https://tools.techidaily.com/abbyy/products/) to find out how ABBYY Timeline could improve your [KYC compliance](https://tools.techidaily.com/abbyy/products/) process and streamline your business critical processes.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## KYC challenges
 
 While KYC regulations are designed to be clear and robust, there are increasing challenges to implementing them.
@@ -207,9 +208,6 @@ A benefit of the international commitment to preventing financial crime is that 
 
 In addition, with the increasing significance of data privacy, regulators are imposing stricter rules on businesses to safeguard customer data and use KYC information solely for its intended purpose. Balancing due diligence to protect customer data, while fielding the risks of financial crime, can be difficult to balance. Coupling these challenges with the growing digitization of the KYC process, it can be difficult for institutions to keep up with regulations.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## KYC compliance in the digital age
 
 Digital transformation across KYC compliance processes has led to the advent of eKYC, where businesses use online processes to verify customer identities and transactions. Financial services companies increasingly use mobile and web-enabled solutions that incorporate on-device technology and biometric authentication (such as facial recognition) to accurately identify customers in the digital environment. 
@@ -221,6 +219,10 @@ At the forefront of digitizing KYC processes, ABBYY’s AI-driven solutions are 
 Your customers will be able to onboard through their mobile or desktop, helping you to reduce abandonment rates and customer churn. Paired with our intelligent document processing solutions, you can automate your most data-heavy processes and implement continuous monitoring.
 
 [Request demo](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Frequently asked questions
 
@@ -315,8 +317,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -324,4 +324,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-best-tiktok-video-editing-tips/"><u>[New] Best Tiktok Video Editing Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-tips-for-sharper-images-on-google-meet-calls/"><u>[New] In 2024, Top Tips for Sharper Images on Google Meet Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android-for-2024/"><u>[New] Kinetic Gameplay Reimagined A Comprehensive Analysis of KineMaster on Android for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-upside-down-visuals-unraveling-instagram-video-confusion/"><u>[New] Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skin-the-subject-eradicate-bg-in-affinity/"><u>[Updated] Skin the Subject, Eradicate Bg in Affinity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-and-instagram-integration-the-essential-how-to-manual/"><u>2024 Approved OBS and Instagram Integration The Essential How To Manual</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>2024 Approved The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-ways-convert-pinner-vids-into-audios/"><u>2024 Approved Top 3 Ways Convert Pinner Vids Into Audios</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-instagrams-privacy-features-for-anonymous-livestreams/"><u>2024 Approved Understanding Instagram's Privacy Features for Anonymous Livestreams</u></a></li>
+<li><a href="https://fox-place.techidaily.com/dealing-with-hard-drive-issues-learn-the-next-steps-with-yl-software-advice/"><u>Dealing with Hard Drive Issues? Learn the Next Steps with YL Software Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-intel-graphics-drivers-on-windows-11-a-quick-how-to/"><u>Find & Update Intel Graphics Drivers on Windows 11: A Quick How-To</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-sites-for-downloading-desired-youtube-ringtones/"><u>In 2024, Top Sites for Downloading Desired YouTube Ringtones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>In 2024, Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-10-best-farming-games/"><u>Top 10 Best Farming Games</u></a></li>
+</ul></div>
 

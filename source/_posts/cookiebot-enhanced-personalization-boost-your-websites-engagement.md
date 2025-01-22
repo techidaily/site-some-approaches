@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced Personalization: Boost Your Website's Engagement"
-date: 2024-08-22T00:02:42.337Z
-updated: 2024-08-23T00:02:42.337Z
+date: 2025-01-21T01:41:09.934Z
+updated: 2025-01-22T01:01:42.842Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28db3371c8a6654c909a09f9e7.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY dévoile une nouvelle version de FineReader Server, anciennement nommé ABBYY Recognition Server
 
 26 novembre 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Le service d'OCR basé sur serveur rejoint la gamme FineReader pour réunir l’offre de capture de documents et de conversion PDF haut de gamme d'ABBYY dans une même solution_
 
@@ -78,8 +86,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,8 +93,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-a-guide-to-innovative-metaverse-marketing-for-2024/"><u>[New] A Guide to Innovative Metaverse Marketing for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transforming-movies-to-still-moments-with-windows-10-photo-viewer-for-2024/"><u>[New] Transforming Movies to Still Moments with Windows 10 Photo Viewer for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-compreeved-look-at-effective-spotify-ad-implementation/"><u>[Updated] A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-cam-screen-recorder-review-and-best-alternative-for-2024/"><u>[Updated] Free Cam Screen Recorder Review and Best Alternative for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-social-media-savvy-top-trending-hashtags-for-youtubers/"><u>[Updated] In 2024, Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>[Updated] The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fundamentals-of-uncomplicated-hdr-techniques/"><u>2024 Approved The Fundamentals of Uncomplicated HDR Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-decor-best-platforms-and-software-for-photo-frameups/"><u>Digital Decor Best Platforms & Software for Photo Frameups</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-5-ways-to-rewind-a-twitch-live-stream/"><u>In 2024, 5 Ways to Rewind A Twitch Live Stream</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-huawei-p60-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Huawei P60</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>In 2024, Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/pcdj-masterclass-beats-matching-and-sync-techniques-with-bpm-guide/"><u>PCDJ Masterclass - Beats Matching & Sync Techniques with BPM Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-solution-for-eliminating-audio-delays-2024s-top-strategies/"><u>The Definitive Solution for Eliminating Audio Delays: 2024'S Top Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-illustrator-guide-to-dynamic-text-art-for-2024/"><u>The Illustrator Guide to Dynamic Text Art for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->

@@ -1,13 +1,17 @@
 ---
 title: "ABBYY Dominates the IDC MarketScape: The Pioneering Force in Document Processing"
-date: 2024-08-21T23:59:22.197Z
-updated: 2024-08-22T23:59:22.197Z
+date: 2025-01-19T02:55:45.098Z
+updated: 2025-01-21T22:11:38.996Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893be920721cefd3090f694d72e.png
 ---
 
 ## ABBYY Dominates the IDC MarketScape: The Pioneering Force in Document Processing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## IDC MarketScape désigne ABBYY comme l’un des leaders des vendeurs de logiciels IDP (traitement intelligent des documents) dans son évaluation mondiale 2023-2024
 
@@ -17,7 +21,15 @@ Ce rapport inaugural d’IDC passe en revue les technologies d’IA telles que l
 
 ![abbyy-leads-in-idc-marketscape](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/resource-center/content-images/abbyy-leads-in-idc-marketscape-pic.png?h=704&w=800)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Le modèle d’analyse des fournisseurs utilisé par IDC MarketScape est conçu pour fournir une vue d’ensemble de la compétitivité des fournisseurs d’ICT (information, communication et technologie) sur un marché donné. Cette méthodologie de recherche utilise une méthode rigoureuse de notation, basée tant sur des critères quantitatifs que qualitatifs, lesquels se traduisent par une illustration graphique unique de la position de chaque prestataire sur un marché donné. Le score de capacité évalue le produit d’un vendeur, sa mise sur le marché et son plan d’exécution à court terme. Le score de stratégie mesure l’alignement des stratégies du fournisseur avec les attentes des clients sur une période de 3 à 5 ans. La part de marché du vendeur est représentée par une icône, plus ou moins grosse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Merci de votre intérêt pour ABBYY et ses technologies.
 
@@ -91,8 +103,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,8 +110,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-playback-import-tunes-into-inshot/"><u>[New] Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vibration-victory-clearer-cinematography/"><u>[New] Vibration Victory Clearer Cinematography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-videoshow-complete-guide-to-its-latest-edition-in-24/"><u>[Updated] 2024 Approved VideoShow Complete Guide to Its Latest Edition in '24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-64128gbs-full-potential-for-video-storing/"><u>[Updated] Unlocking 64/128GB's Full Potential for Video Storing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-premium-phones-excelling-in-quality-video-capture/"><u>2024 Approved Top 3 Premium Phones Excelling in Quality Video Capture</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-vivo-g2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo G2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>In 2024, Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-insights-with-twitter-archive-analysis/"><u>In 2024, Maximizing Insights with Twitter Archive Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rapid-rendering-of-fortnite-icons/"><u>In 2024, Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-power-of-no-fee-text-animation-tools/"><u>In 2024, Transformative Power of No-Fee Text Animation Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-in-windows-11-help-app/"><u>Restoring Functionality in Windows 11 Help App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-downloading-targus-docking-station-drivers-effortless-installation/"><u>Step-by-Step Instructions for Downloading Targus Docking Station Drivers - Effortless Installation!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-teachers-compendium-on-multimedia-pedagogy-for-2024/"><u>The Teacher's Compendium on Multimedia Pedagogy for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->

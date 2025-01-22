@@ -1,7 +1,7 @@
 ---
 title: 「プロセスインテリジェンスの基本概念と用途」
-date: 2024-08-22T00:00:53.827Z
-updated: 2024-08-23T00:00:53.827Z
+date: 2025-01-19T18:00:52.399Z
+updated: 2025-01-21T16:48:31.601Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d21be749110f5088c0bdb4490.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 ## 「プロセスインテリジェンスの基本概念と用途」
 
 [すべての印刷物](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## プロセスインテリジェンスとは？
 
@@ -73,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
 **コスト削減** プロセスインテリジェンスは、企業がコスト削減を実現する強力な手段です。具体的には、非効率なプロセスを特定・排除することで、運用コストを削減することができます。費用対効果の高いリソースの割り当てを可能にし、手作業による介入やエラーに伴う不必要な出費を回避するのにも役立ちます。 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## プロセスインテリジェンスの使用例 
 
 どのような業界でも、[デジタルトランスフォーメーション戦略にプロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を組み込むことで、組織は提案された変更の将来的な影響を評価し、より効果的に移行を管理し、実装された自動化ステップのパフォーマンスを確保し、継続的な改善のためのフィードバックループを確保することができます。業界を問わず、企業はプロセスインテリジェンスを活用し、さまざまなユースケースで成果を上げています。
@@ -83,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 ### 医療機関 
 
 病院やその他の医療機関は、プロセスインテリジェンスを活用することで、患者体験と臨床効果を改善し、品質基準を維持し、コンプライアンスリスクを回避することができます。臨床業務をリアルタイムで監視し、プロトコルが守られていない場合やプロセスの逸脱が検出された場合には積極的にスタッフにアラートを発しながら、コンプライアンスの遵守をサポートしてくれます。 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 銀行 
 
@@ -108,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
 これらの最適化を実施した後、同社はインテリジェント・プロセス・オートメーション・ソリューションを導入しました。このソリューションには、データ入力と抽出のためのロボティック・プロセス・オートメーション（RPA）ボット、意思決定のためのAIアルゴリズム、エンドツーエンドのプロセスを編成するためのワークフロー自動化のほか、自動化されたプロセスのパフォーマンスを監視し、さらなる改善点を特定するためのプロセスインテリジェンスツールが含まれていました。
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## プロセスインテリジェンスへの総合的アプローチ 
 
 多くのプロセスマイニングやタスクマイニングツールは、包括的なソリューションを提供しているとうたうものも多く存在しますが、実際の業務の複雑さや微妙な差異に対応しきれないことがよくあります。真に効果的なソリューションとは、先ほど説明した 5 つの柱をすべて完全にサポートするものでなければなりません。これらのすべての要素を網羅した包括的なアプローチを採用することによってのみ、組織は意味のある持続可能なプロセス変革を達成できることを期待できます。 
@@ -119,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
 [体験版を申し込む](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## よくある質問 
 
 [プロセスインテリジェンス戦略とは？](https://tools.techidaily.com/abbyy/products/)
@@ -144,9 +143,6 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -157,10 +153,6 @@ Chief Technology Officer at ABBYY
 
 スコット・オーピッツは、最高技術責任者として、グローバルな製品戦略開発とその遂行を担当しています。それ以前は、マーケティング部門の最高責任者として、グローバルなマーケティング戦略を担当していました。ABBYYには、TimelinePIの買収に伴い入社しました。共同設立者として立ち上げたTimelinePIでは設立時から、社長兼CEOを務めていました。この役職において、TimelinePIのプロセスインテリジェンス製品(現在の
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -209,13 +201,12 @@ Page URL
 
 Connect with us
 
-
-
 ![](https://static1.abbyy.com/abbyycommedia/37862/5-pillars-cover-photo_d_848x444-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 現在の競争が激しいビジネス環境において、ビジネスプロセスの効率化と最適化は、組織の成功と長期的な優位性のために不可欠です。しかし、デジタルトランスフォーメーションの謳い文句があふれる中、プロセスマイニングやタスクマイニングツール単体では、プロセス関連のすべての課題を解決するという約束を果たせないことが多くあります。このような第1世代のソリューションの限界から、包括的なプロセスインテリジェンスプラットフォームが登場しました。このプラットフォームは、これらの要求を完全に満たし、表面的な問題を超えていくように設計されています。真のプロセスインテリジェンスソリューションは、プロセス変革への包括的アプローチに不可欠な 5 つの主要な柱を完全にサポートする必要があります。 
 
 以下に移動します： 
@@ -229,6 +220,10 @@ Connect with us
 ## プロセスインテリジェンスとは？ 
 
 **プロセスインテリジェンスは、ビジネスオペレーションの分析と強化に特化した、データ主導型の機能の組み合わせです**。企業独自の情報システムからのデータを使用して、新たな業務効率化への道を指し示すパターンとインサイトを明確に示します。**持続可能なプロセスインテリジェンスに不可欠な5つの柱は、プロセスディスカバリー、プロセス分析、プロセスモニタリング、プロセス予測、プロセスシミュレーションです**。組織はこれらのインサイトを利用して、プロセスの発見、理解、実行管理をより効果的に行うことができます。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### プロセスインテリジェンスの5つの柱
 
@@ -255,8 +250,9 @@ Connect with us
 プロセスシミュレーションは、過去のプロセス履歴を活用して自動的にシミュレーションを構築する手法です。このモデルは、プロセス自体やリソースの割り当てを変更した場合の影響を実際に導入する前に把握できるようにするため、提案された変更に合わせて調整することができます。例えば、銀行はこのアプローチを使って、融資承認部門の人員配置レベルを変更した場合の影響を理解することができます。これにより、リーダーはリソース配分やプロセス変更に関する情報に基づいた意思決定を行うことができ、最終的には業務効率の最適化と顧客満足度の向上につながります。
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## プロセスインテリジェンスのメリットとは？ 
 
 従来のビジネスプロセス改善手法は、手作業による観察、インタビュー、調査に大きく依存していました。これらはいずれも主観的になりやすく、また時間がかかってしまうという課題がありました。これに対して、プロセスインテリジェンスは、企業が保有するシステムからのデータにアクセスしてプロセス最適化を推進し、継続的な改善を可能にするためのモニタリングを自動化します。 
@@ -274,8 +270,9 @@ Connect with us
 **コスト削減** プロセスインテリジェンスは、企業がコスト削減を実現する強力な手段です。具体的には、非効率なプロセスを特定・排除することで、運用コストを削減することができます。費用対効果の高いリソースの割り当てを可能にし、手作業による介入やエラーに伴う不必要な出費を回避するのにも役立ちます。 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## プロセスインテリジェンスの使用例 
 
 どのような業界でも、[デジタルトランスフォーメーション戦略にプロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を組み込むことで、組織は提案された変更の将来的な影響を評価し、より効果的に移行を管理し、実装された自動化ステップのパフォーマンスを確保し、継続的な改善のためのフィードバックループを確保することができます。業界を問わず、企業はプロセスインテリジェンスを活用し、さまざまなユースケースで成果を上げています。
@@ -289,11 +286,16 @@ Connect with us
 プロセスインテリジェンスは、銀行をはじめとする金融機関がデジタルトランスフォーメーションを推進し、リスク管理および規制遵守の優先事項をサポートします。金融機関は、ほぼリアルタイムで取引データを分析することにより、顧客サービスの向上、報告精度の向上、コストのかかるエラーのリスク低減を実現できます。プロセスモニタリングは、サービスレベル合意 (SLA)、コンプライアンス要件、法令順守を確実に維持するのに役立ち、見落とされがちなコストのかかるミス防止に貢献します。 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 保険 
 
 保険会社は、プロセスインテリジェンスを活用することで、リスク評価、リスク選別、引受決定をより効率的に行うことができます。また、自動化されたモニタリングと修復によりコンプライアンスを強化し、データのストレートスルー処理を可能にすることで生産性を向上させることもできます。プロセス分析は、社内スタッフだけでなく、契約アジャスター、外部サポート組織、その他のパートナーにもビジネス上の価値を提供します。 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## プロセスインテリジェンスとインテリジェントプロセスオートメーションの組み合わせ 
 
@@ -312,8 +314,9 @@ Connect with us
 これらの最適化を実施した後、同社はインテリジェント・プロセス・オートメーション・ソリューションを導入しました。このソリューションには、データ入力と抽出のためのロボティック・プロセス・オートメーション（RPA）ボット、意思決定のためのAIアルゴリズム、エンドツーエンドのプロセスを編成するためのワークフロー自動化のほか、自動化されたプロセスのパフォーマンスを監視し、さらなる改善点を特定するためのプロセスインテリジェンスツールが含まれていました。
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## プロセスインテリジェンスへの総合的アプローチ 
 
 多くのプロセスマイニングやタスクマイニングツールは、包括的なソリューションを提供しているとうたうものも多く存在しますが、実際の業務の複雑さや微妙な差異に対応しきれないことがよくあります。真に効果的なソリューションとは、先ほど説明した 5 つの柱をすべて完全にサポートするものでなければなりません。これらのすべての要素を網羅した包括的なアプローチを採用することによってのみ、組織は意味のある持続可能なプロセス変革を達成できることを期待できます。 
@@ -322,9 +325,6 @@ Connect with us
 
 [体験版を申し込む](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## よくある質問 
 
 [プロセスインテリジェンス戦略とは？](https://tools.techidaily.com/abbyy/products/)
@@ -367,8 +367,6 @@ Share
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -376,4 +374,18 @@ Share
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategies-for-success-in-online-content-creation-for-2024/"><u>[Updated] Strategies for Success in Online Content Creation for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/gimmicks-to-giants-navigating-popular-short-hashtags/"><u>From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>In 2024, A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-sound-capture-on-your-macos-device-via-audacity/"><u>In 2024, Master Sound Capture on Your MacOS Device via Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-storage-solutions-the-20-finest-free-online-spaces/"><u>In 2024, Streamline Storage Solutions The 20 Finest FREE Online Spaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-quick-filming-techniques-your-5-best-home-hacks-list/"><u>In 2024, Unlock Quick Filming Techniques – Your 5 Best Home Hacks List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-your-digital-cameras-potential/"><u>In 2024, Unlocking Your Digital Camera's Potential</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-tips-from-toms-computing-experts/"><u>Mastering Hardware Choices with Tips From Tom's Computing Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-internet-laughter-10-ultimate-memes-for-2024/"><u>The Art of Internet Laughter - 10 Ultimate Memes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-call-of-duty-vanguard-stuttering-issues/"><u>Ultimate Guide: Solving Call of Duty: Vanguard Stuttering Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-leading-youtube-to-mp3-tools/"><u>Unveiling the Leading YouTube to Mp3 Tools</u></a></li>
+</ul></div>
 

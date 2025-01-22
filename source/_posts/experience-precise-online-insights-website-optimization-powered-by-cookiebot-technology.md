@@ -1,7 +1,7 @@
 ---
 title: Experience Precise Online Insights - Website Optimization Powered by Cookiebot Technology
-date: 2024-08-22T00:00:35.510Z
-updated: 2024-08-23T00:00:35.510Z
+date: 2025-01-17T22:16:56.006Z
+updated: 2025-01-22T00:45:17.699Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b086086a9248bc69fcf254fa.jpg
@@ -17,6 +17,10 @@ Government
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/21631.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
 ## ABBYY optimiert das SharePoint-Potential der National Park Authority
@@ -25,6 +29,11 @@ Government
 
 | ![](https://static1.abbyy.com/abbyycommedia/1022/new-forest.jpg) |                                                            |  |
 | ---------------------------------------------------------------- | ---------------------------------------------------------- |  |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 | Name                                                             | New Forest National Park Authority                         |  |
 | Hauptsitz                                                        | Lymington, United Kingdom                                  |  |
 | Internet                                                         | [www.newforestnpa.gov.uk](http://www.newforestnpa.gov.uk/) |  |
@@ -32,15 +41,17 @@ Government
 **Mit Optical Character Recognition Software durchsuchbare Archive für relevante Dokumente erstellen**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Hintergrund
 
 Die Behörde der New Forest National Park Authority (NFNPA) wurde etabliert, um die natürliche Schönheit, die Tier- und Pflanzenwelt sowie das kulturelle Erbe des Nationalparks in Hampshire, England zu bewahren und zu fördern. Die Behörde ermöglicht es ihren Besuchern mehr über die besonderen Eigenschaften des Parks zu erfahren und diesen zur Erholung zu nutzen. Zudem unterstützt sie das soziale wie auch das wirtschaftliche Wohlergehen der innerhalb des Parks angesiedelten Gemeinden. Lange Zeit nutzte die NFNPA ausschließlich in ihrer Planungsabteilung ein Dokumenten - managementsystem (DMS) – für die übrigen Abteilungen der Behörde stand jedoch keine geeignete Lösung zur Erfassung und Archivierung von Dokumenten zur Verfügung. So wurde letztendlich entschieden, die gesamte Organisation mit einem System auszustatten, mit dem Dateien zukünftig digital gespeichert werden können, einfach durchsuchbar und damit unkompliziert abrufbar sind.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###   
 Lösung
 
@@ -50,9 +61,6 @@ Die ursprüngliche Strategie zielte darauf ab, das DMS der Planungsabteilung org
 
 Es wurden fünf unterschiedliche Produkte miteinander verglichen und auf ihr Kosten- Nutzen-Verhältnis hin untersucht. Besonderer Wert wurde gelegt auf die Fähigkeit zur Erstellung von PDF-Dateien, die auf angemessene Dateigrößen komprimiert werden können und daher nicht unnötig Speicherplatz wegnehmen. Status Computers, der Vertragshändler der NFNPA, empfahl [ABBYY Recognition Server](https://tools.techidaily.com/abbyy/products/) als bestmögliche Lösung, da dieses Produkt auf einer qualitativ hochwertigen, preisgekrönten OCR basiert, über die Fähigkeit verfügt, PDF Dateien auf kleinere Dateigrößen zu komprimieren, und zudem mit kostengünstigen Lizenzierungsmodellen angeboten wird. ABBYY Recognition Server ist eine robuste serverbasierte Lösung für OCR und zur Dokumenten - erfassung, mit der Organisationen effizient automatisierte Prozesse zur Konvertierung von Dokumenten in Papier- oder Bildform (z. B. PDF, JPEG, TIFF etc.) in durchsuchbare und wiederverwendbare elektronische Dateien (z. B. Word- oder Excel-Formate) aufsetzen können. Die leistungsstarke Technologie unterstützt das Scannen von Dokumenten, eine äußerst exakte Volltext-OCR und das Auslesen von Metadaten zur Bereitstellung von Inhalten, die für E-Archive, Enterprise-Content-Management (ECM), unternehmensübergreifende Suche und andere dokumentenbasierte Geschäftsprozesse geeignet sind. Die Lösung ist skalierbar, zuverlässig und schnell einsetzbar und stellt leistungsstarke OCR-Funktionen in Umgebungen zur Verfügung, in denen ein zentralisiertes Verarbeitungsmanagement und erhöhte Flexibilität bei der Integration von Drittanbieter-Anwendungen erforderlich sind.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ergebnis
 
 Mit der neuen Lösung nutzen die 75 Mitarbeiter der NFNPA nun einen Multifunktions - drucker um ein Dokument in einen überwachten Ordner zu scannen. Dort erfasst Recognition Server das Bild, konvertiert es in ein durchsuchbares PDF und exportiert es in eine [SharePoint-Dokumentenbibliothek](https://tools.techidaily.com/abbyy/products/). Recognition Server wurde auch an Microsoft® Outlook® angebunden. Damit kann der Nutzer seine PDF-Dateien per E-Mail an Recognition Server senden und erhält sie konvertiert im Word-Format per E-Mail zurück. Die NFNPA-Mitarbeiter stufen Recognition Server als sehr nützlich ein, während sich die IT-Abteilung über die Fähigkeit begeistert, die Lösung individuell auf ihre Bedürfnisse hin anpassen zu können. Wir haben während der Versuchsphase ausgezeichneten Support von Status Computers und ABBYY erhalten, mit deren Hilfe wir die richtigen Einstellungen für unsere speziellen Anforderungen gefunden haben“, stellt Mr. Fleetwood abschließend fest. „Recognition Server ließ sich an einem einzigen Tag installieren, da es ein recht ‘benutzerfreundliches’ System ist. Unser IT-Team unterzog die vorhandenen Konfigurationen einer Prüfung und replizierte diese dann, um neue Workflows zu erstellen. Wir haben damit eine bedien - freundliche und kosteneffektive Möglichkeit gefunden unsere Dokumente zu archivieren und zukünftig unkompliziert durchsuchbar zu machen.“
@@ -60,8 +68,9 @@ Mit der neuen Lösung nutzen die 75 Mitarbeiter der NFNPA nun einen Multifunktio
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Über ABBYY und Kontaktmöglichkeiten
 
 [Zur ABBYY Unternehmensübersicht ›](https://tools.techidaily.com/abbyy/products/)
@@ -70,9 +79,6 @@ Mit der neuen Lösung nutzen die 75 Mitarbeiter der NFNPA nun einen Multifunktio
 
 Teilen 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -85,8 +91,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +98,21 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-mac-interaction-innovative-text-to-speech-apps-uncovered/"><u>[New] Transform Your Mac Interaction Innovative Text-to-Speech Apps Uncovered</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultra-fast-windows-view-for-pictures/"><u>[New] Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>[Updated] 2024 Approved Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-sounds-iphones-efficient-podcasting/"><u>[Updated] Streamlined Sounds IPhone's Efficient Podcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[Updated] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-transformation-with-strategic-use-of-youtube-outros/"><u>2024 Approved Channel Transformation with Strategic Use of YouTube Outros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-and-assessing-cloud-cost-variability/"><u>2024 Approved Understanding & Assessing Cloud Cost Variability</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-scriptural-ringtone-selections-for-faith/"><u>In 2024, Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-your-complete-guide-to-understanding-tiktoks-pfp-symbol/"><u>In 2024, Your Complete Guide to Understanding TikTok’s PFP Symbol</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>In 2024, YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-the-innovative-world-of-intova-x/"><u>Inside the Innovative World of Intova X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laugh-ledger-cutting-edge-generators-for-jokes-for-2024/"><u>Laugh Ledger Cutting-Edge Generators for Jokes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-counteract-windows-11-error-x80049dd3/"><u>Step-by-Step Guide to Counteract Windows 11 Error X80049DD3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-upgrade-ultimatum-going-from-previous-windows/"><u>The Upgrade Ultimatum Going From Previous Windows</u></a></li>
+</ul></div>
 

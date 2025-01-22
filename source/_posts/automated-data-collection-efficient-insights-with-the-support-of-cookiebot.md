@@ -1,7 +1,7 @@
 ---
 title: "Automated Data Collection: Efficient Insights with the Support of Cookiebot"
-date: 2024-08-22T00:03:58.552Z
-updated: 2024-08-23T00:03:58.552Z
+date: 2025-01-17T18:54:19.509Z
+updated: 2025-01-21T19:52:27.796Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY holt zwei neue IT-Koryphäen in den Vorstand
 
 21\. September 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Aileen Allkins und Anubhav Saxena kommen zu ABBYY nach Erfolgskurs bei Microsoft und Automation Anywhere_ 
 
@@ -55,8 +63,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,17 +70,22 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>[New] The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-sierras-icloud-full-access-guide/"><u>[New] Unraveling Sierra's iCloud Full Access Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-for-filmmakers-revolutionizing-visual-storytelling/"><u>[New] Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-step-into-a-tiktok-event-like-a-pro/"><u>2024 Approved How to Step Into a TikTok Event Like a Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unselect-recommended-podcasts-efficiently-on-spotify/"><u>2024 Approved Unselect Recommended Podcasts Efficiently on Spotify</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-top-performing-moisture-proof-phone-safeguards/"><u>Comprehensive Review: Top-Performing Moisture-Proof Phone Safeguards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-completa-alla-supporto-telematico-per-winx-dvd-ripper-and-winxvideo-ai-ottimizza-il-tuo-business-e-commerce/"><u>Guida Completa Alla Supporto Telematico per WinX DVD Ripper & Winxvideo AI: Ottimizza Il Tuo Business E-Commerce</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-unalterable-tiktok-profile-url-integration-blueprint/"><u>In 2024, The Unalterable TikTok Profile URL Integration Blueprint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-full-potential-of-morphvox-alchemy/"><u>In 2024, Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlock-pro-level-videos-top-10-free-green-screen-apps-for-mobile-for-2024/"><u>New Unlock Pro-Level Videos Top 10 Free Green Screen Apps for Mobile for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pre-covid-levels-restored-worldwide-motherboard-market-set-to-deliver-39-million-units-this-year/"><u>Pre-COVID Levels Restored: Worldwide Motherboard Market Set to Deliver 39 Million Units This Year</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-s17e-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo S17e</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-kernel32dll-problems-in-windows/"><u>Step-by-Step Guide: Correcting Kernel32.dll Problems in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laptops-in-depth-analysis-by-tech-experts-zdnet-insights/"><u>Top-Rated Laptops : In-Depth Analysis by Tech Experts | ZDNet Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-styling-secrets-with-a-diy-video-editing-guide-for-2024/"><u>Unlock Styling Secrets with a DIY Video Editing Guide for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

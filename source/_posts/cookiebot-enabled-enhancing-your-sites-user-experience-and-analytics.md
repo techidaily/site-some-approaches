@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing Your Site's User Experience & Analytics"
-date: 2024-08-22T00:02:41.174Z
-updated: 2024-08-23T00:02:41.174Z
+date: 2025-01-17T18:26:26.516Z
+updated: 2025-01-21T23:31:29.459Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffca7f03ef7871aadd312df806.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 ## Cookiebot-Enabled: Enhancing Your Site's User Experience & Analytics
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Der bequeme Bankkunde
 
@@ -21,19 +25,21 @@ German
 
 ![02 Alexandrejanicki 198X198](https://static2.abbyy.com/abbyycommedia/25101/02-alexandrejanicki-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Alexandre Janicki
 
 Senior Enterprise Sales Manager, **ABBYY**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Übersicht
 
 Im Rahmen der 15\. Jahreskonferenz „Finanzdienstleister der nächsten Generation“ der Frankfurt School of Finance & Management spricht unser ABBYY Experte Alexandre Janicki darüber, wie disruptive Technologien die heutige Banking-Landschaft verändern und vor welchen neuen Herausforderungen bereits etablierte Unternehmen des Finanzsektors und auch neue Anbieter (z. B. FinTechs) stehen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Das sind die Themen:
 
@@ -44,30 +50,26 @@ Im Rahmen der 15\. Jahreskonferenz „Finanzdienstleister der nächsten Generati
 ### Webinar-Aufzeichnung hier anfordern
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Vielen Dank! Wir wünschen Ihnen viel Spaß mit dem Webinar.
 
 [![20 Frankfurt School Of Finance And Management](https://static3.abbyy.com/abbyycommedia/30377/20-frankfurt-school-of-finance-and-management.jpg)](https://fs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=756dc8df-b339-496a-8034-ac4c00755ec0) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Präsentiert mit freundlicher Genehmigung der [Frankfurt School of Finance & Management](https://www.frankfurt-school.de/)
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Haben Sie weiterführende Fragen oder möchten Sie mit uns über ein konkretes Projekt sprechen? [Kontaktieren Sie uns.](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -124,8 +126,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +133,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-precision-meetings-sharpen-your-screens-in-msteam/"><u>[New] Precision Meetings Sharpen Your Screens in MSTEAM</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-virtual-venture-voice/"><u>[New] Vanguard Virtual Venture Voice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-complete-review-of-razer-video-streaming-device/"><u>[Updated] In 2024, Complete Review of Razer Video Streaming Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-skype-tone-searching-made-easy-pick-from-the-4-ace-lists/"><u>[Updated] Skype Tone Searching Made Easy Pick From the 4 Ace Lists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-perfect-perspective-optimal-cropping-with-iphone-apps/"><u>[Updated] The Perfect Perspective Optimal Cropping with iPhone Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-premier-photography-frame-selection-24/"><u>[Updated] The Premier Photography Frame Selection '24</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-advanced-practices-for-capturing-iptv-visuals/"><u>2024 Approved Advanced Practices for Capturing IPTV Visuals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-sites-with-public-domain-game-soundtracks/"><u>2024 Approved Best Sites with Public Domain Game Soundtracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire/"><u>2024 Approved Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-tricks-for-flawless-file-imports-on-windows-10/"><u>2024 Approved Unveiling the Tricks for Flawless File Imports on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-video-editing-on-imac-with-m1-processor/"><u>2024 Approved Video Editing on iMac with M1 Processor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clear-video-ultimate-guide-to-good-cams-mics/"><u>Clear Video Ultimate Guide to Good Cams' Mics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-from-sketches-to-screens-animation-via-windows-movie-maker/"><u>In 2024, From Sketches to Screens Animation via Windows Movie Maker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-insiders-guide-to-ultimate-audio-equipment/"><u>In 2024, The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-macs-top-free-drawing-tools/"><u>In 2024, Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Device</u></a></li>
+</ul></div>
 

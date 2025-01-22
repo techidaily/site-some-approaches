@@ -1,7 +1,7 @@
 ---
 title: Transforming the Insurance Industry Through Digital Innovation – A Forrester Discussion
-date: 2024-08-22T00:05:13.242Z
-updated: 2024-08-23T00:05:13.242Z
+date: 2025-01-17T00:16:25.135Z
+updated: 2025-01-21T16:49:43.297Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a552d02652e6a8d502a42f3f.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 
 Data sheet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q&A on Insurance Innovation and Intelligent Automation
 
 ### Forrester Research on how Digital Intelligence accelerates insurance digital transformation
@@ -18,8 +22,9 @@ Data sheet
 We asked Ellen Carney of Forrester Research to share some insight on how Digital Intelligence—including AI, ML, and OCR technologies—can deliver operational change and accelerate true digital transformation for insurers. In this Q&A, Carney provides Forrester’s analysis of the ways insurers are using these technologies today, the biggest use cases for them, the role of automation in customer experience, and what it means to be data-driven today.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download it now!
 
 Download now to get Forrester’s insight on…
@@ -30,27 +35,27 @@ Download now to get Forrester’s insight on…
 * How insurers can use their data for competitive advantage
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you for your interest in ABBYY.
 
 [Read data sheet](https://digital.abbyy.com/hubfs/documents/content/datasheet-insurance-forresteranalysis-en.pdf "Read data sheet") 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### You might also be interested in...
 
 [![ABBYY for Insurance](https://static2.abbyy.com/abbyycommedia/31575/03a-insurance-cases-process.jpg) Intelligent Automation for Insurers: Strategically Automate and Digitize Policy and Claims Processes Learn more](https://www.abbyy.com/solutions/insurance/ "Intelligent Automation for Insurers: Strategically Automate and Digitize Policy and Claims Processes")[![ABBYY Timeline Process Mining](https://static4.abbyy.com/abbyycommedia/34808/vantage-new-product-video.jpg) ABBYY Vantage Intelligent Document Processing for Insurance Learn more](https://www.youtube.com/watch?v=LcNkRzqhgRY "ABBYY Vantage Intelligent Document Processing for Insurance")[![ABBYY 2021 Digital Transformation Survey Results - Insurance](https://static3.abbyy.com/abbyycommedia/34782/127-taking-the-pulse-on-digital-transformation-in-insurance-en-360x232.jpg) Taking the Pulse on Digital Transformation in Insurance See infographic](https://static2.abbyy.com/abbyycommedia/34781/infographic-insurance-digitaltransformationsurvey-en.pdf "Taking the Pulse on Digital Transformation in Insurance") 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -111,8 +116,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +123,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-art-of-oral-explanitations-and-slides/"><u>[New] Mastering the Art of Oral Explanitations & Slides</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/evenue-revolution-how-carminatis-youtube-income-model-works-for-2024/"><u>[New] Revenue Revolution How Carminati's YouTube Income Model Works for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-of-editing-shines-with-magix-video-pro-x/"><u>[New] The Future of Editing Shines with Magix Video Pro X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-15-activities-perfect-for-podcast-lovers/"><u>[New] Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[Updated] The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unboxing-marketing-strategy/"><u>[Updated] Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essence-of-video-editing-filmoras-ten-wonders/"><u>2024 Approved The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-making-spectacular-haul-videos/"><u>2024 Approved Unveiling the Secrets to Making Spectacular Haul Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/8-tools-to-record-computer-sound-and-microphone-for-2024/"><u>8 Tools to Record Computer Sound and Microphone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designing-logos-that-stand-out-for-podcast-marketing/"><u>Designing Logos That Stand Out for Podcast Marketing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-by-tom-dive-into-gear-details/"><u>Expert Hardware Analysis by Tom – Dive Into Gear Details!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-smart-7-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Smart 7 Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionize-gaming-sounds-ps5ps4-edition/"><u>In 2024, Revolutionize Gaming Sounds PS5/PS4 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a14-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A14 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncovering-the-secrets-of-effortless-iphone-podcast-downloads-for-2024/"><u>Uncovering the Secrets of Effortless iPhone Podcast Downloads for 2024</u></a></li>
+</ul></div>
 

@@ -1,13 +1,17 @@
 ---
 title: Enhanced Performance with Cutting-Edge Automated Marketing Solutions
-date: 2024-08-22T00:01:10.325Z
-updated: 2024-08-23T00:01:10.325Z
+date: 2025-01-17T19:01:52.925Z
+updated: 2025-01-22T00:20:07.336Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Enhanced Performance with Cutting-Edge Automated Marketing Solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -23,7 +27,15 @@ Die Technologie von ABBYY bietet UiPath-Kunden die Möglichkeit, entscheidende K
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Wie ABBYY und UiPath zusammenwirken
 
@@ -34,9 +46,6 @@ ABBYYs Lösung für UiPath eröffnet Ihnen neue Möglichkeiten:
 * Automatisieren Sie die Klassifizierung von Dokumenten und die Extraktion von Daten durch kontinuierliches Auto-Learning und Benutzereingaben.
 * Erweitern Sie den Einsatz von RPA um die Fähigkeit, inhaltsbasierte Prozesse zu automatisieren, die Dokumente, Bilder und Text enthalten, um auf diese Weise strategische Initiativen zur digitalen Transformation zu unterstützen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Vorteile der Integration 
 
 ##### Achten Sie auf Compliance 
@@ -64,11 +73,13 @@ Der ABBYY FlexiCapture-Konnektor für UiPath ermöglicht die Integration der Ent
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Möchten Sie mit unserem Expertenteam sprechen?
 
 [Demo vereinbaren](https://tools.techidaily.com/abbyy/products/)[Kontakt aufnehmen](https://tools.techidaily.com/abbyy/products/)
@@ -79,8 +90,6 @@ Der ABBYY FlexiCapture-Konnektor für UiPath ermöglicht die Integration der Ent
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +97,20 @@ Der ABBYY FlexiCapture-Konnektor für UiPath ermöglicht die Integration der Ent
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-enhancing-video-visibility-with-optimal-thumbnails/"><u>[New] Enhancing Video Visibility with Optimal Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-secret-free-apps-best-macos-text-transcribers/"><u>[Updated] Top Secret Free Apps Best macOS Text Transcribers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unmasking-fraudulent-practices-in-virtual-subscription-markets/"><u>[Updated] Unmasking Fraudulent Practices in Virtual Subscription Markets</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/5-effizienteste-methoden-zum-hochladen-von-iphone-fotos-auf-deinen-pc-ein-umfassender-leitfaden/"><u>5 Effizienteste Methoden Zum Hochladen Von iPhone-Fotos Auf Deinen PC: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enshrouded-eagles-encounter-with-beaming-bearing/"><u>Enshrouded Eagle's Encounter with Beaming Bearing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/high-speed-film-gatherer-for-timelapse-top5/"><u>High-Speed Film Gatherer for Timelapse #Top5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-flip-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 Flip to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>In 2024, The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-choosing-best-free-srt-translators-online/"><u>In 2024, The Ultimate Guide to Choosing Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thanks-for-curating-premium-and-free-outro-themes-for-2024/"><u>Thanks for Curating Premium & Free Outro Themes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-potential-10-top-motivational-gems-for-2024/"><u>Unleash Potential 10 Top Motivational Gems for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlimited-dji-mini-and-air-2-luts-buy-or-free-for-2024/"><u>Unlimited DJI Mini & Air 2 LUTs - Buy or Free for 2024</u></a></li>
+</ul></div>
 

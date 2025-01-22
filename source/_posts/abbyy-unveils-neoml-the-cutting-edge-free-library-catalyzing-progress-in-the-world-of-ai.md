@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Unveils NeoML: The Cutting-Edge, Free Library Catalyzing Progress in the World of AI"
-date: 2024-08-22T00:01:41.455Z
-updated: 2024-08-23T00:01:41.455Z
+date: 2025-01-18T17:20:52.661Z
+updated: 2025-01-22T00:24:14.761Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd6532c5bd0d695b676cbba88c9.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY launches NeoML, an open-source library to accelerate AI developments
 
 June 16, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _The framework provides software developers with powerful deep learning and traditional machine learning algorithms for creating applications that fuel digital transformation._ 
 
@@ -65,8 +73,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +80,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[New] In 2024, Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-weaving-b-roll-into-main-footage-seamlessly/"><u>[New] The Art of Weaving B Roll Into Main Footage Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-21-hdmi-screens-side-by-side-review/"><u>[New] Unveiling the Best 2.1 HDMI Screens Side-By-Side Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-batman-arkham-knight-crashing-fatal-error/"><u>[Quick Fix] Batman Arkham Knight Crashing/ Fatal Error</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-stream-with-clarity-ranking-the-best-6-microphones-today/"><u>[Updated] 2024 Approved Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-benefits-of-high-dynamic-range-in-professional-videography/"><u>[Updated] The Benefits of High Dynamic Range in Professional Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-networking-grounds-grow-your-youtube-audience/"><u>[Updated] Top Networking Grounds Grow Your YouTube Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-new-dimensions-in-picture-tones/"><u>[Updated] Unlocking New Dimensions in Picture Tones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>2024 Approved How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-black-backgrounds-on-your-windows-pc/"><u>Bypassing Black Backgrounds on Your Windows PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-m34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy M34 5G Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-time-tracking-for-youtube-videos/"><u>In 2024, Streamlining Time Tracking for YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmatched-camcorders-for-total-rotation-capture/"><u>In 2024, Unmatched Camcorders for Total Rotation Capture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-learning-from-user-dialogue-exchanges/"><u>Is ChatGPT Capable of Learning From User Dialogue Exchanges?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia C02 | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->

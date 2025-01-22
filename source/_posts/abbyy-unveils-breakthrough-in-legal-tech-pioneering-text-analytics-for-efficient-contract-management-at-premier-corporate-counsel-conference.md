@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Unveils Breakthrough in Legal Tech: Pioneering Text Analytics for Efficient Contract Management at Premier Corporate Counsel Conference"
-date: 2024-08-22T00:02:29.759Z
-updated: 2024-08-23T00:02:29.759Z
+date: 2025-01-18T21:06:46.666Z
+updated: 2025-01-21T21:13:36.488Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b667c623d0ec997b65a2b06877.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Shows Power of Text Analytics for Contracts at World’s Largest Conference for In-House Corporate Counsel
 
 October 22, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Addresses Legal Professionals’ Need to Leverage Artificial Intelligence in Contracts and Leases at Annual Conference of the Association of Corporate Counsel_ 
 
@@ -56,8 +64,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,8 +71,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>[New] 2024 Approved Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-the-art-of-sports-highlight-filming/"><u>[New] In 2024, Mastering the Art of Sports Highlight Filming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-snug-winter-atmospheres-for-engaging-online-content-for-2024/"><u>[Updated] Crafting Snug Winter Atmospheres for Engaging Online Content for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-dissecting-wirecast-a-comprehensive-breakdown-and-comparisons/"><u>[Updated] Dissecting WireCast A Comprehensive Breakdown & Comparisons</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>[Updated] Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-simple-yet-effective-guide-for-starting-a-skype-group-discussion-across-different-os-platforms/"><u>2024 Approved A Simple yet Effective Guide for Starting a Skype Group Discussion Across Different OS Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-zero-to-hero-with-telegram-promotion-techniques/"><u>2024 Approved From Zero to Hero with Telegram Promotion Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-quirks-of-playback-solving-frozen-photobooth-videos/"><u>2024 Approved The Quirks of Playback Solving Frozen Photobooth Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-digital-collage-creator-8x/"><u>2024 Approved Ultimate Digital Collage Creator 8X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-internal-failure-in-win11win10-connections/"><u>Correcting Internal Failure in Win11/Win10 Connections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>In 2024, Transform Your Snapchat Storytelling Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-penning-persuasive-vlogger-content-for-2024/"><u>Strategies for Penning Persuasive Vlogger Content for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-comprehensive-guide-to-using-luts-in-video-editing-for-2024/"><u>The Comprehensive Guide to Using LUTs in Video Editing for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

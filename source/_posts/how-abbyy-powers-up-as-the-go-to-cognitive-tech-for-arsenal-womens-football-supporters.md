@@ -1,7 +1,7 @@
 ---
 title: How ABBYY Powers Up as the Go-To Cognitive Tech for Arsenal Womens Football Supporters
-date: 2024-08-22T00:04:25.204Z
-updated: 2024-08-23T00:04:25.204Z
+date: 2025-01-18T17:55:35.016Z
+updated: 2025-01-21T16:04:05.780Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f78cba1047e1590ff1927d2b.png
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/4e339c0438a311f0739fe8dd767b8fe136567e49f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI Innovator ABBYY Joins Arsenal Women as Its First Official Intelligent Automation Partner
 
 September 07, 2023
 
 ![intelligent-automation-in-your-game-changing-arsenal](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/let-get-real-abbyy-x-arsenal-women/intelligent-automation-in-your-game-changing-arsenal.jpg?h=565&iar=0&w=848)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Arsenal Women Football Club + ABBYY AI](https://www.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/content-images/Arsenal-Women-banner_848444.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _The game-changing launch brings artificial intelligence firepower to reimagine the supporter experience._
 
@@ -48,15 +60,17 @@ ABBYY puts your information to work. We combine innovation and experience to tra
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -72,8 +86,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -81,4 +93,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-screen-selections-for-ps5-enthusiasts/"><u>[New] Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[Updated] 2024 Approved Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-creating-a-cash-flow-from-content-youtubes-monetization-techniques-for-the-future-for-2024/"><u>[Updated] Creating a Cash Flow From Content YouTube's Monetization Techniques for the Future for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-webp-to-jpg-conversion-methods/"><u>[Updated] Streamlined WebP to JPG Conversion Methods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-decoding-auroras-advanced-photographic-capabilities/"><u>2024 Approved Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-srt-file-playback-on-both-oses/"><u>2024 Approved Mastering SRT File Playback on Both OSes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-top-tier-displays-optimize-your-xbox-series-x-gaming/"><u>2024 Approved Unveiling Top-Tier Displays - Optimize Your Xbox Series X Gaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/dissecting-the-new-features-of-camstudio/"><u>Dissecting the New Features of CamStudio</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-vivo-v29e-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Vivo V29e</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-9a-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 9A Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-visibility-with-well-structured-yt-summaries-for-2024/"><u>Maximize Visibility with Well-Structured YT Summaries for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/secure-your-must-have-tech-elite-acer-specials-for-prime-day-2024/"><u>Secure Your Must-Have Tech: Elite Acer Specials for Prime Day 2024</u></a></li>
+</ul></div>
 

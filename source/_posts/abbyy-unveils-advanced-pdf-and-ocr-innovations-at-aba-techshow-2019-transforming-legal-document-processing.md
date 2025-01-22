@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Unveils Advanced PDF & OCR Innovations at ABA Techshow 2019: Transforming Legal Document Processing"
-date: 2024-08-22T00:03:04.778Z
-updated: 2024-08-23T00:03:04.778Z
+date: 2025-01-16T22:55:08.236Z
+updated: 2025-01-21T19:36:26.260Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e5e03af8173f938324bb194b.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Releases Powerful PDF and OCR Solutions at American Bar Association Annual Techshow 2019
 
 February 25, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Demonstrates how law firms of the future can accelerate productivity with digital workers, faster document accessibility and more powerful editing and redaction tools_
 
@@ -58,8 +66,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -67,8 +73,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-technological-testing-and-tracking-the-vll-method/"><u>[New] Technological Testing and Tracking The VLL Method</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>[New] Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-strategies-for-succeeding-with-facebook-video-marketing-and-revenue/"><u>[Updated] 2024 Approved Strategies for Succeeding with Facebook Video Marketing and Revenue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>[Updated] Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-archive-alchemist-transforming-social-feeds-to-files/"><u>[Updated] The Archive Alchemist Transforming Social Feeds to Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-learners-handbook-of-av1-technology/"><u>[Updated] The Learner's Handbook of AV1 Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-magic-behind-film-plots/"><u>[Updated] Unveiling the Magic Behind Film Plots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>2024 Approved Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-food-filmmakers-blueprint-techniques-and-tricks/"><u>2024 Approved The Food Filmmaker’s Blueprint Techniques and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncover-ustream-plus-alternatives/"><u>2024 Approved Uncover Ustream Plus Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/29-visionary-metaverse-projects-elucidating-potentialities-for-2024/"><u>29 Visionary Metaverse Projects Elucidating Potentialities for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-video-sounds-with-canvas-audio-tools/"><u>Enhancing Video Sounds with Canva's Audio Tools</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-beyond-youtube-3-pioneering-online-video-platforms/"><u>In 2024, Beyond YouTube 3 Pioneering Online Video Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ideal-online-practices-for-vhs-image-polishing/"><u>In 2024, Ideal Online Practices for VHS Image Polishing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-6-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 6</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pros-only-review-discover-the-pinnacle-of-gaming-excellence-with-dough-spectrums-elite-27-inch-oled-monitor-a-visual-masterpiece/"><u>Pros Only Review: Discover the Pinnacle of Gaming Excellence with Dough Spectrum's Elite 27-Inch OLED Monitor - A Visual Masterpiece</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-huge-capture-up-to-1500-off-lenovos-thrilling-bi-yearly-blowout-exclusive-thinkpad-deals-unveiled/"><u>Save Huge: Capture Up To $1,500 Off Lenovo's Thrilling Bi-Yearly Blowout - Exclusive ThinkPad Deals Unveiled!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-editing-how-to-load-music-in-inshot-for-2024/"><u>Streamline Editing How to Load Music in InShot for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-v30t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme V30T Unresponsive Screen | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

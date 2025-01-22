@@ -1,7 +1,7 @@
 ---
 title: Introducing the Newly Released ABBYY's FineReader Engine N°12 - Your Go-To Comprehensive OCR SDK for Virtual and Cloud Platforms
-date: 2024-08-21T23:59:10.775Z
-updated: 2024-08-22T23:59:10.775Z
+date: 2025-01-20T20:32:18.974Z
+updated: 2025-01-21T21:16:55.544Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b4a1ba5d5f5c1598b8d0670d.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/234a90d5c27844c283f4441b2b9e5e76ee9e8064b
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Introduces FineReader Engine 12, Comprehensive OCR SDK Suitable for Virtual and Cloud Environments
 
 May 17, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _The new version of the software development kit allows integrating text recognition, PDF conversion, and data capture into applications running in virtual and cloud environments, along with those running on premises_
 
@@ -55,8 +63,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +70,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>[New] 2024 Approved Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-mac-mkv-players-ranked/"><u>[New] Top 5 Mac MKV Players Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taking-flight-hubsans-latest-aerial-marvel-reviewed/"><u>[Updated] Taking Flight Hubsan's Latest Aerial Marvel Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-back-deletes-mobile-numbers-in-android-a-comprehensive-guide/"><u>How to Get Back Deletes Mobile Numbers in Android: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/instant-success-with-pc-and-mac-videos-on-tiktok-for-2024/"><u>Instant Success with PC and Mac Videos on TikTok for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/611862-9781770704206-the-big-book-of-canadian-hauntings/"><u>The Big Book of Canadian Hauntings | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-dynamics-of-collaborative-marketing-on-youtube-for-2024/"><u>The Dynamics of Collaborative Marketing on YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-image-editing-suite-for-text-overlay-for-2024/"><u>Top Image Editing Suite for Text Overlay for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->

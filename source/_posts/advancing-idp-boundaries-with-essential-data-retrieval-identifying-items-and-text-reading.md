@@ -1,7 +1,7 @@
 ---
 title: Advancing IDP Boundaries with Essential Data Retrieval, Identifying Items and Text Reading
-date: 2024-08-22T00:01:45.887Z
-updated: 2024-08-23T00:01:45.887Z
+date: 2025-01-15T01:45:40.767Z
+updated: 2025-01-22T01:51:38.308Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1df6527be4105c5f43b0af39.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 ## Advancing IDP Boundaries with Essential Data Retrieval, Identifying Items and Text Reading
 
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pushing the Boundaries of IDP: Object Detection, Word Recognition, and Key-Value Extraction
 
@@ -34,6 +38,10 @@ Taking a large, general key-value extraction model and training it on a set of d
 ABBYY’s current path towards this solution consists of two independent workflows: entity extraction and linking models for general documents, and key summarization and QA models for text-heavy documents such as contracts. Both models are based on the transformer architecture that is ubiquitous in modern neural networks, e.g., the GPT-family and other LLMs.
 
 ![pushing-the-boundaries-of-idp-2](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/intelligent-enterprise/content-media/pushing-the-boundaries-of-idp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The image above portrays a form-like document where green highlights indicate keys, and yellow highlights indicate values that must be extracted from their respective keys. In a form, there are visual indicators such as layouts and blank cells that suggest where key-values lie. The world classification model tags each word as either a background or a part of a key or value, while the entity linking model combines the tagged words into key/value sequences and matches them together. Within this workflow, text is processed by a RoBERTa transformer, while visual data (images) are processed by a compact YOLOv8 model.
 
@@ -127,8 +135,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,8 +142,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/eciphering-the-complexity-of-online-content-monetization/"><u>[New] Deciphering the Complexity of Online Content Monetization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android/"><u>[New] The Ultimate Selection of No-Cost Image Transformers for iOS and Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>[New] The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unbound-zen-audio-releases/"><u>[New] Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-interactive-av-media-collective/"><u>[Updated] Interactive AV Media Collective</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-sites-for-vector-graphics-collection/"><u>2024 Approved Top 10 Sites for Vector Graphics Collection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/film-based-learning-strategies-for-eloquent-communication/"><u>Film-Based Learning: Strategies for Eloquent Communication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-open-source-os-friendly-videography-software/"><u>In 2024, Top 10 Open-Source OS-Friendly Videography Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-c67-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme C67 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-this-years-most-engaging-storytelling-youtubers/"><u>In 2024, Unveiling This Year's Most Engaging Storytelling YouTubers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-vr-hurdles-effective-solutions-to-fix-phasmophobia-errors/"><u>Overcoming VR Hurdles: Effective Solutions to Fix Phasmophobia Errors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-guide-extracting-specific-segments-from-youtube/"><u>Quick Guide Extracting Specific Segments From YouTube</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-dual-comeback-why-openstack-and-kata-containers-are-gaining-popularity-again-insights-from-zdnet/"><u>The Dual Comeback: Why OpenStack & Kata Containers Are Gaining Popularity Again - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: ABBYY Reveals New Approach for Asia-Pacific Region at 2019 AI Hong Kong Conference
-date: 2024-08-21T23:59:04.484Z
-updated: 2024-08-22T23:59:04.484Z
+date: 2025-01-19T17:09:58.951Z
+updated: 2025-01-21T19:19:51.136Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY to Outline Its New APAC Strategy at the AI Summit Hong Kong 2019
 
 August 06, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 ABBYY, a global leader in Digital IQ technologies and solutions, will join other enterprise and technology innovators at [The AI Summit Hong Kong](https://hongkong.theaisummit.com/ "The AI Summit Hong Kong") on August 7-8, 2019\. The company will showcase its content and process intelligence solutions following the recent expansion of its technology portfolio and global presence.
@@ -50,8 +58,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -59,8 +65,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-beginners-guide-to-mastering-windows-11-movie-maker-effortlessly/"><u>[New] A Beginner’s Guide to Mastering Windows 11 Movie Maker Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>[Updated] In 2024, Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-the-update-process-for-accurate-tiktok-age-details/"><u>[Updated] Streamlining the Update Process for Accurate TikTok Age Details</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-creme-de-la-meme-collection-10/"><u>[Updated] The Crème De La Meme Collection - #10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uavs-explained-the-basics-of-drone-systems-and-operations/"><u>2024 Approved UAVs Explained The Basics of Drone Systems and Operations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-potential-saving-and-playing-gifs-on-iphones/"><u>2024 Approved Unlocking Full Potential Saving & Playing GIFs on iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-iphone-x-ease-mending-face-id-problems/"><u>2024 Approved Unlocking iPhone X Ease Mending Face ID Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-removing-folders-in-windows-11-with-revo-uninstaller/"><u>Complete Guide: Forcibly Removing Folders in Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-approach-to-youtube-community-dialogue/"><u>In 2024, Streamlining Your Approach to YouTube Community Dialogue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-freelancers-guide-to-affordable-animation-methods-for-2024/"><u>The Freelancer's Guide to Affordable Animation Methods for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-6-apps-integrating-chatgpt-technology-for-pdf-analysis/"><u>The Ultimate List of 6 Apps Integrating ChatGPT Technology for PDF Analysis</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-picks-superior-substitutes-for-dell-datasafe-local-backup-on-windows-10-8-und-7/"><u>Top Picks: Superior Substitutes for Dell DataSafe Local Backup on Windows 10, 8 Und 7</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/wie-sie-die-safari-funktion-wiederherstellen-wenn-sie-auf-dem-iphone-nicht-funktioniert/"><u>Wie Sie Die Safari-Funktion Wiederherstellen, Wenn Sie Auf Dem iPhone Nicht Funktioniert</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->

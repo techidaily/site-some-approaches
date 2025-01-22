@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: The Secret Ingredient for Tailored User Experiences Online"
-date: 2024-08-22T00:01:54.409Z
-updated: 2024-08-23T00:01:54.409Z
+date: 2025-01-19T22:16:41.881Z
+updated: 2025-01-21T18:55:21.705Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56056b931eaef077a91501e84.jpg
@@ -11,15 +11,27 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Process Mining in Healthcare?
 
 December 11, 2020
 
 ![TL Forblog | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/31568/tl-forblog-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Every hospital, health system, and physician is facing increasing pressure to [manage revenue](https://tools.techidaily.com/abbyy/products/), optimize utilization, and reduce costs across their care continuum. Providers are being asked to do more with less amid tremendous complexity. With the proliferation of investments in EHR and other technologies, administrators and clinical teams are being inundated with dashboards and reports. Despite having all the information, they are often forced to make crucial operational decisions without complete insight.
 
 To manage the future of healthcare needs, providers must be able to better manage their business and clinical processes. Determining where and how to employ a quality improvement strategy is complex, but Process Mining can help medical professionals better understand clinical processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How is Process Mining used in Healthcare?
 
@@ -29,13 +41,14 @@ To get a complete understanding of end-to-end processes, even in a complex indus
 
 ![healthcare process improvement](https://static1.abbyy.com/abbyycommedia/30413/healthcare-process-improvement.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Research for the application of [Process Mining in healthcare](https://tools.techidaily.com/abbyy/products/) is transitioning from academic theory to real transformation of your business processes. While this concept may be relatively new, there are reports by leading data scientists into the practical application with real world results.
 
 The Journal of Biomedical Informatics, a review analyzing the current adoption of Process Mining in healthcare by Eric Rojas et al., found that leading the way in the utilization of Process Mining for healthcare is in Europe, with 73% of current research being conducted here. According to a [recent survey into the State of Process Mining and RPA](https://tools.techidaily.com/abbyy/products/) in 2020, companies in France lead the way in terms of Process Mining, with 78% of respondents stating they are already using such tools.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### So how does Process Mining work?
 
 Process Mining is a technique that captures event logs from any number of systems of record and processes this data, allowing you to discover, monitor, visualize and ultimately improve your processes.
@@ -52,9 +65,6 @@ As discussed in Process Mining in Healthcare: Data Challenges when Answering Fre
 
 ![process improvement in healthcare](https://static1.abbyy.com/abbyycommedia/30414/healthcare-process.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As a healthcare professional, you can use Process Mining to identify the best candidates for [process improvement in healthcare](https://tools.techidaily.com/abbyy/products/), which are often complex and time-sensitive and can take it one step further to improve the patient experience, avoid compliance risks and increase efficiency with Process Intelligence, a next-generation Process Mining solution.
 
 ABBYY’s Process Intelligence platform leverages advanced Process Mining technology, which includes process mapping and understanding, task mining and AI process forecasting capabilities, for process transformation. [**Click here**](https://tools.techidaily.com/abbyy/products/) to learn more.
@@ -62,8 +72,9 @@ ABBYY’s Process Intelligence platform leverages advanced Process Mining techno
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Process Mining](https://tools.techidaily.com/abbyy/products/) [Healthcare](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -118,8 +129,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +136,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-craft-laughs-eyedroppermemes/"><u>[New] In 2024, Craft Laughs EyeDropperMemes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-iconic-acting-peek-vimeo/"><u>[New] In 2024, Iconic Acting Peek - Vimeo</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-demystifying-srt-file-creation-post-export-in-premiere/"><u>[Updated] Demystifying SRT File Creation Post-Export in Premiere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-coolest-filmora-elements-for-enthusiastic-creators/"><u>2024 Approved The Coolest Filmora Elements for Enthusiastic Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>2024 Approved Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensible-guide-to-chatgpt/"><u>A Comprehensible Guide to ChatGPT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas-for-2024/"><u>A Step-by-Step Guide to Crafting Immersive FB Video Experienenas for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-solving-error-encountered-on-geforce-software/"><u>Expert Guide to Solving ‘Error Encountered’ on GeForce Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone X Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-13-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 13 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-collaborative-marketing-on-youtube/"><u>In 2024, The Art of Collaborative Marketing on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-virtual-backdrops-swap-effortlessly-with-picsmagic/"><u>In 2024, Top 10 Virtual Backdrops Swap Effortlessly with PicsMagic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-fix-guide-resolving-srt-not-working-problems-for-2024/"><u>The Ultimate Fix Guide Resolving SRT Not Working Problems for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-hdr-camera-match-up-for-2024/"><u>The Ultimate HDR Camera Match-Up for 2024</u></a></li>
+</ul></div>
 

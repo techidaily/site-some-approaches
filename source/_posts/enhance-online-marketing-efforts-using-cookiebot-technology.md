@@ -1,7 +1,7 @@
 ---
 title: Enhance Online Marketing Efforts Using Cookiebot Technology
-date: 2024-08-21T23:59:46.421Z
-updated: 2024-08-22T23:59:46.421Z
+date: 2025-01-14T17:37:02.467Z
+updated: 2025-01-21T22:23:10.519Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb4613654a88c4a76774162c73c8.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Now Free to Download, ABBYY TextGrabber for iOS Introduces Real-Time Translation Feature
 
 June 07, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY®, a global provider of content intelligence solutions and services, today announced a major update to TextGrabber for iOS. The application now translates text in real time online and offline and is free to download with a premium subscription for a number of features.
 
@@ -76,8 +84,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,8 +91,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-personalizing-your-windows-photos-experience-add-filters-sound/"><u>[New] In 2024, Personalizing Your Windows Photos Experience Add Filters, Sound</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-fixes-adding-descriptive-texts-to-videos-via-photos-app-windows-11/"><u>[New] Quick Fixes Adding Descriptive Texts to Videos via Photos App (Windows 11)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-20-dynamic-anime-openers-songs/"><u>[New] Top 20 Dynamic Anime Openers' Songs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-best-idevice-custom-alerts/"><u>[New] Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-instructions-clearing-stored-videos-on-youtubes-watchlater/"><u>[Updated] Instructions Clearing Stored Videos on YouTube's Watchlater</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-optimizing-footage-variety-in-your-video-production/"><u>[Updated] Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-riding-secure-the-creme-de-la-cam-selection-for-motorcyclists/"><u>[Updated] Riding Secure - The Crème De La Cam Selection for Motorcyclists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-improving-your-interview-prowess/"><u>2024 Approved Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>2024 Approved The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac-for-2024/"><u>Edit Video Tags with Ease Best MP4 Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-surpass-everyday-photo-taking-with-ios-11/"><u>In 2024, Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-most-popular-stock-photo-meme-and-their-stories/"><u>In 2024, The Most Popular Stock Photo Meme and Their Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-restoration-of-your-windows-application-performance/"><u>Swift Restoration of Your Windows Application Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-cutting-edge-hardware-discoveries-from-toms-hq/"><u>The Ultimate Resource for Cutting-Edge Hardware: Discoveries From Tom's HQ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-common-issues-when-uploading-to-apple-for-2024/"><u>Troubleshooting Common Issues When Uploading to Apple for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

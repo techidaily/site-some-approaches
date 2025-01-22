@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Solutions: Enhancing Your Digital Marketing Strategy"
-date: 2024-08-22T00:03:11.721Z
-updated: 2024-08-23T00:03:11.721Z
+date: 2025-01-14T17:52:08.858Z
+updated: 2025-01-21T18:35:34.656Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba43bbccdd544fcfb9e3bcdf69.jpg
@@ -23,11 +23,12 @@ _Editorial note: FineReader PDF Mobile for Android, Business Card Reader for And
 
 The world has changed. But we are still working hard on updates to make your workflow more productive and convenient, and what is equally important today – safer. Have a look at a brief overview of the new features in [FineScanner](https://go.onelink.me/0oMB/2b084a0a) and [Business Card Reader](https://go.onelink.me/LuYz/ca107d7) over the last few months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FineScanner
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bulk delete
 
 We aim to implement feature requests by users as much as possible. Recently we added a bulk delete feature to [](https://go.onelink.me/0oMB/2b084a0a) iOS and Android. See how it works:
@@ -41,6 +42,10 @@ We aim to implement feature requests by users as much as possible. Recently we a
 
 ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30383/new-in-apps-en-1.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30384/new-in-apps-en-2.png) ![bulk delete documents in FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30385/new-in-apps-en-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **On Android**
 
 1. Tap and hold any document you want to delete until the document is selected
@@ -51,11 +56,16 @@ We aim to implement feature requests by users as much as possible. Recently we a
 ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30386/new-in-apps-en-4.png) ![bulk delete documents in FineScanner Android](https://static1.abbyy.com/abbyycommedia/30387/new-in-apps-en-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Improved automatic crop
 
 In 2020, we implemented the new documents capture and crop technology to [FineScanner](https://go.onelink.me/0oMB/2b084a0a) iOS and Android. With the latest generation of [ABBYY Mobile Capture](https://tools.techidaily.com/abbyy/products/) technology, the accuracy of documents' capture and crop has increased by 20%!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Export to OneDrive for Business in FineScanner iOS
 
@@ -76,9 +86,6 @@ As requested by our users, **OneDrive for Business** has become available for do
 
 ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30388/new-in-apps-en-6.png) ![OneDrive FineScanner iOS](https://static1.abbyy.com/abbyycommedia/30389/new-in-apps-en-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 Don’t forget to set up the Auto-sending to cloud services function. Your files will be automatically uploaded to the chosen cloud storage, just after you save it.
 
 * To set up the Auto-sending feature, tap **Automatically send to** under the list of cloud services
@@ -89,11 +96,16 @@ Don’t forget to set up the Auto-sending to cloud services function. Your files
 
 By the way, we’ve also added the automatic upload to Google Drive in FineScanner for Android. Learn more about it [here](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Business Card Reader iOS
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Share contacts via QR Code
 
 2020 has changed a lot, including some business etiquette aspects. Now you don’t need to hand over paper business cards. The new [BCR](https://go.onelink.me/LuYz/ca107d7) iOS feature allows you to share business card contact information with the help of QR codes. Just show a QR code on the screen of your iPhone or iPad for this fast and simple transaction of information.
@@ -104,18 +116,12 @@ By the way, we’ve also added the automatic upload to Google Drive in FineScann
 
 ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30391/new-in-apps-en-9.jpg) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30392/new-in-apps-en-10.png) ![Share contacts via QR Code - BCR iOS](https://static1.abbyy.com/abbyycommedia/30393/new-in-apps-en-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Edit address by fields
 
 In the previous versions, [BCR](https://go.onelink.me/LuYz/ca107d7) saved the address from a business card into a single field. With the latest version, [BCR](https://go.onelink.me/LuYz/ca107d7) fills in the address to specific fields – Street, City, State, Country, and ZIP, making it easier to analyze contacts that are [exported to Excel](https://www.youtube.com/watch?v=qnb2ugIQ6YY) or a CRM.
 
 ![Edit address by fields - BCR iOS](https://static1.abbyy.com/abbyycommedia/30394/new-in-apps-en-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### View addresses on a map
 
 The contact editor now allows viewing and editing of addresses on Apple Maps. Let’s say you’ve saved a contact, but the address is appearing on the wrong side of the street. Here is how you can easily fix it.
@@ -126,9 +132,6 @@ The contact editor now allows viewing and editing of addresses on Apple Maps. Le
 
 ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30395/new-in-apps-en-13.png) ![View, Change address on Apple Maps - BCR iOS](https://static1.abbyy.com/abbyycommedia/30396/new-in-apps-en-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Keep your [FineScanner](https://go.onelink.me/0oMB/2b084a0a) and [Business Card Reader](https://go.onelink.me/LuYz/ca107d7) updated to try all the new features. Leave reviews on the App Store and Google Play – we take your feedback and requests into account.
 
 See you next time!
@@ -189,8 +192,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +199,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>[New] Best Box-Personalizing Online Spots Unique, Heartfelt Gestures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-easy-ipad-video-recording-methods/"><u>[New] In 2024, Mastering Easy iPad Video Recording Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-miniature-movie-dialogue-draft/"><u>[New] Miniature Movie Dialogue Draft</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-perfect-blueprint-for-installing-wm6-version-60/"><u>[New] Perfect Blueprint for Installing WM6 Version 6.0</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>[New] The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-ultimate-audio-equipment/"><u>[New] The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-quintessential-accessories-list-for-sj4000-lovers/"><u>[New] The Quintessential Accessories List for SJ4000 Lovers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dissecting-splitcams-stand-in-video-technology/"><u>[Updated] 2024 Approved Dissecting SplitCam's Stand in Video Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069172716-updated-in-2024-android-without-a-wire-heres-your-free-games-list/"><u>[Updated] In 2024, Android Without A Wire? Here's Your Free Games List!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans/"><u>[Updated] The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-checklist-archiving-internet-music-with-ease/"><u>2024 Approved The Essential Checklist Archiving Internet Music with Ease</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ipad-guide-creating-time-lapse-videos/"><u>IPad Guide Creating Time-Lapse Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-affordable-and-easy-online-passport-pics-tools-for-2024/"><u>Top 10 Affordable & Easy Online Passport Pics Tools for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/utilize-snapchats-star-trail-effectively/"><u>Utilize Snapchat's Star Trail Effectively</u></a></li>
+</ul></div>
 

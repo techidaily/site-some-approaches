@@ -1,7 +1,7 @@
 ---
 title: How ITOCHU Utilizes ABBEYY Innovation to Overhaul Business Processes and Enhance Document Handling
-date: 2024-08-22T00:05:00.976Z
-updated: 2024-08-23T00:05:00.976Z
+date: 2025-01-18T00:34:44.424Z
+updated: 2025-01-22T02:37:11.555Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06b80b9aa947e69afc78af4df.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ITOCHU Corporation Adopts ABBYY’s Intelligent Document Processing Platform to Transform Transactions
 
 June 10, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![News Tokyo](https://static4.abbyy.com/abbyycommedia/33874/news-tokyo.jpg) 
 
@@ -32,6 +40,10 @@ We are working to improve the efficiency of operations through a DX platform usi
 _Yusuke Yamaji, Digital Project Management, IT & Digital Strategy Division, ITOCHU Corporation._
 
 ![](https://static1.abbyy.com/abbyycommedia/35766/itochu.png) ![](https://static1.abbyy.com/abbyycommedia/35767/abbyy-logo-itochu.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 I am very pleased that ABBYY's technology is contributing to ITOCHU's digital transformation conversion. Continuing our momentum with ITOCHU Corporation, we look forward to supporting not only the trading company industry where many paper business issues remain, but also companies in the finance and logistics industries. Our goal is to continuously innovate our products with capabilities that promote business automation and efficiency for our many customers in Japan and make a significant contribution to productivity and business expansion.
 
@@ -50,15 +62,17 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -74,8 +88,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +95,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>[New] 2024 Approved Introductory Tutorial Utilizing Video Chat Features on Insta</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uilding-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[New] Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>[New] Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>[Updated] In 2024, Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-audience-appreciation-fostering-viewer-relationships/"><u>[Updated] The Art of Audience Appreciation Fostering Viewer Relationships</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-clarification-googles-podcast-application-simplified/"><u>[Updated] Total Clarification Google's Podcast Application Simplified</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-podcast-broadcast-simplifier/"><u>[Updated] Ultimate Podcast Broadcast Simplifier</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-increase-fb-engagement-and-sales-the-15-most-effective-analyzers/"><u>2024 Approved Increase FB Engagement & Sales The 15 Most Effective Analyzers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>2024 Approved The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-c12-plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia C12 Plus to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-with-premium-effects-extensions/"><u>In 2024, Unlock Creative Potential with Premium Effects Extensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-high-quality-gopro-vlogging/"><u>In 2024, Unlock the Secrets of High-Quality GoPro Vlogging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-iphone-image-rotation-effortless-methods-for-2024/"><u>Master the Art of iPhone Image Rotation - Effortless Methods for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-tips-for-faster-windows-11-boot-times-with-revo-uninstaller/"><u>Quick Tips for Faster Windows 11 Boot Times with Revo Uninstaller</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reigning-reddit-stars-10-all-time-favorites-for-2024/"><u>Reigning Reddit Stars 10 All-Time Favorites for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-parental-controls-in-windows-11-a-step-by-step-guide-yl-software/"><u>Unlocking Parental Controls in Windows 11: A Step-by-Step Guide - YL Software</u></a></li>
+</ul></div>
 

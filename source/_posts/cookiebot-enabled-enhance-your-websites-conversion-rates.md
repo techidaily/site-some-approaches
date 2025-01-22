@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Website's Conversion Rates"
-date: 2024-08-22T00:04:45.099Z
-updated: 2024-08-23T00:04:45.099Z
+date: 2025-01-18T20:35:39.146Z
+updated: 2025-01-22T01:47:16.487Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b5bd1138535c35f66522db0e8712af2e5e4143844ade063b0c530435180b4b6.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/1b5bd1138535c35f66522db0e8712af2e5e414384
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The official communication on COVID-19 situation from Ulf Persson, CEO, ABBYY Group
 
 March 23, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The last few weeks have brought unprecedented developments to our communities and the world at large. Like many companies across the globe, one of the measures ABBYY decided to implement is remote work for all employees. Rest assured that ABBYY is running business as usual. We’re well-equipped to work remotely and are still accessible through all normal channels of communication. Our technical support, customer service, professional services, and other teams you rely on every day remain available to prevent any interruption to our normal operations.
 
@@ -36,8 +44,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -45,8 +51,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-negative-playback-on-your-instagram-feed/"><u>[New] Mastering Negative Playback on Your Instagram Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>[New] The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pinnacle-of-zooid-creations-guide/"><u>[New] The Pinnacle of Zooid Creations Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-techniques-for-professional-looking-ig-video-content-for-2024/"><u>[New] Top Techniques for Professional-Looking IG Video Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-full-motion-assessment-2023-for-2024/"><u>[Updated] Full Motion Assessment 2023 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-elevate-landscape-imaging-with-your-iphone-device-for-2024/"><u>[Updated] How to Elevate Landscape Imaging with Your iPhone Device for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peak-performance-win-tunes/"><u>[Updated] Peak Performance WIN Tunes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-every-moment-mastering-snapchat-photo-edits/"><u>2024 Approved Elevate Every Moment Mastering Snapchat Photo Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-through-a-headsets-lens-a-history-of-vr/"><u>2024 Approved Through a Headset's Lens A History of VR</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X7b Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-pursuit-of-detail-zoom-tactics-for-videoleap-enthusiasts/"><u>In Pursuit of Detail Zoom Tactics for VideoLeap Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tech-tips-how-to-get-fcp-without-money-for-2024/"><u>Tech Tips How to Get FCP Without Money for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-backchannel-bridge-engaging-with-your-audience-for-2024/"><u>The Backchannel Bridge Engaging with Your Audience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-top-2023-vr-engine-innovations-for-2024/"><u>Unveiling Top 2023 VR Engine Innovations for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Millennial Preference: Steering Clear of Face-to-Face Contact? Insights From ABBYY"
-date: 2024-08-22T00:02:16.037Z
-updated: 2024-08-23T00:02:16.037Z
+date: 2025-01-20T19:44:38.544Z
+updated: 2025-01-21T16:47:53.728Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8052a017be6091c495520e05.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/4d4519b2feefb328b63c1d94cdbcefc1487c835a8
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Generational divide as millennials look to avoid human interaction
 
 September 20, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Employees will delegate tasks they’re not confident in to robots_ 
   
@@ -78,8 +86,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,8 +93,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-is-here-top-7-tools-to-generate-nft-tokens/"><u>[New] The Future Is Here - Top 7 Tools to Generate NFT Tokens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[New] Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion/"><u>[Updated] Tech Trends Spotlight 5 Cutting-Edge Camcorders for Slow Motion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-grasping-basics-your-guide-to-av1-encoding/"><u>2024 Approved Grasping Basics Your Guide to AV1 Encoding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024-gifmp4/"><u>2024年に人気! 高速で簡単な GIFからMP4への変換ツールを無料でご提案します</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/boosting-your-businesss-productivity-with-top-fb-planners/"><u>Boosting Your Business's Productivity with Top FB Planners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-your-favorite-makeup-vloggers-on-youtube/"><u>Discovering Your Favorite Makeup Vloggers on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-podcast-profit-margins/"><u>In 2024, Understanding Podcast Profit Margins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-video-storage-in-24-hours/"><u>In 2024, Understanding Video Storage in 24-Hours</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-microphone-problems-heres-how-to-get-it-working-again/"><u>Laptop Microphone Problems? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-sporting-cameras-for-adventure/"><u>Premium Sporting Cameras for Adventure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reverse-your-kindles-2017-update-a-step-by-step-guide/"><u>Reverse Your Kindle's 2017 Update: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-definitive-2023-strategy-to-smoothen-your-minecraft-experience-on-computer-systems/"><u>The Definitive 2023 Strategy to Smoothen Your Minecraft Experience on Computer Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-blueprint-for-tiktok-on-zoom-platforms-for-2024/"><u>The Essential Blueprint for TikTok on Zoom Platforms for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->

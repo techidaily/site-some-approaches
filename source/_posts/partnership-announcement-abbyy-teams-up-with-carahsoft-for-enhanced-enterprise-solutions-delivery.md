@@ -1,7 +1,7 @@
 ---
 title: "Partnership Announcement: ABBYY Teams Up with Carahsoft for Enhanced Enterprise Solutions Delivery"
-date: 2024-08-22T00:01:25.500Z
-updated: 2024-08-23T00:01:25.500Z
+date: 2025-01-20T18:45:09.347Z
+updated: 2025-01-21T17:52:30.064Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d94da77b1f5b8b2204a1d875.jpg
@@ -18,6 +18,14 @@ September 30, 2021
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 ![News Partners19](https://static4.abbyy.com/abbyycommedia/33833/news-partners19.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ABBYY Digital Intelligence Solutions Help Federal, State, Local, and Higher Education Organizations Improve the Citizen Experience
 
@@ -46,8 +54,9 @@ The growing list of government contracts for ABBYY include:
 Learn more about ABBYY’s Digital Intelligence solutions for the public sector at <https://www.abbyy.com/solutions/government/>.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY empowers organizations to gain a complete understanding of their business processes and the content that fuels them with its [Digital Intelligence](https://tools.techidaily.com/abbyy/products/) platform. ABBYY technologies are used by more than 5,000 companies, including many of the Fortune 500, and is recognized for its leadership in [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) (IDP) and [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) for driving significant impact where it matters most: customer experience, effectiveness, profitability, and competitive advantage. ABBYY is a global company with offices in 14 countries. For more information, visit [www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/).[](https://tools.techidaily.com/abbyy/products/)
@@ -55,15 +64,17 @@ ABBYY empowers organizations to gain a complete understanding of their business 
 ABBYY and the ABBYY Logo are either registered trademarks or trademarks of ABBYY Software Ltd. Other product names mentioned herein may be trademarks and/or registered trademarks of their respective owners and are hereby recognized.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYY editorial contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 **ABBYY**
@@ -79,8 +90,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +97,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings/"><u>[New] In 2024, Master Mac Audio An In-Depth Look at Using Audacity for Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-power-of-active-listening-in-interviews/"><u>[New] The Power of Active Listening in Interviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-monetary-side-of-podcasting-success/"><u>[Updated] The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-beginners-guide-to-creating-impressive-macro-videos/"><u>2024 Approved The Complete Beginner's Guide to Creating Impressive Macro Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>2024 Approved The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-s23plus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy S23+ to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/determining-cgps-fidelity-in-health-claims/"><u>Determining CGP's Fidelity in Health Claims</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-cutting-edge-steelseries-driver-software-today/"><u>Download and Install Cutting-Edge SteelSeries Driver Software Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Phone with Broken Screen</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smart-shoppers-checklist-what-to-inspect-in-a-pre-owned-ipad/"><u>Smart Shopper's Checklist: What To Inspect In A Pre-Owned iPad</u></a></li>
+<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-percussive-purge-mastering-the-art-of-drum-free-music-online-for-2024/"><u>Updated Percussive Purge Mastering the Art of Drum-Free Music Online for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/vidtap-chatcam-sniper-app-for-2024/"><u>VidTap - ChatCam Sniper App for 2024</u></a></li>
+</ul></div>
 

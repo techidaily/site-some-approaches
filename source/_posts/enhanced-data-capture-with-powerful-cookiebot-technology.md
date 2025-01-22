@@ -1,7 +1,7 @@
 ---
 title: Enhanced Data Capture with Powerful Cookiebot Technology
-date: 2024-08-22T00:04:14.905Z
-updated: 2024-08-23T00:04:14.905Z
+date: 2025-01-20T18:25:57.860Z
+updated: 2025-01-21T21:53:09.219Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10fcab5198bc36f19c430691c.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/1b374a465c95f06d5c78be856323f4da5e44fdc10
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Launches Global Initiative Promoting the Development of Trustworthy Artificial Intelligence
 
 June 09, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Growing Concerns about Digital Ethics and Use of Data for Machine Learning Models Call for Industry-Wide Transparency_
 
@@ -65,8 +73,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,9 +80,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-top-10-hilarious-tweets-galore/"><u>[New] 2024 Approved Top 10 Hilarious Tweets Galore</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-beginners-roadmap-for-audacity-audio-capture/"><u>[New] In 2024, The Complete Beginner's Roadmap for Audacity Audio Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-one-mans-quest-with-3d-tech-3dr-analysis/"><u>[New] One Man's Quest with 3D Tech '3DR' Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-techniques-for-youtube-to-mp4-conversion/"><u>[New] Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-choose-wisely-the-best-10-mac-video-capture-software-reviewed/"><u>[Updated] Choose Wisely The Best 10 Mac Video Capture Software Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>2024 Approved The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>2024 Approved Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-and-engage-ifunny-meme-downloads-for-2024/"><u>Explore & Engage IFunny Meme Downloads for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-soar-with-the-pros-top-9-drone-editors-at-every-experience-level/"><u>In 2024, Soar with the Pros Top 9 Drone Editors at Every Experience Level</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-through-the-viewfinder-top-10-must-have-lenses/"><u>In 2024, Through The Viewfinder Top 10 Must-Have Lenses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-equipment-for-crystal-clear-4k-video-capture/"><u>In 2024, Top Audio Equipment for Crystal Clear 4K Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-path-to-larger-video-presentation-in-youtube-for-2024/"><u>The Path to Larger Video Presentation in YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ticklishtones-selecting-the-best-ringtones-for-smiles-for-2024/"><u>TicklishTones Selecting the Best Ringtones for Smiles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-event-id-1000-across-windows-7-8-and-10/"><u>Understanding & Fixing Event ID 1000 Across Windows 7, 8 & 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-videopad-video-editor-2023-a-detailed-review-and-recommendation-for-beginners-and-pros/"><u>Updated In 2024, Videopad Video Editor 2023 A Detailed Review and Recommendation for Beginners and Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/zoom-for-the-first-timer-easy-to-follow-guidelines/"><u>Zoom for the First Timer Easy-to-Follow Guidelines</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

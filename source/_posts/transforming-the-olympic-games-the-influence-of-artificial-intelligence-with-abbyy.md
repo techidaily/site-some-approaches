@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Olympic Games: The Influence of Artificial Intelligence with ABBYY"
-date: 2024-08-22T00:04:37.740Z
-updated: 2024-08-23T00:04:37.740Z
+date: 2025-01-18T02:48:29.502Z
+updated: 2025-01-22T03:12:00.612Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ## Transforming the Olympic Games: The Influence of Artificial Intelligence with ABBYY
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Au-delà de la ligne d’arrivée : l’impact de l’IA sur les Jeux Olympiques
 
@@ -26,6 +30,10 @@ Mais l’IA peut aussi être le héros méconnu qui s’assure que tout se passe
 Enfin, plongeons dans les coulisses, avec le marquage média automatisé. Ce maestro, fonctionnant grâce à l’IA, dirige une symphonie de séquences, balise et trie les prises de vue à un rythme qu’aucun humain ne pourrait atteindre. Cette technologie permet aux diffuseurs de partager la magie des jeux plus vite et plus précisément que jamais. Non seulement cela change la donne et sera pleinement exploité pendant les JO 2024, mais cela réécrit l’histoire de la production média. 
 
 Alors que nous vivons cette nouvelle ère enthousiasmante, plaidons pour les technologies qui améliorent, protègent et révolutionnent notre expérience, ainsi que pour un monde où l’IA impacte non seulement nos écrans, mais enrichit également nos vies de façon éthique et utile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Découvrez le nouveau ABBYY Marketplace
 
@@ -87,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,8 +102,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-how-to-use-picture-in-picture-on-chrome-on-all-platforms/"><u>[New] How to Use Picture in Picture on Chrome on All Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creativity-your-steps-toward-a-thriving-design-career/"><u>[New] Unlocking Creativity Your Steps Toward a Thriving Design Career</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-and-mastering-instagram-filters-a-2023-guide/"><u>[Updated] 2024 Approved Navigating and Mastering Instagram Filters A 2023 Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[Updated] Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-filmmakers-almanac-of-cinematic-mastery-in-24/"><u>[Updated] The Filmmaker's Almanac of Cinematic Mastery in '24</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expanding-your-instagram-audience-step-by-step/"><u>Expanding Your Instagram Audience Step-by-Step</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>In 2024, Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-tailor-the-face-of-facebook-videos/"><u>In 2024, Tailor the Face of Facebook Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-unveil-the-secrets-of-exceptional-tiktok-intro-videos-mac/"><u>In 2024, Unveil the Secrets of Exceptional TikTok Intro Videos (Mac)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-payments-and-access-control-learn-how-to-generate-nfc-passes-using-google-wallet-a-step-by-step-guide-gadgetflow/"><u>Simplify Your Payments and Access Control: Learn How to Generate NFC Passes Using Google Wallet - A Step-by-Step Guide | GadgetFlow</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-30-metaverse-memes-crafting-hilarious-digital-delights-for-2024/"><u>Top 30 Metaverse Memes Crafting Hilarious Digital Delights for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-videos-from-low-to-high-dynamic-range-for-2024/"><u>Transforming Videos From Low to High Dynamic Range for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-untapped-utility-zoom-in-on-minecraft-for-2024/"><u>Unlocking Untapped Utility Zoom in on Minecraft for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vishakha-singhs-authoritative-take-on-data-salvation-strategies/"><u>Vishakha Singh's Authoritative Take on Data Salvation Strategies</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->

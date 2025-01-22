@@ -1,7 +1,7 @@
 ---
 title: Enhance Security and Simplicity in Client Onboarding with ABBYY Identity Verification Solution
-date: 2024-08-22T00:03:23.283Z
-updated: 2024-08-23T00:03:23.283Z
+date: 2025-01-19T23:51:43.937Z
+updated: 2025-01-21T18:53:37.688Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b312f2b21172b0735c2d2d47e0.jpeg
@@ -22,16 +22,13 @@ December 12, 2022 | English
 ![Brian Hettinger 165X165](https://static4.abbyy.com/abbyycommedia/36481/brian-hettinger-165x165.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Brian Hettinger
 
 Senior Director, Product Marketing - Mobility, **ABBYY**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Instant identity proofing and affirmation — anytime, anywhere.
 
 In a digital world, identity matters. There’s a new victim of identity theft every two seconds. That's why financial services, insurance, government agencies and healthcare systems need an identity proofing and affirmation solution that's both secure for their business and easy for their customers to use.
@@ -49,30 +46,34 @@ We cover:
 By combining identity reading, verification, and validation along with advanced document processing, you can solve the challenge of effective onboarding. Join ABBYY as we present a better way to engage customers, prove their identity and verify the supporting documents and content required to deliver a frictionless experience.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Watch now
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Thank you, enjoy your webinar!
 
 [![ABBYY Proof of Identity - A Better Way to Secure (and Easy) Customer Onboarding](https://static1.abbyy.com/abbyycommedia/36473/cover-abbyy-poi-a-better-way-to-secure-and-easy-customer-onboarding-643x363.jpg)](https://www.youtube.com/watch?v=tYNO7MS5KTc) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -129,8 +130,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +137,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-bandicam-unveiled-the-complete-review/"><u>[New] In 2024, Bandicam Unveiled The Complete, Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-ownership-guidelines-for-instagram-music/"><u>[New] Ownership Guidelines for Instagram Music</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-power-of-slug-lines-in-seo-and-content-marketing/"><u>[New] The Power of Slug Lines in SEO and Content Marketing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-powerhouses-of-vr-engine-technology/"><u>[New] Unveiling the Powerhouses of VR Engine Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-apple-music-in-videos/"><u>[New] Unveiling the Secrets of Apple Music in Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-4k-gimbal-picks-top-ten-mirrorless-companions/"><u>[Updated] 4K Gimbal Picks Top Ten Mirrorless Companions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-novelty-applying-cartoon-lenses-in-snapchat-for-2024/"><u>[Updated] Navigating Novelty Applying Cartoon Lenses in Snapchat for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-cloud-pricing-models-and-savings-strategies/"><u>2024 Approved Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-fitness-journey-the-fitbit-versa-3s-built-in-gps-and-wellness-suite-spark-constant-motivation/"><u>Boost Your Fitness Journey: The Fitbit Versa 3'S Built-In GPS and Wellness Suite Spark Constant Motivation</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-c55-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme C55 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content-for-2024/"><u>First Footsteps Into Frame Finesse A Novice's Guide to HD Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-innovations-a-side-by-side-exploration/"><u>In 2024, GoPro Innovations A Side-by-Side Exploration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>In 2024, The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>In 2024, Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Tailored Marketing Solutions Through Advanced Cookieless Tracking Tools Like Cookiebot
-date: 2024-08-22T00:01:34.979Z
-updated: 2024-08-23T00:01:34.979Z
+date: 2025-01-18T02:20:23.376Z
+updated: 2025-01-21T19:45:44.053Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c043021df4da2d039bc1cf1b4b3a7.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Changing Landscape of the Legal Profession
 
 ###### Andrew Pery
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 March 12, 2020
 
 ![SMM Blog | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/25405/11572_smm_blog_the-changing-landscape-of-the-legal-profession_blog-copy.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The practice of law is experiencing digital disruption. The intersection of competitive pressures and technological innovation have transformed the way law firms and legal departments operate. The growth of the [alternative legal services providers](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/legal/en/pdf/reports/alsp-report-final.pdf) market and increased adoption of DIY solutions such as [Rocket Lawyer](https://www.rocketlawyer.com/) place enormous pressures on the legal profession to become more efficient and competitive. 
 
@@ -41,6 +49,10 @@ In today’s fast paced global environment, legal professionals must remain agil
 
 ![Andrew Pery ABBYY](https://static1.abbyy.com/abbyycommedia/25715/andrewpery-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Andrew Pery
 
 Digital transformation expert and AI Ethics Evangelist for ABBYY
@@ -48,6 +60,10 @@ Digital transformation expert and AI Ethics Evangelist for ABBYY
 Andrew Pery is an AI Ethics Evangelist at intelligent automation company [ABBYY](https://tools.techidaily.com/abbyy/products/). His expertise is in artificial intelligence (AI) technologies, application software, data privacy and AI ethics. He has written and presented several papers on the ethical use of AI and is currently co-authoring a book for the American Bar Association. He holds a Masters of Law degree with Distinction from Northwestern University Pritzker School of Law and is a Certified Information Privacy Professional (CIPP/C), (CIPP/E) and a Certified Information Professional (CIP/AIIM).
 
 Connect with Andrew on [LinkedIn](https://www.linkedin.com/in/andrew-pery-ll-m-cipp-c-cipp-e-3a536726/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -103,8 +119,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,8 +126,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>[New] In 2024, Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-rap-revolutionaries-top-innovative-tiktok-tracks/"><u>[New] In 2024, Rap Revolutionaries Top Innovative TikTok Tracks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-360-giroptic-vr-capture-examination/"><u>[New] Total 360 Giroptic VR Capture Examination</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-srt-to-xml-ssa-and-ttml-manual/"><u>[Updated] The Essential SRT to XML, SSA & TTML Manual</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unforgettable-stop-motion-films-the-top-15-list/"><u>[Updated] Unforgettable Stop-Motion Films - The Top 15 List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncovering-quantum-hdrs-core-principles/"><u>2024 Approved Uncovering Quantum HDR's Core Principles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-insightful-analysis-the-impact-and-mechanics-of-youtubes-shorts-fund/"><u>In 2024, Insightful Analysis The Impact and Mechanics of YouTube's Shorts Fund</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secure-and-upgrade-your-video-conferences-top-10-recorder-choices/"><u>In 2024, Secure and Upgrade Your Video Conferences - Top 10 Recorder Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/masterclass-flawlessly-attaching-your-tiktok-profile-url/"><u>Masterclass Flawlessly Attaching Your TikTok Profile URL</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-silent-speakers-despite-connection-in-windows-os/"><u>Step-by-Step Solution for Silent Speakers Despite Connection in Windows OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-your-visual-language-how-to-turn-any-gif-into-a-social-sticker-for-2024/"><u>Unlock Your Visual Language How to Turn Any GIF Into a Social Sticker for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-2-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze 2 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

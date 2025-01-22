@@ -1,7 +1,7 @@
 ---
 title: Revive Your Phone & Enhance Productivity with Multiple Displays + Transcribe Songs Effortlessly on the ABBYY Platform
-date: 2024-08-22T00:01:26.721Z
-updated: 2024-08-23T00:01:26.721Z
+date: 2025-01-21T03:23:34.435Z
+updated: 2025-01-21T18:21:10.430Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec38a9d51d9c25c70c5f788347.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec3
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restarting Smartphone, Capturing Song Lyrics, and Adding an Extra Display
 
 March 11, 2019
 
 ![](https://static1.abbyy.com/abbyycommedia/26740/mobile-monday-71.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Even the most powerful smartphones can freeze. In today’s issue, we’ll tell you what to do if your device isn’t responding to anything. We’ll also scan song lyrics and use an iOS device as an extra monitor for the computer.
 
@@ -44,8 +52,9 @@ Here is how to do a force restart on models without a Home button:
 ![how to restart iphone x xs xr](https://static1.abbyy.com/abbyycommedia/26741/iphonex.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Android Tip: Restarting an Android Smartphone** 
 
 An Android phone is just as susceptible to freezing and becoming unresponsive. If this happens, the standard way of restarting — holding the **Power** button and tapping **Restart** — will not work, since the device will not respond to touch.
@@ -56,28 +65,20 @@ There is yet another way to unfreeze a smartphone with a **removable** battery. 
 
 ![battery out](https://static1.abbyy.com/abbyycommedia/26742/battaryout.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **ABBYY Tip: Scanning Song Lyrics**
 
 One of our FineScanner customers has shared with us an interesting way of using our app: scanning old song lyrics printed on paper. The user reports that the scans are a success even if the paper has become worn out with time (you can read their full review [here](https://appfollow.io/app/1359/review/19015674?s=abbyy&utm%5Fsource=reviews&utm%5Fmedium=slack&utm%5Fcampaign=permalink)). FineScanner will make its best to correct the document, so that the text becomes crisp and clear. Be sure to follow [these](https://tools.techidaily.com/abbyy/products/) guidelines for taking photos of documents, or you may end up with a bad scan even if the original document is clear and readable.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **App of the Week: Duet Display**
 
 Sometimes, having just one monitor for your computer or laptop is simply not enough. Clearly, buying a second monitor will solve the issue, but in many cases, there is no real need to fork out for an extra screen. There’s an app called [Duet Display](https://www.duetdisplay.com/) which allows you to use your iPad or even your iPhone as an additional monitor, where you display the control panel, Photoshop menus, Logic Pro presets — basically anything that doesn’t fit on your main screen. You can also use your iPad as a monitor with your Mac Mini, which is very useful.
 
 ![duet display](https://static1.abbyy.com/abbyycommedia/26743/app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The app works on both Mac and Windows. However, only Apple devices can be used as the second screen.
 
 Download the app [here](https://itunes.apple.com/app/duet-display/id935754064?mt=8) and turn your iPad or iPhone into a second screen. That’s all, folks! See you next time!
@@ -87,8 +88,9 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -144,8 +146,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +153,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge-for-2024/"><u>[New] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>[New] The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flix-fortune-hashtags-for-high-impact-low-length-video-content-for-2024/"><u>[Updated] Flix Fortune Hashtags for High Impact, Low-Length Video Content for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-highest-rated-10-online-subtitle-tools/"><u>[Updated] In 2024, Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-choice-vr-game-engines-update-march-2023/"><u>[Updated] Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-choice-java-environment-interface-selecting-the-ideal-jre-version/"><u>Best Choice Java Environment Interface: Selecting the Ideal JRE Version</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-photographers-toolkit-top-text-editors-for-images/"><u>In 2024, The Photographer's Toolkit Top Text Editors for Images</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-amd-radeon-graphics-card-drivers-update-procedures-resolved/"><u>Mastering AMD Radeon Graphics Card Drivers: Update Procedures Resolved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pioneering-path-of-vr-technology-for-2024/"><u>The Pioneering Path of VR Technology for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-faster-periscope-streams-for-2024/"><u>The Ultimate Guide Faster Periscope Streams for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tips-for-efficient-music-import-in-inshot-app-for-2024/"><u>Tips for Efficient Music Import in InShot App for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/troubleshooting-missing-downloads-effective-techniques-for-recovering-lost-files-on-windows-11/"><u>Troubleshooting Missing Downloads: Effective Techniques for Recovering Lost Files on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-educational-theme-features-in-win-11/"><u>Unlocking Educational Theme Features in Win 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-not-a-fan-of-final-cut-pro-x-here-are-10-alternative-video-editors-for-2024/"><u>Updated Not a Fan of Final Cut Pro X? Here Are 10 Alternative Video Editors for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 「2024年版 DVD Shrink 日本語化完了！パッチ適用・設置手順集成」
-date: 2024-08-24 14:54:57
-updated: 2024-08-27 10:26:51
+date: 2025-01-19T17:56:28.829Z
+updated: 2025-01-22T01:20:47.388Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/34ef4ca08c3dfcb784929375e3e95bcc8f2ba621080c440e931274a3c95d80cc.jpg
@@ -30,7 +30,9 @@ thumbnail: https://thmb.techidaily.com/34ef4ca08c3dfcb784929375e3e95bcc8f2ba6210
 7. √DVDディスクから好きな部分だけを集めてオリジナルの作成が可能；
 8. √実用的なビデオ編集機能を備えており、要らない音声・字幕・特典などを削除できる；
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2024 DVD Shrink日本語化パッチ・インストール手順
 
@@ -48,8 +50,6 @@ DVD Shrink日本語版のDL先は、下記の通り。
 ⑥、http://xn--88j7ao4d0nkiueu880dhb8b.com/dvd-shrink/（はまなす野球クラブ.com）までにご参照ください。
 
 公式サイトのダウンロードページにあるDVDシュリンクは、ZIPファイルで提供されているが、ファイルをダウンロードして展開すると再びZIPファイルが再現。公式サイトのソフトが書き換えられている可能性が高いので、ダウンロードサイトWeeebs/Studio ChappuからDVD Shrink日本語版ダウンロードすることをおすすめする。
-
-
 
 ② 日本語版DVD Shrink 3.2のインストール方法
 
@@ -71,13 +71,15 @@ DVD Shrink 3.2インストール終了後に「DVD Shrinkセットアップウ�
 
 「DVD Shrinkを起動」にチェックを入れて、「完了」ボタンをクリックしてインストーラーを終了させてください。
 
-
-
 ③ 日本語版DVD Shrink 3.2の使い方
 
 DVD Shrink日本語化パッチのインストールが完了すると、DVD Shrinkを起動する。きちんと日本語が表示されていることを確認したらDVD Shrink日本語版完了である。
 
 ![DVD Shrink日本語](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-1030-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step1：**保存したいディスクをドライブに入れ、「ディスクを開く」を選択する。
 
@@ -93,7 +95,9 @@ DVD Shrink日本語化パッチのインストールが完了すると、DVD Shr
 
 2015年8月にDVD Shrink日本語版の配布における逮捕者が出てから、インターネット上における「DVD Shrink日本語版」を使うには、更に難しくなった。だから、DVD Shrink日本語版ダウンロードできないこともよくある。日本語でDVD Shrinkを使えない時、英語で使ったり、DVD Shrink日本語版の代替ソフトを使えるのがおすすめ。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## DVD Shrink日本語化できない・DVD Shrink 3.2使えない場合の対処方法
 
@@ -119,8 +123,6 @@ MacX DVD Ripper Pro for Windowsは日本語に対応し、ソフトウェアを�
 
 機能が非常に豊富、DVD Shrink日本語化できない時、この代わりソフトを使えばいい。
 
-
-
 DVD Shrink日本語版ダウンロードエラー、DVD Shrink Windows11使えない時の対策
 
 ![DVD Shrink日本語](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-yrq-0306.jpg)
@@ -139,8 +141,6 @@ DVD Shrink日本語版ダウンロードエラー、DVD Shrink Windows11使え�
 
 [ダウンロード先はこちら](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 DVD Shrink日本語化できない時の対策｜代替ソフトおすすめ、macOS Montereyまでに対応
 
 ![DVD Shrink日本語化](https://www.macxdvd.com/blog/img/dvd-shrink-japanize-yrq-030601.jpg)
@@ -157,17 +157,17 @@ DVD Shrink日本語化できない時の対策｜代替ソフトおすすめ、m
 
 [ダウンロード先はこちら](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/blog/../seoimage/dvd-ripperu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### DVD Shrink日本語化できない時の対策：MacX DVD Ripper Windows
 
 DVDシュリンクが対応するコピーガード（CSS、リージョンコード、RCE、ソニーArccOS、UOPs）を解除できる他、容量偽装、ディズニーX-projection DRM、ワークアウト系／日本独自DVDなどといった最強のDVDコピーガードも解除できる。また、Windows11にも対応し、DVD Shrink Windows11使えないエラーを解消できる。それでWindows11にアップグレードした方は、自作DVD／レンタル・市販DVDをMP4、MOV、AVI、WMV、MKV、FLV、M4V、MP3に変換できる。
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ## あなたへのおすすめ
 
@@ -181,13 +181,19 @@ DVDシュリンクが対応するコピーガード（CSS、リージョンコ�
 
 ![](https://www.macxdvd.com/blog/img/dvd-shrink-japanese-0608.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [DVD Shrink使い方：ダウンロード・DVDコピー・圧縮方法](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/blog/img/any-video-converter-0426-03.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [AnyDVDを初めて使われる方を対象としてAnyDVDの使い方について解説](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \>DVD Shrink日本語化－Japanizeのインストール
 
@@ -197,11 +203,28 @@ DVDシュリンクが対応するコピーガード（CSS、リージョンコ�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-game-on-essential-samsung-gear-vr-experiences/"><u>[New] 2024 Approved Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-vr-journey-best-pc-360-video-streamers-reviewed/"><u>[New] The Ultimate VR Journey Best PC 360 Video Streamers Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-new-dimensions-exploring-xbox-ones-zooming-feature/"><u>[New] Unlock New Dimensions Exploring Xbox One's Zooming Feature</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-what-is-apple-m1-chip/"><u>[Updated] 2024 Approved What Is Apple M1 Chip?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-the-new-frontier-of-android-gaming-with-kinemaster-for-2024/"><u>[Updated] Exploring the New Frontier of Android Gaming with KineMaster for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tag-and-post-a-moment-of-pure-sound-wisdom/"><u>[Updated] Tag & Post a Moment of Pure Sound Wisdom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-on-how-skip-edgenuity-videos/"><u>[Updated] Tips on How Skip Edgenuity Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-art-of-iphones-upside-down-photos/"><u>[Updated] Unlocking the Art of iPhone's Upside-Down Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-exploring-youtube-comments/"><u>2024 Approved The Essential Guide to Exploring YouTube Comments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compact-guide-to-top-5-apps-for-picture-plus-sound-blend-for-2024/"><u>Compact Guide to Top 5 Apps for Picture + Sound Blend for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-your-videos-effortlessly-free-guide-on-changing-flv-files-into-mp3-format/"><u>Convert Your Videos Effortlessly: Free Guide on Changing FLV Files Into MP3 Format</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-solutions-enhancing-user-experience/"><u>Cookiebot-Enabled Solutions: Enhancing User Experience</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-civi-3-disney-100th-anniversary-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Civi 3 Disney 100th Anniversary Edition Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-iconic-80s-films-you-must-see-today/"><u>Top 10 Iconic '80S Films You Must See Today</u></a></li>
+</ul></div>
+

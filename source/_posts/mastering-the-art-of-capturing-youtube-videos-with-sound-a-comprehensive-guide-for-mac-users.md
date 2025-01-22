@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Capturing YouTube Videos With Sound: A Comprehensive Guide for Mac Users"
-date: 2024-08-25 15:33:32
-updated: 2024-08-27 10:19:28
+date: 2025-01-15T16:09:50.034Z
+updated: 2025-01-21T22:21:51.193Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039f672d3d44453dbbd8a5a231.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [Video](https://tools.techidaily.com/macxdvd/products/) \> [Video Editing](https://tools.techidaily.com/macxdvd/products/) \> Record YouTube on Mac
 
 ## Top YTB Recorder to Record YouTube on Mac with Audio
-
-
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Candice Liu](https://tools.techidaily.com/macxdvd/products/) ｜Last updated onJuly 31, 2023 
 
@@ -49,6 +45,11 @@ YouTube, the most popular online video-sharing website, covers almost all the so
 
 * [Part 1\. MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon4.png)
 * [Part 2\. YTB Videos Download](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Part 3\. QuickTime Player](https://tools.techidaily.com/macxdvd/products/)
 * [Part 4\. Photo Booth App](https://tools.techidaily.com/macxdvd/products/)
 * [Part 5\. Camtasia](https://tools.techidaily.com/macxdvd/products/)
@@ -83,6 +84,10 @@ Hit "Start Record" button, the program will start capturing YouTube screen video
 
 ![note icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After recording YouTube video on Mac, you can simply load the recorded YouTube video into the video converter for further conversion and editing. You are allowed to be fully tapping into this Mac video converter to convert your recorded YouTube video to MP4, FLV, AVI, MOV, WMV, etc for playback on Samsung Galaxy S21, HTC, Amazon Fire Phone, iPhone, iPad anywhere anytime.
 
 ## Part 2\. How to Capture YouTube Videos for Mac via YTB Videos Download
@@ -98,6 +103,10 @@ As mentioned above, the Mac YouTube video recorder offers another way to capture
 **Step 3.** Click the "Browse" button and choose the location where you would like to save your captured YouTube videos.
 
 **Step 4.** Press "Download Now" to save the YouTube videos offline. It takes half-a-minute to get a 4-minute HD music video. You can also capture YouTube audio on Mac only by converting the video into MP3 or other audio formats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Part 3\. How to Record Live Streaming YouTube on Mac with QuickTime Player
 
@@ -133,6 +142,10 @@ Note: click the arrow icon (nearby Record button) and opt for "Show Mouse Clicks
 ![note icon](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon0.png)
 
 If your operating system is macOS Mojave or higher, you can utilize an even quicker yet easier way to record YouTube screen on macOS. Simultaneously press the keys Shift + Command (⌘) + 5 to record YouTube full screen on MacBook Pro, Air or iMac. Make sure your system is updated to macOS Mojave or Catalina to use this function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Part 4\. How to Record YouTube Screen with Photo Booth App
 
@@ -186,6 +199,10 @@ It is an excellent option when you don't require system audio, as it does not ha
 
 **Step 3.** Once you've made the necessary selections, start playing the YouTube video, and click on the "Record" button to initiate the recording process on your Mac. To stop the recording, click the "Record" button again, which can be found in the menu bar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7\. FAQs about How to Record YouTube on Mac
 
 **How do I record YouTube videos on my Mac for free?**
@@ -208,8 +225,6 @@ ABOUT THE AUTHOR
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -218,6 +233,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Record Roblox Gameplay Video with Face and Voice | No Lag](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
@@ -225,6 +244,10 @@ Related Articles
 [Best 3 Ways to Record Minecraft Gameplay on Mac](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Top Three Free Video Converter Mac in 2024
 
@@ -236,11 +259,17 @@ Related Articles
 
 [Free Download Fraps for Mac to Record Screen on macOS](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -256,6 +285,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -263,8 +296,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -279,11 +310,27 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>[New] 2024 Approved The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-new-era-of-mac-os-embracing-big-sur/"><u>[New] The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[Updated] 2024 Approved Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-steps-for-iphone-screen-shotting/"><u>[Updated] In 2024, Essential Steps for iPhone Screen Shotting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ampliando-el-detalle-visual-con-excelencia-las-seis-estrategias-clasicas-reveladas/"><u>Ampliando El Detalle Visual Con Excelencia: Las Seis Estrategias Clásicas Reveladas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-high-quality-minecraft-saves-for-2024/"><u>Expert Tips for High-Quality Minecraft Saves for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-google-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Google ?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-hot-40-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Hot 40 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>In 2024, Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtlety-in-chords-pc-and-mac-music-settings/"><u>In 2024, Subtlety in Chords PC & Mac Music Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>In 2024, The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review-by-zdnet/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-linkedin-messaging-etiquette/"><u>Mastering LinkedIn Messaging Etiquette</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Artificial Intelligence: The Collaborative Efforts of ABBYY & UiPath"
-date: 2024-08-22T00:04:55.565Z
-updated: 2024-08-23T00:04:55.565Z
+date: 2025-01-18T00:03:40.813Z
+updated: 2025-01-21T17:23:22.847Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786459d21ef8b234658302fc85.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 ## Enhancing Artificial Intelligence: The Collaborative Efforts of ABBYY & UiPath
 
 ## 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ABBYY | UiPath
 
@@ -23,7 +27,15 @@ En tant que partenaire technologique d’UiPath, ABBYY permet aux clients UiPath
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Comment ABBYY et UiPath fonctionnent ensemble
 
@@ -35,8 +47,9 @@ Avec la solution d'ABBYY pour UiPath, vous pouvez:
 * Développez l'utilisation de la RPA pour automatiser les processus centrés sur le contenu impliquant des documents, des images et du texte afin de soutenir les initiatives stratégiques de transformation numérique.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Avantages de l’intégration
 
 ##### Respecter la réglementation 
@@ -64,11 +77,9 @@ Le connecteur ABBYY FlexiCapture pour UiPath permet l’intégration entre la pl
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 [Demo vereinbaren](https://tools.techidaily.com/abbyy/products/)[Kontakt aufnehmen](https://tools.techidaily.com/abbyy/products/)
@@ -79,8 +90,6 @@ Le connecteur ABBYY FlexiCapture pour UiPath permet l’intégration entre la pl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +97,22 @@ Le connecteur ABBYY FlexiCapture pour UiPath permet l’intégration entre la pl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/dding-visual-time-indicators-to-your-youtube-links-for-2024/"><u>[New] Adding Visual Time Indicators to Your YouTube Links for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-the-power-of-closed-captions-on-vimeo/"><u>[New] In 2024, Unlocking the Power of Closed Captions on Vimeo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-non-game-console-apps-excelling-at-game-recordings/"><u>[New] Non-Game Console Apps Excelling at Game Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>[Updated] Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-best-6-gopro-mounts-for-seamless-capture/"><u>[Updated] Unveiling the Best 6 GoPro Mounts for Seamless Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-paramount-top-rated-vr-movies/"><u>2024 Approved Paramount Top-Rated VR Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-filming-in-water-proven-7-tips-for-vids/"><u>2024 Approved Streamline Filming in Water Proven 7 Tips for Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>2024 Approved Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>2024 Approved Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-success-with-spotify-marketing-tips/"><u>2024 Approved Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-13-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 13 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-a38-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo A38 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uncovering-best-in-class-steadicams-for-high-end-dslr-projects-for-2024/"><u>Uncovering Best-in-Class Steadicams for High-End DSLR Projects for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-standout-cinematography-experts-for-2024/"><u>Unveiling Standout Cinematography Experts for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Costain Chosen by ABBYY Tech to Accelerate Financial Digital Transformation - Latest From the ABBYY Press Room
-date: 2024-08-22T00:01:57.881Z
-updated: 2024-08-23T00:01:57.881Z
+date: 2025-01-18T19:38:03.077Z
+updated: 2025-01-22T01:16:19.912Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d51af5b4f90784c648af3957e.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Technology Selected to Drive Finance Digitisation at Costain
 
 September 23, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 [ABBYY](https://tools.techidaily.com/abbyy/products/), a global leader in Digital IQ for the enterprise, has been selected by [Costain](https://www.costain.com "Costain"), the smart infrastructure solutions company, as the chosen technology partner for its finance digitisation strategy.
@@ -70,8 +78,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,8 +85,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-pros-handbook-to-perfecting-your-gopro-studio-project/"><u>[New] 2024 Approved The Pro's Handbook to Perfecting Your GoPro Studio Project</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-tv-screen-scenes-with-ease-your-ultimate-guide/"><u>[New] Capturing TV Screen Scenes with Ease - Your Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>[New] The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[New] Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-8-must-have-laptop-backgrounds/"><u>[Updated] Ultimate Selection 8 Must-Have Laptop Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-summit-elite-25-testing-analysis/"><u>2024 Approved Summit Elite 25 Testing Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-is-now-equip-yourself-with-these-7-devices/"><u>2024 Approved The Future Is Now - Equip Yourself with These 7 Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-pairing-a-phone-with-your-new-oculus-quest-2/"><u>Expert Advice on Pairing a Phone with Your New Oculus Quest 2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-complete-guide-to-the-best-compatible-drivers-for-your-epson-et-n562d-printer-on-windows/"><u>Free Downloads: Complete Guide to the Best Compatible Drivers For Your Epson ET-N562D Printer on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-upload-horizontal-videos-to-igtv-3-ways/"><u>In 2024, How to Upload Horizontal Videos to IGTV [3 Ways]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-meme-makers-playbook-for-widespread-impact/"><u>In 2024, Meme Makers' Playbook for Widespread Impact</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-graphic-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating Your Graphic Drivers on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/take-control-prevent-facebooks-oversee-usage/"><u>Take Control: Prevent Facebook’s Oversee Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-music-choices-for-captivating-video-experiences-for-2024/"><u>Top Music Choices for Captivating Video Experiences for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->

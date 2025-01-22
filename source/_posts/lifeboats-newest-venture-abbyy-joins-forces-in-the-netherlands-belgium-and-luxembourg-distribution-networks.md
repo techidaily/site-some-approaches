@@ -1,7 +1,7 @@
 ---
 title: "Lifeboat's Newest Venture: ABBYY Joins Forces in The Netherlands, Belgium & Luxembourg Distribution Networks"
-date: 2024-08-22T00:02:11.663Z
-updated: 2024-08-23T00:02:11.663Z
+date: 2025-01-16T00:22:01.633Z
+updated: 2025-01-21T18:37:26.324Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63f504706f437480fcde8cc73.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Extends partnership with Lifeboat Distribution to the Netherlands, Belgium and Luxembourg
 
 June 28, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY®, a global provider of content intelligent solutions and services, today announced the extension of its partnership with Lifeboat Distribution®, a value added distributor, providing supply chain services and connecting best-in-breed software publishers with resellers around the globe. The company will now distribute ABBYY FineReader and ABBYY Recognition Server in the Netherlands, Belgium and Luxembourg. 
 
@@ -60,8 +68,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,8 +75,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-fleet-footed-fun-prime-pc-and-mobile-game-picks/"><u>[New] In 2024, Fleet-Footed Fun Prime PC and Mobile Game Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[Updated] 2024 Approved Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-solutions-shifting-ios-media-files/"><u>[Updated] Swift Solutions Shifting iOS Media Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-path-to-perfect-streams-streamlabs-plus-obs-for-mac-users/"><u>2024 Approved The Path to Perfect Streams Streamlabs + OBS for Mac Users</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-sony-walkman-nw-ws623s-design-flaws/"><u>Evaluating Sony Walkman NW-WS623's Design Flaws</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G73 5G Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-hue-and-saturation-gopro-studio-edition/"><u>In 2024, Understanding Hue and Saturation GoPro Studio Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-preventing-cities-skylines-pc-malfunctions-and-crashes/"><u>Troubleshooting Tips for Preventing 'Cities: Skylines' PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upside-down-visuals-investigating-insta-video-anomalies-for-2024/"><u>Upside Down Visuals Investigating Insta Video Anomalies for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

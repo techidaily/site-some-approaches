@@ -1,7 +1,7 @@
 ---
 title: Secure & Compliant Web Tracking Solutions Innovatively Delivered by Cookiebot
-date: 2024-08-22T00:05:09.193Z
-updated: 2024-08-23T00:05:09.193Z
+date: 2025-01-16T16:59:50.923Z
+updated: 2025-01-21T20:22:17.435Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb5724fdd9ea66669ac914b2f944.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video Calls, Free OCR and… a Clockwork Tomato!
 
 December 18, 2017
 
 ![](https://static1.abbyy.com/abbyycommedia/26076/mobile-monday-13.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Editorial note: FineReader PDF Mobile for Android, Business Card Reader for Android, and Text Grabber for Android & iOS have been discontinued since September 2023\. You can learn more about that [here](https://tools.techidaily.com/abbyy/products/)._
 
@@ -31,11 +39,24 @@ Before you can start using [FaceTime](https://en.wikipedia.org/wiki/FaceTime), y
 
 ![faceTime iOS video calls Skype](https://static1.abbyy.com/abbyycommedia/26077/take-live-photos-facetime-video-calls-ios-11-protect-yourself-from-getting-recordedw1456-e1509907270398.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To call someone, you either tap their phone number or e-mail address (naturally, the other user must also must be registered with [FaceTime](https://en.wikipedia.org/wiki/FaceTime)). There are several ways to place a call:
 
 1. You can use your **Contacts**. Tap the name of the person you want to call. A [FaceTime](https://en.wikipedia.org/wiki/FaceTime) section will appear below the contact’s name, with two icons next to it—a video camera (initiates video calls) and a handset (for making voice calls).![iOS Face time Contacts Call from iPhone](https://static1.abbyy.com/abbyycommedia/26078/15bbccef5d6f4dec0f5038d928d2e13e-e1509907380621.png)
 2. You can also make [FaceTime](https://en.wikipedia.org/wiki/FaceTime) calls from **Messages**. Open your past correspondence with the person you want to call and you will see the same two icons next to his/her name.![iOS video call using Messages](https://static1.abbyy.com/abbyycommedia/26079/07bd0fb8b9becc780e9638180d063420-e1509907479104.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Thirdly, you can tap the [FaceTime](https://en.wikipedia.org/wiki/FaceTime) icon while you are talking to someone over the regular phone. If the other person accepts your call, the [FaceTime](https://en.wikipedia.org/wiki/FaceTime) window will open and your conversion will continue there.![iOS app FaceTime how to use](https://static1.abbyy.com/abbyycommedia/26080/b5eb985b7dcb1aefa5d822c768fc7ed9-e1509907526251.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Call Waiting feature is available only during [FaceTime](https://en.wikipedia.org/wiki/FaceTime) voice calls. Additionally, you can:
 
@@ -55,9 +76,6 @@ There’s not much else we could tell you about [FaceTime](https://en.wikipedia.
 
 ![Android Hangouts usage on smartphone](https://static1.abbyy.com/abbyycommedia/26082/hangouts-22-for-ios-android-screenshots-e1509907672263.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 To start using [Hangouts](https://hangouts.google.com/?hl=mn), complete these two simple steps
 
 1. Sign in to the app with your Google account, e.g. the one that you use for accessing Gmail.
@@ -65,9 +83,6 @@ To start using [Hangouts](https://hangouts.google.com/?hl=mn), complete these tw
 
 ![Hangouts app start new conversation](https://static1.abbyy.com/abbyycommedia/26083/start_chrome_app-e1513599273473.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 You will see a list of your contacts, some of whom will already have [Hangouts](https://hangouts.google.com/?hl=mn) installed. You can also invite new users. Like [FaceTime](https://en.wikipedia.org/wiki/FaceTime), [Hangouts](https://hangouts.google.com/?hl=mn) can be used both on mobile devices and on desktop or laptop computers.
 
 ## ABBYY Tip: How to Use the OCR Feature in FineScanner for Free
@@ -81,15 +96,15 @@ Once you’ve installed [FineScanner](http://qrs.ly/3f56xfu) on your iOS or Andr
 
 That’s it! By following the steps above, you can use [FineScanner](http://qrs.ly/3f56xfu) 5 times + 7 days absolutely free. Hope you like the app. Please leave your feedback in the app stores so we could make [FineScanner](http://qrs.ly/3f56xfu)even more useful.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## App of the Week: Pocket
 
 [Pocket](https://getpocket.com/) is a service that enables you to save web articles, videos, and other content for reading and viewing later. Once you’ve placed some content in your [Pocket](https://getpocket.com/), it will become accessible to you on your phone, tablet, and computer, even when you’re offline. Who could wish for more!
 
 ![pocket app save to watch (read) later](https://static1.abbyy.com/abbyycommedia/26084/pocket_ipad_screenshots_grid-view-e1509908265271.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Many apps integrate with [Pocket](https://getpocket.com/), so you can easily add texts from Feedly or Twitter. Here’s how you do it:
 
@@ -101,16 +116,10 @@ Content saved to [Pocket](https://getpocket.com/) can be tagged, archived, and s
 
 ![Pocket Application Archive mark tags](https://static1.abbyy.com/abbyycommedia/26085/19061236-pocket2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 [Pocket](https://getpocket.com/) is an excellent service for all those who need to save video, images, texts, and other content in one place.
 
 Available on [iOS](https://itunes.apple.com/app/read-it-later-pro/id309601447?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro).
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **First-Hand Experience:** Advice From a Colleague
 
 _Shared by Maria Rodionova, testing engineer_
@@ -123,10 +132,6 @@ Here’s a life hack for Monday bouts of procrastination. It’s officially call
 
 ![pomodoro technique against procrastination advice](https://static1.abbyy.com/abbyycommedia/26087/762dfd30f91bb760c6eacf38818f6f5d-e1509908677143.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 It’s a simple kitchen timer in the shape of a tomato (hence the Italian name of the technique). The method itself is a no brainer: set the timer to 25 minutes and continue working on your task until the timer rings. Twenty-five minutes is not that much, is it? Then take a short break (say, 5 minutes) and do another 25-minute stint. After three pomodoros you are entitled to a bigger break of 25-30 minutes.
 
 When you actually start timing yourself, the method might prove harder to follow than it looks on paper, but don’t despair. Try again, and your next pomodoro will most likely be 25 minutes of honest work.
@@ -134,6 +139,10 @@ When you actually start timing yourself, the method might prove harder to follow
 That’s all for today, guys. See you next Monday! P.S. You can find the previous issue of this newsletter [here](https://tools.techidaily.com/abbyy/products/).
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -190,8 +199,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +206,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-concealing-content-securing-video-data-ethics-for-2024/"><u>[New] Concealing Content Securing Video Data Ethics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed/"><u>[New] Transform Valorant Gameplay Top-Ranked, Costless Voice Alterer Revealed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs-for-2024/"><u>[New] Virtual Questland The Ultimate Guide to No-Cost MMORPGs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-pairing-b-clips-with-main-shots/"><u>[Updated] The Art of Pairing B-Clips with Main Shots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-dji-drone-visor-revolution-an-in-depth-review/"><u>[Updated] The DJI Drone Visor Revolution An In-Depth Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-most-extensive-selection-of-free-illustrator-portals/"><u>[Updated] The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-video-techniques-for-zoom-mastery/"><u>[Updated] Transformative Video Techniques for Zoom Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters/"><u>[Updated] Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-audio-artists-approach-to-video-unboxing/"><u>2024 Approved The Audio Artist's Approach to Video Unboxing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-crash-free-gaming-expert-advice-and-solutions/"><u>Alan Wake 2 Crash-Free Gaming : Expert Advice and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-edition-of-mafia-game-to-hit-stores-problem-solved-and-ready-for-release/"><u>Definitive Edition of Mafia Game to Hit Stores - Problem Solved & Ready for Release</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-tips-for-attending-tiktok-live-events/"><u>Essential Tips for Attending TikTok Live Events</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-incredible-performance-of-the-xbox-series-x-an-expert-review-on-its-impressive-cuj026k-360-gaming-capabilities/"><u>Exploring the Incredible Performance of the Xbox Series X: An Expert Review on Its Impressive Cuj026k-360 Gaming Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-convert-your-best-videography-into-melodic-mp3s-insta/"><u>In 2024, How to Convert Your Best Videography Into Melodic MP3s (Insta)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-the-endless-cycle-of-windows-ui-issues/"><u>Stop the Endless Cycle of Windows UI Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synesthetic-screens-the-future-of-cinema-for-2024/"><u>Synesthetic Screens The Future of Cinema for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-stagnation-of-ideas-in-contemporary-vr-for-2024/"><u>The Stagnation of Ideas in Contemporary VR for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-great-sound-a-comprehensive-guide-to-fcp-audio-editing/"><u>Updated In 2024, Unlock Great Sound A Comprehensive Guide to FCP Audio Editing</u></a></li>
+</ul></div>
 

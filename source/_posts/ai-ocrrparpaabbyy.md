@@ -1,7 +1,7 @@
 ---
 title: AI-OCRおよびRPA分野で強力コラボレーションを展開する日商エレ、RPAテクノロジーズとABBYYジャパン
-date: 2024-08-22T00:00:56.405Z
-updated: 2024-08-23T00:00:56.405Z
+date: 2025-01-19T21:38:10.694Z
+updated: 2025-01-21T21:04:10.747Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418eec110dce123959527009d1b5.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 日商エレ、RPAテクノロジーズ・ABBYYジャパンとRPAおよびAI-OCR分野で協業を開始
 
 2月5日, 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _「RPA」と「AI-OCR」を活用したデジタルレイバーサービスを提供開始_ 
 
@@ -87,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,8 +102,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-enhancements-in-vegaspro-with-its-2019-release/"><u>[New] The Enhancements in VegasPro with Its 2019 Release</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-10-best-4k-camera-phone/"><u>[New] Top 10 Best 4K Camera Phone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-novice-networking-necessities-affordable-monetized-platforms/"><u>[Updated] 2024 Approved Novice Networking Necessities Affordable Monetized Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-roadmap-to-effective-reddit-sharing/"><u>[Updated] The Comprehensive Roadmap to Effective Reddit Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>[Updated] The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-groundwork-for-av1-mastery/"><u>2024 Approved Groundwork for AV1 Mastery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-latest-techniques-in-iphoneipad-screenshotting-2023-edition/"><u>In 2024, Latest Techniques in iPhone/iPad Screenshotting - 2023 Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-prime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>In 2024, Prime Phone Video & Image Capturing Best Apps for iPhones and Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-streamline-your-cricket-experience-a-guide-to-top-live-sports-services/"><u>In 2024, Streamline Your Cricket Experience A Guide to Top Live Sports Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-tips-on-crafting-engaging-cover-art/"><u>In 2024, Transformative Tips on Crafting Engaging Cover Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/system-prerequisites-for-running-big-sur-on-macs-for-2024/"><u>System Prerequisites for Running Big Sur on Macs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-professional-profile-with-chatgpt-step-by-step-guide-to-writing-a-stellar-resume/"><u>Transform Your Professional Profile with ChatGPT: Step-by-Step Guide to Writing a Stellar Resume</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

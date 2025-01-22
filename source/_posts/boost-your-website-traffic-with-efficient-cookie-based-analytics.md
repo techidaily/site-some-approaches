@@ -1,7 +1,7 @@
 ---
 title: Boost Your Website Traffic with Efficient Cookie-Based Analytics
-date: 2024-08-21T23:59:32.225Z
-updated: 2024-08-22T23:59:32.225Z
+date: 2025-01-20T23:04:04.436Z
+updated: 2025-01-21T17:00:31.272Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2b269c227b4f6fa4a346892f.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Named a Leader in the 2023 Gartner® Magic Quadrant™ for Process Mining Tools
 
 April 06, 2023
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Partners7](https://static2.abbyy.com/abbyycommedia/33722/news-partners7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/) today announced it has been named a Leader in the Gartner® 2023 Magic Quadrant™ for Process Mining Tools. According to the report, “Process mining tools deliver visibility and insights to technology innovation leaders that enable smart decision making and strong performance on an organization’s critical priorities. In this report, Gartner examines market forces and enterprise vendors of such software.”
 
@@ -42,6 +54,10 @@ Learn more about ABBYY Timeline and how TIAA, a Fortune 100 financial services c
 _1 Gartner® Magic Quadrant™ for Process Mining Tools, March 20, 2023, ID G00774746_ 
 _2 Gartner, [Forecast Analysis: Process Mining, Worldwide](https://www.gartner.com/en/documents/4007520), Oct. 26, 2021_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -53,16 +69,13 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Gina Ray
 
 _ABBYY_
@@ -77,8 +90,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +97,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-brief-but-impactful-music-shorts-on-youtube-unveiled/"><u>[New] 2024 Approved Brief but Impactful Music Shorts on YouTube Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-cam-gear-mastering-low-speed-video-recording/"><u>[New] Ultimate Cam Gear Mastering Low-Speed Video Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-video-directing-the-complete-powerdirector-2024-review/"><u>[Updated] Mastering Video Directing The Complete PowerDirector 2024 Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>[Updated] Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-power-of-vsco-color-grading/"><u>[Updated] Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-versatile-tips-for-avoiding-vr-motion-sickness/"><u>[Updated] Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>2024 Approved The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-visual-data-keepers/"><u>2024 Approved Top Tier Visual Data Keepers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/best-practices-for-efficient-ms-sql-backups-techniques-for-sql-server-2012-2-and-2019/"><u>Best Practices for Efficient MS SQL Backups: Techniques for SQL Server 2012, 2# & 2019</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-6-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-instagrams-world-everything-you-need-to-know/"><u>Exploring Instagram's World: Everything You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-filmmakers-almanac-of-cinematic-mastery-in-24/"><u>In 2024, The Filmmaker's Almanac of Cinematic Mastery in '24</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-starting-point-for-film-designers/"><u>In 2024, The Starting Point for Film Designers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-graphics-and-system-drivers-for-lenovo-legion-5-pro-laptop/"><u>Install Updated Graphics and System Drivers for Lenovo Legion 5 Pro Laptop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-investing-in-a-lg-k92-for-its-5g-tech-justified-expert-analysis-inside/"><u>Is Investing in a LG K92 for Its 5G Tech Justified? Expert Analysis Inside</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-12-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme 12 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-roadmap-to-accessing-costless-frame-videos-for-2024/"><u>The Roadmap to Accessing Costless Frame Videos for 2024</u></a></li>
+</ul></div>
 

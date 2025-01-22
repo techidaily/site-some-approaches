@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enhanced User Tracking and Conversion Optimization
-date: 2024-08-21T23:59:18.114Z
-updated: 2024-08-22T23:59:18.114Z
+date: 2025-01-18T18:49:41.402Z
+updated: 2025-01-22T01:31:34.927Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37963b2732e636693601b56f7.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Tension between GDPR and Blockchain
 
 ###### Andrew Pery
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 January 17, 2019
 
 ![What is the challenge between GDPR and Blockchain? | ABBYY Blog Post](https://static2.abbyy.com/abbyycommedia/25329/10002e_blog_the-tension-between-gdpr-and-blockchain-are-they-polar-opposites-or-can-they-coexist_blog.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A potentially problematic challenge for industry and legislators is the apparent tension between privacy rights and the [rapid adoption of blockchain-based applications](https://www.computerworld.com/article/3237465/enterprise-applications/blockchain-to-generate-more-than-106b-in-revenue-by-2023.html) which are expected to reach $10.6 billion in revenue by 2023.
 
@@ -49,6 +57,10 @@ _This article originally appeared in AIIM.org entitled “The Tension between GD
 
 ![Andrew Pery ABBYY](https://static1.abbyy.com/abbyycommedia/25715/andrewpery-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Andrew Pery
 
 Digital transformation expert and AI Ethics Evangelist for ABBYY
@@ -56,6 +68,10 @@ Digital transformation expert and AI Ethics Evangelist for ABBYY
 Andrew Pery is an AI Ethics Evangelist at intelligent automation company [ABBYY](https://tools.techidaily.com/abbyy/products/). His expertise is in artificial intelligence (AI) technologies, application software, data privacy and AI ethics. He has written and presented several papers on the ethical use of AI and is currently co-authoring a book for the American Bar Association. He holds a Masters of Law degree with Distinction from Northwestern University Pritzker School of Law and is a Certified Information Privacy Professional (CIPP/C), (CIPP/E) and a Certified Information Professional (CIP/AIIM).
 
 Connect with Andrew on [LinkedIn](https://www.linkedin.com/in/andrew-pery-ll-m-cipp-c-cipp-e-3a536726/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -111,8 +127,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,8 +134,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/chieving-pristine-video-quality-on-youtube-for-2024/"><u>[New] Achieving Pristine Video Quality on YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>[New] Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elevate-your-reddit-presence-with-these-essentials-for-2024/"><u>[Updated] Elevate Your Reddit Presence with These Essentials for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-exclusive-deals-and-previews-from-creators/"><u>[Updated] Exclusive Deals & Previews From Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-enhanced-experience-of-movavi-video-pro/"><u>[Updated] In 2024, The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-av1-an-entry-point-to-encoding/"><u>[Updated] Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unattached-audio-puzzle-resolution-guide/"><u>2024 Approved Unattached Audio Puzzle Resolution Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-potential-of-ifunnys-meme-application/"><u>2024 Approved Unleash the Potential of iFunny’s Meme Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focus-and-frame-essential-iphone-tools-for-cropping-photos-for-2024/"><u>Focus & Frame Essential iPhone Tools for Cropping Photos for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-definition-blue-rosewallpaper-collection-immersive-visuals-and-vibrant-hd-backdrops-by-yl-software/"><u>High-Definition Blue Rosewallpaper Collection: Immersive Visuals and Vibrant HD Backdrops - By YL Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-magic-6-lite-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic 6 Lite Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-defy-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Defy 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamsurf-skimming-above-dacast/"><u>In 2024, StreamSurf Skimming Above DaCast</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-online-webm-video-compressor-options/"><u>Updated In 2024, The Best Free Online WebM Video Compressor Options</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

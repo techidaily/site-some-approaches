@@ -1,7 +1,7 @@
 ---
 title: "Empowering Intelligent Document Processing Through ABBYY Marketplace: Seamless Integration of Large Language Models and Retrieval-Augmented Generation"
-date: 2024-08-22T00:03:21.752Z
-updated: 2024-08-23T00:03:21.752Z
+date: 2025-01-17T20:24:28.207Z
+updated: 2025-01-21T19:12:48.247Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e49f7737dbe8956238d8582c9.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY améliore sa Marketplace pour répondre à la demande croissante de données pour les LLM et simplifier l'intégration des RAG
 
 Mai 15, 2024
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/content-images/abbyy-redesigned-marketplace-preview.jpg?h=418&iar=0&w=743)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### ABBYY propose désormais une bibliothèque enrichie pour les fonctions d'IA documentaire qui simplifie le déploiement, accélère la rentabilité et maximise l'efficacité de la génération augmentée par récupération (RAG) dans ABBYY Vantage.
 
@@ -41,6 +49,10 @@ Bruce Orcutt, Chief Marketing Officer d'ABBYY
 
 ABBYY Vantage assure une extraction, un traitement et une classification précis et efficaces des données opérationnelles clés dans les documents, permettant un traitement direct de 95 % des documents avec une précision de 99 %. En tant que première plateforme low-code pour l'IDP, Vantage offre une interface intuitive aux développeurs et réduit ainsi leur dépendance vis-à-vis des départements informatiques. Ils peuvent notamment intégrer facilement des compétences d'IA pré-entraînées, capables de traiter des documents de tout format, structure et langue, à tout moment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### À PROPOS D’ABBYY
 
 ABBYY transforme vos données pour les mettre au service de l'entreprise. Nous combinons l'innovation et l'expérience pour transformer les informations issues de documents stratégiques en résultats exploitables et pertinents, dans plus de 200 langues et en temps réel. Nous permettons à plus de 10 000 entreprises dans le monde, y compris de nombreuses entreprises du classement Fortune 500, d'avoir un impact majeur là où cela compte le plus : l'expérience client, l'excellence opérationnelle et la compétitivité. ABBYY est une entreprise mondiale dont le siège social se trouve à Milpitas, en Californie, et qui dispose de bureaux dans 14 pays. ABBYY est le partenaire [officiel d’intelligente automation du club de football féminin d'Arsenal](https://tools.techidaily.com/abbyy/products/). Pour plus d'informations, consultez le site www.abbyy.com/company et rejoignez-nous sur [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware?ref%5Fsrc=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) et [Facebook](https://www.facebook.com/ABBYYsoft/?locale=fr%5FFR).
@@ -53,8 +65,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +72,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-combining-youtube-and-imovie-for-professional-results-for-2024/"><u>[New] Combining YouTube and iMovie for Professional Results for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-becoming-a-leader-in-the-world-of-design-work/"><u>[New] In 2024, Becoming a Leader in the World of Design Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-craft-powerdirector-2024-complete-guide-and-reviews/"><u>[New] Master the Craft PowerDirector 2024 Complete Guide & Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-new-era-of-framing-life-with-nikon-d500/"><u>[New] The New Era of Framing Life with Nikon D500</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-smooth-narrative-flow-mastering-inshots-seamless-segments/"><u>[Updated] 2024 Approved A Smooth Narrative Flow Mastering Inshot's Seamless Segments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-srt-mastery-a-detailed-manual-and-tips/"><u>[Updated] Unlock SRT Mastery A Detailed Manual and Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-achieving-peak-video-clarity-with-youtubes-tools/"><u>2024 Approved Achieving Peak Video Clarity with YouTube's Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-advanced-techniques-to-record-and-save-stories/"><u>2024 Approved Advanced Techniques to Record and Save Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-removing-cluttered-photo-backgrounds/"><u>2024 Approved Techniques for Removing Cluttered Photo Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-digital-picks-free-alarm-ringtones-download/"><u>2024 Approved Top Digital Picks Free Alarm Ringtones Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transcending-barriers-bridging-the-gap-between-creators-and-audiences/"><u>2024 Approved Transcending Barriers Bridging the Gap Between Creators and Audiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-converter-transform-mov-files-into-aiff-format-by-movavi/"><u>Free Online Converter: Transform MOV Files Into AIFF Format by Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-join-the-metaverse-meme-movement-funny-fresh-and-easy-to-create-content/"><u>In 2024, Join the Metaverse Meme Movement Funny, Fresh & Easy-to-Create Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>In 2024, Ultimate TV Streaming Guide International & Regional Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-monster-hunter-rise-wont-start-fixed-solution-inside/"><u>Solved: Monster Hunter Rise Won't Start – Fixed Solution Inside</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

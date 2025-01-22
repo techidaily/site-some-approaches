@@ -1,7 +1,7 @@
 ---
 title: "How AI Is Revolutionizing Olympic Sports and Technology: Insights From ABBYY"
-date: 2024-08-22T00:01:12.861Z
-updated: 2024-08-23T00:01:12.861Z
+date: 2025-01-14T16:31:29.331Z
+updated: 2025-01-21T23:51:41.262Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/20d5859d1451225abaa94d6d3c8c9cdada02fd525d9a47948cb889f866ae7774.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/20d5859d1451225abaa94d6d3c8c9cdada02fd525
 ## How AI Is Revolutionizing Olympic Sports and Technology: Insights From ABBYY
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Au-delà de la ligne d’arrivée : l’impact de l’IA sur les Jeux Olympiques
 
@@ -26,6 +30,10 @@ Mais l’IA peut aussi être le héros méconnu qui s’assure que tout se passe
 Enfin, plongeons dans les coulisses, avec le marquage média automatisé. Ce maestro, fonctionnant grâce à l’IA, dirige une symphonie de séquences, balise et trie les prises de vue à un rythme qu’aucun humain ne pourrait atteindre. Cette technologie permet aux diffuseurs de partager la magie des jeux plus vite et plus précisément que jamais. Non seulement cela change la donne et sera pleinement exploité pendant les JO 2024, mais cela réécrit l’histoire de la production média. 
 
 Alors que nous vivons cette nouvelle ère enthousiasmante, plaidons pour les technologies qui améliorent, protègent et révolutionnent notre expérience, ainsi que pour un monde où l’IA impacte non seulement nos écrans, mais enrichit également nos vies de façon éthique et utile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Découvrez le nouveau ABBYY Marketplace
 
@@ -87,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,8 +102,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-nuances-of-video-sound-design/"><u>[New] Mastering the Nuances of Video Sound Design</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>[New] The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-vidas-power-for-film-and-video-professionals/"><u>[New] Unveiling Vida's Power for Film and Video Professionals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>[Updated] In 2024, Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-new-era-of-advertising-embracing-the-metaverse/"><u>[Updated] In 2024, The New Era of Advertising Embracing the Metaverse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unparalleled-hands-on-gear-in-the-vr-world/"><u>[Updated] Unparalleled Hands-On Gear in the VR World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-ffxp-an-in-depth-guide/"><u>[Updated] Unveiling FFXP An In-Depth Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-150-2023-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia 150 (2023) Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unrivaled-narratives-crafted-in-eight-film-fields/"><u>In 2024, Unrivaled Narratives Crafted in Eight Film Fields</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/no-cost-mov-to-mp4-conversion-tool-on-the-web-easy-downloads-via-movavis-free-service/"><u>No Cost MOV to MP4 Conversion Tool on the Web - Easy Downloads via Movavi's Free Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-issues-with-disconnected-realtek-hd-audio-drivers/"><u>Solved: Issues with Disconnected Realtek HD Audio Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-drafting-alluring-vlog-show-content-for-2024/"><u>The Art of Drafting Alluring Vlog Show Content for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tinkering-with-technology-a-new-sound-for-your-phone-for-2024/"><u>Tinkering with Technology A New Sound for Your Phone for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-ghostrunner-errors-for-smooth-windows-10-gaming/"><u>Ultimate Guide: Eliminating Ghostrunner Errors for Smooth Windows 10 Gaming</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->

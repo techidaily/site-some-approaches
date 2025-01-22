@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Trim the Excess  A Beginner's Guide to Simple Video Cuts in Windows\""
-date: 2024-08-17T14:45:50.427Z
-updated: 2024-08-18T14:45:50.427Z
+date: 2025-01-19T00:43:16.937Z
+updated: 2025-01-21T22:24:50.381Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -45,9 +49,17 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
@@ -70,8 +82,9 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -79,20 +92,16 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +109,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-speak-worldwide-with-these-27-premium-tools-to-translate-videos/"><u>[New] Speak Worldwide with These 27 Premium Tools to Translate Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-effective-use-of-classroom-media/"><u>[New] Strategies for Effective Use of Classroom Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultrafine-in-action-an-extended-review-of-lgs-4k-display/"><u>[New] UltraFine in Action An Extended Review of LG’s 4K Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-identifying-trends-analyzing-the-success-of-your-igtv-video/"><u>[Updated] 2024 Approved Identifying Trends Analyzing the Success of Your IGTV Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-stream-like-a-pro-3-key-strategies-for-lol-gamers-for-2024/"><u>[Updated] Stream Like a Pro 3 Key Strategies for LOL Gamers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-sns-hdr-pros-features-vs-competitors/"><u>[Updated] Understanding SNS HDR Pro’s Features Vs. Competitors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-iphone-selfie-devices-ranked-8/"><u>2024 Approved The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/6-proven-strategies-to-add-facebook-live-features-for-2024/"><u>6 Proven Strategies to Add Facebook Live Features for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guardian-angel-for-graphics-driver-setup/"><u>Guardian Angel for Graphics Driver Setup</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 without Password?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-upload-apples-end-to-end-process-guide/"><u>In 2024, Streamlining Upload Apple’s End-to-End Process Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>In 2024, Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/innovative-strategies-for-effective-documentary-scripts/"><u>Innovative Strategies for Effective Documentary Scripts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-close-up-mastery-on-roblox-for-2024/"><u>The Ultimate Guide to Close-Up Mastery on Roblox for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-secure-business-data-sphere-for-2024/"><u>TOP 10 Secure Business Data Sphere for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-11-recommended-anti-ransomware-solutions-by-cybersecurity-specialists/"><u>Top 11 Recommended Anti-Ransomware Solutions by Cybersecurity Specialists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-vr-bikes-to-check-out-for-2024/"><u>Top VR Bikes to Check Out for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-0x87e00-cookies-in-microsoft-marketplace/"><u>Troubleshooting Error 0X87e00 Cookies in Microsoft Marketplace</u></a></li>
+</ul></div>
+

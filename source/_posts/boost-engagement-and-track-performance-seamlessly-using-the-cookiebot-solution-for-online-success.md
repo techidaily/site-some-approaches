@@ -1,7 +1,7 @@
 ---
 title: Boost Engagement and Track Performance Seamlessly Using the Cookiebot Solution for Online Success!
-date: 2024-08-21T23:59:31.060Z
-updated: 2024-08-22T23:59:31.060Z
+date: 2025-01-16T21:22:21.554Z
+updated: 2025-01-21T17:25:53.514Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d83c11a51da5e1af69c65adca.png
@@ -18,6 +18,10 @@ Healthcare & Pharmaceuticals
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/39573.png?h=40&iar=0&w=120)
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gaches Chimie numérise les documents réception fournisseur pour en extraire les données pertinentes avec ABBYY FlexiCapture
 
@@ -67,9 +71,6 @@ convivialité de la recherche)
 
 #### Utilisation de la Solution
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 1\. Alimentation de la solution en documents
 
 Les 15 000 documents réception fournisseurs qui arrivent chaque année dans l’entreprise au format papier sont numérisés sur chaque site par les 2 ou 3 personnes habilitées et non informaticiens (magasiniers formés par le service informatique de Gaches Chimie), et intégrés au fil de l’eau. Leur « identité » est automatiquement déterminée par ABBYY Flexicapture: bulletin d'analyse de matières chimiques versus certificat de conformité.
@@ -79,8 +80,9 @@ Les informations qu’ils contiennent sont également reconnues automatiquement 
 Les documents clients sont intégrés automatiquement dans la solution depuis l’ERP ; tous les mois, 5 documents sont archivés après avoir été traités dans le logiciel « maison » : bon de livraison client, certificat de conformité Gaches Chimie, facture client, commande fournisseur et réception fournisseur : ils sont exportés au format PDF dans Documind, accompagnés de leurs méta-données et deviennent immédiatement disponibles en consultation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Stockage
 
 Les documents sont stockés dans Documind Advanced Solution : classés dans un plan de classement métier et indexés par des critères personnalisés selon le type de documents. Alors que le délai de purge est de 30 mois dans l’ERP, les documents sont conservés 10 ans dans Documind, car pendant cette période ils peuvent être demandés par la douane, la police…
@@ -89,13 +91,14 @@ Les documents sont stockés dans Documind Advanced Solution : classés dans un p
 
 Tous les profils de collaborateurs sont amenés à rechercher les documents gérés par la solution : les magasiniers, à qui un client peut demander de retrouver « le certificat de conformité de tel lot de janvier 2009 », les comptables à qui un client peut demander une copie de sa dernière facture… Les utilisateurs retrouvent les documents grâce à une recherche plein texte et/ou une exploration de plan de classement et/ou une recherche multicritère sur les index personnalisés par type de documents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Publication
 
 Les documents peuvent être ponctuellement envoyés par mail aux clients et fournisseurs « à la demande » après une recherche dans Documind. En outre, au moment de l’édition du bon de livraison client dans l’ERP, les documents fournisseurs associés (certificat de conformité…) sont automatiquement envoyés.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Données clés
 
 * 150 utilisateurs, de tous les profils (magasiniers, comptables…)
@@ -106,8 +109,9 @@ numérisés et intégrés au fil de l’eau depuis chaque site après traitement
 * Délai de purge des documents: 30 mois dans l’ERP, 10 ans dans Documind.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bénéfices
 
 La solution mise en place par la DSI de Gaches Chimie permet à l’entreprise :
@@ -122,9 +126,6 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### À propos d’ABBYY et contact
 
 [Vers la description d’ABBYY ›](https://tools.techidaily.com/abbyy/products/)
@@ -134,8 +135,9 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 Partager 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -148,8 +150,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +157,26 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-disseminating-data-driven-insights-you-vs-others-on-video-markets-for-2024/"><u>[New] Disseminating Data-Driven Insights You Vs. Others on Video Markets for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-peak-meme-smile-crafting-program-for-2024/"><u>[New] Peak Meme Smile Crafting Program for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-capturing-ios-device-screen-on-video-for-2024/"><u>[New] Step-by-Step Capturing iOS Device Screen on Video for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-enhanced-experience-of-movavi-video-pro/"><u>[New] The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earnings-breakdown-youtubes-adsense-payments-by-thousands-of-views/"><u>[Updated] In 2024, Earnings Breakdown Youtube's AdSense Payments by Thousands of Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks/"><u>[Updated] In 2024, Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-depth-slomo-video-software-review-year-2024/"><u>[Updated] In-Depth SloMo Video Software Review - Year 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-overcome-obstacles-with-these-top-10-motivation-flicks/"><u>[Updated] Overcome Obstacles with These Top 10 Motivation Flicks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro/"><u>[Updated] The Gradual Glide Out Technique for Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-lg-bp350-a-detailed-performance-and-design-study/"><u>[Updated] Unveiling the LG BP350 A Detailed Performance & Design Study</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>2024 Approved The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20plus-speedy-controls-mastering-your-pcs-fps/"><u>2024 Approved Top 20+ Speedy Controls Mastering Your PC's FPS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-your-device-writers-step-by-step-tutorial-for-custom-ringtones-and-sounds-on-android/"><u>2024 Approved Unleashing Your Device' Writers Step-by-Step Tutorial for Custom Ringtones and Sounds on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creativity-through-intense-iphone-photos/"><u>2024 Approved Unlocking Creativity Through Intense iPhone Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms/"><u>2024 Approved Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oad-youtube-gallery-files-instantly/"><u>Download YouTube Gallery Files Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-fix-a-malfunctioning-wireless-or-wired-mouse-a-step-by-nstep-guide-for-laptops/"><u>Easily Fix a Malfunctioning Wireless or Wired Mouse: A Step-by-nStep Guide for Laptops</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-your-lost-iphone-data-back-secure-it-with-our-expert-recovery-services/"><u>Get Your Lost iPhone Data Back – Secure It with Our Expert Recovery Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-audience-attention-top-6-video-styles-for-2024/"><u>Unlock Audience Attention Top 6 Video Styles for 2024</u></a></li>
+</ul></div>
 

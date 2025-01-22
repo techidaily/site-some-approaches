@@ -1,7 +1,7 @@
 ---
 title: Enhancing Corporate Efficiency with ABBYY's Cognitive Capture Solutions for Digital Transformation
-date: 2024-08-22T00:03:28.844Z
-updated: 2024-08-23T00:03:28.844Z
+date: 2025-01-16T03:26:46.204Z
+updated: 2025-01-21T18:56:28.232Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e55121a8e00138bfd889740b0f7a193e7e03922e85acffafd82353c8a22765d2.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/e55121a8e00138bfd889740b0f7a193e7e03922e8
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intelligent capture by ABBYY® accelerates digital transformation of business operations
 
 May 23, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _New platform release raises the bar on solutions’ performance and time-to-value by leveraging machine learning and natural language processing_ 
 
@@ -53,8 +61,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +68,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-and-craft-premium-coverings-for-iphonesandroid-for-2024/"><u>[New] Capture and Craft Premium Coverings for iPhones/Android for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-deficit-dilemma-lacking-inventiveness-in-vr/"><u>[New] In 2024, The Deficit Dilemma Lacking Inventiveness in VR</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[New] In 2024, The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-instantaneous-photographic-view-in-win11/"><u>[New] Instantaneous Photographic View in Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-perfecting-nature-pics-on-iphone-ultimate-photography-guide/"><u>[Updated] 2024 Approved Perfecting Nature Pics on iPhone Ultimate Photography Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-to-launching-a-zoom-session-on-android/"><u>[Updated] The Essential Guide to Launching a Zoom Session on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tier-photographic-archives/"><u>[Updated] Top Tier Photographic Archives</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/disadvantaged-participation-leads-to-poor-results-consumers-pay-the-price/"><u>Disadvantaged Participation Leads to Poor Results - Consumers Pay the Price</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-traversing-through-windows-movie-makers-version-landscape/"><u>In 2024, Traversing Through Windows Movie Maker's Version Landscape</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/election-made-easy-optimal-picks-for-vloggers-educators-and-more-for-2024/"><u>Mic Selection Made Easy Optimal Picks for Vloggers, Educators & More for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-photographs-into-stunning-collaborative-art-for-2024/"><u>Transforming Photographs Into Stunning Collaborative Art for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->

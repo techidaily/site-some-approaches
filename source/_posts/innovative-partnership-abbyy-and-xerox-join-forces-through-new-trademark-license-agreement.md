@@ -1,7 +1,7 @@
 ---
 title: "Innovative Partnership: ABBYY and Xerox Join Forces Through New Trademark License Agreement"
-date: 2024-08-22T00:03:36.023Z
-updated: 2024-08-23T00:03:36.023Z
+date: 2025-01-17T19:48:02.620Z
+updated: 2025-01-22T01:59:09.561Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Announces Trademark License Agreement With Xerox
 
 March 23, 2016
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Partners create new cloud-based service for anytime, anywhere document translation_
 
@@ -50,8 +58,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -59,8 +65,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-artists-roadmap-to-professional-growth/"><u>[New] The Artist's Roadmap to Professional Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-your-cameras-potential-with-top-rated-drones-gimbals/"><u>[New] Unleashing Your Camera's Potential with Top-Rated Drones Gimbals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridging-platforms-posting-twitter-content-on-facebook-for-2024/"><u>[Updated] Bridging Platforms Posting Twitter Content on Facebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-nextgen-hd-optimizer-multiplatform-compatible/"><u>2024 Approved NextGen HD Optimizer Multiplatform Compatible</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>2024 Approved The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1728508631868-windows-e/"><u>學習如何在Windows E使用映像技術進行高效儲存和逆向操作</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-quality-dell-inspiron-with-16-inch-display-outperforms-expectations-smart-purchase-guide/"><u>Affordable Quality: Dell Inspiron with 16-Inch Display Outperforms Expectations - Smart Purchase Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y36i-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y36i Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-visual-content-applying-texts-to-photos-in-windows-10/"><u>In 2024, Streamlining Visual Content Applying Texts to Photos in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-lifestyle-smart-subscriptions-for-x-boosted-players/"><u>Mastering Your Gaming Lifestyle: Smart Subscriptions for X Boosted Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-gradual-audio-reduction-with-lumafusion-for-2024/"><u>Techniques for Gradual Audio Reduction with Lumafusion for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-uav-upgrade-kit-must-haves-for-the-modern-pilot-for-2024/"><u>The Essential UAV Upgrade Kit - Must-Haves for the Modern Pilot for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultra-hd-visual-delight-authentic-audi-rs5-photo-gallery-inspirational-imagery-from-yl-graphics/"><u>Ultra HD Visual Delight: Authentic Audi RS5 Photo Gallery – Inspirational Imagery From YL Graphics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

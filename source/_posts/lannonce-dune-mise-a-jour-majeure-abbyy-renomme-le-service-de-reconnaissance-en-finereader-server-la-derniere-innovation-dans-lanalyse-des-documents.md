@@ -1,7 +1,7 @@
 ---
 title: "L'annonce D'une Mise À Jour Majeure : ABBYY Renomme Le Service De Reconnaissance en FineReader Server, La Dernière Innovation Dans L'analyse Des Documents."
-date: 2024-08-22T00:03:40.605Z
-updated: 2024-08-23T00:03:40.605Z
+date: 2025-01-18T21:33:30.040Z
+updated: 2025-01-22T00:32:00.013Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea33115cb8218e3e0a99c10ef2.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY dévoile une nouvelle version de FineReader Server, anciennement nommé ABBYY Recognition Server
 
 26 novembre 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Le service d'OCR basé sur serveur rejoint la gamme FineReader pour réunir l’offre de capture de documents et de conversion PDF haut de gamme d'ABBYY dans une même solution_
 
@@ -78,8 +86,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,8 +93,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[Updated] In 2024, Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-step-by-step-method-to-personalize-iphone-ringtones/"><u>[Updated] Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-box-enthusiasm/"><u>[Updated] The Ultimate Guide to Box Enthusiasm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-rated-asmr-gear-high-quality-priced-right/"><u>[Updated] Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>[Updated] Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-camera-to-feed-ig-photo-tutorial/"><u>2024 Approved From Camera to Feed IG Photo Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/binge-watching-without-spending-a-dime-unlocking-free-netflix-opportunities/"><u>Binge-Watching Without Spending a Dime: Unlocking Free Netflix Opportunities</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-google-pixel-8-easily-by-drfone-android/"><u>How To Unlock a Google Pixel 8 Easily?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-note-12-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi Note 12 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-realtek-wifi-driver-challenges-fixing-issues-across-various-windows-versions/"><u>Overcoming Realtek WiFi Driver Challenges – Fixing Issues Across Various Windows Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/surging-through-the-noise-supercharging-telegram-campaigns-for-2024/"><u>Surging Through the Noise Supercharging Telegram Campaigns for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

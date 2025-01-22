@@ -1,7 +1,7 @@
 ---
 title: Driven by the Advanced Technology of Cookiebot
-date: 2024-08-22T00:04:10.927Z
-updated: 2024-08-23T00:04:10.927Z
+date: 2025-01-18T02:39:39.002Z
+updated: 2025-01-21T17:30:27.951Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/100e83ab0f49b8b0c013aa34cd9c4fedc9279802bcddc7e9335757b240d0c7a4.jpg
@@ -28,6 +28,10 @@ Recently, more and more people have been giving up the full-color experience off
 
 Now your phone will display everything in black-and-white. PLEASE NOTE: The “Greyscale” setting only affects how content is displayed, it does not convert your pictures or videos to black-and-white. When taking a photo, for instance, you will see it in greyscale but all the colors will still be there and visible to you when you choose to revert to full color. Also, switching to greyscale has no effect on the battery life of your phone. Which is a shame, really.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Android Tip: Going Monochrome**
 
 With Android, things are a tad more complicated, but here the monochrome mode _may_ make your battery last longer. This is true for AMOLED screens, which consume less power if you choose to display fewer colours. On Android, the greyscale switch is called “Monochromacy” and is hidden in the developer options.
@@ -40,19 +44,18 @@ If you have the developer options enabled:
 
 ![Developer options android switch on monochrome mode](https://static1.abbyy.com/abbyycommedia/26172/08oqc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 Here’s how your screen will look like from now on:
 
 ![monochrome mode switched on android](https://static1.abbyy.com/abbyycommedia/26173/pic2-e1517223380832.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **ABBYY Tip: FineScanner vs Regular Camera**
 
 “How is your app different from the pre-installed camera app?” This question has popped up now and then in your comments on the [FineScanner](http://qrs.ly/pl4x25p) page. Read on to find out.
@@ -71,9 +74,6 @@ Unlike your regular camera app:
 
 ![App Freeletics Fitness Coach training program](https://static1.abbyy.com/abbyycommedia/26174/aphrodite_endurance-e1517224372346.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 The program is supported by two mobile apps — [Bodyweight](https://www.freeletics.com/en/knowledge/understanding-your-training-plan/) and [Nutrition](https://www.freeletics.com/en/nutrition). The first is used to organize your workouts while the second takes care of your diet. Here are several reasons why we think [Freeletics](https://www.freeletics.com/en) is worth a try:
 
 * You can work out anywhere — at home, outdoors, in the office or at a gym.
@@ -83,22 +83,24 @@ The program is supported by two mobile apps — [Bodyweight](https://www.freelet
 
 ![apps Bodyweight Nutrition sport health freeletics](https://static1.abbyy.com/abbyycommedia/26175/s3amazonawscom2fappforest_uf2ff1495566770688x3917665102053433602ffre7-e1517225256870.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can start training with [Freeletics](https://www.freeletics.com/en) for free, but as you progress, in several weeks’ time, you will need to pay for the more advanced workout plans. Or you can continue with the basic free plans if that’s all you need to keep yourself in shape.
 
 Available on [iOS](https://itunes.apple.com/us/app/freeletics-bodyweight/id654810212?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=ru).
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **First-Hand Experience: Advice From a Colleague**
 
 _Shared by Catherine Matantseva, international PR manager_
 
 ![abbyy advice digital detox no gadgets](https://static1.abbyy.com/abbyycommedia/26176/j5avporlfvq-e1517235977250.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Those working in media and communications will know how important it is to be able to handle large amounts of unstructured data. Of course, when we chose this profession we knew what we were in for. Any PR specialist worth his/her salt needs to soak up and assimilate huge swathes of data on a daily basis, separating the wheat from the chaff, sifting out the important from the unimportant.
 
 However, there’s only so much information our brain can hold at any given moment, and the more data we get in the harder it is to process. Therefore, it is absolutely crucial that you give yourself a break now and then, giving yourself time to assimilate what you have learnt so far. Some people will turn off their phone or switch it into flight mode for some time, or put away all their mobile devices to create a digital free zone where they have time to rest and think.
@@ -168,8 +170,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-no-fee-optimal-mobile-and-web-picture-upscaler/"><u>[New] In 2024, No-Fee, Optimal Mobile & Web Picture Upscaler</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-instantly-examine-windows-documents-efficiently/"><u>[New] Instantly Examine Windows Documents Efficiently</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-supercharging-video-views-fbs-secrets-revealed/"><u>[New] Supercharging Video Views FB's Secrets Revealed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-change-screenshot-saving-location-on-mac/"><u>[Updated] 2024 Approved Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-quickstart-to-srt-to-txt-file-alteration/"><u>[Updated] The Essential Quickstart to SRT to TXT File Alteration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-filmmakers-first-steps-learning-15-fundamental-shots/"><u>[Updated] The Filmmaker's First Steps Learning 15 Fundamental Shots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-vinyl-virtuoso-access-to-premium-dj-video-samples-for-2024/"><u>[Updated] Vinyl Virtuoso Access to Premium DJ Video Samples for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-dimming-techniques-that-blend-perfectly-in-adobe-premiere-pro/"><u>2024 Approved Audio Dimming Techniques That Blend Perfectly in Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailor-your-own-memetic-masterpiece-now/"><u>2024 Approved Tailor Your Own Memetic Masterpiece Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-mov-to-wmv-konverter-professioneel-en-instantan-online-moovavi/"><u>Gratuit MOV-to-WMV Konverter: Professioneel en Instantan Online - Moovavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>In 2024, Telegram for Novices An Easy Path to Effective Advertising</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essence-of-pixiz-crafting-compelling-stills-to-video-transformations/"><u>In 2024, The Essence of Pixiz Crafting Compelling Stills-to-Video Transformations</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/instantly-turn-your-presentations-into-interactive-flipbooks-exclusive-ppt-templates-at-flipbuilder-flipbuildercom/"><u>Instantly Turn Your Presentations Into Interactive Flipbooks: Exclusive PPT Templates at FlipBuilder - [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/panorama-pixels-cutting-edge-photo-assembler/"><u>Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-iphone-handbook-for-gif-enthusiasts-for-2024/"><u>The Essential iPhone Handbook for GIF Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-considerations-for-enhancing-your-4k-cinematic-quality-for-2024/"><u>Top Considerations for Enhancing Your 4K Cinematic Quality for 2024</u></a></li>
+</ul></div>
 

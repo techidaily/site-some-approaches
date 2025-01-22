@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Boost Your Site with Advanced Tracking Solutions"
-date: 2024-08-22T00:04:04.029Z
-updated: 2024-08-23T00:04:04.029Z
+date: 2025-01-20T19:28:10.547Z
+updated: 2025-01-22T02:55:15.143Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaaae8a00d5cca322190ddd329.png
@@ -22,6 +22,10 @@ Welcome to another article in our "Beyond the Job Title" series, where we explor
 
 ![pierre-abbyy-body-builder-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-sports-enthusiasts-of-abbyy/pierre-abbyy-body-builder-848.png?h=564&w=848)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pierre Van der Westhuizen's journey in fitness began with a love for tennis and evolved into a lifelong commitment to bodybuilding. He shares his story and insights on how his dedication to fitness impacts his role at ABBYY where he now leads our “Fitness and Nutrition” employee initiative group, inspiring our colleagues and building a community of like-minded individuals in our team.
 
 ##### What drew you to fitness? When and why did you decide to give it a go?
@@ -41,15 +45,17 @@ When asked this question, Pierre was quick to correct us “bodybuilding is not 
 Bodybuilding has taught Pierre valuable lessons in discipline and consistency. "There really are no secrets, you show up and do the work!" He also highlights how the sport teaches perseverance through challenging tasks and fosters a sense of community and mentorship. These skills translate well into his professional life, helping him approach work with the same dedication and willingness to share knowledge.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Greta Banaityte, Field Marketing and Demand Generation Specialist, UK
 
 ![abbyy-greta-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-sports-enthusiasts-of-abbyy/abbyy-greta-848.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Greta’s passion for kickboxing not only keeps her fit but also boosts her confidence and relieves stress. Here’s how kickboxing plays a crucial role in her work-life balance and professional development.
 
 ##### What is special about kickboxing to you?
@@ -65,15 +71,13 @@ Kickboxing provides Greta with a great way to stay active and unwind, ensuring s
 Several skills and lessons from kickboxing are highly transferable to Greta's work at ABBYY. She highlights patience and stamina as invaluable when managing various marketing situations. "Kickboxing has taught me the importance of perseverance," she notes, explaining how this mindset helps her navigate setbacks. Additionally, kickboxing has shown her not to be intimidated by others, allowing her to approach interactions with courage and determination. “Everyone has their weak spots, and this understanding helps me approach interactions with confidence and assertiveness, ensuring that my voice and ideas are heard within the team”, she told us.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Aniko Biro, Hungary-based Customer Excellence Business Operations Specialist, Hungary
 
 ![aniko-abbyy-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-sports-enthusiasts-of-abbyy/aniko-abbyy-848.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Aniko’ commitment to the gym has not only improved her physical health but also provided her with valuable skills that enhance her performance at ABBYY. We sat down with her to find out more about how passion for fitness contributes positively to her day job at ABBYY.
 
 ##### What made you choose this hobby/how did you come across this activity?
@@ -96,17 +100,14 @@ Aniko highlights several transferable skills developed through her gym training:
 * Stress Management: Regular physical activity is a great way to manage stress, helping her stay calm and focused under pressure.
 * Time Management: Balancing gym time with other responsibilities improves her ability to manage time efficiently, ensuring she stays productive both at work and in her personal life.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Oksana Motrunchyk, Renewals Manager, Ukraine
 
 ![oksana-abbyy-848](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/beyond-the-job-title-the-sports-enthusiasts-of-abbyy/oksana-abbyy-848.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Oksana found her passion in powerlifting, a sport that has significantly influenced her professional life at ABBYY. Here’s how her dedication to powerlifting helps her achieve a better work-life balance and develop essential skills.
 
 ##### What made you choose this hobby/how did you come across this activity?
@@ -175,8 +176,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +183,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cinema-in-editing-10-snippet-selections/"><u>[New] Cinema in Editing 10 Snippet Selections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>2024 Approved Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/broadcasting-to-the-big-screen-watching-fb-videos-on-tv/"><u>Broadcasting to the Big Screen Watching FB Videos on TV?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/could-the-revolutionary-bike-suv-transform-your-commute-and-ditch-the-need-for-a-traditional-vehicle-discover-how-in-our-exclusive-analysis/"><u>Could the Revolutionary Bike SUV Transform Your Commute, and Ditch the Need for a Traditional Vehicle? Discover How in Our Exclusive Analysis!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-opinion-on-amazon-kindle-oasis-stunning-look-meets-steep-price-tag/"><u>Expert Opinion on Amazon Kindle Oasis: Stunning Look Meets Steep Price Tag</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-note-12-proplus-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi Note 12 Pro+ 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-telegrams-launchpad-for-aspiring-advertisers-a-starters-handbook/"><u>In 2024, Telegram's Launchpad for Aspiring Advertisers A Starter's Handbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-significance-of-proper-slug-line-usage/"><u>In 2024, The Significance of Proper Slug Line Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-cam-filters-for-optimal-online-performance/"><u>In 2024, Top 8 Cam Filters for Optimal Online Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor password or pattern lock</u></a></li>
+</ul></div>
 

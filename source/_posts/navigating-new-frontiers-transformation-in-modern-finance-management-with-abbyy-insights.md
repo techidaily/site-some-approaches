@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Frontiers: Transformation in Modern Finance Management with ABBYY Insights"
-date: 2024-08-21T23:59:15.594Z
-updated: 2024-08-22T23:59:15.594Z
+date: 2025-01-16T01:20:51.181Z
+updated: 2025-01-22T02:02:18.104Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd47e2bf72282d9f64808baa3.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ## Navigating New Frontiers: Transformation in Modern Finance Management with ABBYY Insights
 
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Changing Role of the Finance Leader
 
@@ -37,6 +41,10 @@ So even today, accounts payable automation continues to represent significant op
 * **Strengthening controls throughout the entire cycle**. Given [increased regulatory compliance](https://www.cfodive.com/spons/gaining-greater-control-over-your-regulatory-compliance-with-financial-clos/606913/) burden, CFOs are focused on gaining better visibility to their entire report-to-report cycle.
 * **Costs of supply chain disruptions**. [Supply chain disruptions](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/achieving-supply-chain-resiliency-in-consumer-goods-amid-disruption) cost organizations 45 percent of one year’s profits over the last decade. And customer loyalty is no longer a given. During the COVID-19 pandemic, for example, 77 percent of US consumers changed stores, brands, or the way they shop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Finally Achieve Procure-to-Pay
 
 Infographic
@@ -44,8 +52,9 @@ Infographic
 [Download infographic](https://static5.abbyy.com/abbyycommedia/35298/infographic-accounting-how-to-achieve-procure-to-pay-en.pdf "Download infographic") 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How finance leaders can approach digital transformation
 
 Considering the multi-dimensional challenges CFOs are facing, establishing a roadmap to transforming the finance organization to improve visibility and efficiency would appear a difficult endeavor. Here, we outline a series of recommended steps that CFOs can take to move the needle on their journey to digital transformation in finance operations.
@@ -56,12 +65,13 @@ Considering the multi-dimensional challenges CFOs are facing, establishing a roa
 4. **Manage cash flow strategically** by focusing on your most valuable suppliers and determine the value of early payment discounts to reduce your cost of goods. For example, taking advantage of an early payment discount of 2 percent paid in 10 days as opposed to 30 days will yield a 37 percent return on invested capital when annualized, thereby reducing cost of goods.
 5. **Streamline and mitigate finance auditing compliance risks**. Finance teams typically rely on tools such as spreadsheets and manual processes with only limited visibility to potential compliance risks. Automated process monitoring enables you to specify rules that must be followed and can even alert you to potential deviations of prescribed processes.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Tools for the CFO
 
 The steps outlined above can be achieved with investment in two automation technologies that provide the visibility needed to effect significant change in finance: **process mining** and **intelligent document processing**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For greater visibility into operations, process mining
 
@@ -85,9 +95,6 @@ Process mining helps you to answer the following questions:
 * _What is the potential return on investment (ROI) that may be realized through process optimization?_
 * _Does your improved workflow remain in compliance with best practice processes?_
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###   
 For making data-driven decisions, intelligent document processing
 
@@ -109,9 +116,6 @@ Learn more about ABBYY’s AI tools to support today’s CFO with [increasing vi
 
 ![James Ritter 110X110 (1)](https://static4.abbyy.com/abbyycommedia/36998/james-ritter_110x110-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 James Ritter
 
 Chief Financial Officer at ABBYY
@@ -121,17 +125,15 @@ James Ritter is Chief Financial Officer at ABBYY, where he plays a key role in s
 James holds a CPA and an MBA with over 20 years of experience working for international services and software companies, and has a background in accounting, financial controls, revenue recognition, financial management, operational improvement, and strategic development.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Additional Insights:
 
 1 / 3 
 
 [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![Three Ways AI Is Making Employees Happier](https://static2.abbyy.com/abbyycommedia/36944/ai_happier_employees_1160730188_848x444.jpg) **Three Ways AI Is Making Employees Happier** Read more](https://tools.techidaily.com/abbyy/products/) [![Welcome to The Intelligent Enterprise](https://static5.abbyy.com/abbyycommedia/37545/ulf-848x444-slate.png) **Welcome to The Intelligent Enterprise** Read more](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Subscribe for updates
 
 Get updated on the latest insights and perspectives for business & technology leaders
@@ -180,8 +182,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +189,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-expanded-viewport-in-social-vids-for-2024/"><u>[New] The Art of Expanded Viewport in Social Vids for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-slomo-capture-a-comprehensive-2024-analysis/"><u>[New] Ultimate SloMo Capture A Comprehensive 2024 Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-hd-cameras-for-comprehensive-social-media-broadcasts/"><u>[Updated] Best HD Cameras for Comprehensive Social Media Broadcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-harmonizing-audioscapevisumedia-network-for-2024/"><u>[Updated] Harmonizing Audioscape/Visumedia Network for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-15-uncomplicated-vlog-ideas-to-ignite-creativity/"><u>[Updated] Top 15 Uncomplicated Vlog Ideas to Ignite Creativity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-free-image-refinement-onlinemobile/"><u>[Updated] Unlimited Free Image Refinement Online/Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-seamless-journey-of-filming-and-editing-haul-videos/"><u>2024 Approved The Seamless Journey of Filming and Editing Haul Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-realm-of-free-photo-frame-video-downloads/"><u>2024 Approved Unlocking the Realm of Free Photo Frame Video Downloads</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-analytics-using-cookiebot-technology/"><u>Enhance Your Analytics Using Cookiebot Technology</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-overcoming-system-service-exception-errors-on-windows-7-systems/"><u>Expert Tips - Overcoming System Service Exception Errors on Windows 7 Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-play-facebook-videos-on-tv-in-2024/"><u>How To Play Facebook Videos on TV, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-set-of-rotational-recording-devices/"><u>In 2024, Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtle-screen-entry-sequence/"><u>In 2024, Subtle Screen Entry Sequence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>In 2024, The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4/"><u>In 2024, Unlock the Secrets of Altering Voice Sounds on PS5/PS4</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-10-best-free-online-video-looping-software/"><u>New 2024 Approved The Ultimate List 10 Best Free Online Video Looping Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-edge-40-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-dynamic-image-backdrops-for-video-editing-for-2024/"><u>Top 10 Dynamic Image Backdrops for Video Editing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-to-intense-hdr-portraits/"><u>Unlock the Secrets to Intense HDR Portraits</u></a></li>
+</ul></div>
 

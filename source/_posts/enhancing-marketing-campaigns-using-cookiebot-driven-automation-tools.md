@@ -1,7 +1,7 @@
 ---
 title: Enhancing Marketing Campaigns Using Cookiebot-Driven Automation Tools
-date: 2024-08-22T00:00:34.265Z
-updated: 2024-08-23T00:00:34.265Z
+date: 2025-01-20T23:34:14.745Z
+updated: 2025-01-21T22:40:21.035Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a21f27f2fda0ba3002b69992.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY réalise une croissance annuelle à 2 chiffres pour la 3ème année consécutive
 
 24 mars 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### La croissance du chiffre d’affaires d'ABBYY en 2019 est due à la conclusion de plusieurs partenariats dans le domaine du RPA, à l'élargissement de son portefeuille de clients et de solutions et au renforcement de sa présence internationale, notamment en Asie. L’intérêt croissant des entreprises pour l’intelligence digitale vient appuyer les bons résultats enregistrés.
 
@@ -67,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,8 +82,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/est-10-sound-boosting-software-pc-mac-and-mobile/"><u>[New] Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-post-strategy-with-these-top-8-ios-and-android-planners-for-2024/"><u>[New] Enhance Post Strategy with These Top 8 iOS & Android Planners for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-top-10-destinations-for-high-end-vectors/"><u>[New] Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-by-step-guide-succeed-with-spotify-marketing/"><u>[Updated] 2024 Approved Step-by-Step Guide Succeed with Spotify Marketing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-affordable-techniques-to-enhance-written-content-with-media-for-2024/"><u>[Updated] Affordable Techniques to Enhance Written Content with Media for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-metaverse-headset-selection/"><u>[Updated] The Ultimate Guide to Metaverse Headset Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-10plus-top-free-subtitle-converter-websites/"><u>[Updated] Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-optimum-affordable-asmr-microphones-with-incredible-performance/"><u>2024 Approved Optimum Affordable ASMR Microphones with Incredible Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-and-science-of-hand-movement-tracking/"><u>2024 Approved The Art and Science of Hand Movement Tracking</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syncing-audiovideo-online-collective-for-2024/"><u>Syncing Audio/Video Online Collective for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-collection-of-dynamic-text-for-ae-projects-for-2024/"><u>Ultimate Collection of Dynamic Text for AE Projects for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-best-android-edits-for-2024/"><u>Unleash Creativity Best Android Edits for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

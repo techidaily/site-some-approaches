@@ -1,7 +1,7 @@
 ---
 title: Discover ABBYY's Latest Strategic Alliances and Enhanced Offering Launched in the Fourth Quarter of 2019 – Official Announcements
-date: 2024-08-22T00:00:23.266Z
-updated: 2024-08-23T00:00:23.266Z
+date: 2025-01-21T03:13:17.236Z
+updated: 2025-01-22T02:29:54.033Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b37015df4b520c0cb3237617656.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Marks New Partnerships and Expanded Product Portfolio in Q4 2019
 
 February 13, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _The integration of ABBYY Timeline into the portfolio provides ABBYY customers with a robust offering of innovative solutions to fuel their digital transformation initiatives_ 
 
@@ -175,8 +183,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,8 +190,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>[New] In 2024, The Ultimate War Strategists' Guide Selecting Top 7 Total War Challenges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-rapid-assembly-of-google-image-mosaics/"><u>[New] Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-mp4-players-handpicked/"><u>[New] The Best MP4 Players Handpicked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>2024 Approved Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-updated-list-the-premier-pc-vr-headsets-of-2023/"><u>2024 Approved Updated List The Premier PC VR Headsets of 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-find-your-ideal-laptop-at-unbeatable-prices-during-the-october-202-query/"><u>Expert Guide: Find Your Ideal Laptop at Unbeatable Prices During the October 202 [Query]</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-the-300-oculus-quest-connection-with-hacked-users/"><u>Exploring the $300 Oculus Quest Connection with Hacked Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultra-fast-picture-reader-for-windows-11/"><u>In 2024, Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-poco-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Poco Phones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/swift-switcheroo-rearranging-yt-lists-in-a-minute/"><u>Swift Switcheroo Rearranging YT Lists in a Minute</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/switch-webm-media-to-wma-audio-and-video-seamlessly-use-convertify-for-no-cost-upgrade/"><u>Switch WebM Media to WMA Audio & Video Seamlessly - Use Convertify for No-Cost Upgrade!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels-for-2024/"><u>The Savvy Seeker's Guide to Spotting Superb Photos on Pexels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options-for-2024/"><u>Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: ABBYY at Cebit Conference 2017 - Showcasing Innovative Software Solutions
-date: 2024-08-22T00:02:28.446Z
-updated: 2024-08-23T00:02:28.446Z
+date: 2025-01-14T19:29:01.226Z
+updated: 2025-01-22T00:17:16.602Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23ef44a3dc870ec2d24d91150f.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY präsentiert auf der CeBIT 2017 zukunftsfähige Lösungen für das Digital Business
 
 9\. März 2017
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _ABBYY geht in der digitalen Transformation einen Schritt weiter und präsentiert vom 20\. bis zum 24\. März in Halle 3 Lösungen für das Automatisieren von Geschäftsprozessen sowie das Arbeiten mit Dokumenten und PDFs_
 
@@ -64,8 +72,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -73,12 +79,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/rafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[New] Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-transform-blurry-photos-into-clarity-with-these-top-10-tools/"><u>[New] In 2024, Transform Blurry Photos Into Clarity with These Top 10 Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-iphone-night-pics-101-enhancing-dark-images/"><u>[Updated] 2024 Approved IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-windows-photos-experience-with-added-filtersmusic/"><u>[Updated] Streamlining Windows Photos Experience with Added Filters/Music</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-experience-live-cricket-viewing-tips/"><u>[Updated] Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-checklist-for-new-channels/"><u>[Updated] The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>2024 Approved Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-converters-cornerstone-for-srt-transformations/"><u>2024 Approved The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-tapes-with-these-top-5-brighteners/"><u>2024 Approved Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-the-20-most-exceptional-lock-screen-utilities-tailored-for-android-smartphones/"><u>Discover the 20 Most Exceptional Lock Screen Utilities Tailored for Android Smartphones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-text-trends-top-10-modern-effects/"><u>In 2024, Text Trends Top 10 Modern Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-successful-srt-shipping-out-of-premiere/"><u>In 2024, Unlocking Successful SRT Shipping Out of Premiere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-vs-iphone-15-key-features-and-differences-when-moving-to-the-latest-baseline-model-insights/"><u>IPhone 16 vs iPhone 15: Key Features and Differences When Moving to the Latest Baseline Model – Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mavericks-video-creator-bringing-your-vision-to-life/"><u>New Mavericks Video Creator Bringing Your Vision to Life</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/prime-6-social-sites-boosting-biz-success-for-2024/"><u>Prime 6 Social Sites Boosting Biz Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secrets-unveiled-the-ultimate-pathway-to-landing-an-elite-job-at-a-top-technology-firm/"><u>Secrets Unveiled: The Ultimate Pathway to Landing an Elite Job at a Top Technology Firm</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-for-converting-vimeo-videos-mp4-for-2024/"><u>The Ultimate Guide for Converting Vimeo Videos (MP4) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-mobile-and-desktop-sound-pace-alteration-compendium-for-2024/"><u>Ultimate Mobile & Desktop Sound Pace Alteration Compendium for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->

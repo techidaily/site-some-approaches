@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Marathon of MarTainment: Essential Steps in Your AI-Powered Process Automation Quest"
-date: 2024-08-22T00:01:16.213Z
-updated: 2024-08-23T00:01:16.213Z
+date: 2025-01-18T17:04:52.273Z
+updated: 2025-01-21T19:37:52.238Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500c43a741b28a10c98f28c4a5.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your Intelligent Process Automation Journey Requires Training Like a Marathon
 
 ###### Cheryl Chiodi
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 October 06, 2022
 
 ![](https://static4.abbyy.com/abbyycommedia/36114/15105-blog-cover-image.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 I recently completed the Boston Marathon and from my experience, training for and running a 26.2-mile race is SIMPLE. All that is required is a commitment to wake up before sunrise six mornings a week for 18 weeks and run between seven and 22 miles at varied levels of intensity. Is it easy? No, don’t confuse simple with easy—it’s hard.
 
@@ -48,8 +56,9 @@ We cannot tolerate business processes that make our employees' jobs more challen
 ![prepare for automation like training for a marathon](https://static1.abbyy.com/abbyycommedia/36115/15105-blog-cover-image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Maximize energy (aka budget)
 
 Our instinct is always to do more—train harder, go out faster, spend more. But, is more always better? Will spending more on KYC result in the outcomes you are searching for? Not necessarily.
@@ -59,24 +68,13 @@ For example, today, the amount of money laundering that occurs each year is equi
 Just as successful marathoners need to plan for the complexity of the entire course, not just the hills or the start or the finish, financial institutions must consider the complete end-to-end process, with the goal of achieving straight-through-processing. With this strategic mindset, the rewards will far exceed a medal or a personal record—improved customer experience, regulatory compliance, and better-quality KYC reviews are some of the trophies that can be obtained.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Financial Services Firms Are Becoming More Resilient Than Ever
 
 [View the infographic](https://static1.abbyy.com/abbyycommedia/33035/infographic-financialservices-firms-resiliency-en.pdf "View the infographic") 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Keep a steady pace
 
 Studies suggest that marathoners who start out too fast and give it their all early in the race finish significantly slower, get injured, or lose motivation, yet, it happens all the time. The runner thinks that if he or she starts fast, they’ll get to the finish line quicker. It makes logical sense, but that kind of thinking comes with all kinds of perils.
@@ -85,10 +83,6 @@ Similarly, many organizations hastily rolled out new tools during the pandemic t
 
 A common challenge during the onboarding process is identity affirmation and identity proofing—assuring the identity documents are valid, authentic, and that the applicant is who they say they are. This is a document-centric process that requires a seamless path for the mobile capture of documents, extraction of data into backend systems, and an elegant interface that delights customers. You don’t want to get to the finish line with a broken ankle—you want to get there in a healthy state, with the right information and correct, reliable data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Have good training partners
 
 Marathoners depend on many partners to complete their race. Trainers for guidance on speed, endurance and agility, nutritionists to ensure they are inputting the right fuel, physical therapists to help with injuries, and friends and family for emotional support. Likewise for your intelligent automation journey, you need partners who can keep you on the right trajectory towards success.
@@ -102,8 +96,9 @@ Not only will your intelligent automation partner analyze your strengths and wea
 ![Cheryl Chiodi Boston Marathon](https://static1.abbyy.com/abbyycommedia/36112/cheryl-chiodi-marathon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cheryl Chiodi completing the 2021 Boston Marathon.
 
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Enterprise](https://tools.techidaily.com/abbyy/products/) [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) 
@@ -112,9 +107,6 @@ Cheryl Chiodi completing the 2021 Boston Marathon.
 
 Cheryl Chiodi
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -169,8 +161,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +168,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-hero5-black-vs-yi-4k-the-latest-in-action-cam-showdown/"><u>[Updated] 2024 Approved Hero5 Black Vs. Yi 4K The Latest in Action Cam Showdown</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-prime-selection-of-invisible-android-recorders/"><u>[Updated] In 2024, Prime Selection of Invisible Android Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>2024 Approved Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-velocity-vision-speed-up-videos-on-android/"><u>2024 Approved Velocity Vision Speed Up Videos on Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-12-mini-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 12 mini Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-dell-optiplex/"><u>Fixing Dell OptiPlex</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-14-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 14 Plus Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-polarr-editor-explained-the-ultimate-visual-enhancement-pathway/"><u>In 2024, Polarr Editor Explained The Ultimate Visual Enhancement Pathway</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-synergy-in-hybrid-realms-mixed-reality-explained/"><u>In 2024, The Synergy in Hybrid Realms Mixed Reality Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-unseen-secrets-of-optimizing-win11-performance/"><u>In 2024, The Unseen Secrets of Optimizing Win11 Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-future-of-mp4s-seamless-srt-incorporation-techniques-for-2024/"><u>The Future of MP4s Seamless SRT Incorporation Techniques for 2024</u></a></li>
+</ul></div>
 

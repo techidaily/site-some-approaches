@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Partners with Bizagi: Pioneering Intelligent Automation for Enterprise Digital Transformation"
-date: 2024-08-22T00:03:03.441Z
-updated: 2024-08-23T00:03:03.441Z
+date: 2025-01-17T23:27:53.444Z
+updated: 2025-01-21T19:30:15.674Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9fa867d443daa8eb75630573f.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY and Bizagi Join Forces to Deliver Intelligent Automation Solutions to Enterprises Striving to Accelerate Digital Transformation
 
 November 17, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Joint customers worldwide in financial services, transportation and logistics, and public sector benefit from leveraging Digital Intelligence with Process Automation_
 
@@ -63,8 +71,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +78,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-dazzling-display-guide-for-android-videos/"><u>[New] 2024 Approved Dazzling Display Guide for Android Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-tech-analysis-the-best-screen-recorder-roundup-for-2024/"><u>[Updated] Cutting Edge Tech Analysis The Best Screen Recorder Roundup for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-chrono-synergy-effects/"><u>2024 Approved Techniques for Chrono-Synergy Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ten-strategies-for-controlling-a-twitch-broadcast/"><u>2024 Approved Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/advanced-typography-animation-suites-for-2024/"><u>Advanced Typography Animation Suites for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mambos-in-the-mangroves-for-2024/"><u>Mambos in the Mangroves for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-steadicam-options-for-high-end-dslr-video-production-for-2024/"><u>The Best Steadicam Options for High-End DSLR Video Production for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secrets-to-discreetly-fading-out-sounds-using-audacity-for-2024/"><u>The Secrets to Discreetly Fading Out Sounds Using Audacity for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-utilizing-zero-cost-clocks-for-2024/"><u>The Ultimate Guide to Utilizing Zero-Cost Clocks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-ideal-frames-per-second-for-excellent-slow-mo-videos-for-2024/"><u>Unveiling Ideal Frames Per Second For Excellent Slow-Mo Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vintage-voices-top-websites-for-classical-ringtone-acquisition/"><u>Vintage Voices Top Websites for Classical Ringtone Acquisition</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728507862211-windows/"><u>Windows対応のリアルタイムファイル・フォルダー同期ツール</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->

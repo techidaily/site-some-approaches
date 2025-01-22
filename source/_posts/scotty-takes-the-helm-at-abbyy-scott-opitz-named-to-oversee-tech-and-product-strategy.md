@@ -1,7 +1,7 @@
 ---
 title: "Scotty Takes the Helm at ABBYY: Scott Opitz Named to Oversee Tech and Product Strategy"
-date: 2024-08-22T00:04:33.482Z
-updated: 2024-08-23T00:04:33.482Z
+date: 2025-01-21T03:21:13.757Z
+updated: 2025-01-21T21:39:10.774Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76be2a092d41b1fc888150e8a5.jpeg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Appoints Scott Opitz as Chief Technology and Product Officer to Accelerate its Innovations in Intelligent Automation
 
 March 15, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Scottopitz 848X444](https://static4.abbyy.com/abbyycommedia/35308/scottopitz-848x444.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Scott Opitz has been appointed Chief Technology and Product Officer (CTO and CPO) at intelligent automation company, ABBYY. He is charged with overseeing a massive 40% increase, in research and development (R&D) investment in 2022\. Opitz’s responsibilities include leading the strategy, development, and execution of the company’s product and innovation efforts based in Europe and the US, solidifying the company’s commitment to continuous enhancement of its market-leading [intelligent document processing](https://tools.techidaily.com/abbyy/products/) (IDP) platform [Vantage](https://tools.techidaily.com/abbyy/products/) and [process intelligence](https://tools.techidaily.com/abbyy/products/) solution [Timeline](https://tools.techidaily.com/abbyy/products/).
 
@@ -33,6 +45,10 @@ He has held numerous executive-level positions in technology and business develo
 
 \[1\] IDC, Worldwide Intelligent Process Automation Software Forecast, 2021–2025, Doc # US48015622, July 2021.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -44,15 +60,13 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies, and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -68,8 +82,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +89,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-selfie-impact-on-instagram-the-zoom-guide/"><u>[New] Enhancing Selfie Impact on Instagram The Zoom Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[Updated] 2024 Approved Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>[Updated] Ultimate Guide Top 8 Convertors for Sub to Srt Harmony</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>[Updated] Unpacking XMedia Suite Review All You Need to Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>2024 Approved The Ultimate Guide Key Drone Upgrades & Supplies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>2024 Approved The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-secure-business-data-sphere/"><u>2024 Approved TOP 10 Secure Business Data Sphere</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a25-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A25 5G FRP?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-13c-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi 13C 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>In 2024, Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-axon-40-lite-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Axon 40 Lite</u></a></li>
+</ul></div>
 

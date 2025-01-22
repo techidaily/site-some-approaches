@@ -1,7 +1,7 @@
 ---
 title: Driven with the Efficiency of Cookiebot Technology
-date: 2024-08-22T00:02:44.777Z
-updated: 2024-08-23T00:02:44.777Z
+date: 2025-01-14T19:00:00.744Z
+updated: 2025-01-21T16:17:05.675Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec125852037ee13474e8f33d11312ce4c.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY OCR-Technologie als entscheidender Produktivitätsfaktor in Compana Bewerbermanagement-Software
 
 12\. Dezember 2017
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), ein führender, globaler Anbieter von Technologien und Lösungen für den effektiven Einsatz von Informationen in Organisationen, liefert die Texterkennungs-Technologie für die Recruiting-Lösung von Compana Software, dem technologischen Marktführer für Bewerbermanagement. Die leistungsstarke ABBYY Technologie für Texterkennung (OCR) macht Informationen in Lebensläufen und anderen gescannten Bewerbungsunterlagen „lesbar“ und ermöglicht so das automatisierte Extrahieren und Übertragen der Bewerberdaten in die Compana-Lösung. Das zeitaufwendige und fehleranfällige manuelle Abtippen der Informationen entfällt – und somit auch ein entscheidender Kostenfaktor im Recruiting-Bereich.
 
@@ -71,8 +79,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,8 +86,17 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-details-a-closer-look-at-your-roblox-world/"><u>[New] Unraveling Details A Closer Look at Your Roblox World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-performance-probe-a-vll-app-overview/"><u>[Updated] Performance Probe A VLL App Overview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-premier-manual-for-subtitle-precision-via-web-resources/"><u>[Updated] The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-notch-ae-extensions-selection/"><u>[Updated] Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pfv-optimization-in-tardy-action/"><u>2024 Approved Superior PFV Optimization in Tardy Action</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>In 2024, Upload Wizardry Selecting the Best YouTube to Twitter Convertors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-scoop-on-computers-and-peripherals-at-toms-tech-resource/"><u>Inside Scoop on Computers and Peripherals at Tom's Tech Resource</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-reactivating-the-voice-chat-feature-in-phasmophobia/"><u>Step by Step Solution: Reactivating the Voice Chat Feature in Phasmophobia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailor-video-specifications-for-perfect-fit-adjust-dimensions-and-compression-techniques/"><u>Tailor Video Specifications for Perfect Fit - Adjust Dimensions & Compression Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-picking-your-perfect-apple-laptop-unpacking-the-macbook-pro-and-air-showdown-zdnet/"><u>Ultimate Guide to Picking Your Perfect Apple Laptop: Unpacking the MacBook Pro and Air Showdown | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->

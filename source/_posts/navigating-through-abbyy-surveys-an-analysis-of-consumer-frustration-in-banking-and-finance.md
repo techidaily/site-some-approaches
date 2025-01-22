@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through ABBYY Surveys: An Analysis of Consumer Frustration in Banking & Finance"
-date: 2024-08-21T23:59:59.756Z
-updated: 2024-08-22T23:59:59.756Z
+date: 2025-01-16T19:25:02.194Z
+updated: 2025-01-21T23:03:18.900Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef3054d20b60fdb2ab68b2e719b.png
@@ -17,6 +17,10 @@ October 20, 2021
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Hongkong](https://static2.abbyy.com/abbyycommedia/33685/news-hongkong.jpg) 
 
 ### [ABBYY](https://tools.techidaily.com/abbyy/products/), a global Digital Intelligence company, recently conducted a [Digital Strategies in Financial Services](https://tools.techidaily.com/abbyy/products/) survey of over U.S. 100 executives representing senior decision makers, including chief experience officers, vice presidents, and directors, that revealed a concerning disconnect when it comes to banks’ onboarding processes, technology investments, and customer satisfaction.
@@ -27,15 +31,19 @@ Top three priorities for 2022
 
 ![03A Employee Productivity](https://static4.abbyy.com/abbyycommedia/31345/03a-employee-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 73%
 
 say “improving customer  
 relations”
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 51%
 
 say “reducing  
@@ -43,9 +51,6 @@ operating costs”
 
 ![03B Invoice Processing Costs](https://static1.abbyy.com/abbyycommedia/31346/03b-invoice-processing-costs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 39%
 
 say “streamlining onboarding and  
@@ -76,8 +81,9 @@ Additional survey data included the following:
 ![124 2021 Digital Strategies In Financial Services EN 262X340](https://static1.abbyy.com/abbyycommedia/34742/124-2021-digital-strategies-in-financial-services-en-262x340.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### At a Glance: Insights from ABBYY Survey—Digital Strategies in Financial Services
 
 Infographic
@@ -86,25 +92,20 @@ Infographic
 
 ABBYY’s Digital Strategies in Financial Services survey was performed by Gatepoint Research between May and August 2021 by over 100 executives. Download the [full report](https://tools.techidaily.com/abbyy/products/) for more detailed information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### About ABBYY
 
 ABBYY empowers organizations to gain a complete understanding of their business processes and the content that fuels them with its [Digital Intelligence](https://tools.techidaily.com/abbyy/products/) platform. ABBYY technologies are used by more than 5,000 companies, including many of the Fortune 500, and are recognized for their leadership in [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) (IDP) and [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) for driving significant impact where it matters most: customer experience, effectiveness, profitability, and competitive advantage. ABBYY is a global company with offices in 14 countries. For more information, visit [www.abbyy.com/company/about-us](https://tools.techidaily.com/abbyy/products/) and follow us on [LinkedIn](https://www.linkedin.com/company/abbyy/ "ABBYY - LinkedIn"), [Twitter](https://twitter.com/abbyy%5Fsoftware "ABBYY - Twitter"), and [Facebook](https://www.facebook.com/ABBYYsoft "ABBYY - Facebook").
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies, and may not be used without consent of its respective owners.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### ABBYY editorial contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -120,8 +121,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +128,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-infusing-watermarks-in-youtube-content-for-trademarks/"><u>[New] 2024 Approved Infusing Watermarks in YouTube Content for Trademarks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-behance-portfolio-image-constraints/"><u>[Updated] 2024 Approved Behance Portfolio Image Constraints</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-building-rapport-an-interviewers-toolkit-for-2024/"><u>[Updated] Building Rapport An Interviewer's Toolkit for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-new-frontier-of-jaunt-vr-experiences/"><u>[Updated] The New Frontier of Jaunt VR Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>[Updated] Top Tools for Timely Subtitle Conversion - Win & Mac Edition Best 8 SRTR Creators From SUB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-panoramic-storytelling-simplified-top-9-tips-for-filmmakers/"><u>2024 Approved Panoramic Storytelling Simplified Top 9 Tips for Filmmakers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>2024 Approved Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-blueprint-of-an-engaging-podcast-blurb/"><u>2024 Approved The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-importance-of-non-primary-footage-in-editing/"><u>2024 Approved The Importance of Non-Primary Footage in Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-power-scriptwriting-for-popular-vlogs/"><u>2024 Approved Unlock the Power Scriptwriting for Popular Vlogs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-how-to-stop-fortnite-from-running-out-of-vram/"><u>Fixed: How to Stop Fortnite From Running Out of VRAM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guard-your-digital-realm-avoid-the-google-bard-menace/"><u>Guard Your Digital Realm: Avoid the Google Bard Menace</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pedal-to-the-metal-mastering-crossfade-techniques/"><u>In 2024, Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-approach-to-declining-audio-tracks-gradually/"><u>In 2024, The Editor's Approach to Declining Audio Tracks Gradually</u></a></li>
+<li><a href="https://win-net.techidaily.com/professional-screenshot-solutions-affordable-and-effective-replacements-for-snagit/"><u>Professional Screenshot Solutions: Affordable & Effective Replacements for Snagit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sj7s-pioneering-star-4k-camera-the-ultimate-guide-for-action-filmmakers/"><u>SJ7's Pioneering Star 4K Camera - The Ultimate Guide for Action Filmmakers</u></a></li>
+</ul></div>
 

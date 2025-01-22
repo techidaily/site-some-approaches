@@ -1,7 +1,7 @@
 ---
 title: "Optimized with Advanced Automated Tracking: The Power of Cookiebot Technology"
-date: 2024-08-22T00:02:19.028Z
-updated: 2024-08-23T00:02:19.028Z
+date: 2025-01-16T22:52:05.319Z
+updated: 2025-01-21T16:55:11.234Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227d8d0c9a830c7fb7735e577b.jpg
@@ -19,6 +19,10 @@ Other | Digital Archiving
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Robust OCR Service Raises Productivity for Leading Provider of Construction Data
 
 Other | Digital Archiving 
@@ -29,6 +33,10 @@ Other | Digital Archiving
 
 ![Construction Management Data (CMD)](https://static1.abbyy.com/abbyycommedia/15457/cmd-logo-150.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 | Name         | Construction Management Data (CMD)            |
 | ------------ | --------------------------------------------- |
 | Headquarters | North America                                 |
@@ -38,6 +46,10 @@ Other | Digital Archiving
 #### Partner Overview
 
 ![Conarc](https://static2.abbyy.com/abbyycommedia/15318/conarclogo_150.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name | Conarc                                   |
 | ---- | ---------------------------------------- |
@@ -64,19 +76,21 @@ Construction Management Data (CMD) provides information to construction firms on
 ###### SEE HOW ABBYY CAN HELP
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### over **35**
 
 million pages to process
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **156**
 
 networked cores for OCR
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### **7** months
 
 to digitize the archive
@@ -131,32 +145,20 @@ And as Dan DuBois confirms, Recognition Server has helped CMD realize its long-t
 
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![Digital Archiving](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [Document Archiving](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static3.abbyy.com/abbyycommedia/15558/11-construction-management-data-cmd-2.png)](https://static4.abbyy.com/abbyycommedia/3429/rs%5Fcmd%5Fconstruction%5F2015.pdf "PDF version") [PDF version](https://static4.abbyy.com/abbyycommedia/3429/rs%5Fcmd%5Fconstruction%5F2015.pdf "PDF version") 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 [read more](https://static4.abbyy.com/abbyycommedia/3429/rs%5Fcmd%5Fconstruction%5F2015.pdf "PDF version") 
 
 ###### Like, share or repost
 
 Share  True ?  : "" 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -169,8 +171,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +178,19 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-top-online-platforms-for-youtube-media-growth/"><u>[Updated] Top Online Platforms for YouTube Media Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-zooms-for-snapchat-photos-and-videos/"><u>[Updated] Transformative Zooms for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-toontown-full-analysis-and-tutorial-24-edition/"><u>2024 Approved ToonTown Full Analysis & Tutorial '24 Edition</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-conversion-techniques-for-camrec-videos-to-widely-used-codecs-like-avi/"><u>Easy Conversion Techniques for CAMREC Videos to Widely Used Codecs Like AVI</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-fasttrack-retrosnap-replay/"><u>In 2024, FastTrack RetroSnap Replay</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-free-pics-with-exceptional-resolution-your-ultimate-guide/"><u>In 2024, Free Pics with Exceptional Resolution Your Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-for-the-modern-buyer-advanced-360cams/"><u>In 2024, Top Picks for the Modern Buyer Advanced 360Cams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-transfer-moving-your-images-from-google-photos-to-icloud-a-step-by-step-guide/"><u>Seamless Transfer: Moving Your Images From Google Photos to iCloud - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-skyrocketing-youtube-followers-for-2024/"><u>Strategies for Skyrocketing YouTube Followers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taking-control-of-your-gmail-steps-to-create-custom-filters-and-manage-multiple-accounts/"><u>Taking Control of Your Gmail: Steps to Create Custom Filters & Manage Multiple Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-aftermath-of-leaving-ps-plus-service/"><u>The Aftermath of Leaving PS Plus Service</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visionaries-at-work-a-look-into-the-six-dominant-nftos-for-2024/"><u>Visionaries at Work A Look Into the Six Dominant NFTOs for 2024</u></a></li>
+</ul></div>
 

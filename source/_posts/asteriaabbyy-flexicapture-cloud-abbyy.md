@@ -1,7 +1,7 @@
 ---
 title: ASTERIAとABBYY FlexiCapture Cloudを使った画面分析向けの最新フローテンプレート - ABBYY公式チャンネル
-date: 2024-08-22T00:04:42.436Z
-updated: 2024-08-23T00:04:42.436Z
+date: 2025-01-18T21:43:25.385Z
+updated: 2025-01-21T22:45:20.306Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c8438011d2d41a4363ede19ca9.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ## ASTERIAとABBYY FlexiCapture Cloudを使った画面分析向けの最新フローテンプレート - ABBYY公式チャンネル
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ASTERIA WarpにABBYY FlexiCapture Cloudのフローテンプレートが登場
 
@@ -36,6 +40,10 @@ ABBYY FlexiCapture最大の特長としては「[アステリア株式会社](ht
 
 ![](https://static1.abbyy.com/abbyycommedia/30104/pic-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ステップで完了です。フローが自動生成されます。
 
 ![](https://static1.abbyy.com/abbyycommedia/30105/pic-2.png)
@@ -44,9 +52,6 @@ ABBYY FlexiCapture最大の特長としては「[アステリア株式会社](ht
 
 ![](https://static1.abbyy.com/abbyycommedia/30106/pic-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **「FlexiCapture Cloudから結果取得」**
 
 ファイルアップロードフローで開始したタスクの結果を取得します。ステータスが”Done”となっている結果のExcelファイルを取得します。
@@ -54,22 +59,17 @@ ABBYY FlexiCapture最大の特長としては「[アステリア株式会社](ht
 ![](https://static1.abbyy.com/abbyycommedia/30107/pic-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 こちらも2ステップで完了です。
 
 ![](https://static1.abbyy.com/abbyycommedia/30108/pic-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 実行すると結果のExcelファイルが保存されます。
 
 ![](https://static1.abbyy.com/abbyycommedia/30109/pic-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
 アステリア株式会社 ご担当者様より一言
@@ -98,13 +98,15 @@ ABBYY FlexiCapture最大の特長としては「[アステリア株式会社](ht
 ![ABBYY logo circle](https://static5.abbyy.com/abbyycommedia/29971/abbyy-logo-2021-blog-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ABBYY Japan エンジニアリングチーム
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -121,8 +123,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-ars-capabilities-and-limits/"><u>[New] Understanding AR's Capabilities and Limits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chinas-bargain-bin-of-virtual-reality-gear/"><u>[Updated] China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-10-vr-videos-on-youtube-to-have-immersive-experience/"><u>[Updated] In 2024, Top 10 VR Videos on YouTube to Have Immersive Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laugh-loops-unlocked-zero-cost-humor-hub/"><u>[Updated] Laugh Loops Unlocked Zero-Cost Humor Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-inspiring-movies-to-ignite-your-inner-strength/"><u>2024 Approved Inspiring Movies to Ignite Your Inner Strength</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtle-sound-level-lowering-in-fl-studio/"><u>2024 Approved Subtle Sound Level Lowering in FL Studio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-play-samsung-vr-classics/"><u>Immersive Play Samsung VR Classics</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-talk-explore-gratis-options-for-audio-effect-applications/"><u>In 2024, Transform Your Talk Explore Gratis Options for Audio Effect Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>In 2024, Unlock Potential While Unwinding Top Tasks for Podcast Lovers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-image-editing-taking-out-backgrounds-for-2024/"><u>Streamlining Image Editing Taking Out Backgrounds for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-p55-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel P55 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-to-perfect-green-screen-in-kinemaster-for-2024/"><u>Unveiling the Secrets to Perfect Green Screen in Kinemaster for 2024</u></a></li>
+</ul></div>
 

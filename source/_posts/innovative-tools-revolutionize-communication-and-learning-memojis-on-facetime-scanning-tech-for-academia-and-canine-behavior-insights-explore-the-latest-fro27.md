@@ -1,7 +1,7 @@
 ---
 title: "Innovative Tools Revolutionize Communication & Learning: Memojis on FaceTime, Scanning Tech for Academia & Canine Behavior Insights - Explore the Latest From the ABBYY Blog"
-date: 2024-08-22T00:03:37.334Z
-updated: 2024-08-23T00:03:37.334Z
+date: 2025-01-15T17:44:05.090Z
+updated: 2025-01-21T18:34:57.170Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c11451977d41c23dfeca435c0f3.jpg
@@ -19,6 +19,10 @@ February 04, 2019
 
 Today’s issue is the last [of our emoji newsletter](https://tools.techidaily.com/abbyy/products/). You’ll learn how to add memojis into FaceTime and how to send AR Emojis on Android. We will also tell you about FineScanner as a research tool and train your dog.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS Tip: Using Memojis and Animojis in FaceTime Calls
 
 It only takes a few taps to add your likeness into [FaceTime](https://support.apple.com/en-us/HT204380).
@@ -33,6 +37,10 @@ Of course, before you can use a [memoji](https://support.apple.com/en-us/HT20898
 
 ![memoji effects](https://static1.abbyy.com/abbyycommedia/26702/memoji-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply a filter and add your memoji into iMessage:
 
 1. Open the iMessage app and either choose a conversation or start a new one.
@@ -42,6 +50,10 @@ To apply a filter and add your memoji into iMessage:
 Here’s a memoji we ended up with after monkeying around with the noir filter:
 
 ![filters in animoji](https://static1.abbyy.com/abbyycommedia/26703/danya-monkey.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Android Tip: Sending Out GIFs with AR Emojis
 
@@ -53,9 +65,6 @@ After you create an AR emoji, your phone will automatically generate GIFs featur
 
 P.S. For more useful tips on using emojis, see the previous issues of this newsletter [here](https://tools.techidaily.com/abbyy/products/) and [here](https://tools.techidaily.com/abbyy/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## **ABBYY Tip: Using FineScanner in Research Projects**
 
 [FineScanner](http://qrs.ly/mg4z2wm) was conceived as a mobile app that would do the job of the traditional flat-bed scanner. And it’s not just occasional scanning of a handful of A4 pages. Meredith M. Parker, for example, has successfully used [FineScanner](http://qrs.ly/mg4z2wm) to scan and capture data from over 600 tables from the _Ministry of Labour Gazette_ published between 1923 and 1936\. For her project, the researcher needed to digitize UK unemployment statistics for the interwar period and export them to Microsoft Excel for further processing.
@@ -64,38 +73,31 @@ FineScanner successfully captured 600+ pages of printed tables, and all of the p
 
 ![abbyy finescanner](https://static1.abbyy.com/abbyycommedia/26704/fs1.jpg) Original photo
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![abbyy finescanner scanning documents](https://static1.abbyy.com/abbyycommedia/28714/fs2.png) Captured data in Excel
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 For a detailed step-by-step description of the data capture stage of the project, please see [this page](https://www.meredithpaker.com/updates/digitizingdata).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **App of the Week: Dogo**
 
 Naturally, you can take your puppy to a dog school, but lots of dog owners choose to train their four-legged pets themselves. [Dogo](https://dogo.pro/) is a mobile app intended to help you with training your dog. The app creates a daily training programme adapted specifically to your pet’s progress, providing you with lots of tips and advice on how to teach your puppy to respond to its name, to offer you its paw, to sit, to roll over, and do lots of other tricks. The app offers detailed step-by-step instructions for teaching your dog each new trick or command. ![train dogs](https://static1.abbyy.com/abbyycommedia/26706/dogo-en.png) ![excirsises for dogs on a smartphone](https://static1.abbyy.com/abbyycommedia/26707/dogo-en2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 You can then film your dog doing a new trick and submit the video via the app to get additional advice from dog training professionals.
 
 ![good dog](https://static1.abbyy.com/abbyycommedia/26708/dogo-en3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The app is available on [iOS](https://itunes.apple.com/ru/app/id1153294767) and [Android](https://play.google.com/store/apps/details?id=app.dogo.com.dogo%5Fandroid). That’s all from us for today. See you next Monday!
 
 P.S. You can find the previous issue of this newsletter here.
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -152,8 +154,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +161,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>[New] In 2024, Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>[New] Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>[Updated] Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[Updated] The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-uncovering-other-powerful-video-players-beyond-vlc/"><u>[Updated] Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>2024 Approved USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/windows-11-0xc000021a/"><u>迅速解決 Windows 11 系统崩潰錯誤 0xC000021A</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/anti-fog-gear-for-clear-shot-capture-in-cold-weather-for-2024/"><u>Anti-Fog Gear for Clear Shot Capture in Cold Weather for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-eradicated-your-ultimate-guide-to-fixing-twitch-mishap-error-4000/"><u>Error Eradicated: Your Ultimate Guide to Fixing Twitch Mishap - Error #4000</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-pratica-trasforma-la-tua-rete-fisica-in-una-streaming-ingranata-usando-movavi-cambiare-risoluzione-video/"><u>Guida Pratica: Trasforma La Tua Rete Fisica in Una Streaming Ingranata Usando Movavi | Cambiare Risoluzione Video</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-c51-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme C51 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-saving-time-avoiding-edgenuity-lessons-without-guilt/"><u>In 2024, Saving Time Avoiding Edgenuity Lessons Without Guilt</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-media-formats-from-srt-to-advanced-standards/"><u>In 2024, Streamlining Media Formats From SRT to Advanced Standards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/twilight-crusaders-the-darkened-knight-vs-the-shining-one-for-2024/"><u>Twilight Crusaders The Darkened Knight vs the Shining One for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/under-100-budget-friendly-action-cams-top-choices-guide-for-2024/"><u>Under-$100 Budget-Friendly Action Cams – Top Choices Guide for 2024</u></a></li>
+</ul></div>
 

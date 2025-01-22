@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Manage Invoices: Integrating ABBYY Technology with M-Files Systems"
-date: 2024-08-22T00:02:00.821Z
-updated: 2024-08-23T00:02:00.821Z
+date: 2025-01-15T23:15:48.113Z
+updated: 2025-01-21T19:48:08.299Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002cdc0aa0e847be271477f189f.jpg
@@ -9,7 +9,15 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ## Efficiently Manage Invoices: Integrating ABBYY Technology with M-Files Systems
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ABBYY | M-Files 
 
@@ -22,6 +30,10 @@ Neue Integrationen für KI-basierte intelligente Informations­management­lösu
 Die Integration von FlexiCapture in die Intelligent Management-Plattform von M-Files optimiert Geschäftsprozesse wie die Kreditorenbuchhaltung mithilfe durchgängig automatisierter Lösungen. FlexiCapture nutzt KI-Technologien, um unstrukturierte Inhalte in strukturierte, umsetzbare Informationen umzuwandeln. Dadurch kann M-Files Prozesse weiter automatisieren und Informationen intelligenter verwalten, was die digitale Transformation erleichtert. 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/vantage/vantage_overview_1.jpg?h=716&iar=0&w=1272)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 LÖSUNGSÜBERBLICK 
 
@@ -58,8 +70,9 @@ Das M-Files-System kontrolliert den Freigabe-Workflow und verwaltet Weiterleitun
 Leiten Sie freigegebene Rechnungen zur Zahlungsbearbeitung an die Finanzabteilung weiter.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Vorteile der Integration 
 
 ##### Suchen und nutzen Sie Informationen effektiver 
@@ -75,8 +88,9 @@ Die automatisierte Datenerfassung und -extraktion mit ABBYY eliminiert Fehler be
 Der vollständig automatisierte durchgängige Rechnungsprozess trägt zu einer höheren Genauigkeit bei und ermöglicht Straight-Through-Processing (STP) für einen optimalen Effizienzgewinn.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Das sagen unsere Kunden
 
 Die Partnerschaft zwischen ABBYY und M-Files hat es uns ermöglicht, beide Technologien kombiniert zu nutzen, um unsere Rechnungsprozesse zu optimieren und die Beziehung zu unseren Lieferanten zu verbessern. Wir nutzen die Lösung von ABBYY und M-Files, um jeden Monat Tausende von Rechnungen zu verarbeiten, und konnten auf diese Weise unsere Betriebskosten deutlich senken, Bearbeitungszeiten verkürzen und eine benutzerfreundliche Suchfunktion für Rechnungsdokumente einführen. 
@@ -91,17 +105,6 @@ Die Kombination von ABBYY FlexiCapture for Invoices und M-Files bietet eine leis
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/m-files.png?h=40&iar=0&w=120)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Möchten Sie mit unserem Expertenteam sprechen?
 
 [Demo vereinbaren](https://tools.techidaily.com/abbyy/products/)[Kontakt aufnehmen](https://tools.techidaily.com/abbyy/products/)
@@ -112,8 +115,6 @@ Die Kombination von ABBYY FlexiCapture for Invoices und M-Files bietet eine leis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +122,20 @@ Die Kombination von ABBYY FlexiCapture for Invoices und M-Files bietet eine leis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[New] 2024 Approved Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-optimize-your-youtube-content-for-maximum-viewership-and-engagement/"><u>[New] Optimize Your YouTube Content for Maximum Viewership and Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-premier-editor-that-works-on-every-device-you-own/"><u>[New] The Premier Editor That Works on Every Device You Own</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unselect-recommended-podcasts-efficiently-on-spotify/"><u>[New] Unselect Recommended Podcasts Efficiently on Spotify</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vision-to-visuals-craft-your-story-with-youtube-editor-for-2024/"><u>[Updated] From Vision to Visuals Craft Your Story with YouTube Editor for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-the-sensor-rich-world-of-iphone-x-photos/"><u>[Updated] Illuminating the Sensor-Rich World of iPhone X Photos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings-for-2024/"><u>5 Essential Strategies to Avoid a Dark Screen During OBS Recordings for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/erstellen-eines-windows-1011-reparaturtools-drei-effiziente-methoden/"><u>Erstellen Eines Windows 10/11 Reparaturtools: Drei Effiziente Methoden</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-dull-interviews-into-engaging-assessments/"><u>In 2024, Transforming Dull Interviews Into Engaging Assessments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-problems-making-your-usb-mouse-work-again-on-pclaptop/"><u>Overcoming Connection Problems: Making Your USB Mouse Work Again on PC/Laptop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-ae-scripting-tools-and-plug-ins/"><u>Top AE Scripting Tools & Plug-Ins</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-free-chants-and-sounds-a-guide-to-peaceful-meditation-for-2024/"><u>Top Free Chants & Sounds A Guide to Peaceful Meditation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vector-insight-for-beginners-basic-forms-and-choice-tools-for-2024/"><u>Vector Insight for Beginners Basic Forms and Choice Tools for 2024</u></a></li>
+</ul></div>
 

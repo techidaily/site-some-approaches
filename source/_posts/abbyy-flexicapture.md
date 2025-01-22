@@ -1,7 +1,7 @@
 ---
 title: "ABBYY FlexiCapture: 今日より、日本で本格的な販売がスタート"
-date: 2024-08-22T00:01:39.043Z
-updated: 2024-08-23T00:01:39.043Z
+date: 2025-01-21T01:17:20.804Z
+updated: 2025-01-21T17:38:41.923Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e621a133942b5008a80266cd9.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY FlexiCaptureを日本で本格販売開始
 
 10月21日, 2016
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ドキュメント認識・ドキュメントキャプチャ・言語技術やサービスを提供するリーダー企業であるABBYYジャパン株式会社（代表：小原洋、日本オフィス：横浜市港北区）は、インテリジェントなデータ・ドキュメントキャプチャソリューションABBYYFlexiCaptureを日本で本格販売を開始したと発表しました。ドキュメントベースのビジネスプロセスを賢く、より効率的にするために既存のプラットフォーム上にABBYY FlexiCaptureの最新拡張機能も搭載しております。分散文書処理、マルチチャンネルの文書入力、増加したシステムのユーザビリティ、制御および監視を展開するための高度なウェブベースのキャプチャは、最新拡張機能の一部です。FlexiCaptureプラットフォームは、請求書処理をサポートするように設計し拡張することも可能です。
 
@@ -73,8 +81,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,8 +88,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-epic-escapades-in-playtime-paradise/"><u>[New] Epic Escapades in Playtime Paradise</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-periscope-broadcasting-101-for-2024/"><u>[New] Step-by-Step Periscope Broadcasting 101 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-remedying-obs-fullscreen-disruption/"><u>[Updated] 2024 Approved Remedying OBS Fullscreen Disruption</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-audience-engagement-the-most-excellent-webcams-for-podcasts/"><u>[Updated] In 2024, Audience Engagement The Most Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-subrip-file-creation-from-compressed-archives/"><u>[Updated] SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-digital-destinations-for-text-overlays/"><u>[Updated] Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>[Updated] Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-game-capture-windows-11-edition/"><u>In 2024, Mastering Game Capture Windows 11 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-10-elements-that-enthrall-filmora-users/"><u>In 2024, The Best 10 Elements That Enthrall Filmora Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-unlock-6-free-youtube-endings-for-pros/"><u>In 2024, Unlock 6 Free YouTube Endings for Pros!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-esl-english-as-second-language-for-vr-for-2024/"><u>The ESL (English as Second Language) for VR for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-your-pcs-potential-with-these-5-windows-11-recording-methods-for-2024/"><u>Unlock Your PC's Potential with These 5 Windows 11 Recording Methods for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/versamix-suite-mac-and-pc-for-2024/"><u>VersaMix Suite - Mac & PC for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

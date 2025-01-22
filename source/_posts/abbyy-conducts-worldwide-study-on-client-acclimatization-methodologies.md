@@ -1,7 +1,7 @@
 ---
 title: ABBYY Conducts Worldwide Study on Client Acclimatization Methodologies
-date: 2024-08-22T00:00:09.603Z
-updated: 2024-08-23T00:00:09.603Z
+date: 2025-01-14T21:43:46.238Z
+updated: 2025-01-22T01:24:28.528Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6aad583a53288672db7b6ce02.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY、顧客のオンボーディングプロセスに関するグローバル調査を実施
 
 11月24日, 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![News Colleagues3](https://static1.abbyy.com/abbyycommedia/33750/news-colleagues3.jpg) 
 
@@ -35,17 +43,15 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 6. 顧客の離脱による影響として、日本企業の半数以上は新規顧客の獲得に苦しんでいる
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ▼調査目的
 
 [米国連邦取引委員会](https://www.ftc.gov/reports/consumer-sentinel-network-data-book-2021)のレポートによると、個人情報の盗難やなりすまし詐欺などの詐欺行為によって2021年に280万人以上の消費者が59億ドルの損害を受けたという報告があり、これは2020年の被害額よりも70%以上増加しています。個人間でも企業間においても、オンライン取引は世界中で増加している昨今、オンラインでのなりすましや詐欺、個人情報の盗難防止策は喫緊の課題となっています。  
 また、日本においては、2020年4月に犯罪収益移転防止法の改正により、本人確認方法が厳格化され、なりすまし行為などに対する一層の強化が図られている中、デジタル庁の推進により、マイナンバーカードと保険証や銀行口座との紐づけなど、個人情報の保護の観点からも、本人情報確認に関するシステムの一層の強化が課題となっています。  
 これらの外部環境の変化を受け、ABBYYは、顧客のオンボーディングプロセスおよび顧客のプロセス離脱対策としてどの程度テクノロジーを導入しているかを調査することで、日本と世界の企業による顧客のオンボーディングプロセスへの取り組みや意識の差を明らかにしました。
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### ▼調査方法
 
 本調査は、英国、米国、フランス、ドイツ、日本のIT意思決定者1,623人（日本：200人）を対象に、2022年9月に実施したオンライン調査です。新規顧客の獲得および顧客の離脱に対して、どの様に企業がテクノロジーを活用しているかを尋ねました。対象者の業界、役割の上位3種は以下の通りです  
@@ -59,22 +65,23 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 2. 「顧客のオンボーディングプロセスをどれくらい自動／人手で行っていますか？」という質問に対して、「50%以上は自動化している」と回答した割合が世界平均では82%であり、顧客のオンボーディングプロセスのデジタルシフトが進んでいることが分かります。その反面、日本は49%が「75%以上は人手で行っている」と回答しており、業務のデジタル化が遅れていることが明らかになりました。  
 ![](https://static1.abbyy.com/abbyycommedia/36330/2022-11-24_onboarding_survey_jp-image-2.png?width=801&height=335)
 3. 「顧客のオンボーディングプロセスに変更を加えたことがありますか？」という質問に対して、世界平均の96%は何らかのテクノロジーを活用したオンボーディングを行っていますが、日本は67%に留まり、大きく後進していることがわかりました。「当てはまらない」に関しては、日本が27%で世界平均の3%を大きく上回っており、日本の企業は顧客のオンボーディングプロセスを変えていない、つまりより改善する取り組みを行っていない可能性が高いことが明らかになりました。また、全体として少数ではあるものの、完全に人手での対応に変更した企業も8%と世界平均の2倍以上の数字となっており、日本企業はいまだテクノロジーではなく人手に頼る傾向が世界平均より強いといえます。  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.abbyy.com/abbyycommedia/36331/2022-11-24_onboarding_survey_jp-image-3.png?width=800&height=447)
 4. 「顧客のオンボーディングプロセス中での離脱率は何%ですか？」という質問に対して、「わからない」「該当なし」と回答した企業が世界平均は4%でしたが、日本は26%と顧客の離脱率に対する意識が日本は低い傾向があることがわかりました。  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.abbyy.com/abbyycommedia/36332/2022-11-24_onboarding_survey_jp-image-4.png?width=800&height=362)
 5. 「もし顧客の離脱率が50%下がった場合」に関する質問で、「何もしない／変化なし」と回答した数が日本企業は世界平均の約3倍でした。各質問での割合は、「収益が何%増加すると思いますか？（世界平均：6%、日本：21%）」「追加のサービスを何%増やしますか？（世界平均：6%、日本：17%）」「顧客開拓が何%増えると思いますか？（世界平均：5%、日本：18%）」「人材の為の対応を何％増やしますか？（世界平均：7%、日本：21%）」であり、現状維持を望む傾向が強いといえます。
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. 「昨年、顧客の離脱によりどの様なビジネス上の結果／余波がありましたか？」という質問に対して、「新規顧客獲得に苦しんだ」と回答した企業が世界平均の28%に対して日本では半数を超えており、日本企業が特に悩みを抱えている部分であり、喫緊の課題であることがわかりました。  
 ![](https://static1.abbyy.com/abbyycommedia/36333/2022-11-24_onboarding_survey_jp-image-5.png?width=800&height=375)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### ▼ABBYYグループCEO/取締役 ウルフ・パーソンのコメント
 
 「顧客のデジタルオンボーディングの重要性と、それによるビジネスへのプラス効果が、日本ではあまり認識されていない様に見受けられます。半数以上の企業が顧客獲得に悩まれていると調査では回答している訳ですが、オンボーディングプロセスを改善することで顧客の離脱率を下げ、そして結果として新規の顧客獲得を大きく改善できる、ということをもっと知って頂きたいです。ABBYYのインテリジェント・プロセス・オートメーションのテクノロジーで、デジタルオンボーディングプロセスと総合的なカスタマーエクスペリエンスを大きく向上できる余地が、日本にはまだまだ残されていると思います。」
@@ -84,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 「日本の企業は、IT部門とビジネス部門が更に協力体制を強める必要があると思います。日本では、IT担当者が新規顧客の獲得に関わっていないケースもしばしばお見受けしますが、現代のローコード・プラットフォームを活用して、IT担当者がビジネスの目標達成をサポートすることは非常に重要になってきていると感じます。顧客の本人確認手続きのデジタル化などは、ITがビジネスを改善していくまず最初の重要なステップではないかと考えます。」
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYはインテリジェント・オートメーションを推進するリーディング・カンパニーです。オートメーション・プラットフォームの原動力となるテクノロジーを提供することにより、人々の働き方やビジネス加速の方法に新しいビジョンをもたらしています。ABBYYのソリューションは、企業データを変換し、よりスマートかつ迅速な業務の遂行に必要なインサイトを提供します。 
@@ -113,8 +121,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +128,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-deactivating-instagrams-igtv-feature/"><u>[New] In 2024, Deactivating Instagram's IGTV Feature</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-backup-of-phones-camera-roll-for-snapchat-users-for-2024/"><u>[New] Navigating the Backup of Phone's Camera Roll for Snapchat Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-selecting-ideal-dimensions-aspect-ratio-guide-for-2024/"><u>[New] Selecting Ideal Dimensions Aspect Ratio Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trivia-titans-of-the-year-best-general-knowledge-sites/"><u>[New] Trivia Titans of the Year - Best General Knowledge Sites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-high-speed-windows-viewer-for-images/"><u>[Updated] In 2024, High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-conducting-engaging-interviews/"><u>2024 Approved The Art of Conducting Engaging Interviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>2024 Approved The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>2024 Approved The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-macos-manual-for-mixer-live-streaming/"><u>2024 Approved The Ultimate MacOS Manual for Mixer Live Streaming</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210268271-9781777207915-a-path-of-divine-encounters/"><u>A Path of Divine Encounters | Free Book</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/engage-and-inspire-viewers-animated-subscribers-in-filmora-explained-for-2024/"><u>Engage and Inspire Viewers - Animated Subscribers in Filmora Explained for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-reno-9a-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo Reno 9A to Another | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210907718-9781639610488-im-glad-it-was-me/"><u>I'm Glad It Was Me | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-virtual-realities-ios-and-androids-best-apps/"><u>In 2024, Top Virtual Realities IOS & Android's Best Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srs-adjustment-guide-boosting-performance-on-both-platforms-for-2024/"><u>SRS Adjustment Guide Boosting Performance on Both Platforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essentials-for-building-compelling-canon-time-lapses-for-2024/"><u>The Essentials for Building Compelling Canon Time-Lapses for 2024</u></a></li>
+</ul></div>
 

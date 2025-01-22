@@ -1,7 +1,7 @@
 ---
 title: Boost Your Site's Analytics Capability with Next-Gen Marketing Automation Tools
-date: 2024-08-22T00:00:59.053Z
-updated: 2024-08-23T00:00:59.053Z
+date: 2025-01-15T00:49:12.424Z
+updated: 2025-01-21T18:01:04.834Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3daaeb866103686a0f1d6cb404.jpg
@@ -18,6 +18,10 @@ March 05, 2019
 ![](https://static1.abbyy.com/abbyycommedia/26734/mobile-monday-70.jpg) 
 
 When we upgrade our phones, the apps on them stay almost the same – or do they? Let’s dig through your account’s logs and find out your very first smartphone app. We will also digitize a cookbook and animate photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **iOS Tip: Which App Came First?** 
 
@@ -41,6 +45,10 @@ This feature can also be useful when you are looking to reinstall an app but can
 
 **What was your first ever app? Do you still use it today? Share your answer in the comments below** 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Android Tip: Which App Came First?**
 
 To take a glimpse into the past, you need to first open Google Play. Then, tap the three bars in the top left corner **→ My apps & games → Library**.
@@ -55,9 +63,6 @@ This download history will be useful for those who are looking to find an app th
 
 **What was your first ever app? Do you still use it today? Share your answer in the comments below** 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **ABBYY Tip: FineScanner as a Culinary Assistant**
 
 Aside from assisting you in the office, [FineScanner](http://qrs.ly/mg4z2wm) can also be of help around the house.
@@ -67,24 +72,23 @@ One of our customers has shared his experience with using [FineScanner](http://q
 Read the customer’s full review [here](https://appfollow.io/app/1363/review/19707474?s=abbyy&utm%5Fsource=reviews&utm%5Fmedium=slack&utm%5Fcampaign=permalink).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **App of the Week: Enlight Pixaloop**
 
 Have you ever seen a static image modified to look like an animated GIF file? Photos where one or several elements have been animated are called cinemagraphs. For example, you can have drifting clouds or splashing waves on an otherwise static photo of a scenic beach.
 
 ![pixaloop](https://static1.abbyy.com/abbyycommedia/26625/app1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 Cinemagraphs can be created using [Enlight Pixaloop](https://www.pixaloopapp.com/). No specialized photo editing skills are required: the app will do just about everything for you. The only thing you need to do is use markers and arrows to set a movement direction for the object you want to animate. In the photo above, for example, we have animated the model’s hair.
 
 ![making moving photos](https://static1.abbyy.com/abbyycommedia/26626/app2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [You can download the app for iOS here](https://itunes.apple.com/ru/app/enlight-photoloop/id1381206010?l=en&mt=8) and surprise your friends with cool-looking cinemagraphs.
 
 That’s all, folks! See you next time!
@@ -94,8 +98,9 @@ P.S. You can find the previous issue of this newsletter [here](https://tools.tec
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -151,8 +156,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +163,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-zoom-tools-for-clear-session-capture-for-2024/"><u>[New] Best Zoom Tools for Clear Session Capture for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-propel-your-igtv-presence-techniques-to-skyrocket-subscriber-count/"><u>[New] In 2024, Propel Your IGTV Presence Techniques to Skyrocket Subscriber Count</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blueprint-for-big-screens-the-art-of-filmmaking/"><u>[Updated] Blueprint for Big Screens The Art of Filmmaking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-spectacular-results-with-hdr-portraits/"><u>2024 Approved Unveiling Spectacular Results with HDR Portraits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boosting-instagram-videos-online-strategies-for-faster-views/"><u>Boosting Instagram Videos Online Strategies for Faster Views</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-fix-memory-issues-effectively-with-yl-software-guidance/"><u>How to Fix Memory Issues Effectively with YL Software Guidance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-premium-portals-best-websites-to-secure-snapalert-beats/"><u>In 2024, Premium Portals Best Websites to Secure SnapAlert Beats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>In 2024, Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/iosandroid-techniques-extracting-twitters-gifs-for-2024/"><u>IOS/Android Techniques Extracting Twitter's GIFs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/simplified-pathway-using-instagram-live-effectively/"><u>Simplified Pathway Using Instagram Live Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-best-value-camcorders-for-sports-and-stunts-for-2024/"><u>Top 5 Best Value Camcorders for Sports and Stunts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trends-that-make-your-meme-epidemic-for-2024/"><u>Trends That Make Your Meme Epidemic for 2024</u></a></li>
+</ul></div>
 

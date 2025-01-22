@@ -1,7 +1,7 @@
 ---
 title: "Digitales Wachstum Mit Leichtigkeit Erleben: Entdecken Sie Die Neuesten Funktionen Von ABBYY Vantage 2 & Der Neuen KI-Plattform!"
-date: 2024-08-22T00:03:17.060Z
-updated: 2024-08-23T00:03:17.060Z
+date: 2025-01-17T22:38:33.693Z
+updated: 2025-01-21T21:20:39.447Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7556fd8a130e20454901702b.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY stellt No-Code-Plattform Vantage 2 und neuen KI-Marketplace für schnellen Weg in die digitale Transformation vor
 
 23\. März 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Vantage 2 bietet sofort einsatzbereite KI-Skills für die intelligente Automatisierung.**
 * **Über den ABBYY Marketplace können Benutzer ganz einfach kognitive Skills erwerben, um ihre Automatisierungsinitiativen zu beschleunigen.**
@@ -66,8 +74,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -75,8 +81,24 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/levate-your-traffic-ethically-youtubes-best-practices-for-2024/"><u>[New] Elevate Your Traffic Ethically YouTube's Best Practices for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-comprehensive-guide-to-embedding-multiple-youtube-playlists-in-websites/"><u>[New] In 2024, Comprehensive Guide to Embedding Multiple YouTube Playlists in Websites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-use-your-recordings-for-a-seamless-live-experience-on-fb-for-2024/"><u>[Updated] How to Use Your Recordings for a Seamless Live Experience on FB for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-real-time-media-streamers/"><u>[Updated] Superior Real-Time Media Streamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>[Updated] Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>2024 Approved The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-glossary-for-googles-voice-to-text-feature/"><u>2024 Approved Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-audio-potential-pazeras-free-tool-review/"><u>2024 Approved Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-potential-tips-for-screenplay-dialogue-and-narration/"><u>2024 Approved Unlocking Potential Tips for Screenplay Dialogue and Narration</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-galaxy-f04-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung Galaxy F04 ?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/correcting-contact-details-in-protonvpn-extension/"><u>Correcting Contact Details in ProtonVPN Extension</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-choosing-a-screen-for-superior-4k-video/"><u>In 2024, The Ultimate Guide to Choosing a Screen for Superior 4K Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-starter-gear-for-gopro-cameras/"><u>In 2024, Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-inbox-the-ultimate-how-to-for-turning-on-google-mail-2fa/"><u>Protecting Your Inbox: The Ultimate How-To for Turning On Google Mail 2FA</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-red-magic-8s-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Red Magic 8S Pro+ Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ustream-live-and-comparable-platforms/"><u>Ustream Live & Comparable Platforms</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->

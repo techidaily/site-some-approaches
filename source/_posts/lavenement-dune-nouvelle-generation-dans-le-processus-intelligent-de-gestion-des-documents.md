@@ -1,7 +1,7 @@
 ---
 title: L'Avènement D’une Nouvelle Génération Dans Le Processus Intelligent De Gestion Des Documents
-date: 2024-08-22T00:05:03.850Z
-updated: 2024-08-23T00:05:03.850Z
+date: 2025-01-14T16:09:02.503Z
+updated: 2025-01-21T17:59:02.162Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977aace37b8f0906719738cd6b.jpg
@@ -24,22 +24,25 @@ January 18, 2023
 Au cœur de cette transformation, une technologie que nous connaissons depuis des décennies : la reconnaissance optique de caractères (OCR). Autrefois simple outil de numérisation de texte, l’OCR joue aujourd’hui un rôle crucial dans l’entraînement des LLM (large language models), avec des données de grande qualité. Cette évolution d’un simple outil de conversion de texte vers un fournisseur élaboré de données illustre l’adaptabilité et la pertinence sur la durée des technologies d’IDP. L’ancien IDP ouvre la voie à une nouvelle ère où précision et contexte sont primordiaux.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Applications et défis dans le monde réel
 
 Today's [L'OCR](https://tools.techidaily.com/abbyy/products/) d’aujourd’hui ne consiste pas à juste lire du texte : il s’agit aussi de le comprendre dans son intégralité. Les entreprises exigent un plus grand niveau de précision et plus d’informations tirées des données, ce qui nécessite que les technologies d’IDP soient plus avancées et nuancées. Cependant, cette évolution n’est pas sans poser des problèmes. Cet équilibre entre précision et compréhension du contexte devient essentiel. Comment pouvons-nous garantir que les données qui alimentent les systèmes d’IA sont non seulement justes, mais également pertinentes par rapport au contexte ?
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### L’avenir du Traitement Intelligent des Documents (IDP)
 
 L’avenir de l’IDP repose dans sa capacité non seulement à évoluer, mais aussi à révolutionner la façon dont nous pensons les données et l’IA. Il s’agit de créer des systèmes qui non seulement traitent les documents mais qui les comprennent, en extrayant non seulement les données mais aussi les informations. Ce nouvel IDP sera la pierre angulaire du paysage de l’IA, en constante évolution, et un élément essentiel pour développer des systèmes plus intelligents, plus efficaces et plus intuitifs. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Les rouages internes de l’IDP moderne
 
 Alors que nous abordons cette nouvelle ère de l’IDP, il est essentiel de comprendre les avancées technologiques qui permettent cette transformation. Au cœur du [traitement intelligent et moderne des documents,](https://tools.techidaily.com/abbyy/products/) il y a son intégration aux technologies d’IA de pointe, en particulier dans le cadre du machine learning et du traitement du langage naturel.
@@ -56,9 +59,6 @@ L’intégration du traitement du langage naturel (NLP) permet à l’IDP de fra
 
 La beauté des systèmes modernes d’IDP réside dans leur capacité à apprendre et à se perfectionner en permanence. Alimentés par du feedback, ces systèmes peuvent ajuster leurs algorithmes, s’adapter à de nouveaux types de documents et améliorer leur précision au fil du temps. Ce processus d’apprentissage continu garantit que l’IDP reste pertinent et efficace, même à mesure que les types et formats de documents évoluent.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Le rôle des données de grande qualité pour l’entraînement des large language models (LLM)
 
 Comprendre comment des LLM tels que GPT-4, Claude, Llama, ou d’autres sont entraînés grâce à des données tirées de l’IDP permet de comprendre la relation symbiotique entre ces technologies. Voici le découpage du processus :
@@ -84,8 +84,9 @@ Ce processus de formation nécessite d’exposer le LLM à de grandes quantités
 Une fois entraîné, le LLM subit des tests rigoureux avant validation. Cela comprend la vérification de sa capacité à comprendre et à générer du langage dans différents domaines, styles, et formats. Le feedback tiré de cette phase alimente à son tour la boucle de formation du LLM pour affiner encore ses fonctionnalités.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## À l’aube d’une nouvelle ère
 
 Déclarer « l’IDP est mort, vive l’IDP » n’est pas une contradiction, plutôt l’affirmation de la nature résiliente et évolutive de cette technologie. Ce que l’on connaissait comme étant l’IDP s’est transformé pour céder la place à une partie plus évoluée et plus intégrée de l’écosystème de l’IA. C’est un formidable moment pour faire partie de cette aventure, l’aube d’une nouvelle ère du traitement des documents et de l’intelligence artificielle. 
@@ -97,8 +98,9 @@ Découvrez pourquoi ABBYY a été désigné leader de l’IDP pour la quatrième
 ![Maxime Vermier ABBYY](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Directeur Senior de la stratégie IA 
@@ -157,8 +159,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +166,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-route-to-collecting-pictorial-frame-downloads/"><u>[New] The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-prolific-pose-pattern-packages/"><u>[Updated] Prolific Pose Pattern Packages</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-millions-of-views-on-youtube-videos/"><u>[Updated] The Path to Millions of Views on YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>2024 Approved The Art of Matching FPV Drones with Ideal Blades</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-practices-for-sharing-generosity-through-steams-digital-cards/"><u>Best Practices for Sharing Generosity Through Steam's Digital Cards</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cross-continental-chatgpt-access-made-easy/"><u>Cross-Continental ChatGPT Access Made Easy</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-samsung-oem-android-debug-bridge-adb-drivers-free/"><u>Download Samsung OEM Android Debug Bridge (ADB) Drivers - Free</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-godslayer-chronicles-ragnarok-dawn/"><u>In 2024, Godslayer Chronicles Ragnarok Dawn</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-design-with-new-fonts-in-after-effects/"><u>In 2024, Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972029542-install-new-drivers-for-your-linksys-ea7300-router-enhanced-stability-and-speed/"><u>Install New Drivers for Your Linksys EA7300 Router - Enhanced Stability and Speed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superior-picks-top-9-chat-and-call-apps-for-smartphones-iosandroid-for-2024/"><u>Superior Picks Top 9 Chat & Call Apps for Smartphones iOS/Android for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/"><u>Swift Closure of a LinkedIn Account The How-To Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-chatting-with-voices-on-whatsapp-for-2024/"><u>The Art of Chatting with Voices on WhatsApp for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-tutorial-for-apple-music-and-video-mix-for-2024/"><u>The Ultimate Tutorial for Apple Music & Video Mix for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/verifying-true-dolby-atmos-effects-are-they-living-up-to-the-hype/"><u>Verifying True Dolby Atmos Effects: Are They Living Up to the Hype?</u></a></li>
+</ul></div>
 

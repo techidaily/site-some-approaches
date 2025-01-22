@@ -1,7 +1,7 @@
 ---
 title: Accédez Aux Stock Footages Illimités De Storyblocks Pour Ajouter Une Dimension Visuelle À Votre Projet
-date: 2024-12-26T18:02:58.128Z
-updated: 2025-01-02T16:12:40.182Z
+date: 2025-01-15T19:23:21.459Z
+updated: 2025-01-22T01:07:03.584Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994c1a8448795d8b564ff658a3.jpg
@@ -30,7 +30,7 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -161,7 +161,7 @@ Afficher plus
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -190,6 +190,10 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -199,10 +203,6 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -235,7 +235,7 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -253,7 +253,7 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Gérez vos heures actives
@@ -261,7 +261,7 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
@@ -342,10 +342,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -366,15 +362,15 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -444,7 +440,7 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
@@ -455,6 +451,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -504,6 +504,10 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -513,10 +517,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -585,22 +585,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-your-go-to-spots-for-quality-pixel-tones/"><u>[New] 2024 Approved Your Go-To Spots for Quality Pixel Tones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725286525363-ai-60120/"><u>激进提速AI填充解决方案 - 优化影片至60/120帧平滑过渡技巧</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/digiarty-winxdvd-faq/"><u>利用者がよく抱える Digiarty WinXDVD 関連質問: FAQ・技術サポートチェック項目</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725289869120-aacdvd/"><u>AACに変換してより良い品質で使える音楽ライブDVDのダウンロード手順</u></a></li>
-<li><a href="https://fox-info.techidaily.com/empower-pics-with-perimeter-blur-using-cs/"><u>Empower Pics with Perimeter Blur Using CS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/fast-and-user-friendly-winx-dvd-to-mp4-ripper-for-windows-10-convert-and-extract-your-videos-with-expert-precision/"><u>Fast & User-Friendly WinX DVD to MP4 Ripper for Windows 10: Convert and Extract Your Videos with Expert Precision</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-rare-to-revelled-elevate-group-notoriety-on-fb/"><u>From Rare to Revelled: Elevate Group Notoriety on FB</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a14-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A14 4G Phone that is Locked?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-camera-roll-export-to-snapchat-a-step-by-step-guide-for-2024/"><u>Mastering Camera Roll Export to Snapchat A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-5-free-mov-file-mergers-for-seamless-video-editing/"><u>New 2024 Approved Top 5 Free MOV File Mergers for Seamless Video Editing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-techniques-for-saving-chatgpt-interactions-for-later-use/"><u>The Ultimate Techniques for Saving ChatGPT Interactions for Later Use</u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-5-free-pinterest-video-downloader-online-for-2024/"><u>Top 5 Free Pinterest Video Downloader Online for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-kid-friendly-disney-holiday-films-complete-guide-for-december-2023/"><u>Top Kid-Friendly Disney Holiday Films: Complete Guide for December 2023</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transferring-movies-from-dvds-to-usb-drives-a-step-by-step-guide-for-windows-and-mac-users/"><u>Transferring Movies From DVDs to USB Drives: A Step-by-Step Guide for Windows & Mac Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-and-correcting-corrupted-hdmv-files-in-handbrake-for-perfect-playback/"><u>Troubleshooting and Correcting Corrupted HDMV Files in Handbrake for Perfect Playback</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/vn-video-editor-pro-does-it-deliver-on-its-promises-in-2024/"><u>VN Video Editor Pro Does It Deliver on Its Promises, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288103212-winxvideo-ai-androidios/"><u>Winxvideo AI: 훌륭한 미디어 코퍼리터를 Android/iOS 스마트폰에 바인딩</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-list-of-best-most-affordable-recorders/"><u>[New] In 2024, The Ultimate List of Best, Most Affordable Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-proficiency-through-practice-using-ez-grabber/"><u>[Updated] In 2024, Proficiency Through Practice Using EZ Grabber</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-macs-visionary-picks-the-10-elite-monitors-with-4k/"><u>[Updated] Mac's Visionary Picks The #10 Elite Monitors with 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-indian-film-downloads-top-bollywood-movies-without-cost/"><u>Best FREE Indian Film Downloads - Top Bollywood Movies Without Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-dvd-to-video-conversion-on-macos-with-macx-professional-dvd-to-mp4-avi-and-mkv-creator/"><u>Effortless DVD-to-Video Conversion on macOS with MacX Professional DVD to MP4, AVI, and MKV Creator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-guide-to-high-quality-no-compromise-digital-copies-from-your-dvd-collection/"><u>Expert Guide to High-Quality, No-Compromise Digital Copies From Your DVD Collection</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-n3-flip-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Find N3 Flip by Name | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-novices-route-to-excellent-game-editing-platforms/"><u>In 2024, Novice's Route to Excellent Game Editing Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphoneios14ios11/"><u>IPhoneのスクリーンショットや画像録画ができない？iOS14～iOS11で使える簡単解決策をご紹介！</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-digiarty/"><u>MacX DVD使い方詳しく解説 - Digiartyソフトウェアでの快適な利用ガイド | 支払い手段：コンビニ電子決済方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-computers-the-game-changing-intel-ai-processor-with-amazing-perks-for-your-future-laptop/"><u>Revolutionizing Computers: The Game-Changing Intel AI Processor with Amazing Perks for Your Future Laptop</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranking-dvd-extractor-software-fur-pc-und-mac-sichere-dvd-extraktion-in-verschiedenen-formaten-wie-avi-mp4-mkv/"><u>Top-Ranking DVD Extractor Software Für PC Und Mac: Sichere DVD-Extraktion in Verschiedenen Formaten Wie AVI, MP4, MKV</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-office-outlook-alerts-in-windows/"><u>Troubleshooting Non-Functional Office Outlook Alerts in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-eliminating-black-frames-and-boxing-from-videos/"><u>Ultimate Guide: Eliminating Black Frames and Boxing From Videos</u></a></li>
 </ul></div>
 

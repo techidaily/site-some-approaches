@@ -1,7 +1,7 @@
 ---
 title: ABBYYが2024年Gartner Magic Quadrantにてプロセスマイニング技術リーダーとして認定さ
-date: 2024-08-22T00:01:42.865Z
-updated: 2024-08-23T00:01:42.865Z
+date: 2025-01-17T16:48:22.625Z
+updated: 2025-01-21T22:07:48.471Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg
@@ -11,11 +11,23 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 レポート 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY、2024年Gartner® Magic Quadrant™のプロセスマイニングプラットフォームのリーダーに選出
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ABBYYは、Timeline process intelligenceプラットフォームの完全なビジョンと実行能力を評価されました。 
 
 ![Figure_1_Magic_Quadrant_for_Process_Mining](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/resource-center/content-images/figure_1_magic_quadrant_for_process_mining.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [プロセスマイニングプラットフォーム](https://tools.techidaily.com/abbyy/products/) プロセスマイニングプラットフォーム
 
@@ -40,8 +52,9 @@ GARTNER is a registered trademark and service mark, and MAGIC QUADRANT and PEER 
 Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences with the vendors listed on the platform, should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose."
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ABBYYにご関心をお寄せいただき、誠にありがとうございます。 
 
 [レポートを読む](https://www.gartner.com/reprints/?id=1-2HU9T8IX&ct=240614&st=sb "Read the report") 
@@ -104,8 +117,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +124,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplifying-your-impact-voice-customization-in-instagram-media/"><u>[New] 2024 Approved Amplifying Your Impact Voice Customization in Instagram Media</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-easy-to-use-editing-tools-no-cost/"><u>[New] 2024 Approved Vimeo's Easy-to-Use Editing Tools, No Cost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-7-proven-techniques-to-skyrocket-your-instagram-profile/"><u>[New] In 2024, 7 Proven Techniques to Skyrocket Your Instagram Profile</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-reducing-vids-a-guide-to-instagram-length-control-mac-for-2024/"><u>[New] Reducing Vids A Guide to Instagram Length Control, Mac for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tag-and-post-a-moment-of-pure-sound-wisdom/"><u>[New] Tag & Post a Moment of Pure Sound Wisdom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-smooth-video-extraction-via-funimate/"><u>[New] The Ultimate Guide to Smooth Video Extraction via Funimate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-twitch-and-youtube-a-comprehensive-streamers-guide/"><u>[New] Twitch and YouTube A Comprehensive Streamer's Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-recent-youtube-financial-policies/"><u>[New] Understanding Recent YouTube Financial Policies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tune-tracker-audio-for-visual-creations/"><u>[Updated] Tune Tracker Audio for Visual Creations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-facebooks-secrets-30-insider-tricks-for-growth/"><u>[Updated] Unveiling Facebook's Secrets 30 Insider Tricks for Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-swiftly-switch-srt-and-text-files-with-this-easy-guide/"><u>2024 Approved Swiftly Switch SRT and Text Files with This Easy Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-twitters-verification-process-the-significance-of-blue-checkmarks/"><u>Dissecting Twitter's Verification Process: The Significance of Blue Checkmarks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ghostly-movies-innovation-in-recorders/"><u>Ghostly Movies Innovation in Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-6-business-driven-social-networks/"><u>In 2024, Top 6 Business-Driven Social Networks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-iphonepcs-full-potential-with-these-top-8-converters-for-2024/"><u>Unlock iPhone/PC's Full Potential With These Top 8 Converters for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevating-your-viewing-experience-2023-guide-to-audio-volume-adjustment-in-videos-for-2024/"><u>Updated Elevating Your Viewing Experience 2023 Guide to Audio Volume Adjustment in Videos for 2024</u></a></li>
+</ul></div>
 

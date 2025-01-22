@@ -1,7 +1,7 @@
 ---
 title: ABBYY Crowned Top Performer by Everest Group in the 2020 IDP Peak Matrix
-date: 2024-08-21T23:59:20.802Z
-updated: 2024-08-22T23:59:20.802Z
+date: 2025-01-16T01:58:23.110Z
+updated: 2025-01-22T00:03:17.349Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea60d5a674997e4383f15e6a2.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everest Group Recognizes ABBYY as a Leader in Intelligent Document Processing Products PEAK Matrix® Assessment 2020 for Second Consecutive Year
 
 April 09, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 ABBYY®, a Digital Intelligence company, has been recognized by Everest Group, a leading consulting and research firm, as a Leader in its Intelligent Document Processing (IDP) products PEAK Matrix® Assessment 2020\. ABBYY is positioned in the Leaders’ category of the comparative assessment among 18 vendors due to its impact in the market and its ability to deliver solutions successfully.
@@ -64,8 +72,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -73,8 +79,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>[New] 2024 Approved Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-best-in-the-shadows-vids-2023s-prime-8-app-list/"><u>[New] Best In-The-Shadows Vids - 2023'S Prime 8 App List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-pinnacle-guide-to-uncomplicated-online-live-streams/"><u>[Updated] The Pinnacle Guide to Uncomplicated Online Live Streams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-optimal-and-economical-selecting-the-top-free-webm-playback-options/"><u>2024 Approved Optimal and Economical Selecting the Top Free WebM Playback Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-best-android-edits/"><u>2024 Approved Unleash Creativity Best Android Edits</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-13-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 13 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-active-directory-print-failures-on-windows-11-os/"><u>Fixing Active Directory Print Failures on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revolutionize-social-networking-with-downloader-tools/"><u>In 2024, Revolutionize Social Networking with Downloader Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-online-gif-video-converters/"><u>In 2024, The Ultimate Guide to Online GIF Video Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-sudden-pause-in-photobooth-videos/"><u>In 2024, Understanding Sudden Pause in Photobooth Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-lossless-vlc-trimming-on-mac-the-ultimate-guide-for-2024/"><u>New Lossless VLC Trimming on Mac The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/spooktacular-halloween-walls-terrifying-backdrops-and-graphics-by-yl-computing/"><u>Spooktacular Halloween Walls: Terrifying Backdrops & Graphics by YL Computing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

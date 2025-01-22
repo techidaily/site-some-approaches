@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Data Collection: Boost Your Site's Insights"
-date: 2024-08-22T00:01:50.170Z
-updated: 2024-08-23T00:01:50.170Z
+date: 2025-01-20T18:42:55.584Z
+updated: 2025-01-21T20:06:35.305Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY ernennt Industrie-Veteranen Robert Youngjohns zum Vorstandsvorsitzenden
 
 20\. April 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Neuer Vorstandsvorsitzender Youngjohns soll das Wachstum der Digital Intelligence-Strategie von ABBYY beschleunigen_
 
@@ -51,8 +59,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,23 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/tream-masters-symposium-for-2024/"><u>[New] Stream Masters Symposium for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-next-frontier-of-classroom-technology-vr/"><u>[New] The Next Frontier of Classroom Technology - VR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>[New] Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-the-secrets-to-altering-your-networks-showcase-picture-for-2024/"><u>[New] Unlocking the Secrets to Altering Your Network's Showcase Picture for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhance-your-browsing-fixing-fuzzy-videos-in-chrome-and-phone-apps/"><u>[Updated] 2024 Approved Enhance Your Browsing Fixing Fuzzy Videos in Chrome and Phone Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-and-tricks-erasing-unwanted-backdrops/"><u>[Updated] Tips and Tricks Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-reignite-drive-the-ultimate-inspiration-list/"><u>2024 Approved Reignite Drive The Ultimate Inspiration List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transition-techniques-elevating-your-kinemaster-filmography/"><u>2024 Approved Transition Techniques Elevating Your Kinemaster Filmography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-troubleshooting-stuck-predictive-emojis-on-iphones-and-ipads/"><u>7 Rapid Repairs: Troubleshooting Stuck Predictive Emojis on iPhones & iPads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-use-picture-in-picture-on-chrome-on-all-platforms/"><u>In 2024, How to Use Picture in Picture on Chrome on All Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>In 2024, Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/making-mp3-from-instagram-visual-content-for-2024/"><u>Making MP3 From Instagram Visual Content for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-effective-fixes-for-dealing-with-deathloop-pc-freezes-and-crashes/"><u>No More Frustration: Effective Fixes for Dealing with Deathloop PC Freezes & Crashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transition-tips-seamlessly-moving-to-macos-sierra-for-2024/"><u>Transition Tips Seamlessly Moving to MacOS Sierra for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-virtual-experiences-simplified-insights-for-2024/"><u>Unveiling Virtual Experiences Simplified Insights for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->

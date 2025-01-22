@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Art of Flipping Photo Shades for 2024"
-date: 2024-08-17T14:45:54.517Z
-updated: 2024-08-18T14:45:54.517Z
+date: 2025-01-14T23:40:16.873Z
+updated: 2025-01-21T21:02:40.468Z
 tags: 
   - screen-recording
   - ai video
@@ -54,9 +54,17 @@ Besides creating image negatives, the Preview app lets you convert image files a
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color-original.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Clicking on the **Adjust Color feature** will bring up the color adjustment panel that contains **Black Level and White Level** sliders. To invert the colors in the photo you have to drag the **Black Level slider to the right** and the **White Level Slider to the left.**
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
 
@@ -68,6 +76,10 @@ You can experiment with the values you assign to each of these sliders in order 
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
 
 #### 4. Inverting colors in [tjshome](http://tjshome.com/imageconverter.php) Image Editor
@@ -78,6 +90,10 @@ The platform’s homepage contains a number of categories of tools such as **Col
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/imageconverter-tjshome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition to a rich selection of effects you can apply to images, tjshome also lets you browse through **Funny Dumb Laws, Famous Quotes or Funny Status Messages** categories. Click on the **Image Filter** category in order to view all effects the platform offers. Make sure that the **Reverse Colors/Negate effect** is selected, and then scroll further down the page to **upload the photo you’d like to invert.** When the upload process is completed, you can check the Make **Public checkbox** if you want to add your photo to the tjshome’s gallery. Click on the **Submit** button, and then proceed to save the picture to your computer. This platform lets you invert images in three easy steps, but if you want to have more control over the process, it is better to use a more powerful photo editor.
 
 #### 5. Using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)’s Invert Option
@@ -87,6 +103,10 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -128,14 +148,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-creative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork/"><u>[New] In 2024, Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-your-tiktok-profile-altering-account-numbers/"><u>[New] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-pioneering-the-past-selecting-top-historical-educational-yts-for-2024/"><u>[Updated] Pioneering the Past Selecting Top Historical Educational YTs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>[Updated] The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-zeoid-startups-revealed-in-panzoids/"><u>[Updated] Top Zeoid Startups Revealed in Panzoids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigate-to-success-the-insiders-guide-to-adding-times/"><u>2024 Approved Navigate to Success The Insider's Guide to Adding Times</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unstuck-video-streams-from-photobooth-screens/"><u>2024 Approved Unstuck Video Streams From Photobooth Screens</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-trouble-6-steps-for-restoring-guided-access-functionality-on-ios/"><u>Bypassing Trouble: 6 Steps for Restoring Guided Access Functionality on iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-claude-the-revolutionary-ai-tool-explained/"><u>Discovering Claude: The Revolutionary AI Tool Explained</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-wi-fi-performance-installing-new-atheros-drivers-in-windows-10/"><u>Elevate Wi-Fi Performance: Installing New Atheros Drivers in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-free-dvd-converter-app-for-windows-10-and-11-at-zero-charge/"><u>Get Your Free DVD Converter App for Windows 10 & 11 at Zero Charge!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>In 2024, The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-avoiding-vr-nausea/"><u>In 2024, The Ultimate Guide to Avoiding VR Nausea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-advanced-camera-settings/"><u>In 2024, Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-phone-into-a-funimate-portal-via-apk-for-2024/"><u>Transform Your Phone Into a Funimate Portal via APK for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/winning-more-followers-on-instagram-with-proven-techniques/"><u>Winning More Followers on Instagram with Proven Techniques</u></a></li>
+</ul></div>
+

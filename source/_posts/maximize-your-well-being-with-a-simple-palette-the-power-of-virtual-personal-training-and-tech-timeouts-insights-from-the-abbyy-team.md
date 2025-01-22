@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Well-Being with a Simple Palette: The Power of Virtual Personal Training & Tech Timeouts | Insights From the ABBYY Team"
-date: 2024-08-22T00:05:06.222Z
-updated: 2024-08-23T00:05:06.222Z
+date: 2025-01-16T17:16:21.371Z
+updated: 2025-01-21T21:13:19.861Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a85122e6caa68a425ef40bc26.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Two Colours Suffice, Virtual Fitness Coach, and Digital Detox
 
 February 23, 2018
@@ -19,12 +23,20 @@ February 23, 2018
 
 Monochrome mode on a smartphone is becoming popular - it helps to distract less on a gadget. In today’s issue we’ll show how to turn monochrome mode on. Also we’ll have a talk on how FineScanner differs from a usual camera.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **iOS Tip: Going Monochrome**
 
 Recently, more and more people have been giving up the full-color experience offered by their Retina displays in favor of a low-key greyscale UI. The trend started two months ago when Rehman Ata, a biology scholar, launched his [Gogray.today](https://gogray.today/) website. The main idea behind the project is to help people become less addicted to their mobile phones and spend more time on things that really matter to them. If you, too, feel that you’re spending way too much time on your phone, why not try the new greyscale diet? Here’s the recipe:
 
 1. Open **Settings** and tap **General**.
 2. Tap **Accessibility** and flip the **Greyscale** switch on. That’s it!![iOS Monochrome mode display iphone](https://static1.abbyy.com/abbyycommedia/26171/ios-grayscale-mode-1-e1517222666568.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now your phone will display everything in black-and-white. PLEASE NOTE: The “Greyscale” setting only affects how content is displayed, it does not convert your pictures or videos to black-and-white. When taking a photo, for instance, you will see it in greyscale but all the colors will still be there and visible to you when you choose to revert to full color. Also, switching to greyscale has no effect on the battery life of your phone. Which is a shame, really.
 
@@ -44,9 +56,6 @@ Here’s how your screen will look like from now on:
 
 ![monochrome mode switched on android](https://static1.abbyy.com/abbyycommedia/26173/pic2-e1517223380832.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **ABBYY Tip: FineScanner vs Regular Camera**
 
 “How is your app different from the pre-installed camera app?” This question has popped up now and then in your comments on the [FineScanner](http://qrs.ly/pl4x25p) page. Read on to find out.
@@ -59,9 +68,6 @@ Unlike your regular camera app:
 4. In [FineScanner](http://qrs.ly/pl4x25p), you can have your documents recognized by means of OCR technology, so you end up with an editable Word, Excel, or PowerPoint document. Many other document formats are also supported. [FineScanner](http://qrs.ly/pl4x25p) can recognize texts in 193 languages.
 5. [FineScanner](http://qrs.ly/pl4x25p) has a unique book scanning mode, where you scan an open book and the app will automatically split the photo into two pages and straighten out any curved lines!
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## **App of the Week: Freeletics, Your Personal Fitness Coach** 
 
 [Freeletics](https://www.freeletics.com/en) is a fitness training program designed to make you stronger, fitter and generally more healthy. It will also help you keep your weight under control. Inside [Freeletics](https://www.freeletics.com/en), you will find all those basic gym exercises that even a novice can do. What sets [Freeletics](https://www.freeletics.com/en) apart is a cleverly devised system for monitoring and motivating athletes. The main statistic the program uses to assess your fitness and effort is the time you spend on each set of exercises. Exercise times are used to monitor your progress and to compare your results against those of other members of the program all over the world.
@@ -69,8 +75,9 @@ Unlike your regular camera app:
 ![App Freeletics Fitness Coach training program](https://static1.abbyy.com/abbyycommedia/26174/aphrodite_endurance-e1517224372346.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The program is supported by two mobile apps — [Bodyweight](https://www.freeletics.com/en/knowledge/understanding-your-training-plan/) and [Nutrition](https://www.freeletics.com/en/nutrition). The first is used to organize your workouts while the second takes care of your diet. Here are several reasons why we think [Freeletics](https://www.freeletics.com/en) is worth a try:
 
 * You can work out anywhere — at home, outdoors, in the office or at a gym.
@@ -80,12 +87,13 @@ The program is supported by two mobile apps — [Bodyweight](https://www.freelet
 
 ![apps Bodyweight Nutrition sport health freeletics](https://static1.abbyy.com/abbyycommedia/26175/s3amazonawscom2fappforest_uf2ff1495566770688x3917665102053433602ffre7-e1517225256870.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can start training with [Freeletics](https://www.freeletics.com/en) for free, but as you progress, in several weeks’ time, you will need to pay for the more advanced workout plans. Or you can continue with the basic free plans if that’s all you need to keep yourself in shape.
 
 Available on [iOS](https://itunes.apple.com/us/app/freeletics-bodyweight/id654810212?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=ru).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **First-Hand Experience: Advice From a Colleague**
 
@@ -93,23 +101,6 @@ _Shared by Catherine Matantseva, international PR manager_
 
 ![abbyy advice digital detox no gadgets](https://static1.abbyy.com/abbyycommedia/26176/j5avporlfvq-e1517235977250.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 Those working in media and communications will know how important it is to be able to handle large amounts of unstructured data. Of course, when we chose this profession we knew what we were in for. Any PR specialist worth his/her salt needs to soak up and assimilate huge swathes of data on a daily basis, separating the wheat from the chaff, sifting out the important from the unimportant.
 
 However, there’s only so much information our brain can hold at any given moment, and the more data we get in the harder it is to process. Therefore, it is absolutely crucial that you give yourself a break now and then, giving yourself time to assimilate what you have learnt so far. Some people will turn off their phone or switch it into flight mode for some time, or put away all their mobile devices to create a digital free zone where they have time to rest and think.
@@ -124,9 +115,6 @@ That’s it from us for today. Until next Monday, have a great week! P.S. You ca
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -182,8 +170,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +177,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-experts-choice-top-green-screen-tools-list-for-2024/"><u>[New] Expert's Choice Top Green Screen Tools List for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-innovators-crafting-immersive-viewscape/"><u>[New] In 2024, Innovators Crafting Immersive Viewscape</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>[New] The Archivist's Collection Essential Retro Visual Hacks for Video Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-potential-with-10-best-backdrop-modification-software/"><u>[New] Unlock Creative Potential with 10 Best Backdrop Modification Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transforming-views-to-interactions-a-telegram-strategy-guide-for-2024/"><u>[Updated] Transforming Views to Interactions A Telegram Strategy Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>[Updated] Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-brand-presence-effective-instagram-video-marketing-techniques/"><u>Elevate Brand Presence Effective Instagram Video Marketing Techniques</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-12-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-instagram-to-tiktok-connection-protocol/"><u>In 2024, The Instagram to TikTok Connection Protocol</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-hd-live-stream-gear-list/"><u>In 2024, Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-animation-pack-for-text-for-2024/"><u>Superior Animation Pack for Text for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/survivals-tightrope-ranking-the-top-8-zombie-adventures-for-2024/"><u>Survival's Tightrope Ranking the Top 8 Zombie Adventures for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-15-ae-title-tricks-for-dynamic-content-headers/"><u>Top 15 AE Title Tricks for Dynamic Content Headers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-online-retailers-for-purchasing-contact-lenses-safely-and-affordably/"><u>Top Online Retailers for Purchasing Contact Lenses Safely & Affordably</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-the-imovie-video-edge-policy-for-2024/"><u>Unraveling the iMovie Video Edge Policy for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/venturing-beyond-reality-understanding-vr-basics-for-2024/"><u>Venturing Beyond Reality Understanding VR Basics for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 8? | Dr.fone</u></a></li>
+</ul></div>
 

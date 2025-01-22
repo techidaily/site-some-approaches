@@ -1,7 +1,7 @@
 ---
 title: Boost Your Online Traffic with Cookiebot Technology
-date: 2024-08-22T00:00:57.761Z
-updated: 2024-08-23T00:00:57.761Z
+date: 2025-01-14T16:07:11.000Z
+updated: 2025-01-22T00:48:41.113Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8faac5e2796b198a9b431fdb.jpg
@@ -11,19 +11,35 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Survey Identifies Behaviors Driving Intelligent Automation Successes and Failures
 
 April 07, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News AI](https://static5.abbyy.com/abbyycommedia/33743/news-ai.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * No longer considered a strategic initiative, RPA was the least implemented tech, with document-centric and process automation technologies leading the way.
 * Employee needs are being put first which is creating a huge ROI for businesses.
 * Decision makers that are extroverts make bolder technology decisions, but introverts spot their failure earlier on.
 
 [![](https://static1.abbyy.com/abbyycommedia/35490/2022-04-06_infographic_survey_global_final.jpg?width=1068&height=558)](https://www.abbyy.com/media/35490/2022-04-06%5Finfographic%5Fsurvey%5Fglobal%5Ffinal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 According to a recent global survey conducted by Sapio Research on behalf of [ABBYY](https://tools.techidaily.com/abbyy/products/), 98% of IT decision makers have implemented automation technologies in the last two years, spurred by the pandemic. During this time, there has been a behavioral shift in the way IT decision makers implement automation technology with a new ‘people first’ approach. The results reveal less investment in robotic process automation (RPA) with intelligent document processing (IDP) and process automation technologies being the top two deployed technologies. This resulted in a huge 89% believing they have been successful in deploying digitally transforming automations, compared to only [30%-50%](https://www.ey.com/en%5Fgl/consulting/five-design-principles-to-help-build-confidence-in-rpa-implement) in the past when they used RPA alone.
 
@@ -75,15 +91,13 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -98,8 +112,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +119,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-making-youtube-based-twitter-videos-hearable/"><u>[New] Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-trendsetting-sky-docks-for-android-users/"><u>[Updated] Trendsetting Sky Docks for Android Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>[Updated] Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-package-revelation-amplifying-initial-impressions/"><u>2024 Approved The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transition-your-tunes-transferring-collections-between-services/"><u>2024 Approved Transition Your Tunes Transferring Collections Between Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/ease-into-accessibility-windows-fundamentals-for-novices/"><u>Ease Into Accessibility: Windows Fundamentals for Novices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-directory-where-to-download-youtube-ringtones/"><u>In 2024, Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-omnicharge-omni-20-the-ultimate-all-in-one-portable-charger-with-qi-wireless-capability/"><u>Review of the Omnicharge Omni 20: The Ultimate All-in-One Portable Charger with Qi Wireless Capability</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-google-pixel-fold-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Google Pixel Fold Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-victory-unlock-the-secrets-to-running-evil-genius-2/"><u>Troubleshooting Victory! Unlock the Secrets to Running Evil Genius 2</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unravel-the-complexities-of-setting-up-a-hp-printer-for-novices/"><u>Unravel the Complexities of Setting Up a HP Printer for Novices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-microsofts-latest-upgrade-ai-enhanced-search-capabilities-in-bing/"><u>Unveiling Microsoft's Latest Upgrade: AI Enhanced Search Capabilities in Bing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced with Customizable Automation via Cookiebot
-date: 2024-08-21T23:59:08.085Z
-updated: 2024-08-22T23:59:08.085Z
+date: 2025-01-19T22:16:49.822Z
+updated: 2025-01-22T02:30:34.354Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66eb27ccbe212107fc43a67273.jpg
@@ -15,6 +15,14 @@ Report
 
 ![](https://static1.abbyy.com/abbyycommedia/35250/145-ia-solutionsandservices-idp-262x340.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ABBYY named 2021 leader of Intelligent Document Processing
 
 The 2021 ISG Provider Lens™ Intelligent Automation – Solutions and Services report placed ABBYY in the leading position for IDP solutions.
@@ -22,44 +30,35 @@ The 2021 ISG Provider Lens™ Intelligent Automation – Solutions and Services 
 **ABBYY stands out for its industry proven portfolio of solutions that leverage these technologies coupled with strategic global partnerships with major RPA and other intelligent automation vendors and customer-centric sales teams. ABBYY provides customers with the Content Intelligence they need to maintain a competitive edge and gain business value.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download it now!
 
 ![](https://static1.abbyy.com/abbyycommedia/35087/intelligent-document-processing-isg-matrix.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ISG Provider Lens™ quadrant focuses on providers that offer proprietary software products or solutions for the automated discovery, analysis and processing of documents across an organization. More than 80 percent of companies have realized that they cannot unlock the true value of intelligent automation without a strong data foundation.
 
 Going beyond traditional optical character recognition (OCR), ISG defines IDP as software that uses artificial intelligence (AI) technologies such as natural language processing (NLP), machine learning (ML), computer vision, and deep learning to filter and analyze large volumes of unstructured data from multiple formats (I.e. emails, PDFs, Excel, Word, or images) for further processing, storage, and use in other applications.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you for your interest in ABBYY.
 
 [Read the report](https://digital.abbyy.com/hubfs/documents/content/analystreport-intelligent-document-processing-isg-provider-lens-en.pdf "Read the report") 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### You might also be interested in...
 
 [![Quadrant Knowledge Solutions SPARK Matrix 2021](https://static3.abbyy.com/abbyycommedia/35006/137-abbyy-is-leader-in-spark-matrix-2021-en-360x232.jpg) ABBYY Named 2021 Technology Leader of IDP in the Quadrant Knowledge Solutions SPARK Matrix See report](https://digital.abbyy.com/hubfs/documents/content/analystreport-intelligentdocumentprocessing-quadrantknowledgesolutions-en.pdf "ABBYY Named 2021 Technology Leader of IDP in the Quadrant Knowledge Solutions SPARK Matrix")[![ABBYY Vantage IDP](https://static4.abbyy.com/abbyycommedia/34808/vantage-new-product-video.jpg) ABBYY Vantage: Intelligent Document Processing Platform for the Digital Workforce Learn more](https://www.abbyy.com/vantage/ "ABBYY Vantage: Intelligent Document Processing Platform for the Digital Workforce")[![Intelligent Document Processing | ABBYY Blog](https://static1.abbyy.com/abbyycommedia/34870/ap-content-2-848x444.jpg) What Is Intelligent Document Processing (IDP), and How Does It Work? Read article](https://www.abbyy.com/blog/intelligent-document-processing/ "What Is Intelligent Document Processing (IDP), and How Does It Work?") 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -120,8 +119,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +126,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-guide-to-beauty-on-youtube-gear-makeup-tutorials-and-more/"><u>[New] 2024 Approved Ultimate Guide to Beauty on YouTube - Gear, Makeup Tutorials, and More</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-beginners-shooting-companion-top-cameras-reviewed-for-2024/"><u>[New] Beginner's Shooting Companion Top Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-public-assessment-of-vllo-functionality/"><u>[New] Public Assessment of VLLO Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>[New] The Complete Haul Video Manual From Shopping to Screen Time</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-unalterable-tiktok-profile-url-integration-blueprint/"><u>2024 Approved The Unalterable TikTok Profile URL Integration Blueprint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>2024 Approved Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-ipad-operating-system-updates-a-detailed-roadmap/"><u>Comprehensive iPad Operating System Updates: A Detailed Roadmap</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-to-quickly-minimize-your-jpeg-files-without-cost-top-strategies/"><u>How to Quickly Minimize Your JPEG Files Without Cost - Top Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-s24plus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy S24+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone XR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-science-fiction-real-teleportation-effects/"><u>Making Science Fiction Real Teleportation Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-best-8-value-video-communication-programs-for-pc-and-mac-for-2024/"><u>The Best 8 Value Video Communication Programs for PC and MAC for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage-for-2024/"><u>The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-peculiar-plight-dissecting-goofy-chronicles-for-2024/"><u>The Peculiar Plight Dissecting 'Goofy Chronicles' For 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/timeless-80s-effects-boosting-creative-videos-for-2024/"><u>Timeless 80S Effects Boosting Creative Videos for 2024</u></a></li>
+</ul></div>
 

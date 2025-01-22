@@ -1,7 +1,7 @@
 ---
 title: Navigating Corporate Mobility and Stress Relief with Pet Reptiles - Expert Tips From ABBYY's Latest Blog Post
-date: 2024-08-21T23:59:58.311Z
-updated: 2024-08-22T23:59:58.311Z
+date: 2025-01-15T19:10:44.907Z
+updated: 2025-01-22T01:43:35.511Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac791171ba491fd10d2883ba4.jpeg
@@ -25,15 +25,27 @@ Almost all companies today use some sort of mobile or computer technology to opt
 
 ![corporate mobility](https://static1.abbyy.com/abbyycommedia/31221/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The obvious solution would seem to be to banish all personal mobile devices from the workplace. But the downsides to this approach are just as obvious. Firstly, banning smartphones would have an adverse effect on workforce loyalty, as many employees would see it as an encroachment on their personal freedoms. Secondly, working from home[is a global trend](http://under30ceo.com/why-is-working-from-home-such-a-big-trend/). Many professionals no longer have to come to the office every day in order to do their job properly. Some of them don’t even need a permanent desk, saving their companies thousands on office leases.
 
 ![trendy office workspace](https://static1.abbyy.com/abbyycommedia/31222/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There is a good solution, however, and it is called[BYOD](https://en.wikipedia.org/wiki/Bring%5Fyour%5Fown%5Fdevice) (Bring-Your-Own-Device). Companies with BOYD policies in place allow their employees to use their personal mobile devices for work. This means they are always connected and can do some or even all of their office assignments when they are away on business, working with customers on site, or just working from home.
 
 The BYOD abbreviation came into common use at the beginning of the noughties, when smartphones and tablets started to infiltrate our daily lives.
 
 ![work from home](https://static1.abbyy.com/abbyycommedia/31223/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The BYOD approach relies on[EMM](https://en.wikipedia.org/wiki/Enterprise%5Fmobility%5Fmanagement) (Enterprise Mobility Management), a set of services and technologies designed to protect corporate intellectual property. EMM is not just a separate set of security measures but is tightly integrated with work processes and objectives, so that mobile security can be seamlessly enforced across all platforms and software without radically overhauling the existing IT infrastructure.
 
@@ -76,6 +88,10 @@ Some companies will use only some of the above mechanisms and some will combine 
 
 ![mobile expense management](https://static1.abbyy.com/abbyycommedia/31227/7-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are lots of different EMM solutions available on the market, such as [MobileIron](https://www.mobileiron.com/en/welcome-era-modern-work), [Google G Suite](https://gsuite.google.com/products/admin/mobile/),[VMware AirWatch](https://www.vmware.com/products/airwatch-enterprise-mobility-management.html),[Microsoft Intune](https://www.microsoft.com/en-us/cloud-platform/microsoft-intune),[Citrix XenMobile](https://www.citrix.com/products/xenmobile/?utm%5Fcampaign=WWB0213CXM%5FCONTACT&utm%5Fmedium=Paid+Search+%28SEM%29&utm%5Fsource=sem-wss-xenmo-em-en-sea-go&utm%5Fterm=xenmobile&utm%5Fcontent=xm-think&ctm%5Fprogramid=wwwb0213cxm%5Fcontact&gclid=CjwKCAjw8O7bBRB0EiwAfbrTh9CIA8eLFGrJTLoKDKrfLplKrfYbbqwoSDUAS4vlemd25xJxG17bbhoCfCMQAvD%5FBwE), and[Symantec Mobile Management](https://www.symantec.com/mobile-device-management/). Few developers, however, will offer the complete range, so businesses often need to book multiple services in order to cover all the bases.
 
 Sometimes a company may create a corporate app store where its employees can download and install apps that they need for their work. These are very much like the usual app stores, only with a limited range of apps and tight security mechanisms in place.
@@ -90,11 +106,19 @@ In the next screenshot, you can see the desktop of a corporate iPad displaying t
 
 ![WorxHome iPad screenshot](https://static1.abbyy.com/abbyycommedia/31229/9-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are security tools available for the majority of popular mobile platforms, including iOS, Android, and Windows 10 Mobile. Similar solutions are also available for Mac OS and Windows.
 
 A recent[survey](https://www.forrester.com/report/Vendor+Landscape+Enterprise+Mobility+Management+EMM+Solutions+2017/-/E-RES137481) by[Forrester Research](https://go.forrester.com/) involving 2114 international companies revealed that 77% of them are planning to continue to implement EMM solutions.
 
 In the next issues we will talk more about the tools of corporate mobility and security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **ABBYY Tip: How to Use BCR in Advertising Agency**
 
@@ -108,9 +132,6 @@ The owner has to thumb through this book carefully to find a contact. When she n
 
 To have your business contacts always to hand, you can digitize them using [BCR](http://qrs.ly/ip56xfe), an app that captures business cards and stores them on your mobile device. Capturing cards with [BCR](http://qrs.ly/ip56xfe) is [six times faster than typing the details manually](https://tools.techidaily.com/abbyy/products/). You can also instantly share your business cards with your colleagues, access your repository from iOS or Android devices or from a desktop computer, create Excel reports, and perform lots of other useful manipulations.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **App of the Week: Speedtest**
 
 Our favourite app this week comes from [Speedtest](http://speedtest.net/), probably the most popular[resource](http://speedtest.net/) for measuring the speed of your Internet connection.
@@ -123,10 +144,6 @@ When you open the app on your device, you will see a large GO button. Tap it and
 
 ![change server Speedtest](https://static1.abbyy.com/abbyycommedia/31232/13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Should you want to double-check, you can change the remote server that is contacted by the app. Simply tap **CHANGE SERVER** on the main tab and you will see the available servers and how far they are from you.
 
 You can also change the speed units and the gauge scale.
@@ -134,8 +151,9 @@ You can also change the speed units and the gauge scale.
 ![change speed units Speedtest](https://static1.abbyy.com/abbyycommedia/31233/14-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![change gauge scale Speedtest](https://static1.abbyy.com/abbyycommedia/31231/12.png)
 
 The app will store your past measurements for reference. These can be found by tapping the **Results** tab at the bottom of the screen. History details include date and time, speed, and type of connection.
@@ -144,25 +162,19 @@ The[Android](https://play.google.com/store/apps/details?id=org.zwanoo.android.sp
 
 ![check mobile coverage in Speedtest](https://static1.abbyy.com/abbyycommedia/31235/16-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check mobile coverage in Speedtest](https://static1.abbyy.com/abbyycommedia/31236/17-1-300x617.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 The app is available on[iOS](https://itunes.apple.com/at/app/speedtest-net-speed-test/id300704847?mt=8) and[Android](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## First-Hand Experience: Advice From a Colleague
 
 _By Milana Petruk, Webmaster_
 
 ![Tip from colleague Milana Petruk](https://static1.abbyy.com/abbyycommedia/26425/18-1-937x1024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Choosing a scaly pet**
 
@@ -240,8 +252,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,4 +259,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-decoding-editing-excellence-can-pickup-outshine-the-competition-on-android-in-2024/"><u>[New] Decoding Editing Excellence Can PickUp Outshine the Competition on Android, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-reveling-in-creativity-the-best-of-filmoras-edits/"><u>[New] In 2024, Reveling in Creativity The Best of Filmora's Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-directory-for-free-visual-treasures/"><u>[New] Ultimate Directory for Free Visual Treasures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>[New] Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-defeating-dissidence-a-guide-for-content-makers/"><u>[Updated] 2024 Approved Defeating Dissidence A Guide for Content Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringsong-blueprint-guide-for-turning-tamil-tracks-into-notifications/"><u>[Updated] RingSong Blueprint Guide for Turning Tamil Tracks Into Notifications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-role-of-b-roll-in-polishing-video-projects/"><u>[Updated] The Role of B-Roll in Polishing Video Projects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-sound-and-visuals-a-movie-maker-technique/"><u>2024 Approved Syncing Sound and Visuals A Movie Maker Technique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-increasing-the-usefulness-of-gopros-battery/"><u>2024 Approved Tips for Increasing the Usefulness of GoPro's Battery</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-second-stories-explained-well-for-2024/"><u>5-Second Stories Explained Well for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-epson-wf-2760-driver-software-free-download-for-windows-users-11-10-and-8/"><u>Easy Installation: Epson WF-2760 Driver Software Free Download for Windows Users (11, 10 & 8)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>In 2024, Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tag-friends-listen-to-this-podcast-story/"><u>In 2024, Tag Friends Listen to This Podcast Story</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-landscape-of-augmented-reality-stickers-spotlight-on-google/"><u>In 2024, The Landscape of Augmented Reality Stickers Spotlight on Google</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stepwise-guide-converting-old-mail-to-active-exchange/"><u>Stepwise Guide: Converting Old Mail to Active Exchange</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-hp-officejet-pro-8620-printer-drivers-directly-in-windows-operating-system/"><u>Update HP OfficeJet Pro 8620 Printer Drivers Directly in Windows Operating System</u></a></li>
+</ul></div>
 

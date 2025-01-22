@@ -1,7 +1,7 @@
 ---
 title: Empowering Websites with Cookiebot Technology for Superior User Insights
-date: 2024-08-22T00:02:02.176Z
-updated: 2024-08-23T00:02:02.176Z
+date: 2025-01-18T01:03:56.298Z
+updated: 2025-01-22T00:39:13.980Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810efb43227d04a8381bc3392428.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY auf der Handelsblatt Jahrestagung Banken-Technologie: dokumentenbasierte Prozesse in Banken automatisieren
 
 5\. Dezember 2016
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY Europe, ein führender Anbieter von Technologien und Lösungen für Dokumentenerkennung, Data Capture und Linguistik, berät vom 6\. bis 7\. Dezember 2016 im Hotel Jumeirah in Frankfurt Banken und Finanzdienstleister zu innovativen Möglichkeiten, neue Kunden zu gewinnen, Bestandskunden besser zu betreuen, Arbeitsprozesse kostensparender zu gestalten sowie Betrug zu verhindern und ihre Compliance Anforderungen einzuhalten.  
   
@@ -65,8 +73,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,10 +80,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>[New] The Art of Blending Audio and Visuals in a Trailer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-cinematographers-codex-top-shot-tips-for-the-year-2024-filmography/"><u>[New] The Cinematographer’s Codex Top Shot Tips for the Year 2024 Filmography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easywebcamusage-recordingtipsandtricks-for-2024/"><u>[Updated] EasyWebCamUsage RecordingTipsAndTricks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-vanguard-audio-visual-makers-virtual-showcase/"><u>[Updated] The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>[Updated] Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-viewership-archive-youtube-visionaries/"><u>[Updated] Top Viewership Archive YouTube Visionaries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fix-red-eyes-quickly-in-photos-on-ios-without-cost/"><u>In 2024, Fix Red Eyes Quickly in Photos on iOS Without Cost</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-15-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 15 Plus Smoothly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>In 2024, The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/personalize-chromes-sound-review-of-the-top-web-based-speech-converters/"><u>Personalize Chrome's Sound Review of the Top Web-Based Speech Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-key-to-crisp-clear-cinematography-for-2024/"><u>The Key to Crisp, Clear Cinematography for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/untertitelte-dvds-original-oder-zwangsuntertitelung-fur-mehr-sprachvielfalt/"><u>Untertitelte DVDs: Original- Oder Zwangsuntertitelung Für Mehr Sprachvielfalt</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-choosing-the-best-pro-audio-editing-software/"><u>Updated The Ultimate Guide to Choosing the Best Pro Audio Editing Software</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->

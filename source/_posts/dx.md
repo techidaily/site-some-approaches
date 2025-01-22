@@ -1,7 +1,7 @@
 ---
 title: "業務の未来はDXで!: ホワイトボードから新しい可視化へ"
-date: 2024-08-21T23:59:42.622Z
-updated: 2024-08-22T23:59:42.622Z
+date: 2025-01-14T22:19:46.988Z
+updated: 2025-01-22T00:30:15.483Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d5020753bc2f35168b92bccdf6.jpg
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![](https://static4.abbyy.com/abbyycommedia/33568/ja-visualisation-is-required-for-process-improvement-new.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 業務プロセスの改善活動といえば、「ホワイトボードに付箋」。そう思っていませんか？
 
 ここから、本当にコストやボトルネックを見つけられますか？
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 例外処理が何種類あるか見つけられますか？
 
 ![ホワイトボードから脱却 ~業務プロセスの見える化~](https://static1.abbyy.com/abbyycommedia/32105/4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 時代に即さないホワイトボードから脱却し、DX（デジタルトランスフォーメーション）を遂行し、ツールを使うことがこれからの時代には求められます。データを使った分析が重要です。
 
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 #### **1．「現在全体として何が起こっているか」を把握するため、まず構造化します。**
 
 ![ABBYY Timeline process mining](https://static1.abbyy.com/abbyycommedia/32109/animation.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 「ABBYY Timeline スキーマ分析」について詳しく知りたい方は[こちら](https://tools.techidaily.com/abbyy/products/)。
 
@@ -101,11 +113,16 @@ ABBYY Timelineはプロセスの可視化に特化しているので、データ
 
 ![ABBYY logo circle](https://static5.abbyy.com/abbyycommedia/29971/abbyy-logo-2021-blog-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ABBYY Japan エンジニアリングチーム
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -160,8 +177,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +184,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-journey-into-whatsapps-call-ecosystem/"><u>[New] Journey Into WhatsApp's Call Ecosystem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-compre-writters-manual-for-great-documentary-storytelling/"><u>[New] The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-most-upvoted-reddit-post-of-all-time-a-list-of-10/"><u>[New] The Most Upvoted Reddit Post of All Time - (A List of 10)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>[New] Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-education-evolved-embracing-vr-technology/"><u>[Updated] Education Evolved Embracing VR Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-building-your-broadcast-empire-with-obs-and-online-platforms/"><u>[Updated] In 2024, Building Your Broadcast Empire with OBS and Online Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>2024 Approved The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>2024 Approved Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-footage-frequent-flows-dos-and-donts-for-streamlining-video-content-for-2024/"><u>Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-phantom-v-flip-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Phantom V Flip to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-photopea-blueprint-for-flawless-image-backdrop/"><u>In 2024, The Photopea Blueprint for Flawless Image Backdrop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>In 2024, Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/luminance-hd-evaluation-the-ultimate-decision-in-2024/"><u>Luminance-HD Evaluation The Ultimate Decision, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-sync-for-multi-version-windows-enthusiasts/"><u>StarTech Driver Sync for Multi-Version Windows Enthusiasts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-choosing-the-ideal-sd-card-for-your-camera/"><u>Ultimate Guide: Choosing the Ideal SD Card for Your Camera</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-social-media-is-outpacing-online-forum-trends/"><u>Why Social Media Is Outpacing Online Forum Trends</u></a></li>
+</ul></div>
 

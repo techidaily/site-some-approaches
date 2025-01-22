@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Advanced Technology for Enhanced Supply Chains: Key Takeaways From ABBYY Industry Experts Talks"
-date: 2024-08-22T00:03:34.542Z
-updated: 2024-08-23T00:03:34.542Z
+date: 2025-01-16T18:31:13.825Z
+updated: 2025-01-21T18:22:51.762Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d46c032a8d8313dfde48c7a09.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 ## Harnessing Advanced Technology for Enhanced Supply Chains: Key Takeaways From ABBYY Industry Experts Talks
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Les Nouvelles technos au service de la Supply Chain
 
@@ -21,6 +25,10 @@ French
 
 ![04 Lindaameur 198X198](https://static4.abbyy.com/abbyycommedia/25106/04-lindaameur-198x198.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Linda Ameur
 
 Directrice Commerciale, **ABBYY France**
@@ -28,8 +36,13 @@ Directrice Commerciale, **ABBYY France**
 ![92 Benjamindebuttet 198X198 (1)](https://static2.abbyy.com/abbyycommedia/34018/92-benjamindebuttet-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Benjamin de Buttet
 
 COO, **DCbrain**
@@ -42,9 +55,6 @@ Head of Supply Chain Consulting, **JLL France**
 
 ![89 Cedrichervet 198X198](https://static4.abbyy.com/abbyycommedia/34025/89-cedrichervet-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cédric Hervet
 
 Directeur Scientifique et co-fondateur, **Kardinal**
@@ -52,11 +62,16 @@ Directeur Scientifique et co-fondateur, **Kardinal**
 ![91 Jeanphilippeguillaume 198X198 (1)](https://static3.abbyy.com/abbyycommedia/34020/91-jeanphilippeguillaume-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Jean-Philippe Guillaume
 
 Directeur de la rédaction, **Supply Chain Village**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Description
 
@@ -66,47 +81,21 @@ Comment les professionnels de la Supply doivent s’y préparer ? Comment s’in
 
 ### Regardez maintenant
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Merci et bon webinaire !
 
 [![Les Nouvelles Technos Au Service De La Supply Chain 2](https://static3.abbyy.com/abbyycommedia/34032/les-nouvelles-technos-au-service-de-la-supply-chain-2.jpg)](https://www.youtube.com/watch?v=PVnMb47saSc) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -163,8 +152,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +159,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/mts-mts/"><u>.MTSファイルを組み合わせる最適な手法 - MTS動画連結ガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leading-camera-brands-the-15-best-selection/"><u>[New] 2024 Approved Leading Camera Brands – The 15 Best Selection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rise-with-the-pros-acquire-1k-ig-admirers-daily/"><u>[New] 2024 Approved Rise with the Pros Acquire 1K IG Admirers Daily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>[Updated] 2024 Approved Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-definitive-guide-to-flawless-morphvox-technique/"><u>[Updated] The Definitive Guide to Flawless MorphVOX Technique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-utility-watch-opens-your-macdevice/"><u>[Updated] Ultimate Utility Watch Opens Your MacDevice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-summer-screen-escapades-top-10-classic-kids-films/"><u>2024 Approved Summer Screen Escapades Top 10 Classic Kid's Films</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-we-at-the-top-of-facebooks-hype-curve/"><u>Are We at the Top of Facebook’s Hype Curve?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>In 2024, Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits/"><u>In 2024, Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/yl-software-techniques-for-assessing-and-understanding-system-memory-use/"><u>YL Software Techniques for Assessing and Understanding System Memory Use</u></a></li>
+</ul></div>
 

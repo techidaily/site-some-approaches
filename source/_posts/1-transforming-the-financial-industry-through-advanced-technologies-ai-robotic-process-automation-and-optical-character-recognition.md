@@ -1,7 +1,7 @@
 ---
 title: "1. Transforming the Financial Industry Through Advanced Technologies: AI, Robotic Process Automation & Optical Character Recognition"
-date: 2024-08-22T00:00:05.240Z
-updated: 2024-08-23T00:00:05.240Z
+date: 2025-01-14T22:25:03.001Z
+updated: 2025-01-22T00:45:18.699Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab0af95e72991a09011c46f8f.jpg
@@ -25,20 +25,26 @@ Recently, I had the privilege of delving into this fascinating field, and I want
 
 Experts’ insights were extremely useful to finally answer the main research question: “_Which constraints identified in Majorel Netherlands’ AP process can be solved by finance automation tools to increase process efficiency?_”. Working together with Majorel Holding I could identify the current constraints of the AP process and look for alternatives to solve them by performing desk and field research. I arrived at the conclusion that AI, RPA, and OCR, have the potential to streamline AP processes overall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The power of AI in Finance
 
 AI has emerged as a game-changer in the finance industry. By leveraging machine learning algorithms and advanced data analytics, financial automation tools powered by AI can intelligently extract, interpret, and process vast amounts of financial data. This not only significantly reduces manual errors but also enhances decision-making capabilities and facilitates strategic planning. With AI, finance professionals can focus on higher-value tasks, such as data analysis and strategic thinking, while routine and repetitive tasks are handled seamlessly.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Unlocking efficiency with robotic process automation (RPA)
 
 RPA takes automation to the next level by automating rule-based, repetitive tasks within AP processes. By mimicking human interactions with various systems, RPA bots can perform tasks such as invoice processing, data entry, and vendor management swiftly and accurately. This allows finance departments to achieve enhanced efficiency, reduce operational costs, and redirect their workforce towards more value-added activities. RPA not only improves accuracy but also ensures compliance with regulations and reduces the risk of fraud.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Enhancing data extraction with AI-based OCR
 
 OCR technology plays a crucial role in the [automation of AP processes](https://tools.techidaily.com/abbyy/products/) by converting unstructured data from invoices, receipts, and other financial documents into structured, machine-readable formats. By harnessing the power of OCR, finance professionals can eliminate time-consuming manual data entry, streamline workflows, and ensure data accuracy. OCR, combined with AI algorithms, enables intelligent data extraction, making it possible to automate the extraction of relevant information and seamlessly integrate it into existing systems.
@@ -53,9 +59,6 @@ Remember, the future is now, and it's powered by automation.
 
 ![](https://static1.abbyy.com/abbyycommedia/37629/luis-ernesto_110x110.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Luis Ernesto Franceschi
 
 Finance Administrator at Majorel Holding
@@ -65,22 +68,21 @@ Born and raised in Venezuela, Luis moved to Rotterdam, Netherlands, to become a 
 Connect with Luis on [LinkedIn](https://www.linkedin.com/in/luis-ernesto-franceschi-95b74b208/).
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static3.abbyy.com/abbyycommedia/37624/ds-63-intelligent-automation-month-1200x628.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [September is Intelligent Automation Month](https://tools.techidaily.com/abbyy/products/) 
 
 #### Subscribe for blog updates
@@ -133,8 +135,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +142,16 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finance-frontiers-the-finest-youtube-channels-to-follow/"><u>[New] In 2024, Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-are-youtube-subscriptions-worth-it-for-views/"><u>[Updated] Are Youtube Subscriptions Worth It for Views?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-10-youtube-video-editing-tips-for-beginner-editors/"><u>[Updated] In 2024, Top 10 YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>[Updated] The Audiovisual Experience Elevated Mastering Audio Blending in Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-through-the-viewfinder-tips-for-artistic-photo-edits/"><u>[Updated] Through the Viewfinder Tips for Artistic Photo Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-15-youtube-gadget-experts-for-your-2024-entertainment/"><u>[Updated] Top 15 YouTube Gadget Experts for Your 2024 Entertainment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-tech-elevation-through-srs-enhancement/"><u>2024 Approved Unmatched Tech Elevation Through SRS Enhancement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bypassing-common-drone-mistakes-with-this-essential-checklist-for-2024/"><u>Bypassing Common Drone Mistakes with This Essential Checklist for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-scanning-experience-with-updated-drivers-for-your-epson-machine-free-download/"><u>Seamless Scanning Experience with Updated Drivers for Your Epson Machine - Free Download!</u></a></li>
+</ul></div>
 

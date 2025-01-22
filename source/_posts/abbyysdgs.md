@@ -1,7 +1,7 @@
 ---
 title: "ABBYYが取り組む持続可能な開発目標(SDGs):成果と貢献"
-date: 2024-08-21T23:59:28.529Z
-updated: 2024-08-22T23:59:28.529Z
+date: 2025-01-18T02:36:42.001Z
+updated: 2025-01-22T03:19:32.313Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4997d5eb4ebf1da22368f21e.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/ae11f135f58753564eec93a4a8d775f2e6a724fb4
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYYのSDGs
 
 10月28日, 2021
 
 ![](https://static2.abbyy.com/abbyycommedia/34556/13907-blog-jp.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 今回は、ABBYYの SDGs (Sustainable Development Goals) の取り組みについてご紹介したいと思います。
 
@@ -51,16 +59,10 @@ SDGsでは以下の17のゴールが設定されています。
 16. 平和と公正をすべての人に
 17. パートナーシップで目標を達成しよう
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ABBYYの8番と10番の取り組みについて
 
 ![Sustainable Development Goals 働きがいも経済成長も](https://static1.abbyy.com/abbyycommedia/34584/13907-icon-8.png) ![Sustainable Development Goals 人や国の不平等をなくそう](https://static1.abbyy.com/abbyycommedia/34585/13907-icon-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ABBYYは、これまで教育とキャリア開発の面で不平等を減らすために、さまざまなバックグラウンドを持つ人々をサポートしてきました。私たちは多様性を重視し、採用と昇進の決定を行う際にも平等な機会を提供しております。
 
 例として現在、ABBYYは女性従業員が約42％に達しており、これは一つの証左です。 ABBYYには、女性従業員をサポートするための「Woman at ABBYY」という内部コミュニティが存在します。 全体として、ABBYYの従業員は、職場での多様性と包摂性をサポートするための取り組みを高く評価しています。隔週の従業員エンゲージメント調査に基づくと、DEIの全体的なスコア（たとえば、性別、民族性、障害、社会経済的地位の観点から、多様性と包摂性をサポートするABBYYの取り組みに満足しています）は8.7/10です。こちらはテクノロジー企業のベンチマークを0.5ポイント上回っており、上位25％にランクインしています。
@@ -72,15 +74,17 @@ ABBYYは、社内の包摂的な文化をサポートすることに重点を置
 一部の地域では、さまざまな能力を持つ人々や貧しい家庭や農村地域からの学生を雇用するための特別なプロジェクトがあります。 また、地域に根付いたチャリティー活動（クリスマス関連のチャリティーなど）も実施しています。デジタルインテリジェンス企業として、技術人材の育成に取り組んでいます。一部の地域では、教育活動を推進し、恵まれない／過小評価されている人々のためのメンターシッププログラムや奨学金を通じての技術人材育成をサポートしています。
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ABBYYの13番と15番の取り組みについて
 
 ![Sustainable Development Goals 気候変動に具体的な対策を](https://static1.abbyy.com/abbyycommedia/34586/13907-icon-13.png) ![Sustainable Development Goals 陸の豊かさも守ろう](https://static1.abbyy.com/abbyycommedia/34587/13907-icon-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 私たちはデジタルインテリジェンス企業として、ペーパーレスのビジネスプロセスにつながるデジタルトランスフォーメーション（DX）の推進に取り組んでいます。ABBYYのデジタルテクノロジーは、デジタル（ハードコピーではなく）ドキュメントに焦点を当てることにより、お客様がより環境に優しいものになるように支援します。
 
 2021年、ABBYYは、気候変動との戦い、生物多様性の保全、景観の回復、コミュニティの強化を支援するために獲得した取引のために植樹を行うことを約束する新しい「Plant a Treeキャンペーン」を開始しました。これについての詳細は、こちらのリンクをご参照ください。
@@ -96,8 +100,9 @@ ABBYYは、サステナビリティの重要性を従業員に思い出させる
 [カスタマエクスペリエンス](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -152,8 +157,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +164,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cloud-savings-showdown-top-costs/"><u>[New] 2024 Approved Cloud Savings Showdown Top Costs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-tutorial-on-permanently-removing-your-instagram-profile/"><u>[New] In 2024, The Ultimate Tutorial on Permanently Removing Your Instagram Profile</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-platform-prowess-finding-your-future-in-obstwitch/"><u>[Updated] In 2024, Platform Prowess Finding Your Future in OBS/Twitch</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximize-your-relaxation-with-asmr-apps/"><u>[Updated] Maximize Your Relaxation with ASMR Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essentials-for-building-compelling-canon-time-lapses/"><u>[Updated] The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-budget-friendly-cloud-service-providers/"><u>2024 Approved Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x100-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X100 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-90-lite-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor 90 Lite Lock Screen Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-quality-iphone-filmmaking-top-8-tips/"><u>In 2024, The Ultimate Guide to Quality iPhone Filmmaking (Top 8 Tips)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trimming-techniques-understanding-video-crops-in-imovie/"><u>In 2024, Trimming Techniques Understanding Video Crops in iMovie</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-of-costless-online-editors-for-professionals/"><u>In 2024, Ultimate List of Costless Online Editors for Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-definitive-guide-to-audio-interfaces-in-podcasting-for-2024/"><u>The Definitive Guide to Audio Interfaces in Podcasting for 2024</u></a></li>
+</ul></div>
 

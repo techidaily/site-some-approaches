@@ -1,7 +1,7 @@
 ---
 title: Unlock Advanced Analytics with Our Cookiebot Integration Technology!
-date: 2024-08-22T00:00:03.791Z
-updated: 2024-08-23T00:00:03.791Z
+date: 2025-01-18T22:34:33.533Z
+updated: 2025-01-21T21:26:02.474Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad30482eb61cfe64caa3b5caa7.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI Summit Helps Businesses to Look Beyond AI Hype
 
 June 07, 2019
 
 ![ABBYY AI Summit at London Tech Week 2019 | ABBYY Blog Post](https://static5.abbyy.com/abbyycommedia/25363/10644_smm_blog_the-ai-summit-helps-businesses-to-look-beyond-ai-hype_blog.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 AI is already delivering real value in business. It is being implemented across all industries and business functions creating unprecedented efficiencies in human productivity. That was also the verdict of a recent [Forbes Insights survey](https://www.forbes.com/insights-intelai/ai-issue-1/) of 300-plus executives, in which 95% believe that AI will play an important role in their responsibilities in the near-future. Among the business benefits from AI most-cited by corporate leaders are: increased productivity (40%), reduced operating costs (28%), improved speed to market (21%) and transformed business and operating models (20%).
 
@@ -30,6 +38,10 @@ Business leaders looking to accelerate their digital transformation initiatives 
 To accelerate business processes and get a stronger foothold in markets already crowded with competitors, a growing number of business leaders are looking at AI-powered cognitive automation platforms like ABBYY Vantage. Vantage is the next generation Content IQ platform for the enterprise that adds the ability to configure text recognition, machine learning, and artificial intelligence (AI) from within the RPA tools that are used to configure software robots. With the pace of enterprise AI adoption accelerating, most forward-thinking business leaders will converge in London next week to learn more about how Content IQ is helping AI deliver on its promise.
 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") [Enterprise](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -85,8 +97,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,8 +104,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unleash-the-power-of-expression-emojis-in-your-discord-statues/"><u>[New] In 2024, Unleash the Power of Expression Emojis in Your Discord Statues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-mastering-games-with-kinemaster-android/"><u>[New] The Complete Guide to Mastering Games with KineMaster Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-dance-away-stress-the-most-popular-country-tunes-tiktok-edition/"><u>[Updated] Dance Away Stress The Most Popular Country Tunes (TikTok Edition)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-inside-the-wearable-world-how-does-vr-work/"><u>[Updated] Inside the Wearable World How Does VR Work?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-prime-skating-moments-from-the-world-cup-22-for-2024/"><u>[Updated] Prime Skating Moments From the World Cup '22 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-nine-crucial-strategies-to-elevate-your-youtube-presence/"><u>2024 Approved Nine Crucial Strategies to Elevate Your Youtube Presence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-roadmap-to-thriving-in-digital-advertising/"><u>2024 Approved The Roadmap to Thriving in Digital Advertising</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-potential-a-step-by-step-solo-podcast-creation/"><u>2024 Approved Unleash Potential A Step-By-Step Solo Podcast Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-untangling-the-video-jams-in-digital-portfolits/"><u>2024 Approved Untangling the Video Jams in Digital Portfolits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-amazons-new-10month-all-you-can-eat-grocery-delivery-plan-does-it-deliver-value/"><u>Exploring Amazon's New $10/Month All-You-Can-Eat Grocery Delivery Plan – Does It Deliver Value?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-note-12-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi Note 12 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-on-track-solutions-inside/"><u>How To Get Your Windows 11 Audio Back On Track - Solutions Inside!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/round-the-clock-insight-detailed-look-at-google-podcast-for-2024/"><u>Round-the-Clock Insight Detailed Look at Google Podcast for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-mobile-solutions-to-sharpen-dji-drone-shoots-for-2024/"><u>Ultimate Mobile Solutions to Sharpen DJi Drone Shoots for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-a-guide-to-innovative-gopro-video-editing-for-2024/"><u>Unleashing Creativity A Guide to Innovative GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-you-can-calculate-timecode-in-video-with-software-do-you-know-what-are-the-best-calculator-in-this-article-you-will-learn-8-best-timec/"><u>Updated 2024 Approved You Can Calculate Timecode in Video with Software. Do You Know What Are the Best Calculator? In This Article, You Will Learn 8 Best Timecode Calculator Online, iPhone and Android</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

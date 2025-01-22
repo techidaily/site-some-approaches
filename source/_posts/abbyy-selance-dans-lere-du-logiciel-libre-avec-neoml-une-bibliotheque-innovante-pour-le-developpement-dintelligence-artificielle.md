@@ -1,7 +1,7 @@
 ---
 title: ABBYY S'Élance Dans L'ère Du Logiciel Libre Avec NeoML - Une Bibliothèque Innovante Pour Le Développement D'intelligence Artificielle
-date: 2024-08-22T00:04:41.121Z
-updated: 2024-08-23T00:04:41.121Z
+date: 2025-01-17T23:06:20.170Z
+updated: 2025-01-21T19:28:49.287Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e747814e8f0bb0ff84874df4.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY se lance dans l’Open Source avec NeoML, sa bibliothèque de développement dédiée à l’IA
 
 16 juin 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _ABBYY NeoML vise à doter les développeurs en compétences de Deep Learning et Machine Learning pour permettre l’émergence de nouvelles applications au service de la transformation digitale des entreprises._ 
 
@@ -60,8 +68,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,8 +75,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-efficiently-stream-your-facebook-feed-on-pcmaclaptop/"><u>[New] 2024 Approved Efficiently Stream Your Facebook Feed on PC/Mac/Laptop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-spend-on-a-single-youtubers-ads/"><u>[New] Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[Updated] The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-shot-recorder-hunters-top-picks/"><u>[Updated] Ultimate Shot Recorder Hunters' Top Picks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-5-vr-sets-elevating-uav-experience/"><u>2024 Approved Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-and-fast-how-to-get-high-quality-mp3s-from-soundcloud-today/"><u>Easy & Fast: How To Get High-Quality MP3s From SoundCloud Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-to-the-top-10-no-cost-visual-vaults/"><u>Essential Guide to The Top 10 No-Cost Visual Vaults</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>In 2024, The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-science-behind-apples-m1-processor-unveiled/"><u>In 2024, The Science Behind Apple’s M1 Processor Unveiled</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>New How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-7-tools-for-3d-animators-creation-for-2024/"><u>Top 7 Tools for 3D Animator's Creation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-msidll-not-found-errors/"><u>Troubleshooting Steps to Correct 'msi.dll Not Found' Errors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-potential-a-comprehensive-look-at-the-motorola-one-hyper-mid-tier-beast/"><u>Unleashing Potential: A Comprehensive Look at the Motorola One Hyper Mid-Tier Beast</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

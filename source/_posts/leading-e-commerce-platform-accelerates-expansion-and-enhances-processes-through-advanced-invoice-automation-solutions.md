@@ -1,7 +1,7 @@
 ---
 title: Leading E-Commerce Platform Accelerates Expansion & Enhances Processes Through Advanced Invoice Automation Solutions
-date: 2024-08-22T00:03:41.711Z
-updated: 2024-08-23T00:03:41.711Z
+date: 2025-01-18T16:41:16.940Z
+updated: 2025-01-21T16:12:32.931Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9b35474b3c5a660491ebe0a3.png
@@ -17,6 +17,10 @@ Other | Accounts Payable Automation
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 ## Top online retailer speeds growth and improves operating efficiency with invoice automation
@@ -25,9 +29,17 @@ Other | Accounts Payable Automation
 
 ![](https://static1.abbyy.com/abbyycommedia/15575/22-pcrush-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![pcRush](https://static4.abbyy.com/abbyycommedia/15413/pcrush_168.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name                  | pcRush                           |
 | --------------------- | -------------------------------- |
@@ -100,6 +112,10 @@ As for the future, Dy is confident in FlexiCapture’s ongoing benefits: “As w
 
 [![4-flexicapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
@@ -119,8 +135,9 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -133,8 +150,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +157,20 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-rated-mp4-video-save-and-review/"><u>[Updated] 2024 Approved Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-12-mini-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 12 mini In Easy Steps | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-s18e-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo S18e to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-list-of-different-video-camera-types/"><u>In 2024, List of Different Video Camera Types</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>In 2024, The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>In 2024, The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-free-chants-and-sounds-a-guide-to-peaceful-meditation/"><u>In 2024, Top Free Chants & Sounds A Guide to Peaceful Meditation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-guide-jpegpng-to-pdf-conversion-techniques/"><u>IPhone Guide JPEG/PNG to PDF Conversion Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-customizing-how-enter-works-in-excel-spreadsheets/"><u>Step-by-Step Tutorial: Customizing How Enter Works in Excel Spreadsheets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-photos-with-ease-comprehensive-guide-on-background-erasure-tool-usage-for-2024/"><u>Transform Your Photos with Ease Comprehensive Guide on Background Erasure Tool Usage for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unraveling-the-meaning-and-usage-of-blue-emoji-in-fb-messages-for-2024/"><u>Unraveling the Meaning and Usage of Blue Emoji in FB Messages for 2024</u></a></li>
+</ul></div>
 

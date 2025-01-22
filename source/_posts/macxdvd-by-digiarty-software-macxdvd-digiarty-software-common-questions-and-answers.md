@@ -1,7 +1,7 @@
 ---
 title: MacXDVD by Digiarty Software - 一般的な疑問と回答について (MacXDVD Digiarty Software - Common Questions & Answers)
-date: 2024-08-26 12:32:42
-updated: 2024-08-27 12:11:44
+date: 2025-01-19T03:00:32.782Z
+updated: 2025-01-21T22:05:26.531Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b0601596509e90390a2a00c63c2.jpg
@@ -30,9 +30,15 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
  なお、お客様からの入力ミスにより、「回答が来ない」という苦情を申し立てることも多いですが、このような場合で回答のメールが返信できない場合は、お使いのメール設定をご確認ください。  
  ※特に多いメールアドレスの設定ミスの例：@hotmail.com→@homail.comと入力(脱字)ミスがある。 @yahoo.co.jp→@yahoo.ne.jpとドメイン名の入力ミス。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon2.png)購入とお支払い方法
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### お支払いはどうしたらよいですか？
 
@@ -73,8 +79,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 #### 注文したプログラムは何時、どのように受け取りますか？
 
 * 注文が完了すると、customer@2checkout.comから電子メールを三通受け取ります。一つはオンライン注文確認、一つは支払い領収書、もう一つはご注文の製品情報、自動的に生成したライセンスコード及びソフトのダウンロード先です。 メールが届く時間はお支払い方式によって異なります： クレジットカードでは一営業日以内、コンビニ決済は一日から三日ぐらい、銀行振込は一週間ぐらいかかります。
-
-
 
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon3.png)ライセンスコード
 
@@ -124,7 +128,9 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
  4．ソフトをご注文された際に間違ったアドレスが書かれてしまった可能性があります。
 * もし最後の1点の場合は、[sales@macxdvd.com](https://tools.techidaily.com/macxdvd/products/)までご連絡お願いいたします。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon4.png)Backup CD(バックアップ CD)
 
@@ -153,8 +159,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 #### バックアップCDは返金できますか？
 
 * バックアップCDは決済プラットフォーム（2Checkout）から提供されます。開発者として、我々はお客様に弊社製品のダウンロード版しか提供いたしません。[2Checkoutのポリシー](http://www.avangate.com/shopper-support/shopper-faq.php?lang=ja)に従って、料金の払い戻しはできません。
-
-
 
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon5.png)ダウンロード、インストール、登録、アップグレード、ログアウト
 
@@ -195,6 +199,10 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 ![WinX DVD Ripper Platinum](https://www.macxdvd.com/support/../image-jp/mdrp02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * 【ご注意】  
  ※ ライセンスコードのご入力は小文字でも大文字でも可能ですので、直接テキストボックスに登録情報を貼り付けるほうがいいです。  
  ※ 登録情報の入力の際に、情報の前および末尾ににスペース（空白）が入らないようにご入力ください。
@@ -224,7 +232,9 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 * 万が一、、PCリカバリー、OSクラッシュなど突然発生して、ログアウトができなくなった場合、弊社の[お問い合わせ](https://tools.techidaily.com/macxdvd/products/)までご連絡お願いいたします。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ![](https://www.macxdvd.com/support/image-style/faq-jp/nav-icon6.png)Digiarty Softwareの返金ポリシーと他の問題
 
@@ -249,11 +259,29 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-youtube-storytelling-techniques-that-work/"><u>[New] In 2024, 10 YouTube Storytelling Techniques That Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tips-for-obtaining-pristine-photos-without-payment/"><u>[New] Top Tips for Obtaining Pristine Photos Without Payment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-top-10-preferred-gopro-housing/"><u>[Updated] Ultimate Guide Top 10 Preferred GoPro Housing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-podcast-prominence-with-advanced-seo-techniques/"><u>[Updated] Unlock Podcast Prominence with Advanced SEO Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-android-time-lapses/"><u>[Updated] Unlocking the Power of Android Time-Lapses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-image-editing-picart-background-shedding/"><u>2024 Approved Simplify Image Editing PicArt Background Shedding</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-effective-digital-video-photo-alteration/"><u>2024 Approved Strategies for Effective Digital Video Photo Alteration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superb-simple-countdown-apps-for-free/"><u>2024 Approved Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-winning-appeal-to-eas-beta-selection-panel/"><u>Crafting a Winning Appeal to EA's Beta Selection Panel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-videos-with-manycam-premium-live-broadcasting-and-fake-webcam-technology/"><u>Enhance Your Videos with ManyCam - Premium Live Broadcasting & Fake Webcam Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977000082-get-your-roccat-mouse-up-and-running-with-these-free-drivers/"><u>Get Your ROCCAT Mouse Up and Running with These Free Drivers.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-notebook-driver-update-and-download-instructions-for-windows-users/"><u>HP Notebook Driver Update & Download Instructions for Windows Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-infographic-premier-fifa-videos-popularity-spotlight/"><u>In 2024, Infographic Premier FIFA Videos Popularity Spotlight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-routines-for-disorganized-youtube-playlists/"><u>Quick Routines for Disorganized YouTube Playlists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scoring-a-bargain-snag-your-newest-ipad-at-only-199-on-amazons-epic-labor-day-discount-event-insights-by-zdnet/"><u>Scoring a Bargain: Snag Your Newest iPad at Only $199 on Amazon's Epic Labor Day Discount Event - Insights by ZDNET</u></a></li>
+</ul></div>
+

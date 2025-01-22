@@ -1,7 +1,7 @@
 ---
 title: Leverage Automated Tracking with the Cookiebot Platform for Enhanced User Experience
-date: 2024-08-22T00:00:41.345Z
-updated: 2024-08-23T00:00:41.345Z
+date: 2025-01-18T03:03:14.526Z
+updated: 2025-01-21T18:48:48.025Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414afa88e6a5b8f7881f823fc3c.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amidst the Great Resignation, 52% of employees believe AI skills will make their job easier, according to ABBYY survey
 
 November 10, 2021
@@ -18,6 +22,10 @@ November 10, 2021
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 ![News Artificialintelligence 1](https://static5.abbyy.com/abbyycommedia/33482/news-artificialintelligence-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * 92% of employees admit they waste up to 8 hours a week searching documents for information they need to serve customers.
 * 31% agreed AI skills would help them be more responsive to customers.
@@ -39,6 +47,10 @@ When organizations look towards investing in the right AI solutions, their emplo
 
 ![](https://static1.abbyy.com/abbyycommedia/34734/infographics-en.jpg?width=1174&height=616)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Weronika Niemczyk, Chief People Officer at ABBYY** said, _“There is no escaping the use of documents no matter the type of business that people work in, even when they are born digital. In this era of employees increasingly leaving employers who don’t offer the conditions, tools and support they expect, it is important to upskill and augment workers with AI capabilities, especially when working with company assets such as documents.“_
 
 _“AI skills for documents deliver cost savings, not just in terms of speed of processes and a reduction in errors but also alleviates the need for additional staff. As a result, happier, more engaged employees have more time to dedicate to the tasks that matter – delivering superior customer experiences and creative problem solving.”_
@@ -58,16 +70,17 @@ ABBYY empowers organizations to gain a complete understanding of their business 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies, and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYY editorial contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -82,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +102,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-creativity-choosing-high-quality-camera-lenses/"><u>[New] 2024 Approved Cutting Edge Creativity Choosing High-Quality Camera Lenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flash-clip-content-wizard/"><u>[New] 2024 Approved Flash Clip Content Wizard</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>[New] Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diy-guide-to-turning-youtube-screen-time-into-a-free-screencast-for-2024/"><u>[Updated] DIY Guide to Turning YouTube Screen Time Into a FREE Screencast for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-ae-text-styles-guide/"><u>2024 Approved Top 10 AE Text Styles Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-xs-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone XS Max Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>In 2024, Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/telepathy-through-tech-healthcare-reimagined-for-2024/"><u>Telepathy Through Tech Healthcare Reimagined for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/top-strategies-for-identifying-and-fixing-graphics-card-problems-expert-tips-from-yl-computing/"><u>Top Strategies for Identifying & Fixing Graphics Card Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-hidden-facebook-data-and-protecting-yourself-online-for-2024/"><u>Unveiling Hidden Facebook Data & Protecting Yourself Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C53 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

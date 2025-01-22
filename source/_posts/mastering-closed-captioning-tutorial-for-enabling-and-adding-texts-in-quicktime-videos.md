@@ -1,7 +1,7 @@
 ---
 title: "Mastering Closed Captioning: Tutorial for Enabling and Adding Texts in QuickTime Videos"
-date: 2024-08-24 23:39:15
-updated: 2024-08-27 11:11:41
+date: 2025-01-18T17:49:21.319Z
+updated: 2025-01-21T22:56:16.818Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd255e5dc5db28c7cff1f9e3c.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Apple resources](https://tools.techidaily.com/macxdvd/products/) \> QuickTime Subtitle
 
 ## How to View & Add Captions/Subtitles in QuickTime
-
-
 
 _Summary: how do you turn on captions in QuickTime? How to add closed captions or subtitles in QuickTime? Does quicktime accept SRT subtitle file? All your doubts can find answers here! Read on..._
 
@@ -33,9 +29,21 @@ _Summary: how do you turn on captions in QuickTime? How to add closed captions o
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-go.jpg)](https://pinterest.com/pin/create/button/?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/turn-on-add-captions-subtitles-in-quicktime.htm&media=&description=)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/turn-on-add-captions-subtitles-in-quicktime.htm&title=&summary=&source=)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 QuickTime player is the native media player for you to open and playback video audio files. As for the video footage with subtitles or captions embedded, QuickTime player is happy to help you access to the video content by viewing without sound by displaying the captions or subtitles on your screen during video playback. Certainly, if your video or movie file doesn't contain any caption or subtitle, QuickTime will not offer you an option to view them. 
 
 Regardless of what type of your video is, you can get helpful workarounds here. In terms of video with embedded subtitles, get the hang of turnning on captions in QuickTime here if needed. For those without built-in subtitles or captions, you're more needed to stay here to know how to add closed captions or subtitles in QuickTime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of Contents 
 
@@ -57,6 +65,10 @@ Step 2\. Open a movie or video footage that has subtitles or captions, then do a
 * Turn on closed captions: hit View > Show Closed Captioning.
 
 Now, the closed captions or soft subtitles display on your Mac screen to help viewers better understand the video content (esp. for foreign language films) even without sound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Open Sidecar Caption Files in QuickTime
 
@@ -81,6 +93,10 @@ Now, embed sidecar caption files to video in QuickTime:
 
 Now job is done. iPad should perform as an extension of your Mac, letting you move windows between the two screens. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Can You Add SRT to QuickTime
 
 For those who need to add external captions or subtitles in QuickTime check your subtitle/caption file format please. Unlike YouTube or Facebook that accepts SRT subtitle file, **QuickTime player won't support SRT or SubRip files**. You can't add SRT to quicktime directly. 
@@ -93,11 +109,19 @@ Well, where to create your own CEA-608 QT format subtitles or captions? 3Play Me
 
 ![3Player Media](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/3player-media.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: batch uploading is limited to max 8 files at one stroke and your video size is supposed to be smaller than 2GB each.
 
 **Step 2.** Download your soft subtitles or closed captions in .QT format. Click My Files on 3Play Media webpage > pick up the video file you uploaded for captioning > hit Download > select QT. A QT (.txt) file under the Web Captions section. Then your desired subtitles/captions will start to download to your MacBook, iMac or Mac Mini.
 
 As far as the SRT subtitles you've already had, you can resort to caption converter to convert SRT to CEA-608 QT format. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Add Closed Captions (sidecar file) in QuickTime
 
@@ -108,6 +132,10 @@ When everything is ready, Head to [3Player Media](https://www.3playmedia.com/) (
 To do this, find your .QT file in Finder > right-click the caption/subtitle file and choose Open with > QuickTime Pro. This will open a separate QuickTime window that shows just your closed captions, no video image. Copy the captions to the clipboard by tapping Edit, selecting All and opting for Edit > Copy.
 
 ![Embed captions to video in QuickTime](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/3player-media-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Click the QT window of your video. Make sure that the play head is at the beginning. This aims to guarantee your video and subtitle playback in sync, no out of sync trouble. 
 
@@ -131,11 +159,13 @@ ABOUT THE AUTHOR
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Add SRT Subtitles to AVI Video File](https://tools.techidaily.com/macxdvd/products/)
 
@@ -158,8 +188,6 @@ Related Articles
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
 [Trim QuickTime Video Mac & Solve QuickTime Can’t Trim Video](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
@@ -187,8 +215,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -202,11 +228,33 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-sky-high-cloud-stashing-solutions-on-android/"><u>[New] Sky-High Cloud Stashing Solutions on Android</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-technique-for-merging-gopro-videography-with-encompassing-immersive-content/"><u>[New] Top Technique for Merging GoPro Videography with Encompassing Immersive Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-your-digital-footprint-the-ultimate-screen-recording-manual-for-2024/"><u>[Updated] Streamline Your Digital Footprint The Ultimate Screen Recording Manual for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>[Updated] The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-fb-videos-to-mp4-converter-toolkit-for-2024/"><u>[Updated] Top 10 FB Videos to MP4 Converter Toolkit for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/10-ways-to-fix-a-wireless-adapter-or-access-point-error-message/"><u>10 Ways to Fix a Wireless Adapter or Access Point Error Message</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-crafting-insta-tones/"><u>2024 Approved The Insider's Guide to Crafting Insta Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-solo-broadcasters-playbook-for-optimal-live-streams/"><u>2024 Approved The Solo Broadcaster's Playbook for Optimal Live Streams</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>In 2024, Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tip-how-to-create-a-quick-and-easy-google-collage-photo/"><u>In 2024, Top Tip How to Create a Quick and Easy Google Collage Photo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unearthing-the-potential-in-magixs-image-sorter/"><u>In 2024, Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-look-at-the-expected-specs-and-release-of-samsungs-galaxy-z-fold-7-news-update-with-rumored-details/"><u>In-Depth Look at the Expected Specs and Release of Samsung's Galaxy Z Fold 7 – News Update with Rumored Details</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-mov-video-clipper-top-6-software-for-you-for-2024/"><u>New Free MOV Video Clipper Top 6 Software for You for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skyward-saga-with-gopro-karma-a-comprehensive-review/"><u>Skyward Saga with GoPro Karma A Comprehensive Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-fundamentals-of-quantum-hdr-efficiency-for-2024/"><u>The Fundamentals of Quantum HDR Efficiency for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-hidden-secrets-for-advanced-win10-users-for-2024/"><u>Unveiling Hidden Secrets for Advanced Win10 Users for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-experts-outperform-ai-in-coin-market-analysis/"><u>Why Experts Outperform AI in Coin Market Analysis</u></a></li>
+</ul></div>
+

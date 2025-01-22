@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Optimizing User Experience with Smart Tracking"
-date: 2024-08-22T00:01:04.553Z
-updated: 2024-08-23T00:01:04.553Z
+date: 2025-01-17T02:31:38.928Z
+updated: 2025-01-21T18:40:44.374Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a82183359872714a0c5168c962bf67b.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## StrategieTage Finance 2016 – ABBYY auf dem Spitzentreffen deutscher CFOs
 
 11\. Februar 2016
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY Europe, ein führender Anbieter von Technologien und Lösungen für Dokumentenerkennung, Data Capture und Linguistik, berät Finanzvorstände namhafter Unternehmen vom 17\. – 18\. Februar auf Schloss Bensberg zum Thema [automatische Kreditorenbuchhaltung](https://tools.techidaily.com/abbyy/products/). Auch in diesem Jahr diskutieren deutsche CFOs auf den StrategieTagen Finance wieder die Zukunft von Finanzabteilungen. Neben den Finanzvorständen bekannter Unternehmen wie Nordzucker, ThyssenKrupp oder Universal Music sind auch prominente Gastredner aus der Politik eingeladen - unter anderem Dr. Michel Friedmann und Dr. Gregor Gysi.
 
@@ -60,8 +68,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,8 +75,23 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-methods-for-preserving-youtube-videos/"><u>[New] In 2024, Innovative Methods for Preserving YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>[New] Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-spending-to-skyrocket-your-video-views/"><u>[New] Strategic Spending to Skyrocket Your Video Views</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tis-the-tape-a-1992-rewind-at-goofys-cinema/"><u>[Updated] 'Tis the Tape!' A 1992 Rewind at Goofy's Cinema</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-hands-free-strategies-for-logging-online-meetings/"><u>[Updated] 2024 Approved Hands-Free Strategies for Logging Online Meetings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-blank-page-to-airwaves-writing-engaging-podcast-episodes-for-2024/"><u>[Updated] From Blank Page to Airwaves Writing Engaging Podcast Episodes for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-expert-guide-effective-strategies-for-locating-files-and-directories-on-your-computer-insights-from-yl-computing/"><u>1. Expert Guide: Effective Strategies for Locating Files and Directories on Your Computer - Insights From YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-20-trending-memes-reddit-vs-twitter/"><u>2024 Approved Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/download-and-enjoy-pandora-media-in-high-quality-mp3-format-for-all-devices-windows-mac/"><u>Download & Enjoy Pandora Media in High-Quality MP3 Format for All Devices (Windows, Mac)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-raw-footage-to-high-quality-mpeg-youtube-conversion-techniques-for-2024/"><u>From Raw Footage to High-Quality MPEG YouTube Conversion Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-earning-money-on-reddit-for-beginners/"><u>In 2024, The Ultimate Guide to Earning Money on Reddit for Beginners</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-15-pro-max-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Pro Max Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience-for-2024/"><u>The Game Plan for Getting Your Product in Front of a Youtuber's Audience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-ten-meme-designs-for-virality-for-2024/"><u>Ultimate Guide Top Ten Meme Designs for Virality for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unraveling-the-mysteries-of-smooth-audioshifts-for-2024/"><u>Unraveling the Mysteries of Smooth Audioshifts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-automobile-audio-goes-silent/"><u>What to Do When Your Automobile Audio Goes Silent?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

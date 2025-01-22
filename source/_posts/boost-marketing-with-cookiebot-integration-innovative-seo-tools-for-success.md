@@ -1,7 +1,7 @@
 ---
 title: Boost Marketing with Cookiebot Integration - Innovative SEO Tools for Success
-date: 2024-08-22T00:03:59.724Z
-updated: 2024-08-23T00:03:59.724Z
+date: 2025-01-21T02:09:54.672Z
+updated: 2025-01-21T20:39:59.520Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba0770c510351be73e79c7abb.jpg
@@ -17,27 +17,22 @@ Education/Research
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/39653.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
 ## L’université de Southampton améliore l’accès à sa collection en numérisant de volumineuses quantités de documents imprimés
 
 [Afficher ou télécharger une version imprimable de cet article (PDF 329 kb)](https://static4.abbyy.com/abbyycommedia/10189/cs-unisouthampton-rs-f.pdf) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Contexte
 
 ![](https://tools.techidaily.com/abbyy/products/)La bibliothèque de l’université de Southampton accueille environ 35 000 étudiants et membres de son personnel. Elle offre un accès à une très vaste collection de qualité supérieure : 1,5 millions de livres et plusieurs millions de pages de documents d’archive. La bibliothèque s’est récemment lancée dans un programme de numérisation d’un nombre important de textes clés via l’Unité de numérisation de bibliothèques (LDU, Library Digitisation Unit). La LDU est une opération phare dans le secteur de l’éducation et se spécialise dans la capture numérique d’un large éventail de documents pour les référentiels ou la distribution sur Internet via des liens du catalogue de la bibliothèque. La démarche de la bibliothèque universitaire consiste à offrir un accès complet aux documents numériques qu’elle crée, chaque fois que cela est possible et autorisé.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ABBYY FineReader, un produit logiciel conçu pour la numérisation et la numérisation ad-hoc, a été utilisé par la bibliothèque pendant un certain nombre d’années pour numériser une petite quantité de pages, et occasionnellement l’intégralité de livres. Ce programme est aussi utilisé pour la reconnaissance de texte et la reconnaissance optique de caractères (OCR, optical character recognition). La bibliothèque s’est rapidement rendue compte que pour automatiser le processus OCR, avec un rendement élevé, et atteindre son objectif, qui est de numériser un demi-million de pages par an, elle aurait besoin d’un produit plus robuste et capable de traiter automatiquement d’importants volumes de documents.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution
 
 Pour trouver une solution permettant de traiter les documents imprimés, de les convertir en formats interrogeables, tels que le PDF et le PDF/A, et de numériser la création d’archives ou de dossiers, la bibliothèque a examiné diverses options disponibles sur le marché. Les critères suivants ont été examinés pour un certain nombre de produits: rapidité et qualité de l’OCR, gamme de formats et de compressions à l’exportation et possibilité d’intégrer des API/workflows. Après avoir examiné un certain nombre de produits, la bibliothèque a sélectionné ABBYY Recognition Server comme solution la plus performante.
@@ -62,8 +57,9 @@ D’autres projets internes incluent:
 **La collection Richard Rutt:** une collection de livres de tricot datant du 19ème siècle provenant de la bibliothèque de références artistiques de l’école Winchester a été numérisée et mise à disposition sous la forme de fichiers PDF interrogeables via Internet.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 La reconnaissance optique de caractères puissante et précise est une partie intégrante des activités de l’unité de numérisation de bibliothèques. Grâce à l’augmentation de la production engendrée par ABBYY Recognition Server, le personnel de la bibliothèque est libéré du travail ennuyeux que constitue l’OCR manuel. Des millions de pages de documents provenant de la collection de l’université de Southampton sont disponibles en ligne dans des formats numériques pour les étudiants et pour le reste du monde.
@@ -71,6 +67,10 @@ La reconnaissance optique de caractères puissante et précise est une partie in
 La réussite de la numérisation peut également être attribuée à la souplesse d´administration du produit et à la facilité de son intégration aux processus de bibliothèques existants. « La possibilité d’intégrer ABBYY Recognition Server à notre workflow était capitale, » a déclaré Julian Ball, administrateur de section de l’unité de numérisation de bibliothèques.
 
 « L’installation d’ABBYY Recognition Server a été rapide. Les premières réponses d’ABBYY et de leurs équipes de support vis-à-vis de toutes les questions posées ont été rapides, avec un suivi de bonne qualité. Nous avons été très satisfaits des résultats et nous avons hâte d’utiliser le produit pour continuer à remplir nos objectifs en termes de numérisation. »
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## À propos de l’université de Southampton
 
@@ -82,8 +82,9 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu)
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## À propos d’ABBYY et contact
 
 [Vers la description d’ABBYY ›](https://tools.techidaily.com/abbyy/products/)
@@ -93,8 +94,9 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu)
 Partager 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -107,8 +109,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,20 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-srt-transformations-for-mac-and-windows-pcs/"><u>[New] Top-Tier SRT Transformations for Mac & Windows PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-financial-independence-on-youtube-via-views/"><u>[Updated] 2024 Approved Achieving Financial Independence on YouTube via Views</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ideal-ios-options-the-finest-selector-of-emulators-for-playing-psp-games/"><u>[Updated] Ideal iOS Options The Finest Selector of Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-audiovisual-creators-top-5-app-picks-of-the-era/"><u>[Updated] In 2024, Audiovisual Creators' Top 5 App Picks of the Era</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-privacy-first-explore-the-best-10-no-cost-highly-secured-video-calling-apps-for-smartphones-for-2024/"><u>[Updated] Privacy First Explore the Best 10 No-Cost, Highly-Secured Video Calling Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-online-hubs-for-public-domain-music-in-games/"><u>[Updated] Top 10 Online Hubs for Public Domain Music in Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-visual-enhancements-via-luts-in-pro/"><u>2024 Approved Streamlining Visual Enhancements via LUTs in Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>2024 Approved Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oneplus-ace-2-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from OnePlus Ace 2 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-nokia-g310-frp-bypass-by-drfone-android/"><u>About Nokia G310 FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-y-convertir-videos-gratis-a-formato-mp4-con-conversor-de-video-online/"><u>Descargar Y Convertir Videos Gratis a Formato MP4 Con Conversor De Video Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography-for-2024/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-superuser-access-a-step-by-step-guide/"><u>Mastering Superuser Access: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

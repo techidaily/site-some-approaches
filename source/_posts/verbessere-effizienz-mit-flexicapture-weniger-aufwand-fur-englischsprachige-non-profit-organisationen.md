@@ -1,7 +1,7 @@
 ---
 title: "Verbessere Effizienz Mit FlexiCapture: Weniger Aufwand Für Englischsprachige Non-Profit-Organisationen"
-date: 2024-08-22T00:05:16.614Z
-updated: 2024-08-23T00:05:16.614Z
+date: 2025-01-20T02:31:20.149Z
+updated: 2025-01-21T22:45:23.373Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de7b5ef10d79d0e3f377f7561.jpg
@@ -16,6 +16,10 @@ Education/Research | Social Work | ICR/Handwriting Recognition | PDF and Documen
 ## FlexiCapture hilft englischer NPO ihr Arbeitspensum signifikant zu verringern
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/21614.png?h=40&iar=0&w=120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
@@ -40,22 +44,21 @@ Education/Research | Social Work | ICR/Handwriting Recognition | PDF and Documen
 | Website | [www.beckerdm.co.uk](https://www.beckerdm.co.uk) |
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Hintergrund
 
 In jahrelanger Zusammenarbeit mit mehreren Hundert Schulen hat die School Fundraising Company mit dem populären Christmas Card Project mehrere Tausend Pfund für die Unterstützung von Lehrerverbänden und Schulfonds aufbringen können. Die Schulen verwenden die Gelder, um dringend benötigte Materialien für den Sport-, Kunst- und Werkunterricht, sowie Bücher, Lernmaterialien und Computer zu kaufen. Die Organisation bietet ein Konzept mit dem das Projekt für die Kinder und Lehrer unterhaltsam gestaltet und gleichzeitig die Summe an Geldern, die für die Schule beschafft werden, optimiert wird. Eine der entstehenden Schwierigkeiten für School Fundraising Company ist dabei leider die Menge an Karten – die sich in einer „ganz normalen“ Weihnachtssaison auf mehrere Hunderttausend belaufen kann – und deren Bearbeitung, welche ein zeitintensiver und fehleranfälliger Prozess ist. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Herausforderung
 
 Sobald sich eine Schule für das Christmas Card Project angemeldet hat, schickt School Fundraising Company ein Paket mit allen nötigen Informationen und Unterlagen an die entsprechenden Lehrer, die dann eine Unterrichtsstunde organisieren in der jeder einzelne Schüler seine individuelle Weihnachtskarte gestalten darf. Jeder Schüler bekommt ein Blatt DIN A4 Papier, welches in 2 Hälften aufgeteilt wird. In die eine Hälfte malt der Schüler seine Karte, in die andere Hälfte trägt der Lehrer die Daten des Schülers ein – Name, Alter, Klasse, etc. Nachdem die gesamte Klasse ihre Karten fertig gestellt hat, werden diese zurück an die School Fundraising Company gesendet, wo ein Angestellter mit dem langwierigen Prozess der Bearbeitung beginnt. Die Einsendungen müssen sortiert und die persönlichen Daten des Schülers herausgefiltert und in eine Datenbank eingegeben werden. Um den Zeitaufwand zu verringern und die Fehlerquote zu reduzieren, hat sich die Organisation dazu entschlossen, eine technologische Lösung für die Bearbeitung zu suchen.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lösung
 
 Um eine Lösung zu finden, die den Arbeitsprozess vereinfachen und rationalisieren könnte, hat sich School Fundraising Company an Becker Services gewandt, ein unabhängiges Document Management und Data Capture Unternehmen in Großbritannien mit Sitz in Essex und Herts. Becker hat die Situation analysiert und festgestellt, dass eine Data Capture Lösung benötigt würde, um die relevanten Informationen aus den Karten der Kinder herauszufiltern und zu verarbeiten.
@@ -72,9 +75,6 @@ Obwohl FlexiCapture jedes einzelne Dokument mit sehr hoher Genauigkeit erkennt, 
 
 School Fundraising Company schätzt, dass sich durch die Verwendung von ABBYY FlexiCapture für eine automatisierte Extrahierung der Daten der manuelle Arbeitsaufwand pro Person um ca. 50% reduziert hat. In Arbeitsstunden pro Person umgerechnet bedeutet das, dass im Schnitt 3-4 Wochen weniger für die Umsetzung jedes Projekts benötigt werden – was eine erhebliche zeitliche und finanzielle Einsparung bedeutet. Zusätzlich konnte durch die hohe Präzision von FlexiCapture die Fehlerquote bei der Zuordnung von Bild und Daten verringert werden, die vorher die Organisation viel Zeit und Geld gekostet hat. Das Scannen der Bilder und die manuelle Eingabe der Daten waren zuvor zwei vollkommen separate Prozesse, wodurch viele Fehler entstanden. 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ergebnis
 
 Wir sind wirklich sehr zufrieden mit der Leistung von Becker Services“, erklärt Julie Burton von School Fundraising Company. „Die Zusammenarbeit war sehr angenehm – sie sind sehr hilfsbereit, unterstützend und aufmerksam – und ABBYYs Software passt perfekt zu unseren Bedürfnissen. Wir würden keine Sekunde zögern, sie bei einem ähnlichen Projekt wieder zu kontaktieren.“
@@ -84,8 +84,9 @@ Schulen und Schüler profitieren seit Jahren von der Arbeit von School Fundraisi
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Über ABBYY und Kontaktmöglichkeiten
 
 [Zur ABBYY Unternehmensübersicht ›](https://tools.techidaily.com/abbyy/products/)
@@ -95,8 +96,9 @@ Schulen und Schüler profitieren seit Jahren von der Arbeit von School Fundraisi
 Teilen 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -109,8 +111,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +118,20 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo/"><u>[New] 2024 Approved Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-secret-to-turning-iphone-pics-around-for-2024/"><u>[New] Discover the Secret to Turning iPhone Pics Around for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-skyrocketing-youtube-followers/"><u>[New] Strategies for Skyrocketing YouTube Followers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-how-to-securely-downloading-gratis-vlc-on-macos/"><u>[New] The Essential How-To Securely Downloading Gratis VLC on MACOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-voice-commands-with-top-mac-translation-programs/"><u>[New] Unleashing Voice Commands with Top Mac Translation Programs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beginner-friendly-approach-embracing-video-chats-on-insta-for-2024/"><u>[Updated] Beginner-Friendly Approach Embracing Video Chats on Insta for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-deciphering-the-best-from-av1-and-vp9/"><u>[Updated] Deciphering the Best From AV1 and VP9</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-verify-your-youtube-account-for-2024/"><u>[Updated] How to Verify Your YouTube Account for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-visual-narratives-with-creative-use-of-luts-in-pro/"><u>[Updated] Transforming Visual Narratives with Creative Use of LUTs in Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-revolutionizing-vr-experiences-with-newest-game-engines/"><u>2024 Approved Revolutionizing VR Experiences with Newest Game Engines</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cropping-webm-videos-for-free-a-step-by-step-guide-online-and-offline-methods/"><u>Cropping WebM Videos for Free: A Step-by-Step Guide (Online & Offline Methods)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-action-cameras-clash-gopro-vs-sony-in-film-quality-debate/"><u>In 2024, Action Cameras Clash GoPro Vs. Sony in Film Quality Debate</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tomorrows-evaluation-creative-pathways/"><u>In 2024, Tomorrow’s Evaluation Creative Pathways</u></a></li>
+</ul></div>
 

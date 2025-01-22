@@ -1,7 +1,7 @@
 ---
 title: Lancement De La Vérification D'identité Numérique ABBEY en France
-date: 2024-08-21T23:59:54.102Z
-updated: 2024-08-22T23:59:54.102Z
+date: 2025-01-18T22:50:28.542Z
+updated: 2025-01-21T17:55:29.892Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e642ab24591a56b8d090783a.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Identité numérique : ABBYY lance Proof of Identity sur le marché français
 
 11 octobre 2022
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 ![News Abbyy Poi](https://static2.abbyy.com/abbyycommedia/36116/news-abbyy-poi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), multinationale spécialisée dans l’Intelligent Process Automation, annonce le lancement de sa nouvelle solution baptisée Proof of Identity. Avec la première solution tout-en-un offrant une vérification et une authentification d’identité instantanées, partout et tout le temps, ABBYY entend aider ses clients à faire face aux problèmes d’usurpation d’identité, évalués à un milliard de dollars.
 
@@ -44,6 +52,10 @@ Les entreprises souhaitant optimiser leurs expériences d’onboarding et rédui
 
 Plus de détails sont disponibles sur le portail [ABBYY Proof of Identity](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 10 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -51,19 +63,17 @@ ABBYY est un acteur référent de l’Intelligent Process Automation. L’entrep
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![02E Eva Mariahufschmitt](https://static4.abbyy.com/abbyycommedia/23663/02e-eva-mariahufschmitt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Eva-Maria Hufschmitt
 
 _ABBYY_
@@ -78,8 +88,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +95,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-add-custom-youtube-shorts-thumbnails-effortlessly/"><u>[Updated] In 2024, How to Add Custom YouTube Shorts Thumbnails Effortlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-summit-of-synergy-for-vr-sensations/"><u>[Updated] Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-guide-to-editing-tiktok-account-numbers/"><u>[Updated] The Comprehensive Guide to Editing TikTok Account Numbers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>[Updated] Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-potential-essential-win11-tools/"><u>[Updated] Unleashing Potential Essential Win11 Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visualizing-the-future-virtual-realities-explored/"><u>[Updated] Visualizing the Future Virtual Realities Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>2024 Approved Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mp4-to-wav/"><u>最新MP4 to WAVフリーソフトウェア: より良いオーディオ質に簡単パッケージ化のガイド</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nubia-red-magic-8s-proplus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g533-headset-microphone-failure-heres-how-to-get-it-working-again/"><u>Logitech G533 Headset Microphone Failure? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-omnidirectional-recording-gadgets-for-2024/"><u>Top 5 Omnidirectional Recording Gadgets for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-with-animated-gifs-for-2024/"><u>Unleash Creativity with Animated GIFS for 2024</u></a></li>
+</ul></div>
 

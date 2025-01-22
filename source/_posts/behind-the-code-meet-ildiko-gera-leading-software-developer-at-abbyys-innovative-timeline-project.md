@@ -1,7 +1,7 @@
 ---
 title: "Behind the Code: Meet Ildikó Gera, Leading Software Developer at ABBYY's Innovative Timeline Project"
-date: 2024-08-22T00:02:37.123Z
-updated: 2024-08-23T00:02:37.123Z
+date: 2025-01-20T02:01:02.165Z
+updated: 2025-01-22T01:14:20.798Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a705636812bbbbc0bf18d5302643fdc0.jpg
@@ -31,6 +31,10 @@ I work as a software engineer on the task mining functionality of ABBYY Timeline
 
 ![ABBYY engineer workspace with a cat on the desk](https://static1.abbyy.com/abbyycommedia/35808/idliko-gera-resize-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What was your previous experience before ABBYY?
 
 After completing my degree in molecular bionics, I transitioned my career to computer programming. I started at EPAM Szeged in a student program, which meant 20 hours of work while I was still attending university. First, I was on a team that was responsible for the landing page; we developed new features working with UX (user experience) designers and project managers from the customer side, while also maintaining the current feature set. Then I moved to Budapest, and I was transferred to a new team that worked on a library tracking user interactions site wide.
@@ -40,8 +44,9 @@ After completing my degree in molecular bionics, I transitioned my career to com
 I don't have specific advice for women because I don't feel there is much of a difference between how I work compared to my male co-workers. So, this advice is for everyone in the IT field. Don't be afraid to ask questions, this is how you will improve your skills! Also, if someone asks you a question, and you know the answer, then take the time to explain it in detail; chances are you only need to explain once, and it will make a huge difference.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Do you have any hobbies or fun interests?
 
 I work from home and my three cats are always begging for attention, so I do reserve some time to play with them. After work, I like to meet up with friends or work in the garden. When I was in high school, I was heavily into online MMORPG (Massively Multiplayer Online Role-Playing Game) games such as LineageII and TERA, but as I got older, I realized it consumes too much time to be good at it, so I switched to MMO (Massively Multiplayer Online) games like Grim Dawn and Warhammer Vermintide—it's always great to end the day with friends killing monsters!
@@ -50,36 +55,31 @@ Recently, I picked up a new interest playing Dungeons and Dragons with my co-wor
 
 ![ABBYY engineer Ildiko Gera](https://static1.abbyy.com/abbyycommedia/35809/ildiko-gera-resized.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Minature figurines and paint set](https://static1.abbyy.com/abbyycommedia/35813/idiko-gera-figures.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
 
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### If you had one wish come true, what would it be?
 
 If I can ask for something that is not possible, then I would say that we don't need to sleep anymore. More realistically, I would like scientists to discover a cheap and more effective way to store energy, because that will solve a lot of problems humanity will face in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 When somebody tries to tell me how to cook or asks if I measured the ingredients. When I learned how to cook from my mother, we never really used recipes, so I don't need them now. Of course, there are exceptions. If I try something new, I usually follow the instructions, but after that I just memorize the ratio, and I'm good to go for the next time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Name any inspirational book/movie/music you have recently discovered
 
 I recently watched the movie 'Don't Look Up', and it had a real impact on me. It was really frightening to think how we ignore alarm bells from the scientific community, just like they ignored them in the movie. It was funny, but an eye-opener.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
@@ -87,9 +87,6 @@ I recently watched the movie 'Don't Look Up', and it had a real impact on me. It
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -144,8 +141,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +148,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-strategies-for-high-roi-engagement-through-fb-animatons/"><u>[New] In 2024, Strategies for High-ROI Engagement Through FB Animatons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-no1-quick-capture-time-lapsing-system/"><u>[New] No.1 Quick Capture Time-Lapsing System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-asus-proart-a-high-end-display/"><u>[New] The Ultimate Guide to ASUS ProArt A High-End Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-secrets-of-the-12-restoring-hidden-videos-posted-on-facebook/"><u>[Updated] In 2024, Secrets of the 12 Restoring Hidden Videos Posted on Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-nailing-the-aesthetic-mastering-snapchats-filters-and-effects/"><u>[Updated] Nailing the Aesthetic Mastering Snapchat's Filters & Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swiftly-seek-and-find-discarded-reddit-posts/"><u>[Updated] Swiftly Seek and Find Discarded Reddit Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-the-power-of-words-crafting-impactful-documentary-narratives/"><u>[Updated] Unleash the Power of Words Crafting Impactful Documentary Narratives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-academic-history-lovers-guide-to-top-yt-content/"><u>2024 Approved Academic History Lovers' Guide to Top YT Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>2024 Approved Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-collective-evaluation-of-vllo/"><u>2024 Approved The Collective Evaluation of VLLO</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unleash-your-potential-become-a-broadcasting-pro-on-instagram-using-obs/"><u>2024 Approved Unleash Your Potential Become a Broadcasting Pro on Instagram Using OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>In 2024, Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-top-video-recorders/"><u>In 2024, Ultimate Guide to Top Video Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/measuring-video-storage-space-64128gb-hard-drive-analysis-for-2024/"><u>Measuring Video Storage Space - 64/128GB Hard Drive Analysis for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding-for-2024/"><u>The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/total-review-demystifying-googles-podcast-app-for-2024/"><u>Total Review Demystifying Google's Podcast App for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-reconnecting-ignored-devices-in-razer-and-w11/"><u>Troubleshooting: Reconnecting Ignored Devices in Razer & W11</u></a></li>
+</ul></div>
 

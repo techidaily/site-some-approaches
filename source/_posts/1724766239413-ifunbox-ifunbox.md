@@ -1,7 +1,7 @@
 ---
 title: IFunbox 初心者のためのガイド - 初体験者がすぐに始められるiFunbox使い方と完全な解析をご紹介！データ転送入門編
-date: 2024-08-26 17:24:59
-updated: 2024-08-27 11:51:42
+date: 2025-01-20T21:27:11.115Z
+updated: 2025-01-21T18:08:17.354Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a099867df0bbc5e1bf070a408f.jpg
@@ -13,13 +13,9 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/face.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/twi.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/google.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
-
-
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 NO Apple NO Life ! iPhone・iPad・iPod簡単データ移行方法まとめ
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \>iFunbox使い方
 
@@ -37,8 +33,6 @@ iFunboxの基本的な使い方や、ダウンロード・インストール手�
   
  ※画像をクリックすると拡大写真が表示される。
 
-
-
  iFunboxエラーや不具合ででうまくいないと完璧な対策一 MacX MediaTrans
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/pic1.png)
@@ -47,13 +41,19 @@ iFunboxはまだiOS 10に対応していないので、iOS 10端末でiFunboxが
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/)[![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iFunbox 使い方：ダウンロード・インストール手順
 
 **iFunbox詳細情報一覧**
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial01.jpg)](https://www.macxdvd.com/apple-iphone-transfer/#facebox1) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial01.jpg)
 
@@ -84,16 +84,22 @@ iFunboxはまだiOS 10に対応していないので、iOS 10端末でiFunboxが
 
 ※ iFunboxでは、大切なデータやファイルを誤操作で削除してしまう可能性もあるため注意が必要。また、iTunesがPCにインストールされていないと、iPhoneが認識されないので注意して下さい。
 
-
-
 **【iFunbox日本語版】ダウンロード＆インストール**
 
 まず、iFunboxの公式サイトからiFunboxのセットアップファイルをダウンロードしてください。iFunbox日本語版を使いたい場合、http://i-funbox.softonic.jp/へアクセスしてiFunboxをダウンロードしたほうがおすすめ。そして、以下の操作手順でiFunbox日本語版をインストールしよう。
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial05.jpg)](https://www.macxdvd.com/apple-iphone-transfer/#facebox2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
   
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ※ 画像の上で右クリックして、【新しいウィンドウで開く】を選択する。拡大画像が表示される。 本ページすべての画像はその通りである。 
 
@@ -126,8 +132,6 @@ step7： iFunboxのアイコン（ショートカット）を作成する場所�
 
 step8： これでインストール前の準備が完了したので「インストール」をクリックしてインストールを開始する。インストールが完了後にすぐに起動する場合はチェックをいれ、今は起動しないという場合はチェックを外して「完了」ボタンをクリック。そして、ご自由にiFunboxを使えるようになった。
 
-
-
 ## iFunbox 使い方：iPhone /iPad /iPod TouchからPCデータ転送
 
  iFunboxは、「IPAパッケージをiOSデバイスにインストール」、「メディアファイルを入力・出力」、「iOSデバイスをUSBメモリとして利用」、「アプリのサンドボックス内のデータを確認」、「iOSデバイスのファイルシステム内のコントロール」と多彩な機能を搭載している。その中で、「メディアファイルを入力・出力」、つまりiPhone /iPad /iPod TouchからPCへデータ転送する機能が重宝されている。
@@ -147,11 +151,13 @@ step8： これでインストール前の準備が完了したので「イン�
 **「メディアマネージャー」：**iPhoneなどに入っているミュージックやビデオ、写真や着信音のインポートとエクスポートが簡単に行える。  
 **「高度な」：**高度な操作を行うために、３種類のオプションが用意しておく。
 
-
-
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial02.jpg)](https://www.macxdvd.com/apple-iphone-transfer/#facebox6) 
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **step 2：**ご転送したいデータの種類によって、「メディアマネージャー」にあるアイコンをクリックする。例えば、iFunboxでよく使用される１つとしての写真のエクスポートがある。iPhone内の写真をPCにバックアップしたいという時などに使用されている。ここでは、写真の転送を例として説明する。
 
@@ -159,8 +165,6 @@ step8： これでインストール前の準備が完了したので「イン�
 「写真」を押した後、iFunboxは、PCに接続されたiOSデバイス側の写真アプリにあるデータを自動的に読み込む。読み込まれた写真が月ごとに表示される。
 
 **ヒント：** iPhone側の写真を読み込むするとき、iPhone側の写真アプリに517枚の写真があるのに、iFunboxでただ86枚写真を読み込んで表示してしまう。（[解決策はコチラ＞＞](https://tools.techidaily.com/macxdvd/products/)）
-
-
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial03.jpg)](https://www.macxdvd.com/apple-iphone-transfer/#facebox7) 
 
@@ -176,11 +180,13 @@ step8： これでインストール前の準備が完了したので「イン�
 
 ※ ここでは写真ファイルで説明したが音楽やビデオでも同じ操作でエクスポートができる。
 
-
-
 ## iFunbox 使い方：PCからiPhone /iPad /iPod Touchへデータ転送
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial04.jpg)](https://www.macxdvd.com/apple-iphone-transfer/#facebox8) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial04.jpg)
 
@@ -193,7 +199,9 @@ step8： これでインストール前の準備が完了したので「イン�
 
 **step 3：**写真を表示する画面の上部にある「インポート」をクリックして、新しく開かれたウィンドウ上に写真ファイルをドロップしただけでOK！
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iFunbox 使い方：iFunboxエラーや不具合ででうまくいないと完璧な対策
 
@@ -220,8 +228,6 @@ iFunboxが使えない！認識しない！」などのバグ不具合障害が�
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/buy-win.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ## iFunboxアンインストール手順
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/smart-ifunbox-tutorial05.jpg)](https://www.macxdvd.com/apple-iphone-transfer/#facebox10) 
@@ -244,8 +250,6 @@ iFunboxが使えない！認識しない！」などのバグ不具合障害が�
   
  ② iFunboxをアンインストールしたら、「削除できなかったファイルは手動で削除してください」と出てしまった。その場合、画面右下のタスクトレイから「△」を左クリックして画面を出して中に有るi-Funboxのアイコンを右クリックすると次の画面が出るから「EXIT」を押して終了する、 もしタスクトレイに有ればそれから「EXIT」でも可能。
 
-
-
  国内ユーザー数5000万人突破記念キャンペーンが実施中
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/sp-1030.jpg)
@@ -262,36 +266,41 @@ iFunboxが使えない！認識しない！」などのバグ不具合障害が�
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/../blog/new-fourteen/info.jpg)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/../blog/new-fourteen/coupon-btn.jpg)](https://secure.avangate.com/order/checkout.php?PRODS=4626941&QTY=1&CART=1&SHORT%5FFORM=1&COUPON=MACXOBON2014) 
 
-
-
  カテゴリ：[データ転送](https://tools.techidaily.com/macxdvd/products/)[iTunes](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zl.png) いつもシェアありがとうございます![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zr.png) 
-
-
 
 ## コメントの多い記事一覧
 
 * [_音楽アプリ無料_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p4.jpg) 通信量がかからない音楽アプリを最新おすすめ！iOS＆Android！](https://tools.techidaily.com/macxdvd/products/)
 * [_Music FM本物_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p8.jpg)本物のMusic FMをiPhoneにダウンロードする方法](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [_Wi-Fiなし音楽_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p7.jpg) オフラインやWi-Fiなしで聴ける無料音楽アプリ2024年版！](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone曲 PCなし_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p5.jpg) 超簡単！パソコンを使わずにiPhoneに曲を入れる方法3つ！](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone写真_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p2.jpg) 勝手にiPhone写真が消えた！アイフォン写真消えた原因と復元方法](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [_Music FM iTunes_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p3.jpg) 本物Music FM iTunesにファイル共有できない原因及びその対策！](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [_iPhone認識_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p1.jpg) iTunes iPhone認識しない原因と対処法まとめ！MacとWindows](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone動画保存_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p6.jpg) iPhone動画ダウンロード・動画保存アプリおすすめ（無料＆有料）](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \>iFunbox使い方
-
-
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/f.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/tw.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/y.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/top.png)](https://www.macxdvd.com/apple-iphone-transfer/javascript:;)
-
-
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -330,11 +339,27 @@ Digiarty SoftwareがApple Inc.と開発または商業提携をしていませ�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/rafting-a-viral-path-best-hashtags-for-youtube-riches-for-2024/"><u>[New] Crafting a Viral Path Best Hashtags for YouTube Riches for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-5-must-have-mkv-tools-for-macos-for-2024/"><u>[Updated] 5 Must-Have MKV Tools for macOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/bridge-gap-twitter-video-and-chrome-compatibility-for-2024/"><u>Bridge Gap Twitter Video and Chrome Compatibility for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-hdr-unveiled-industry-insights/"><u>In 2024, Quantum HDR Unveiled Industry Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-simple-steps-modify-windows-speech-of-sea-creatures/"><u>In 2024, Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-shooting-with-a-green-screen/"><u>In 2024, The Complete Guide to Shooting with a Green Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>In 2024, Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rapid-fire-creation-of-google-collage-photos-for-2024/"><u>Rapid-Fire Creation of Google Collage Photos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplifying-video-preservation-with-3-key-practices/"><u>Simplifying Video Preservation with 3 Key Practices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom-for-2024/"><u>Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/unleashing-potential-through-cookiebot-a-game-changer-in-web-optimization-technologies/"><u>Unleashing Potential Through Cookiebot: A Game-Changer in Web Optimization Technologies</u></a></li>
+</ul></div>
+

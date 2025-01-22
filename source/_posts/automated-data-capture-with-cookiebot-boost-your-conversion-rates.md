@@ -1,7 +1,7 @@
 ---
 title: "Automated Data Capture with Cookiebot: Boost Your Conversion Rates"
-date: 2024-08-22T00:00:13.777Z
-updated: 2024-08-23T00:00:13.777Z
+date: 2025-01-19T22:50:36.572Z
+updated: 2025-01-21T17:10:49.739Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a292d3d2c56946946b1d875c1f.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 Following a webcast featuring guest speaker Bernhard Schaffrik of Forrester Research, ABBYY asked Forrester to share a bit more on the automation fabric and how process intelligence can support it. Which business processes/areas would benefit the most from insights yielded through process and task mining? There are no limitations! The more complex a process regarding the number of tasks and variations to complete, variety of human contributors, IT systems involved, and data types created and processed, the higher the benefits of mining the process! For practical reasons, the majority of process mining projects is limited to processes supported by one ERP system, which will only deliver small value adds. The true value of process mining will show only with increasing complexity of processes mined, which cross IT-system borders. Similarly, with task mining: Continuously mining the behavior of a lot of users, not just one or a few, will uncover precious insights for process improvement. What capabilities should organizations look for to differentiate the various process mining vendor offerings? The product’s time to value is an important differentiator: how fast can IT systems be connected that run a to-be-mined process? Is there a broad set of out-of-the-box connectors to all sorts of IT systems available, or do they have to be built? Once process data have been mined, are analytics generated, or do they have to be manually configured? Which skills are required to analyze process data? Another differentiator is the breadth of available tools to improve processes before implementing them; e.g., by comparing them with reference process models; process simulation allowing to run what-if scenarios; or conducting impact analyses of process changes. How can other technologies be unified with process optimization tools to enhance the stability of the automation fabric? The automation fabric represents the set of connected automation tools that support the automation of an organization’s operational processes. Therefore, transparent processes on an operational level are the centerpiece and starting point of any automation, and any automation fabric. Uncovering, visualizing, and improving processes before automating them is top priority. Process optimization tools such as process mining, task mining, process modeling, and process analytics are key enablers for process transparency, automation decisions, and continuous monitoring of an organization’s automation fabric—on an operational level. Q&A on Process Intelligence and the Automation Fabric Featuring Bernhard Schaffrik Principal Analyst ANALYST Q&A Q: Q: Q: A: A: A: 
 
 © ABBYY 2023\. ABBYY is a registered trademark or a trademark of ABBYY Development Inc. and/or its affiliates. This designation can also be logo, product, or company name (or part of any of the above) of ABBYY Development Inc. and/or its affiliates and may not be used without consent of their respective owners. All other product names and trademarks mentioned herein are the property of their respective owners.. #15306 WWW.ABBYY.COM What are the most common pitfalls of organizations seeking to optimize their processes, and how can they be avoided? 1\. Often, SMEs from the functions that a process is running through are not included in a process optimization project, and it is purely driven from an IT or a project management function. Involve those who run the processes day in and day out both in the project setup and process analysis to leverage their knowledge and provide tangible areas for process improvement. 2\. Processes are not considered end-to-end, but end at departmental boundaries; hence, the mined process data are not representative of the whole process, and improvement ideas might optimize individual parts of a process, but not the whole process. Therefore, cross-functional, end-to-end processes must be the scope of any process optimization project. 3\. There is no target state or vision for a process regarding improvement areas as processes are not in scope of organizational improvement, just functions. Process improvement can mean higher quality, lower cost, shorter cycle time, and ultimately better employee and customer experience. Process vision must be derived from organizational or company strategy. If not feasible, detected process weak points can be prioritized according to value add and worked through accordingly. 4\. Removing identified process weak points would require disruptive organizational and IT-system changes, which appear non-affordable or too major from a change point of view. However, in the long run, improving a process always pays off for employees and customers in contrast to sticking to inefficient or ineffective operations. What can organizations do to facilitate the natural upskilling of employees into citizen process experts? They should encourage everything that is deemed appropriate to democratize process improvement. It starts with providing short trainings about business process improvement basics, such as how to detect process weak points. These trainings can be provided through video tutorials, lunch-and-learn sessions, or similar formats. Employees should get access to process optimization tools to leverage them for mining, analyzing, and improving the process(es) they are working in. Therefore, process optimization tool trainings are essential, too. Ideally, training offerings are accompanied by in-depth support on process optimization methods and tools, provided by a COE or similar. ChatGPT and other natural-language based human- computer interfaces will enable more employees to make sense out of mined process data than in the past as data science skills will at least partially be provided by the AI. Q: Q: A: A: Access the full webinar, “The Four Drivers Reshaping the Future of Process Optimization” [here](https://tools.techidaily.com/abbyy/products/). 
-
-
 
 0/0
 
@@ -35,8 +33,6 @@ Following a webcast featuring guest speaker Bernhard Schaffrik of Forrester Rese
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -44,8 +40,30 @@ Following a webcast featuring guest speaker Bernhard Schaffrik of Forrester Rese
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-your-digital-identity-top-101-masterclass-in-personal-bios/"><u>[New] 2024 Approved Elevate Your Digital Identity Top 101 Masterclass in Personal Bios</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>[New] 2024 Approved How to Record Audio with Audacity on Mac?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-delving-deeply-into-obs-studios-capture-capabilities/"><u>[New] Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unresolved-problem-viewing-videos-on-sony-a6400/"><u>[New] Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-iconic-image-reimagining-tools-visualmorph-v2/"><u>[Updated] 2024 Approved Iconic Image Reimagining Tools VisualMorph V2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-manual-on-motion-detection-techniques/"><u>[Updated] The Essential Manual on Motion Detection Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-is-now-examining-hp-envy-27s-innovations/"><u>[Updated] The Future Is Now Examining HP Envy 27'S Innovations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-choice-webcams-boosting-podcast-quality/"><u>[Updated] Top Choice Webcams Boosting Podcast Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-the-essence-of-luts-for-professional-photography/"><u>[Updated] Understanding the Essence of LUTs for Professional Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unearthing-inshots-video-magic-for-editors/"><u>2024 Approved Unearthing InShot’s Video Magic for Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-the-magic-of-time-lapse-photography-on-samsung-gear/"><u>2024 Approved Unleash the Magic of Time-Lapse Photography on Samsung Gear</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-rx250-drivers-optimized-for-win7-8-and-10-systems/"><u>Get Your Logitech RX250 Drivers: Optimized for Win7, 8 and 10 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/leverage-latest-proven-wsl-2-methods-on-windows-systems/"><u>Leverage Latest: Proven WSL 2 Methods on Windows Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pure-summer-pleasures-our-top-10-holiday-flicks/"><u>Pure Summer Pleasures Our Top 10 Holiday Flicks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superb-cyber-shops-for-handcrafted-gift-enclosures-for-2024/"><u>Superb Cyber Shops for Handcrafted Gift Enclosures for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-revolutionary-samsung-galaxy-buds-pro-experience/"><u>The Revolutionary Samsung Galaxy Buds Pro Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-how-to-applying-captions-to-pictures-in-pcmac-environments-for-2024/"><u>The Ultimate How-To Applying Captions to Pictures in PC/Mac Environments for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/intrusions-check-out-our-list-of-top-7-android-apps/"><u>Zero Intrusions? Check Out Our List of Top 7 Android Apps</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

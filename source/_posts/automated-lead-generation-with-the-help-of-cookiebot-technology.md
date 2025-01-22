@@ -1,7 +1,7 @@
 ---
 title: Automated Lead Generation with the Help of Cookiebot Technology
-date: 2024-08-22T00:00:14.993Z
-updated: 2024-08-23T00:00:14.993Z
+date: 2025-01-15T23:45:27.043Z
+updated: 2025-01-21T19:50:58.660Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY réalise une croissance annuelle à 2 chiffres pour la 3ème année consécutive
 
 24 mars 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### La croissance du chiffre d’affaires d'ABBYY en 2019 est due à la conclusion de plusieurs partenariats dans le domaine du RPA, à l'élargissement de son portefeuille de clients et de solutions et au renforcement de sa présence internationale, notamment en Asie. L’intérêt croissant des entreprises pour l’intelligence digitale vient appuyer les bons résultats enregistrés.
 
@@ -67,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,8 +82,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-creating-worldly-videos-on-the-move-for-2024/"><u>[New] Creating Worldly Videos on the Move for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>[New] Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-filter-fiesta-the-ultimate-guide-to-transformative-snaps-for-2024/"><u>[Updated] Filter Fiesta The Ultimate Guide to Transformative Snaps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-inside-look-how-youtuber-shorts-work/"><u>[Updated] In 2024, Inside Look How Youtuber Shorts Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-solution-for-clownfish-vocal-alteration-on-pc-systems/"><u>[Updated] Swift Solution for Clownfish Vocal Alteration on PC Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>[Updated] Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-two-keys-to-intriguing-tiktok-videos/"><u>[Updated] Two Keys to Intriguing TikTok Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-most-innovative-and-easy-to-use-mobile-photo-layers-top-10/"><u>2024 Approved The Most Innovative & Easy-to-Use Mobile Photo Layers (Top 10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/brainy-battles-2024s-ultimate-trivia-channel-ranking/"><u>Brainy Battles 2024'S Ultimate Trivia Channel Ranking</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/bridging-devices-seamlessly-how-to-successfully-transfer-iphone-images-to-your-mac-without-file-errors/"><u>Bridging Devices Seamlessly: How to Successfully Transfer iPhone Images to Your Mac Without File Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-convert-and-edit-your-pages-files-seamlessly-in-windows-or-macos-environments/"><u>How To Convert & Edit Your .pages Files Seamlessly in Windows or macOS Environments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-path-to-polished-projects-utilizing-fades-effectively/"><u>In 2024, The Path to Polished Projects Utilizing Fades Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>In 2024, Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools/"><u>In 2024, Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-music-streams-network/"><u>In 2024, Ultimate Music Streams Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/straightforward-vs-enhanced-selecting-your-preferred-chatgpt-version/"><u>Straightforward vs Enhanced: Selecting Your Preferred ChatGPT Version</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-essential-free-photo-layering-tools-on-iosandroid-for-2024/"><u>Top 10 Essential Free Photo Layering Tools on iOS/Android for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

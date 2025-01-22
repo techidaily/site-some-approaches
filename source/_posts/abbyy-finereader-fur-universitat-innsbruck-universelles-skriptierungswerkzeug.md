@@ -1,7 +1,7 @@
 ---
 title: "ABBYY FineReader Für Universität Innsbruck: Universelles Skriptierungswerkzeug"
-date: 2024-08-21T23:59:24.856Z
-updated: 2024-08-22T23:59:24.856Z
+date: 2025-01-20T22:12:12.573Z
+updated: 2025-01-21T20:52:18.156Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9778babca71d8c322c58ebdc5b0f6b1ae6df8f808a7e29b4ee7032e1868f5ab0.jpg
@@ -18,6 +18,10 @@ Education/Research | PDF and Document Conversion | Digital Archiving
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/70355.png?h=40&iar=0&w=120)
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Universität Innsbruck: ABBYY FineReader als Universal-Tool
 
@@ -87,13 +91,25 @@ In Anbetracht der vielfältigen Einsatzmöglichkeiten der ABBYY FineReader Scrip
 
 [![2-finereader](https://static1.abbyy.com/abbyycommedia/14345/2-finereader.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FineReader](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![15-education](https://static1.abbyy.com/abbyycommedia/14365/15-education.jpg)](https://tools.techidaily.com/abbyy/products/) [Bildung und Forschung](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-texthelp-360x162](https://static2.abbyy.com/abbyycommedia/15361/cs-texthelp-360x162.jpg)](https://static3.abbyy.com/abbyycommedia/6138/cs-uni-innsbruck-fr-se7-d.pdf "PDF-Version") [PDF-Version](https://static3.abbyy.com/abbyycommedia/6138/cs-uni-innsbruck-fr-se7-d.pdf "PDF-Version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Zum Dokument](https://static3.abbyy.com/abbyycommedia/6138/cs-uni-innsbruck-fr-se7-d.pdf "PDF-Version") 
 
@@ -106,8 +122,9 @@ Teilen  True ?  : ""
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -120,8 +137,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +144,26 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-discovering-the-unmatched-quality-of-benq-sw320s-4k-screen/"><u>[New] 2024 Approved Discovering the Unmatched Quality of BenQ SW320's 4K Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-10-leading-resources-for-premium-vector-data/"><u>[New] In 2024, 10 Leading Resources for Premium Vector Data</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-picture-clarity-efficiently-eradicating-backgrounds/"><u>[New] Perfecting Picture Clarity Efficiently Eradicating Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-role-of-rhythm-and-pitch-in-trailer-tunes/"><u>[New] The Role of Rhythm and Pitch in Trailer Tunes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-vegas-pros-21-landmark-release-a-complete-analysis/"><u>[New] Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>[Updated] 2024 Approved How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-full-overview-of-installing-wm6/"><u>[Updated] Full Overview of Installing WM6</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-language-of-immersive-digital-worlds/"><u>[Updated] The Language of Immersive Digital Worlds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-locomotion-survey-2023/"><u>[Updated] Total Locomotion Survey 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-echo-of-past-interactions-unraveling-your-facebook-history/"><u>2024 Approved The Echo of Past Interactions Unraveling Your Facebook History</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-mobiles-transforming-dji-aerial-video-art/"><u>2024 Approved Top 20 Mobiles Transforming DJi Aerial Video Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-best-top-9-gamers-hubs/"><u>2024 Approved Unlock the Best Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-verbal-advance-responding-to-commands-with-confidence/"><u>AI's Verbal Advance: Responding to Commands with Confidence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-220-driver-download-and-update/"><u>CanoScan LiDE 220 Driver Download & Update</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-choose-the-best-lipo-battery-for-your-drone-for-2024/"><u>How to Choose the Best LiPo Battery for Your Drone for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-essential-apps-for-invisible-story-watching/"><u>In 2024, Essential Apps for Invisible Story Watching</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-become-a-top-notch-interviewer/"><u>In 2024, Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-sweet-slumber-scenes-video-critique/"><u>In 2024, Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-topline-numbers-pewdiepies-yearly-income/"><u>In 2024, Topline Numbers PewDiePie's Yearly Income</u></a></li>
+</ul></div>
 
