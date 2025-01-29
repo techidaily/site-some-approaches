@@ -1,7 +1,7 @@
 ---
 title: "[New] The Impact of LUTs on Professional Photography"
-date: 2024-08-17T14:44:35.562Z
-updated: 2024-08-18T14:44:35.562Z
+date: 2025-01-23T16:18:43.237Z
+updated: 2025-01-29T16:40:27.118Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -75,9 +79,9 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -86,8 +90,9 @@ The ultimate burning program for all your needs!</a>
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -105,8 +110,9 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -118,8 +124,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -148,4 +155,23 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-finest-frames-iphone-plus-android-edition/"><u>[New] Instagram's Finest Frames IPhone + Android Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-listing-the-top-10-places-to-snag-pristine-photos/"><u>[Updated] Exclusive Listing The Top 10 Places to Snag Pristine Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flippant-entry-and-exit-tips/"><u>2024 Approved Flippant Entry & Exit Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-improved-performance-with-gnome-46-new-desktop-features-and-speedy-file-handling/"><u>Experience Improved Performance with GNOME 46: New Desktop Features & Speedy File Handling!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/explore-the-new-horizon-of-performance-with-the-release-of-linux-kernel-68/"><u>Explore the New Horizon of Performance with the Release of Linux Kernel 6.8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-plasma-eo6-a-one-week-journey-through-its-features-and-functionalities/"><u>Exploring Plasma Eo6: A One-Week Journey Through Its Features and Functionalities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-the-benefits-of-not-using-ios-apps-for-my-mac-operating-system/"><u>Exploring the Benefits of Not Using iOS Apps for My Mac Operating System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/imminent-patch-in-windows-11-set-to-correct-major-issues-with-large-capacity-drives-using-fat32/"><u>Imminent Patch in Windows 11 Set to Correct Major Issues with Large Capacity Drives Using FAT32</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/initial-guide-to-zoom-room-segregation-for-2024/"><u>Initial Guide to Zoom Room Segregation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/introducing-video-editing-the-latest-upgrade-to-microsoft-copilot/"><u>Introducing Video Editing: The Latest Upgrade to Microsoft Copilot</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/is-it-possible-to-operate-linux-without-accessing-the-command-line-interface/"><u>Is It Possible To Operate Linux Without Accessing The Command Line Interface?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-resolving-in-game-sounds-in-new-world/"><u>Step-by-Step Tutorial: Resolving In-Game Sounds in New World</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ps5-dualsense-controller-chargers-of-2024/"><u>The Best PS5 DualSense Controller Chargers of 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-testimonial-toolkit-for-effective-promotion-for-2024/"><u>The Testimonial Toolkit for Effective Promotion for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/ultra-fast-access-between-separate-facebook-accounts/"><u>Ultra-Fast Access Between Separate Facebook Accounts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Creativity  Seamless Integration of Title & Caption Overlays on Video Clips via Microsoft Photos for 2024\""
-date: 2024-08-17T14:41:06.578Z
-updated: 2024-08-18T14:41:06.578Z
+date: 2025-01-22T16:12:45.647Z
+updated: 2025-01-29T16:12:08.717Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -47,9 +51,17 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -61,6 +73,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
@@ -75,24 +91,20 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +112,18 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/advanced-tactics-for-seamless-subtitles-on-vimeo-videos-for-2024/"><u>Advanced Tactics for Seamless Subtitles on Vimeo Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/current-top-trending-programming-languages-understanding-their-popularity-insights-from-zdnet/"><u>Current Top Trending Programming Languages: Understanding Their Popularity - Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-guide-to-converting-webm-files-to-mp4-on-pcs-with-windows-1110-and-mac-computers/"><u>Discover the Ultimate Guide to Converting WebM Files to MP4 on PCs with Windows 11/10 & Mac Computers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>How Can We Bypass Vivo X Fold 2 FRP?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/kiddos-best-gaming-delights-top-girls-adventures/"><u>Kiddo's Best Gaming Delights - Top Girls' Adventures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/overcoming-challenges-of-cloning-dvds-featuring-secure-digital-content-scrambler-arccos-bad-sectors/"><u>Overcoming Challenges of Cloning DVDs Featuring Secure Digital Content Scrambler (ARccOS) Bad Sectors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-activating-your-plex-tv-with-the-official-link-code/"><u>Step-by-Step Guide: Activating Your Plex TV with the Official Link Code</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supercharge-your-media-with-winxvideo-ai-effortless-video-and-photo-enhancement-conversion-recording/"><u>Supercharge Your Media with WinxVideo AI - Effortless Video & Photo Enhancement, Conversion, Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/technique-facile-pour-la-sauvegarde-de-dvds-vieux-ou-neufs-en-5-minutes-avec-qualite-irreprochable/"><u>Technique Facile Pour La Sauvegarde De DVDs Vieux Ou Neufs en 5 Minutes Avec Qualité Irréprochable</u></a></li>
+</ul></div>
+

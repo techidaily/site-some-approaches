@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Effective YouTube Comment Engagement"
-date: 2024-08-17T14:37:25.248Z
-updated: 2024-08-18T14:37:25.248Z
+date: 2025-01-25T16:50:38.287Z
+updated: 2025-01-29T16:36:06.504Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -44,9 +48,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -59,9 +60,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -80,30 +78,19 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -118,8 +105,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -139,8 +127,13 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -175,4 +168,24 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-zero-dollar-video-editing-pathway/"><u>[New] 2024 Approved Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-visualcapturew11-windows-11-simple-recording-app/"><u>[New] In 2024, VisualCaptureW11 Windows 11 Simple Recording App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-thrifty-pc-frame-buffer-tools/"><u>[Updated] In 2024, Thrifty PC Frame Buffer Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-day-2024-exclusive-deals-on-top-nvidia-powered-gaming-laptops-spotlight-from-zdnet/"><u>Amazon Prime Day 2024: Exclusive Deals on Top Nvidia-Powered Gaming Laptops - Spotlight From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-shrinking-storage-needs-for-hd-and-ultra-hd-cctv-recordings/"><u>Comprehensive Guide: Shrinking Storage Needs for HD and Ultra HD CCTV Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-software-esperti-di-soluzioni-ott-per-la-trasformazione-e-il-riparo-dei-supporti-dvdvideo/"><u>Digiarty Software - Esperti Di Soluzioni OTT per La Trasformazione E Il Riparo Dei Supporti DVD/Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-facil-de-instalar-libdvdcss-con-handbrake-para-la-copia-de-dvds-en-mac-y-windows-10/"><u>Guía Fácil De Instalar Libdvdcss Con Handbrake Para La Copia De DVDs en Mac Y Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-stuttering-in-warhammer-40000-boltgun-on-windows/"><u>How to Fix Stuttering in Warhammer 40,000: Boltgun on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-speed-up-video-on-instagram-for-2024/"><u>How to Speed Up Video on Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-selection-of-vr-cycling-options/"><u>In 2024, The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/is-it-possible-to-extract-video-content-from-secured-dvds-using-handbrake-on-mac-os-and-windows-pcs/"><u>Is It Possible to Extract Video Content From Secured DVDs Using Handbrake on MAC OS and WINDOWS PCs?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/official-site-rated-transferring-and-software/"><u>Official Site, Rated, Transferring, and Software.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-how-to-seamlessly-import-images-from-iphone-onto-pc-bypassing-itunes/"><u>The Ultimate Guide: How To Seamlessly Import Images From iPhone Onto PC Bypassing iTunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-contenuti-audiovisivi-con-winxvideo-ai-per-unesperienza-visiva-senza-pari/"><u>Trasforma I Tuoi Contenuti Audiovisivi Con Winxvideo AI per Un'esperienza Visiva Senza Pari</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-11-dvd-vrvro/"><u>Windows 11 DVD-VRフォーマットの再生方法：無料VROビデオ再生ツール</u></a></li>
+</ul></div>
 

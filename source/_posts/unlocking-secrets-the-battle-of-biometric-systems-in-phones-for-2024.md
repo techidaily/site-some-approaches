@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Secrets  The Battle of Biometric Systems in Phones for 2024\""
-date: 2024-08-17T14:42:48.697Z
-updated: 2024-08-18T14:42:48.697Z
+date: 2025-01-24T16:21:15.254Z
+updated: 2025-01-29T16:18:30.827Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -49,20 +53,16 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 3: The Common Inconvenience
 
  When it comes to practicality, we would state that both the phone don’t stand well for it. This is because if you use Apple’s latest invention i.e. iPhone X, you are required to first hold your device in your hand followed by looking at the screen. Then you need to swipe it up for unlocking the device.
@@ -74,11 +74,9 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -90,15 +88,13 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
@@ -106,15 +102,14 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +117,27 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>[New] 2024 Approved Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-videography-insights-on-youtube-studio-editor/"><u>[Updated] Elevate Your Videography Insights on YouTube Studio Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/aitop9/"><u>AI駆使した最強無料編集ツール！動画の高画質化・鮮明化TOP9</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clearing-iphone-water-alert-tips-to-fix-your-phones-charging-issue/"><u>Clearing iPhone Water Alert: Tips to Fix Your Phone's Charging Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-vos-films-mov-au-format-mp4-gratuitement-pour-mac-windows-1110-and-convertissage-web-facile/"><u>Convertissez Vos Films MOV Au Format MP4 Gratuitement Pour Mac, Windows 11/10 & Convertissage Web Facile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdfab-video-converter-dvds/"><u>DVDFab Video Converter - 专为 DVDS 和视频转换的优化软件</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a1x-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A1x 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-tips-for-using-luts-in-adobe-after-effects/"><u>In 2024, Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-amazons-latest-marvel-the-mighty-fire-max-11-tablet/"><u>Introducing Amazon's Latest Marvel - The Mighty Fire Max 11 Tablet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unhappy-with-final-cut-pro-x-try-one-of-these-10-alternatives/"><u>New Unhappy with Final Cut Pro X? Try One of These 10 Alternatives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-geforce-mx150-drivers-download-and-update-for-windows/"><u>Nvidia GeForce MX150 Drivers Download & Update For Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/passt-av1-videounterstutzung-zu-plex-anleitung-fur-benutzer/"><u>Passt AV1-Videounterstützung Zu Plex - Anleitung Für Benutzer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solve-popcorn-times-subtitle-problem-immediate-correction-steps-for-better-viewing-experience/"><u>Solve Popcorn Time's Subtitle Problem: Immediate Correction Steps for Better Viewing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-and-install-of-samsung-m2070fw-printing-software/"><u>Speedy Download & Install of Samsung M2070FW Printing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-winx-mediatrans-mastery-step-by-step-conversion-of-audio-video-and-images/"><u>Ultimate Guide: WinX MediaTrans Mastery – Step-by-Step Conversion of Audio, Video, and Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-18-leading-mkv-players-available-for-mac-osx-windows-11-and-mobile-devices-ios-and-android/"><u>Ultimate Selection: 18 Leading MKV Players Available for Mac OSX, Windows 11, and Mobile Devices (iOS & Android)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288717694-dvd/"><u>ステップバイステップ・ガイド:無料ソフトを使ってDVDコピー方法、エラー改善策の共有記事</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290523866-4k/"><u>ローカルで保存した4K動画再生に必要なツールと準備術</u></a></li>
+</ul></div>
+

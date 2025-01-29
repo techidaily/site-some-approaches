@@ -1,7 +1,7 @@
 ---
 title: "The Power of Precision in Slug Line Writing Techniques for 2024"
-date: 2024-08-17T14:37:37.912Z
-updated: 2024-08-18T14:37:37.912Z
+date: 2025-01-23T16:14:38.959Z
+updated: 2025-01-29T16:08:54.095Z
 tags: 
   - screen-recording
   - ai video
@@ -64,8 +64,9 @@ The determination of time is also a basic format. For example, DAY, NIGHT, etc. 
 INT. SITTING ROOM OF MY HOME - DAY
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Actual movie script as an examples
 
 **INT. ASSISTED LIVING FACILITY - DAY - 2000**
@@ -80,9 +81,6 @@ When I was young, I thought house painters painted houses.
 
 We glimpse some of the older men and women in the rooms, but like everyone else in their lives, disregard them and keep looking for someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Standard Scripts Formats
 
 ### **Font**
@@ -93,16 +91,14 @@ Courier12 is the primary font traditionally used for writing different script fo
 
 To specify certain information about the scene and how a particular scene transitions to another scene, we use Transitions. The experts describe transition as a functional element. The transition has many different categories. The following are different types of transition:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Cut To**
 
 The primary type of transition is to Cut, this is the most common procedure to join two shots, and it is the continuity of the scene within a similar time span.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Dissolve To**
 
 Dissolve to transition type is also known as lap dissolve, a post-production method usually used in film and video creation. One sequence of shots in the movie fades over the other in this type of transition.
@@ -110,6 +106,10 @@ Dissolve to transition type is also known as lap dissolve, a post-production met
 ### **Fade In**
 
 In Fade in transition, the shot gradually becomes visible from hidden. This an also a most commonly used type of transition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fade Out**
 
@@ -127,12 +127,13 @@ Character Cue is the additional information about the character in a particular 
 
 Dialogue cannot exist without a character, as dialogue is the expression of a character's point of view, and the character is relating the relationship between dialogue and the character. It is a vital tool to develop the character beautifully and provides rhythm to the plot with a tone.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Parenthetical**
 
 We use Parenthetical in a screenplay by placing the brackets. It can be used directly under the name of the specific character before speaking the indicating sentences and to make an alert voice for the scene.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Make your script come true using Filmora
 
@@ -149,8 +150,9 @@ It's common to describe a video as having a cinematic sense and aesthetic, which
 ![color correction](https://images.wondershare.com/filmora/article-images/2022/07/what-is-slug-line-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **[Preset Templates](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 Using some templates will greatly increase your productivity if you're trying to create a short film with a more conventional subject matter. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has template designs for a range of subjects, including Game, YouTube, Camping and Sport. Simply drag the chosen template into your timeline and edit the text to fit the theme. In this method, a video with a lot of details can be produced rapidly! Additionally, you can make your own templates to share to others who are more creative.
@@ -158,17 +160,15 @@ Using some templates will greatly increase your productivity if you're trying to
 ![preset templates](https://images.wondershare.com/filmora/article-images/2022/07/what-is-slug-line-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The Slug Line is a great method and an important element to use to enhance your script. It helps to determine the precise actions, adjustments, and changes in backgrounds, scenes, and transitions that are required. I hope you don't have any questions about slug lines or how to use them after reading this post. Moreover, you can turn your script into a fantastic video using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Gratitude for reading.
 
 Part 1\. Everything you need to know about slug line
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is Slug Line?
 
 A Slug Line is a screenplay written in all uppercase letters to make the script information prominent. It is a term used in old times when there were no advanced technology and printers were typed by small sticks called typewriters. It helps the viewer to understand the actions of the specific character.
@@ -202,9 +202,6 @@ The determination of time is also a basic format. For example, DAY, NIGHT, etc. 
 
 INT. SITTING ROOM OF MY HOME - DAY
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Actual movie script as an examples
 
 **INT. ASSISTED LIVING FACILITY - DAY - 2000**
@@ -219,25 +216,24 @@ When I was young, I thought house painters painted houses.
 
 We glimpse some of the older men and women in the rooms, but like everyone else in their lives, disregard them and keep looking for someone else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Standard Scripts Formats
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Font**
 
 Courier12 is the primary font traditionally used for writing different script formats. It is considered an ancient font and has been in use for many centuries, and still, many scriptwriters use this font for writing their scripts.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Transition**
 
 To specify certain information about the scene and how a particular scene transitions to another scene, we use Transitions. The experts describe transition as a functional element. The transition has many different categories. The following are different types of transition:
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Cut To**
 
 The primary type of transition is to Cut, this is the most common procedure to join two shots, and it is the continuity of the scene within a similar time span.
@@ -250,24 +246,26 @@ Dissolve to transition type is also known as lap dissolve, a post-production met
 
 In Fade in transition, the shot gradually becomes visible from hidden. This an also a most commonly used type of transition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fade Out**
 
 In this term, the opacity of the shot gradually changes from visible to hidden. Fade out is used for more prolonged effects in the making of videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Action/Scene Directions**
 
 Action/Scene Directions are the central part of the script that a writer uses to describe the particular character's action and its setting in the scene. In simple words, it consists of the scene's plot and its action.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### **Character Cue**
 
 Character Cue is the additional information about the character in a particular scene. Like you can use it to describe the feelings of your character.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### **Dialogue**
 
 Dialogue cannot exist without a character, as dialogue is the expression of a character's point of view, and the character is relating the relationship between dialogue and the character. It is a vital tool to develop the character beautifully and provides rhythm to the plot with a tone.
@@ -284,42 +282,18 @@ If your movie script is completely finished and you have shot the various parts 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **[Color Correction](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 It's common to describe a video as having a cinematic sense and aesthetic, which is mostly based on the overall color tone of the video. However, expert-level custom color matching demands not only your expertise but also your own color sensitivity, therefore it is not recommended for all beginners. With the help of a range of in-app preset LUTs, you can simply alter the color of your films and give them a more cinematic feel using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ![color correction](https://images.wondershare.com/filmora/article-images/2022/07/what-is-slug-line-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **[Preset Templates](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 Using some templates will greatly increase your productivity if you're trying to create a short film with a more conventional subject matter. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has template designs for a range of subjects, including Game, YouTube, Camping and Sport. Simply drag the chosen template into your timeline and edit the text to fit the theme. In this method, a video with a lot of details can be produced rapidly! Additionally, you can make your own templates to share to others who are more creative.
 
 ![preset templates](https://images.wondershare.com/filmora/article-images/2022/07/what-is-slug-line-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 The Slug Line is a great method and an important element to use to enhance your script. It helps to determine the precise actions, adjustments, and changes in backgrounds, scenes, and transitions that are required. I hope you don't have any questions about slug lines or how to use them after reading this post. Moreover, you can turn your script into a fantastic video using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Gratitude for reading.
@@ -346,4 +320,22 @@ The Slug Line is a great method and an important element to use to enhance your 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-history-in-action-top-7-engaging-civilization-wars/"><u>[New] History in Action Top 7 Engaging Civilization Wars</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-shuttered-by-darkness-iphone-tips-and-tricks/"><u>[Updated] In 2024, Shuttered by Darkness IPhone Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4and/"><u>「MP4映像軽量化完全ガイド：フリーソフトウェア&オンライン・ツールを使った効果的な方法」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024dvdpc/"><u>【2024年】DVD/PC/スマホへの最優秀コピーテクニック集：保存を確実に！</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-boost-photographic-vision-get-free-and-paid-lut-upgrades/"><u>2024 Approved Boost Photographic Vision - Get FREE & Paid LUT Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725283942985-winxvideo-ai/"><u>高解像度に変換する - Winxvideo AIが革新したフォト/グラフィックの明瞭化手法:セカンドパーツ分析</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-8-multimedia-online-player-apps-compatible-with-windows-10-mac-os-android-and-ios-devices/"><u>Best 8 Multimedia Online Player Apps Compatible with Windows 10, Mac OS, Android & iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-conversion-from-h265hevc-to-h264-on-windows-10-and-macos/"><u>Free Conversion From H.265/HEVC to H.264 On Windows 10 & macOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-find-x6-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Find X6 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-more-watchers-simple-youtube-growth-hacks/"><u>In 2024, Unlock More Watchers Simple YouTube Growth Hacks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/javplayerwindows/"><u>JavPlayerのWindowsインストール・ダウンロードガイド: 上級者向けモザイク処理テクニックを学ぶ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-predicts-laptop-evolution-emphasizing-enhanced-ai-capabilities-and-advanced-security-measures/"><u>Lenovo Predicts Laptop Evolution: Emphasizing Enhanced AI Capabilities & Advanced Security Measures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-the-puzzle-fixing-issues-with-adding-songs-to-timelines-and-media-pool-in-davinci-resolve/"><u>Solving the Puzzle: Fixing Issues with Adding Songs to Timelines and Media Pool in DaVinci Resolve</u></a></li>
+</ul></div>
 

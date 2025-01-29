@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Video Edits  Easy Techniques on Your Windows PC for 2024\""
-date: 2024-08-17T14:37:45.903Z
-updated: 2024-08-18T14:37:45.903Z
+date: 2025-01-27T16:17:49.834Z
+updated: 2025-01-29T16:43:21.581Z
 tags: 
   - screen-recording
   - ai video
@@ -45,11 +45,19 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
 
@@ -63,6 +71,10 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
@@ -70,8 +82,9 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -79,20 +92,16 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +109,21 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-astonishing-assessment-and-alternative-choices/"><u>[New] Astonishing Assessment & Alternative Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-methods-recording-minecraft-games-on-apple-devices/"><u>[Updated] Essential Methods Recording Minecraft Games on Apple Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-surging-through-the-noise-supercharging-telegram-campaigns/"><u>[Updated] Surging Through the Noise Supercharging Telegram Campaigns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-dvddvdmp4h264hevcitunes/"><u>免錢Mac DVD換版工具：讓你無限翻動任意DVD成MP4、H.264/HEVC，iTunes相容影片</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ai-frame-interpolation-miglioramento-dei-fotogrammi-al-secondo-fps-e-transizioni-senza-soluzione-di-continuita/"><u>AI Frame Interpolation: Miglioramento Dei Fotogrammi Al Secondo (FPS) E Transizioni Senza Soluzione Di Continuità</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-software-inc-winxdvd-and-corporate-profile-company-information/"><u>Digiarty Software, Inc.: WinXDVD and Corporate Profile | Company Information</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-add-audio-fade-in-effect/"><u>How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-impressive-image-sequence-on-instagram/"><u>In 2024, Impressive Image Sequence on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kopien-von-geschutzter-dvds-machen-entdecken-sie-7-effektive-techniken/"><u>Kopien Von Geschützter DVDs Machen: Entdecken Sie 7 Effektive Techniken</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209669429-9781927360101-moving-beyond-the-christian-myth-the-next-step-in-our-spiritual-evolution/"><u>Moving Beyond the Christian Myth: The Next Step in Our Spiritual Evolution | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-steps-effortless-transfer-of-blu-ray-disc-content-to-your-pc/"><u>Simple Steps: Effortless Transfer of Blu-Ray Disc Content to Your PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-steps-when-onlinevideoconvertercom-fails-to-function-correctly/"><u>Troubleshooting Steps When OnlineVideoConverter.com Fails to Function Correctly</u></a></li>
+</ul></div>
+
