@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tranquil Tracks  Easy Volume Diminution via Garageband\""
-date: 2024-08-10T14:53:06.007Z
-updated: 2024-08-11T14:53:06.007Z
+date: 2025-02-18T19:33:45.893Z
+updated: 2025-02-19T21:42:41.296Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In the music production industry, an element that is often used in a song is fad
 
 In the article, we will educate you on various topics related to GarageBand; if you are new in the field of music production, then this article will benefit you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Fade Audio with Garageband on Mac?
 
 We all know that Garageband is a program that allows its users to produce music and podcasts on iOS, macO, and ipadOS devices. It has many in-built audio effects that can enhance your music. Fade-out and fade-in are two of the most used products in Garageband. Many beginners face trouble on **how to fade out in Garageband** as it is not a popular feature that everyone practices.
@@ -32,10 +36,11 @@ This platform allows an individual to include an automatic fade-out effect on th
 
 Step1 Turn on the application and open the song from the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
 
@@ -43,10 +48,11 @@ Step3 Choose the mix> produce volume fade out on the main output option.
 
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
@@ -62,9 +68,6 @@ Step2 Go to the setting option at the top right corner and open the song set.
 
 Step3 Scroll down to the fade-out option and turn it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![fade audio garageband iphone](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-garageband-iphone.jpg)
 
 Step4 Hit the done icon.
@@ -72,17 +75,9 @@ Step4 Hit the done icon.
 The fade-out option doesn't offer you much set of control. It usually works as a master track and includes the fade-out effect over all the track channels. You won't be able to edit the fade-out; in simple words, it will automatically select a point where the feature will start working, and it will also control the speed and intensity of the volume drop. It is one of the best features for fading short tracks as it won't lose much audio.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3\. Garageband Alternative to Fade Audio on Mac
 
 One of the worst jobs is searching for an excellent MP3 editor, as most offer paid services. It can save time searching for a suitable alternative to Garageband to fade out audio. According to a survey, people usually interact with the MP3 editor that offers an excellent interface. Moreover, one of the essential requirements is multi-track editing, and you can't use multiple tabs for editing complex tracks. Apart from **fade-in on Garageband**, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best alternatives.
@@ -93,9 +88,6 @@ Suppose you are searching for a great MP3 editor that offers various file format
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
@@ -112,10 +104,11 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Save the video
 
@@ -126,7 +119,6 @@ Choose the create option to save the new file if you are done with the adjusting
 ## Conclusion
 
 According to the survey, one of the most searched topics is **how to fade music in Garageband**. If you are also facing the same issue, this article will offer you a simple guide on the topic related to fade-in and fade-out features. You can also browse the internet to search for other benefits, and you can explore the application to learn more about its uses.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,8 +142,18 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-video-editing-in-obs-with-luts/"><u>[New] Streamlining Video Editing in OBS With LUTs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-step-by-step-pathway-to-youtube-mastery/"><u>[New] The Step-by-Step Pathway to YouTube Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-streamlining-processes-adding-tracks-to-your-custom-youtube-collection/"><u>[Updated] 2024 Approved Streamlining Processes Adding Tracks to Your Custom YouTube Collection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-experts-companion-navigating-the-nuances-of-mobizen-screen-recording-for-2024/"><u>[Updated] Expert's Companion Navigating the Nuances of Mobizen Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>[Updated] Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taxonomy-of-diverse-camera-systems-for-videos/"><u>[Updated] Taxonomy of Diverse Camera Systems for Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>[Updated] Top Shots and Their Tales The Most Shared Stock Memes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-civilization-vis-launch-failures-on-the-latest-windows-operating-system/"><u>Resolving Civilization VI's Launch Failures on the Latest Windows Operating System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-podcast-storytelling-writing-tips-and-example-guides-for-2024/"><u>The Art of Podcast Storytelling Writing Tips & Example Guides for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-hot-40-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix Hot 40</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-visual-data-vaults-for-2024/"><u>Top-Tier Visual Data Vaults for 2024</u></a></li>
+</ul></div>
 

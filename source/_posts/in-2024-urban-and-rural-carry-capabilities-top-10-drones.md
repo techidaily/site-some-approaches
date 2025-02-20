@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Urban and Rural Carry Capabilities  Top 10 Drones\""
-date: 2024-08-03T09:53:06.308Z
-updated: 2024-08-04T09:53:06.308Z
+date: 2025-02-14T16:16:02.820Z
+updated: 2025-02-19T23:41:25.412Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ There is no doubt that people are using drones for art (photography and film mak
 
 With this rising need of consumers needing more than just a [flying camera](https://tools.techidaily.com/wondershare/filmora/download/) at their disposal, the market for heavy lift drones is starting to reveal itself as a well-served market. This means you will need to know what you are looking for, as there will be many options laid out before you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 10 Heavy lift drones
 
 Here are the best heavy lifting drones available in 2020, broken into over-10 kg and under-10 kg payloads.
@@ -51,16 +55,18 @@ Here are the best heavy lifting drones available in 2020, broken into over-10 kg
 | [ONYXSTAR HYDRA-12](#hydra12)                  | 12kg                                    | 30min       |       |
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Heavy lifting Drones: Under-10kg payload
 
 #### 1\. Tarot T-18 Ready To Fly Drone
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tarot t-18 ready to fly drone](https://images.wondershare.com/filmora/article-images/tarot-t-18-ready-to-fly-drone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Tarot T-18 Ready To Fly Drone might just be the ideal drone for those (professional or amateur) who are looking to take outstanding, aerial photography with a decent sized DSLR, thanks to its capability of carrying up to an 8 kg payload. Thanks to the Tarot T-18's octocopter design, a heavy DSLR (or any other payload) will not cause stability or power issues that can come from single-, or even double-rotor drones. With a 20 min. flight time, the Tarot T-18 can be the perfect tool to add to any aerial photographers tool chest.
 
@@ -96,14 +102,19 @@ With the capability of taking off with a payload of about 6 kg, the DJI Matrice 
 
 The DJI's Matrice 100 combines the benefits of an easy-to-fly quadocpter with the ability to deliver a relatively good sized payload of around 3.6 kg. The X-configuration of the drone provides the perfect support for the on-board 4K camera, as well as space to add a supported third-party camera (like a GoPro.) With a flight time of around 50 min., the DJI's Matrice 100 is the perfect tool for anyone who needs a drone that can handle slightly heavier lifts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Heavy lifting Drones: Over-10kg payload
 
 #### 1\. Vulcan UAV Airlift
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![vulcan uav airlift](https://images.wondershare.com/filmora/article-images/vulcan-uav-airlift.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Airlift series is one of Vulcan's heaviest lifting drones to date. With the ability to lift and move a payload of about 30 kg, this drone has a tough, and durable frame that allows it to display such extraordinary strength and grace. Its central core is made of transparent tubes which allow users to easily check in on the power systems, while also making sure that all vitals are protected, which makes the Vulcan UAV Airlift the ideal machine for working in rugged environments.
 
@@ -115,9 +126,6 @@ As the need for drones that can do some seriously heavy lifting has increased, t
 
 #### 3\. Vulcan UAV Raven
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![vulcan uav raven](https://images.wondershare.com/filmora/article-images/vulcan-uav-raven.jpg)
 
 The Vulcan UAV Raven is an absolute workhorse of a multicopter. Purpose-designed to be able to handle the toughest of jobs, this drone is capable of carrying a payload of up to 20 kg thanks to its high-grade carbon fibre and aluminium frame. This tough design is also one of the most safe drones on the market, as the Vulcan UAV Raven is built to be able to survive within the tough, and demanding worlds of both commercial and personal usage.
@@ -132,16 +140,10 @@ Building off of an already sturdy line of drones, the Freefly ALTA 8 is the perf
 
 #### 5\. ONYXSTAR HYDRA-12
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![onyxstar hydra-12](https://images.wondershare.com/filmora/article-images/onyxstar-hydra-12.jpg)
 
 The HYDRA-12 was purpose-designed to be able to help you handle heavy payloads with absolute ease. Thanks to its 12 motors, this drone is capable of carrying a payload of up to 12 kg effectively and smoothly. Thanks to the HYDRA-12's ability to carry heavy payloads the possibilities for this drone are nearly endless. What is impossible for many drones on the market, the HYDRA-12 will do with great ease. And with a 30 min. flight time, you will have a lot of time in the air to get your job done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -152,11 +154,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/onetization-milestone-the-500-subscriber-trick/"><u>[New] Monetization Milestone The 500-Subscriber Trick</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-and-optimize-google-for-podcasters/"><u>[New] Streamline & Optimize Google for Podcasters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>[New] Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-enrich-projects-with-melodies-in-adobe-premiere-pro/"><u>[Updated] In 2024, Enrich Projects With Melodies In Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps/"><u>2024 Approved Get Ready to Save Space with These 38 Exceptional Android Compressor Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>2024 Approved Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-smart-explorers-choice-premium-vr-gear-ranked/"><u>2024 Approved The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-z370p-d3-motherboard-drivers-secure-and-fast-download-options/"><u>Essential Z370P D3 Motherboard Drivers – Secure & Fast Download Options</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-smart-8-plus-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Smart 8 Plus Is Unlocked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-easy-story-making/"><u>In 2024, The Art of Easy Story Making</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-monitoring-youtube-discussions/"><u>In 2024, The Art of Monitoring YouTube Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-premier-sound-storylines/"><u>In 2024, Top Premier Sound Storylines</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-newest-tech-trends-in-depth-analysis-by-toms-computing-experts/"><u>Navigate Through Newest Tech Trends: In-Depth Analysis by Tom's Computing Experts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-meme-titans-reddit-and-twitters-biggest-sensations/"><u>The Meme Titans Reddit & Twitter's Biggest Sensations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types-for-2024/"><u>Unique Content Creation The Ultimate Guide to 6 Video Types for 2024</u></a></li>
+</ul></div>
+

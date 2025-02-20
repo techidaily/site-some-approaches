@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 11 Insider Secrets for Windows 11 Mastery"
-date: 2024-08-10T14:47:50.586Z
-updated: 2024-08-11T14:47:50.586Z
+date: 2025-02-16T23:28:13.679Z
+updated: 2025-02-19T21:14:52.966Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ In 2015, Microsoft announced that Windows 10 would be the last version number fo
 
 After years of small updates, the biggest and most popular operating system in the world finally has some great news for you. At last, Windows fans have something they should get excited about. The following section of this article will share Windows 11 tips and tricks with you that are hidden and secret.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Turn off the Notifications
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
@@ -35,17 +39,15 @@ With the increased number of notifications in Windows 11, you might get annoyed.
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Minimize Applications
 
 Minimizing Applications allows you to minimize the extra tabs as a whole rather than doing it individually. You have to hold the tab that you are using by left-clicking and shaking it. It will minimize all extra tabs. The same process can be done to restore the minimized windows.
 
 This feature can be activated through Windows Settings and then by clicking on ‘Multi-Tasking.' Switch on the toggle switch next to ‘Title Bar Window Shake,' and it is ready to use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
 ### 3\. Shortcut Keys
@@ -54,34 +56,21 @@ Windows 11 has many shortcut keys that will save your time on a busy day. These 
 
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Taskbar and Start Menu Placements
 
 The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu. Windows 11 has a taskbar and start menu in the center. The relocation of the taskbar and the start menu can be done easily. By changing the placement, you can make Windows 11 look like Windows 10 if you prefer it that way. For that, open the ‘Taskbar Behavior’ and click on ‘Taskbar Alignment’ and relocate it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Remove Unwanted Ads on Apps
 
 The updated technology allows you to have better control over the privacy of your data and device from personalized ads. For this, go to the ‘Settings’ panel and then move over to the 'Privacy and Security’ section. From the right panel, hit the ‘General’ settings. Now you can select whether you want the apps or websites to show ads based on your interests.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Voice Typing Feature
 
@@ -89,31 +78,32 @@ The coolest thing about Windows 11 that most people don’t know is the ‘Voice
 
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Widgets and Chat Customization
 
 Using Widgets and Chats helps the user have a quick chat with people that they love the most. Widget and Chats are the two new features introduced in Windows 11.
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. Change your Geolocation
 
 Every app we install has our location, but with Windows 11, we can change our default location. For this fun tip, press 'Win + I' to open the 'Settings.' Then head over to the ‘Privacy & Security’ section. Now, scroll down and look for the 'Location' tab.
@@ -123,8 +113,9 @@ For changing your default location, hit the ‘Set Default’ button on the righ
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 10\. Bring Folders on Start
 
 Windows 11 tips and tricks also include bringing back the folders on the start menu. Windows 11 have a built-in setting that shows the folders next to the power button on the Start Menu. You can also personalize things.
@@ -151,14 +142,19 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,8 +178,21 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-tamil-ringtone-downloads-essential-websites-and-tricks/"><u>[New] Top Tamil Ringtone Downloads Essential Websites and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-review-of-lg-bp350-for-home-theaters/"><u>[New] Ultimate Review of LG BP350 for Home Theaters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-control-the-hidden-tips-and-tricks-for-power-users-of-window-11/"><u>2024 Approved Taking Control The Hidden Tips and Tricks for Power Users of WINDOW 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-freebie-animation-tools/"><u>2024 Approved The Ultimate Guide to Freebie Animation Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/detailed-screencasting-techniques-systematic-approach/"><u>Detailed Screencasting Techniques Systematic Approach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-components-with-toms-hardware-a-detailed-insight/"><u>Discovering Components with Tom’s Hardware - A Detailed Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/effective-use-of-snap-camera-for-team-collaboration-for-2024/"><u>Effective Use of Snap Camera for Team Collaboration for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-enhance-projects-no-cost-templates-for-pp-prodigies/"><u>In 2024, Enhance Projects No-Cost Templates for PP Prodigies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-magic-6-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor Magic 6 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-aurora-hdr-experience-is-it-transformative-in-2024/"><u>The Aurora HDR Experience Is It Transformative, In 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209897786-9781472571694-yoga-meditation-and-mysticism/"><u>Yoga, Meditation, and Mysticism | Free Book</u></a></li>
+</ul></div>
 

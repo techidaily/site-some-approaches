@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Filmmaker's Guide to Capturing Clear Sea Footage"
-date: 2024-08-10T14:49:08.992Z
-updated: 2024-08-11T14:49:08.992Z
+date: 2025-02-17T17:29:08.704Z
+updated: 2025-02-19T16:40:33.738Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Get closer
 
  You need to get as close to your subject as you possibly can. It may take several attempts to get it right, especially if you’ve just about got the shot you want but your subject inevitably floats or swims away.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -58,10 +66,11 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Stay steady
 
@@ -71,22 +80,20 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 5\. Be careful of other divers
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 #### 7\. Shoot the best colour
@@ -109,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -146,10 +150,11 @@ Follow @Ollie Mattison
 
  This will also make your images clearer and more colourful.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Lighting is important
 
@@ -159,9 +164,6 @@ Follow @Ollie Mattison
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -170,29 +172,31 @@ Follow @Ollie Mattison
 
  To add greater stability to your camera, hold it as close to yourself as is realistically possible. Alternatively, consider using a tripod if you can. Keep your camera on your subject for as long as you need to, and try to wait for ten seconds without re-adjusting your camera at all.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Be careful of other divers
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7\. Shoot the best colour
 
@@ -200,14 +204,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 ## Edit your footage
@@ -229,7 +225,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -253,8 +248,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-ae-titles-for-striking-visual-impact/"><u>[New] Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-everyday-alerts-into-signature-sounds-with-android-tips/"><u>[New] Transform Everyday Alerts Into Signature Sounds with Android Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-tips-to-take-your-lunapic-skills-up/"><u>[New] Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-premium-sound-collection-no-cost-top-luts-listed-here/"><u>[Updated] Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-insights-bridging-obs-and-facebook-live-streaming/"><u>2024 Approved Expert Insights Bridging OBS and Facebook Live Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-of-apple-music-in-videos/"><u>2024 Approved Unveiling the Secrets of Apple Music in Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-wonders-of-phantoms-chrono-inversion/"><u>2024 Approved Unveiling the Wonders of Phantom’s Chrono Inversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-itel-p40-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Itel P40</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-connecting-a-logitech-wifi-mouse-to-a-new-transmitter-device/"><u>Easy Instructions for Connecting a Logitech WiFi Mouse to a New Transmitter Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fps-game-quest-discovering-7-ultimate-titles/"><u>FPS Game Quest – Discovering 7 Ultimate Titles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/huggingchat-simplified-no-license-required-community-powered-counterpart/"><u>HuggingChat Simplified: No License Required, Community-Powered Counterpart</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>In 2024, The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
+<li><a href="https://windows11.techidaily.com/localize-onedrive-a-step-by-step-windows-approach/"><u>Localize OneDrive: A Step-by-Step Windows Approach</u></a></li>
+<li><a href="https://fox-links.techidaily.com/spotlight-on-5-captivating-book-viddies-for-2024/"><u>Spotlight on 5 Captivating Book Viddies for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/strategies-for-discerning-professional-film-making-talents/"><u>Strategies for Discerning Professional Film Making Talents</u></a></li>
+</ul></div>
 

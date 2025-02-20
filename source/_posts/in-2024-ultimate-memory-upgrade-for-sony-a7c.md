@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Memory Upgrade for Sony A7C"
-date: 2024-08-10T14:46:08.101Z
-updated: 2024-08-11T14:46:08.101Z
+date: 2025-02-18T21:05:44.218Z
+updated: 2025-02-19T17:30:00.096Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 # Best Memory Card for Sony A7S II
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -74,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -114,18 +113,17 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -134,5 +132,19 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-firefoxs-leading-screen-snapshot-apps/"><u>[New] Firefox's Leading Screen Snapshot Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-canva-blueprint-to-neat-and-clean-image-edges/"><u>[Updated] The Canva Blueprint to Neat and Clean Image Edges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-latest-forgotten-free-speech-transcription-tools-for-macos/"><u>[Updated] Top 30 Latest, Forgotten Free Speech Transcription Tools for macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-analysis-and-how-to-the-ultimate-picsart-experience/"><u>2024 Approved Full Analysis and How-To The Ultimate PicsArt Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-size-showdown-the-ultrawide-vs-uhd-4k-dilemma/"><u>2024 Approved Screen Size Showdown The UltraWide Vs UHD 4K Dilemma</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/beginners-blueprint-to-effective-use-of-aiseesoft-recorder/"><u>Beginner's Blueprint to Effective Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-digital-core-with-toms-computer-components-guides/"><u>Discovering the Digital Core with Tom’s Computer Components Guides</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Explore the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lifetime-of-photos-in-the-cloud-free-space-haven-and-charged-sanctuaries-await-for-2024/"><u>Lifetime of Photos in the Cloud Free Space Haven & Charged Sanctuaries Await for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/optimale-schutzstrategien-besten-programmen-zum-sicherungsdatentragervolumen-aktivieren/"><u>Optimale Schutzstrategien: Besten Programmen Zum Sicherungsdatenträgervolumen Aktivieren</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-sierras-icloud-drives-for-all-access-for-2024/"><u>Unlocking Sierra's iCloud Drives for All-Access for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-gt-neo-5-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme GT Neo 5? Here is How | Dr.fone</u></a></li>
+</ul></div>
 
